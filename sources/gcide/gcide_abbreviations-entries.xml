@@ -1,0 +1,1720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="gcide.rnc" type="compact"?>
+<entries letter="">
+<!-- added reference to "gcide.ent" 
+     by Guy Lapalme (lapalme@iro.umontreal.ca)
+     Université de Montréal - Université de Marseille
+     October 2009 
+-->
+
+<!--
+This file is gcide_abbreviations.xml (part of GCIDE_XML).
+It is derived from the file abbrev.lst (part of GCIDE), which is a
+transcription of the "List of Abbreviations" section (pp. lxix - lxx) of
+         Webster's Revised Unabridged Dictionary
+                 Version published 1913
+               by the  C. & G. Merriam Co.
+                   Springfield, Mass.
+                 Under the direction of
+                Noah Porter, D. D., LL. D.
+
+This file is published under the terms of the GNU General Public Licence.
+See the file gpl.txt or <http://www.gnu.org/copyleft/gpl.txt>.
+-->
+<div0 name="abbreviations">
+      <h1>List of the Abbreviations</h1>
+      <h2>Used in this Work</h2>
+      <ab.entry>
+         <ab>a., adj.</ab>
+         <ab.full>adjective</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>abbrev.</ab>
+         <ab.full>abbreviated</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>abl.</ab>
+         <ab.full>ablative</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Abp.</ab>
+         <ab.full>Archbishop</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>acc.</ab>
+         <ab.full>accusative</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Acous.</ab>
+         <ab.full>Acoustics</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>act.</ab>
+         <ab.full>active</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>adv.</ab>
+         <ab.full>adverb</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Agric.</ab>
+         <ab.full>Agriculture</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Alban.</ab>
+         <ab.full>Albanian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Alg.</ab>
+         <ab.full>Algebra</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Am., Amer.</ab>
+         <ab.full>America, American</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Am.</ab>
+         <ab.full>Amos</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Am. Cyc.</ab>
+         <ab.full>Appleton's American Cyclopedia</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Anal. Geom.</ab>
+         <ab.full>Analytical Geometry</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Anat.</ab>
+         <ab.full>Anatomy</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Anc.</ab>
+         <ab.full>Ancient, anciently</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Angl. Ch.</ab>
+         <ab.full>Anglican Church</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Antiq.</ab>
+         <ab.full>Aniquities</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>aor.</ab>
+         <ab.full>aorist</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Ar.</ab>
+         <ab.full>Arabic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Arch.</ab>
+         <ab.full>Architecture</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Arch. Pub. Soc.</ab>
+         <ab.full>Architectural Pub. Society</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Arith.</ab>
+         <ab.full>Arithmetic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Arm., Armor.</ab>
+         <ab.full>Armorican</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>AS.</ab>
+         <ab.full>Anglo-Saxon</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Astrol.</ab>
+         <ab.full>Astrology</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Astron.</ab>
+         <ab.full>Astronomy</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>aug.</ab>
+         <ab.full>augmentative</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Bank.</ab>
+         <ab.full>Banking</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Beau. &amp; Fl.</ab>
+         <ab.full>Beaumont &amp; Fletcher</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>B. &amp; Fl.</ab>
+         <ab.full>Beaumont &amp; Fletcher</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Bib.</ab>
+         <ab.full>Biblical</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Bib. Sacra</ab>
+         <ab.full>Bibliotheca Sacra</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Bibliog.</ab>
+         <ab.full>Bibliography</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Biol.</ab>
+         <ab.full>Biology</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Bisc.</ab>
+         <ab.full>Biscayan</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>B. Jon.</ab>
+         <ab.full>Ben Jonson</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Bk. of Com. Prayer</ab>
+         <ab.full>Book of Common Prayer</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Blackw. Mag.</ab>
+         <ab.full>Blackwood's Magazine</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Bohem.</ab>
+         <ab.full>Bohemian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Bot.</ab>
+         <ab.full>Botany, botanical</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Bp.</ab>
+         <ab.full>Bishop</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Brande &amp; C.</ab>
+         <ab.full>Brande &amp; Cox</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Braz.</ab>
+         <ab.full>Brazilian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Brit. Critic</ab>
+         <ab.full>British Critic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Brit. Quar. Rev.</ab>
+         <ab.full>British Quarterly Review</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Burl.</ab>
+         <ab.full>Burlesque</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>C.</ab>
+         <ab.full>Centigrade</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Cant.</ab>
+         <ab.full>Canticles (Song of Solomon</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Carp.</ab>
+         <ab.full>Carpentry</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Catal.</ab>
+         <ab.full>Catalan</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Cath. Dict.</ab>
+         <ab.full>Catholic Dictionary</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Celt.</ab>
+         <ab.full>Celtic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Cf.</ab>
+         <ab.full>Confer (compare</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Ch.</ab>
+         <ab.full>Church</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Chald.</ab>
+         <ab.full>Chaldee</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Chem.</ab>
+         <ab.full>Chemistry</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Ch. Hist.</ab>
+         <ab.full>Church History</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Chin.</ab>
+         <ab.full>Chinese</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Chron.</ab>
+         <ab.full>Chronology, Chronicles</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Civ.</ab>
+         <ab.full>Civil</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Class.</ab>
+         <ab.full>Classical</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Class. Myth.</ab>
+         <ab.full>Classical Mythology</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Col.</ab>
+         <ab.full>Colossians</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Colloq., coll.</ab>
+         <ab.full>Colloquial, colloquially</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Com.</ab>
+         <ab.full>Commerce, Common</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>comp.</ab>
+         <ab.full>compound, compounded, composition</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>compar.</ab>
+         <ab.full>comparative</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>conj.</ab>
+         <ab.full>conjunction</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Con. Sect.</ab>
+         <ab.full>Conic Sections</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>contr.</ab>
+         <ab.full>contracted, contraction</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Copt.</ab>
+         <ab.full>Coptic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Corn.</ab>
+         <ab.full>Cornish</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>corrupt.</ab>
+         <ab.full>corrupted, corruption</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Cotgr.</ab>
+         <ab.full>Cotgrave</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Cyc. Med.</ab>
+         <ab.full>Cyclopedia of Practical Medicine</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Crim. Law</ab>
+         <ab.full>Criminal Law</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Crystallog.</ab>
+         <ab.full>Crystallography</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Cyc.</ab>
+         <ab.full>Cyclopedia</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>D.</ab>
+         <ab.full>Dutch</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Dan.</ab>
+         <ab.full>Danish, Daniel</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>dat.</ab>
+         <ab.full>dative</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>def.</ab>
+         <ab.full>definitions</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Deut.</ab>
+         <ab.full>Deuteronomy</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Dial.</ab>
+         <ab.full>Dialectic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>dim.</ab>
+         <ab.full>diminutive</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Diosc.</ab>
+         <ab.full>dioscorides</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Disp.</ab>
+         <ab.full>Dispensatory</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Disus.</ab>
+         <ab.full>Disused</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Dom. Econ.</ab>
+         <ab.full>Domestic Economy</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Dublin Univ. Mag.</ab>
+         <ab.full>Dublin University Magazine</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Dyn.</ab>
+         <ab.full>Dynamics</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>E.</ab>
+         <ab.full>English</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Eccl.</ab>
+         <ab.full>Ecclesiastical, Ecclesiastes</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Eccl. Hist.</ab>
+         <ab.full>Ecclesiastical History</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Ecclus.</ab>
+         <ab.full>Ecclesiasticus</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Eclec. Rev.</ab>
+         <ab.full>Eclectic Review</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Ed. Rev.</ab>
+         <ab.full>Edinburgh Review</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>e. g.</ab>
+         <ab.full>exemplia gratiafor example</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Egypt.</ab>
+         <ab.full>Egyptian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Elect.</ab>
+         <ab.full>Electricity, Electrical</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>emph.</ab>
+         <ab.full>emphatic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Encyc.</ab>
+         <ab.full>Encyclopedia</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Encyc. Amer.</ab>
+         <ab.full>Encyclopedia Americana</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Encyc. Crit.</ab>
+         <ab.full>Encyclopedia Britannica</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Encyc. Dict.</ab>
+         <ab.full>Hunter's Encyclopedic Dictionary</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Eng.</ab>
+         <ab.full>England, English</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Eng.</ab>
+         <ab.full>Engraving</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Eng. Cyc.</ab>
+         <ab.full>English Cyclopedia</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Engin.</ab>
+         <ab.full>Engineering</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Eol.</ab>
+         <ab.full>Eolic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Eph., Ephes.</ab>
+         <ab.full>Ephesians</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>equiv.</ab>
+         <ab.full>equivalent</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Esd.</ab>
+         <ab.full>Esdras</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>esp.</ab>
+         <ab.full>especially</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Etch. &amp; Eng.</ab>
+         <ab.full>Etching &amp; Engraving</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Ethnol.</ab>
+         <ab.full>Ethnology</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>etym., etymol.</ab>
+         <ab.full>etymology</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Ex., Exod.</ab>
+         <ab.full>Exodus</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Ezek.</ab>
+         <ab.full>Ezekiel</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>F.</ab>
+         <ab.full>French</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>f., fem.</ab>
+         <ab.full>feminine</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Fahr.</ab>
+         <ab.full>Fahrenheit</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Far.</ab>
+         <ab.full>Farriery</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Feud.</ab>
+         <ab.full>Feudal</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Fig.</ab>
+         <ab.full>Figurative, figuratively</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Fin.</ab>
+         <ab.full>Finnish</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>For. Quart. Rev.</ab>
+         <ab.full>Foreign Quarterly Review</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Fort.</ab>
+         <ab.full>Fortification</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>fr.</ab>
+         <ab.full>from</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Fr.</ab>
+         <ab.full>French</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>freq.</ab>
+         <ab.full>frequentative</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Fries.</ab>
+         <ab.full>Friesic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>fut.</ab>
+         <ab.full>future</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>G.</ab>
+         <ab.full>German</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Gael.</ab>
+         <ab.full>Gaelic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Gal.</ab>
+         <ab.full>Galen</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Gal.</ab>
+         <ab.full>Galatians</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Galv.</ab>
+         <ab.full>Galvanism</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>gen.</ab>
+         <ab.full>generally, genitive</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Geneal.</ab>
+         <ab.full>Genealogy</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Gent. Mag.</ab>
+         <ab.full>Gentleman's Magazine</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Geog.</ab>
+         <ab.full>Geography</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Geol.</ab>
+         <ab.full>Geology</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Geom.</ab>
+         <ab.full>Geometry</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Ger.</ab>
+         <ab.full>German</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Goth.</ab>
+         <ab.full>Gothic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Gov. of Tongue</ab>
+         <ab.full>Government of the Tongue</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Gr.</ab>
+         <ab.full>Greek</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Gram.</ab>
+         <ab.full>Grammar</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Gris.</ab>
+         <ab.full>Grisons</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Gun.</ab>
+         <ab.full>Gunnery</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>H.</ab>
+         <ab.full>High</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Hab.</ab>
+         <ab.full>Habakkuk</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Hag.</ab>
+         <ab.full>Haggai</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Ham. Nav. Encyc.</ab>
+         <ab.full>Hamersly's Naval Encyclopedia</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Heb.</ab>
+         <ab.full>Hebrew, Hebrews</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Her.</ab>
+         <ab.full>Heraldry</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Hind.</ab>
+         <ab.full>Hindostanee</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Hipp.</ab>
+         <ab.full>Hippocrates</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Hist.</ab>
+         <ab.full>History</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Horol.</ab>
+         <ab.full>Horology</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Hort.</ab>
+         <ab.full>Horticulture</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Hung.</ab>
+         <ab.full>Hungarian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Hydraul.</ab>
+         <ab.full>Hydraulics</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Hydros.</ab>
+         <ab.full>Hydrostatics</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>hypoth.</ab>
+         <ab.full>hypothetical</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Icel.</ab>
+         <ab.full>Icelandic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>i. e.</ab>
+         <ab.full>id estthat is</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Illust.</ab>
+         <ab.full>Illustration, Illustrated</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>imp.</ab>
+         <ab.full>imperfect</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Imp. Dict.</ab>
+         <ab.full>Imperial Dictionary</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>incho.</ab>
+         <ab.full>inchoative</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>ind.</ab>
+         <ab.full>indicative</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>indef.</ab>
+         <ab.full>indefinite</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>inf.</ab>
+         <ab.full>infinitive</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>intens.</ab>
+         <ab.full>intensive</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>interj.</ab>
+         <ab.full>interjection</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Internat. Cyc.</ab>
+         <ab.full>International Cyclopeia</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Ion.</ab>
+         <ab.full>Ionic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>i. q.</ab>
+         <ab.full>idem quodthe same as</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Ir.</ab>
+         <ab.full>Irish</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Is., Isa.</ab>
+         <ab.full>Isaiah</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>It.</ab>
+         <ab.full>Italian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Jap.</ab>
+         <ab.full>Japanese</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Jas.</ab>
+         <ab.full>James</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Jav.</ab>
+         <ab.full>Javanese</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Jer.</ab>
+         <ab.full>Jeremiah</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Join.</ab>
+         <ab.full>Joinery</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Josh.</ab>
+         <ab.full>Joshua</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Judg.</ab>
+         <ab.full>Judges</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>K.</ab>
+         <ab.full>Kings</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>L.</ab>
+         <ab.full>Latin</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>L.</ab>
+         <ab.full>Low</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Lam.</ab>
+         <ab.full>Lamentations</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Lapp.</ab>
+         <ab.full>Lappish</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Lat.</ab>
+         <ab.full>Latin</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>LD.</ab>
+         <ab.full>Low Dutch</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Lett.</ab>
+         <ab.full>Lettish</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Lev.</ab>
+         <ab.full>Leviticus</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>LG.</ab>
+         <ab.full>Low German</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>LGr.</ab>
+         <ab.full>Low Greek</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Linn.</ab>
+         <ab.full>Linnæus</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Lit., lit.</ab>
+         <ab.full>Literally, literally</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Lit.</ab>
+         <ab.full>Literature</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Lith.</ab>
+         <ab.full>Lithuanian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>LL.</ab>
+         <ab.full>Low Latin</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>M.</ab>
+         <ab.full>Middle</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>m., masc.</ab>
+         <ab.full>masculine</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Maced.</ab>
+         <ab.full>Macedonian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Mach.</ab>
+         <ab.full>Machinery</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Mad.</ab>
+         <ab.full>Madam</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Mag.</ab>
+         <ab.full>Magazine</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Mal.</ab>
+         <ab.full>Malachi</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Malay.</ab>
+         <ab.full>Malayan</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Man.</ab>
+         <ab.full>Manège</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Manuf.</ab>
+         <ab.full>Manufacturing</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Mar.</ab>
+         <ab.full>Maritime</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Math.</ab>
+         <ab.full>Mathematics, Mathematical</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Matt.</ab>
+         <ab.full>Matthew</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Mech.</ab>
+         <ab.full>Mechanic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Med.</ab>
+         <ab.full>Medicine</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Metal.</ab>
+         <ab.full>Metallurgy</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Metaph.</ab>
+         <ab.full>Metaphysics</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Meteor.</ab>
+         <ab.full>Meteorolgy</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>mgr.</ab>
+         <ab.full>milligrams</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>MHG.</ab>
+         <ab.full>Middle High German</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Micros.</ab>
+         <ab.full>Microscopy</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Mil.</ab>
+         <ab.full>Military</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Min.</ab>
+         <ab.full>Mineralogy</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Mir. for Mag.</ab>
+         <ab.full>Mirror for Magistrates</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>MLG.</ab>
+         <ab.full>Middle Low German</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Moham.</ab>
+         <ab.full>Mohammedan</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Mozley &amp; W.</ab>
+         <ab.full>Mozley &amp; Whiteley</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Mus.</ab>
+         <ab.full>Music</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Myst.</ab>
+         <ab.full>Mysteries</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Myth.</ab>
+         <ab.full>Mythology</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>N.</ab>
+         <ab.full>New</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>n.</ab>
+         <ab.full>noun</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Nat. Hist.</ab>
+         <ab.full>Natural History</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Nat. ord.</ab>
+         <ab.full>Natural order</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Naut.</ab>
+         <ab.full>Nautical</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Nav.</ab>
+         <ab.full>Navy</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Navig.</ab>
+         <ab.full>Navigation</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>N. Brit. Rev.</ab>
+         <ab.full>North British Review</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Neh.</ab>
+         <ab.full>Nehemiah</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>neut.</ab>
+         <ab.full>neuter</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>New Am. Cyc.</ab>
+         <ab.full>New American Cyclopedia</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>New Month. Mag.</ab>
+         <ab.full>New Monthly Magazine</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>NF.</ab>
+         <ab.full>New French</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>NGr.</ab>
+         <ab.full>Mew Greek</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>NHeb.</ab>
+         <ab.full>New Hebrew</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>NL.</ab>
+         <ab.full>New Latin</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>nom.</ab>
+         <ab.full>nominative</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Norm. F.</ab>
+         <ab.full>Norman French</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>North Am. Rev.</ab>
+         <ab.full>North American Review</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Norw.</ab>
+         <ab.full>Norwegian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Num.</ab>
+         <ab.full>Numbers</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Numis.</ab>
+         <ab.full>Numismatics</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>O.</ab>
+         <ab.full>Old</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Ob.</ab>
+         <ab.full>Obadiah</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Obs.</ab>
+         <ab.full>Obsolete</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Obsoles.</ab>
+         <ab.full>Obsolescent</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OCelt.</ab>
+         <ab.full>Old Celtic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OD.</ab>
+         <ab.full>Old Dutch</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>ODan.</ab>
+         <ab.full>Old Danish</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OE.</ab>
+         <ab.full>Old English</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OF.</ab>
+         <ab.full>Old French</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OFelm.</ab>
+         <ab.full>Old Flemish</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OFries.</ab>
+         <ab.full>Old Friesic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OGael.</ab>
+         <ab.full>Old Gaelic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OGr.</ab>
+         <ab.full>Old Greek</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OHG.</ab>
+         <ab.full>Old High German</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OIcel.</ab>
+         <ab.full>Old Icelandic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OIr.</ab>
+         <ab.full>Old Irish</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OIt.</ab>
+         <ab.full>Old Italian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OL.</ab>
+         <ab.full>Old Latin</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OLG.</ab>
+         <ab.full>Old Low Greman</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>ON.</ab>
+         <ab.full>Old Norse</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OPer.</ab>
+         <ab.full>Old Persian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OPg.</ab>
+         <ab.full>Old Portuguese</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OPol.</ab>
+         <ab.full>Old Polish</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Opt.</ab>
+         <ab.full>Optics</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>orig.</ab>
+         <ab.full>original, originally</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Ornith.</ab>
+         <ab.full>Ornithology</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OS.</ab>
+         <ab.full>Old Saxon</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OSlav.</ab>
+         <ab.full>Old Slavic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>OSp.</ab>
+         <ab.full>Old Spanish</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Oxf. Gloss.</ab>
+         <ab.full>Oxford Glossary of Architecture</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>p.</ab>
+         <ab.full>participle, page</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>p. a.</ab>
+         <ab.full>participial adjective</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Paint.</ab>
+         <ab.full>Painting</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Paleon.</ab>
+         <ab.full>Paleontology</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>pass.</ab>
+         <ab.full>passive</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Pathol.</ab>
+         <ab.full>Pathology</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>P. Cyc.</ab>
+         <ab.full>Penny Cyclopedia</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Per.</ab>
+         <ab.full>Persian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>perh.</ab>
+         <ab.full>perhaps</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>pers.</ab>
+         <ab.full>person</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Persp.</ab>
+         <ab.full>Perspective</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Pert.</ab>
+         <ab.full>Pertaining</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Peruv.</ab>
+         <ab.full>Peruvian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Pet.</ab>
+         <ab.full>Peter</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Pg.</ab>
+         <ab.full>Portuguese</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Pharm.</ab>
+         <ab.full>Pharmacy, Pharmacopœia</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Phil.</ab>
+         <ab.full>Phillipians</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Philem.</ab>
+         <ab.full>Philemon</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Philol.</ab>
+         <ab.full>Philology</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Philos.</ab>
+         <ab.full>Philosophy</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Phon.</ab>
+         <ab.full>Phonetics</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Photog.</ab>
+         <ab.full>Photography</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Photom.</ab>
+         <ab.full>Photometry</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Phren.</ab>
+         <ab.full>Phrenology</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Phys.</ab>
+         <ab.full>Physics</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Phys. Sci.</ab>
+         <ab.full>Physical Science</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Physiol.</ab>
+         <ab.full>Physiology</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>pl.</ab>
+         <ab.full>plural</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Poet.</ab>
+         <ab.full>Poetry, Poetical</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Pol.</ab>
+         <ab.full>Polish</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Pol. Econ.</ab>
+         <ab.full>Political Economy</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Polit. Econ.</ab>
+         <ab.full>Political Economy</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Pop. Sci. Monthly</ab>
+         <ab.full>Polular Science Monthly</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>pp.</ab>
+         <ab.full>pages</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>p. p.</ab>
+         <ab.full>participle past</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>P. Plowman</ab>
+         <ab.full>Piers Plowman</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>p. pr., p. ple.</ab>
+         <ab.full>participle present</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Pr.</ab>
+         <ab.full>Provençal</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Pref.</ab>
+         <ab.full>Preface</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>pref.</ab>
+         <ab.full>prefix</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>prep.</ab>
+         <ab.full>preposition</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>pret.</ab>
+         <ab.full>preterit</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>prin.</ab>
+         <ab.full>principally</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Print.</ab>
+         <ab.full>Printing</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>priv.</ab>
+         <ab.full>privative</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>prob.</ab>
+         <ab.full>probably</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>pron.</ab>
+         <ab.full>Pronunciation, pronounced, pronoun</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>prop.</ab>
+         <ab.full>properly</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Pros.</ab>
+         <ab.full>Prosody</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Prov.</ab>
+         <ab.full>Provincial</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Prov.</ab>
+         <ab.full>Proverbs</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Ps., Psa.</ab>
+         <ab.full>Psalms</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Pyro.-elect.</ab>
+         <ab.full>Pyro-electricity</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Quart. Rev.</ab>
+         <ab.full>Quarterly Review</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>q. v.</ab>
+         <ab.full>quod videwhich see</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>R.</ab>
+         <ab.full>Rare</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>R. C.</ab>
+         <ab.full>Roman Catholic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>R. C. Ch.</ab>
+         <ab.full>Roman Catholic Church</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Rep. Sec. of War</ab>
+         <ab.full>Report of Secretary of War</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Rev.</ab>
+         <ab.full>Revelation</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Rev.</ab>
+         <ab.full>Review</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Rev. Ver.</ab>
+         <ab.full>Revised Version (of the Bible</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Rhet.</ab>
+         <ab.full>Rhetoric</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>R. of Brunne</ab>
+         <ab.full>Robert of Brunne</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>R. of Gl.</ab>
+         <ab.full>Robert of Gloucester</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Rom.</ab>
+         <ab.full>Roman, Romans</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Rom. Cath.</ab>
+         <ab.full>Roman Catholic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Rom. of R.</ab>
+         <ab.full>Romaunt of the Rose</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Rpts.</ab>
+         <ab.full>reports</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Russ.</ab>
+         <ab.full>Russian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Sam.</ab>
+         <ab.full>Samaritan</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Sam.</ab>
+         <ab.full>Samuel</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Sat. Rev.</ab>
+         <ab.full>Saturday Review</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Sax.</ab>
+         <ab.full>Saxon</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>sc.</ab>
+         <ab.full>scilicetbeing understood</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Scand.</ab>
+         <ab.full>Scandinavian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Sci.</ab>
+         <ab.full>Science</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Sci. Am.</ab>
+         <ab.full>Scientific American</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Scot.</ab>
+         <ab.full>Scotland, Scottish</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Script.</ab>
+         <ab.full>Scripture, Scriptural</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Sculp.</ab>
+         <ab.full>Sculpture</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Serb</ab>
+         <ab.full>Serbian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Serv.</ab>
+         <ab.full>Servian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Shak.</ab>
+         <ab.full>Shakespeare</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>sing.</ab>
+         <ab.full>singular</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Skr.</ab>
+         <ab.full>Sanskrit</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Slav.</ab>
+         <ab.full>Slavonic</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Sp.</ab>
+         <ab.full>Spanish</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Specif.</ab>
+         <ab.full>Specifically</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Stat.</ab>
+         <ab.full>Statuary</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>subj.</ab>
+         <ab.full>subjunctive</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>superl.</ab>
+         <ab.full>superlative</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Surg.</ab>
+         <ab.full>Surgery</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Surv.</ab>
+         <ab.full>Surveying</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Sw.</ab>
+         <ab.full>Swedish</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Syd. Soc. Lex.</ab>
+         <ab.full>Sydenham Society Lexicon</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Syn.</ab>
+         <ab.full>Synonyms</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Synop.</ab>
+         <ab.full>Synopsis</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Syr.</ab>
+         <ab.full>Syriac</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Tart.</ab>
+         <ab.full>Tartaric</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Teleg.</ab>
+         <ab.full>Telegraphy</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>term.</ab>
+         <ab.full>termination</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Test.</ab>
+         <ab.full>Testament</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Theol.</ab>
+         <ab.full>Theology</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Thes.</ab>
+         <ab.full>Thessalonians</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Tim.</ab>
+         <ab.full>Timothy</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Todd &amp; B.</ab>
+         <ab.full>Todd &amp; Bowman</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Trans.</ab>
+         <ab.full>Translation</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Treas.</ab>
+         <ab.full>Treasury</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Trig.</ab>
+         <ab.full>Trigonometry</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Turk.</ab>
+         <ab.full>Turkish</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Typog.</ab>
+         <ab.full>Typography</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Univ.</ab>
+         <ab.full>University</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Up.</ab>
+         <ab.full>Upper</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>U. S.</ab>
+         <ab.full>United States</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>U. S. Disp.</ab>
+         <ab.full>United States Dispensatory</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>U. S. Pharm.</ab>
+         <ab.full>United States Pharmacopœia</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>U. S. Int. Rev. Statutes</ab>
+         <ab.full>United States Internal Revenue Statutes</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>usu.</ab>
+         <ab.full>usually</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>v.</ab>
+         <ab.full>verb</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>var.</ab>
+         <ab.full>variety</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>vb. n.</ab>
+         <ab.full>verbal noun</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Veter.</ab>
+         <ab.full>Veterinary</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>v. i.</ab>
+         <ab.full>verb intransitive</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Vitr.</ab>
+         <ab.full>Vitruvius</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>v. t.</ab>
+         <ab.full>verb transitive</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>W.</ab>
+         <ab.full>Welsh</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Wall.</ab>
+         <ab.full>Wallachian</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Westm. Cat.</ab>
+         <ab.full>Westminster Catechism</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Westm. Rev.</ab>
+         <ab.full>Westminster Review</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Zech.</ab>
+         <ab.full>Zechariah</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Zeph.</ab>
+         <ab.full>Zephaniah</ab.full>
+      </ab.entry>
+      <ab.entry>
+         <ab>Zoöl.</ab>
+         <ab.full>Zoölogy</ab.full>
+      </ab.entry>
+   </div0>
+</entries>

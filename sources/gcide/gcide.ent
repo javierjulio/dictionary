@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- extracted entities from  gcide.xml 
+     by Guy Lapalme (lapalme@iro.umontreal.ca)
+     Université de Montréal - Université de Marseille
+     October 2009 
+-->
+<!--
+	This is file gcide.xml of GCIDE_XML 0.46,
+	a translation of GCIDE 0.46 into XML.
+
+	The translation was performed
+	by Michael Dyck (jmdyck@metalab.unc.edu)
+	on June 16, 2002.
+
+	Since GCIDE is made available under the terms
+	of the GNU General Public License, GCIDE_XML
+	is necessarily also published under those terms.
+	See the file gpl.txt or http://www.gnu.org/copyleft/gpl.txt
+-->
+<!-- I have used ISO 8879 entity names when they exist.
+	 Otherwise, I made up a name ending with an underscore. -->
+
+<!-- Unicode                  0000 - 007F C0 Controls and Basic Latin -->
+	<!ENTITY amp     '&#x26;#x0026;'> <!-- ISOnum, ampersand -->
+	<!ENTITY lt      '&#x26;#x003C;'> <!-- ISOnum, less-than sign -->
+	<!ENTITY gt           '&#x003E;'> <!-- ISOnum, greater-than sign -->
+<!-- Unicode                  0080 - 00FF C1 Controls and Latin-1 Supplement -->
+	<!ENTITY nbsp         '&#x00A0;'> <!-- ISOnum, no-break space = non-breaking space -->
+	<!ENTITY pound        '&#x00A3;'> <!-- ISOnum, pound sign -->
+	<!ENTITY sect         '&#x00A7;'> <!-- ISOnum, section sign -->
+	<!ENTITY uml          '&#x00A8;'> <!-- ISOdia, diaeresis = spacing diaeresis -->
+	<!ENTITY deg          '&#x00B0;'> <!-- ISOnum, degree sign -->
+	<!ENTITY para         '&#x00B6;'> <!-- ISOnum, pilcrow sign = paragraph sign -->
+	<!ENTITY iquest       '&#x00BF;'> <!-- ISOnum, inverted question mark = turned question mark -->
+	<!ENTITY Auml         '&#x00C4;'> <!-- ISOlat1, latin capital letter A with diaeresis -->
+	<!ENTITY AElig        '&#x00C6;'> <!-- ISOlat1, latin capital letter AE = latin capital ligature AE -->
+	<!ENTITY Ccedil       '&#x00C7;'> <!-- ISOlat1, latin capital letter C with cedilla -->
+	<!ENTITY Eacute       '&#x00C9;'> <!-- ISOlat1, latin capital letter E with acute -->
+	<!ENTITY ETH          '&#x00D0;'> <!-- ISOlat1, latin capital letter ETH -->
+	<!ENTITY times        '&#x00D7;'> <!-- ISOnum, multiplication sign -->
+	<!ENTITY Uuml         '&#x00DC;'> <!-- ISOlat1, latin capital letter U with diaeresis -->
+	<!ENTITY agrave       '&#x00E0;'> <!-- ISOlat1, latin small letter a with grave = latin small letter a grave -->
+	<!ENTITY aacute       '&#x00E1;'> <!-- ISOlat1, latin small letter a with acute -->
+	<!ENTITY acirc        '&#x00E2;'> <!-- ISOlat1, latin small letter a with circumflex -->
+	<!ENTITY atilde       '&#x00E3;'> <!-- ISOlat1, latin small letter a with tilde -->
+	<!ENTITY auml         '&#x00E4;'> <!-- ISOlat1, latin small letter a with diaeresis -->
+	<!ENTITY aring        '&#x00E5;'> <!-- ISOlat1, latin small letter a with ring above = latin small letter a ring -->
+	<!ENTITY aelig        '&#x00E6;'> <!-- ISOlat1, latin small letter ae = latin small ligature ae -->
+	<!ENTITY ccedil       '&#x00E7;'> <!-- ISOlat1, latin small letter c with cedilla -->
+	<!ENTITY egrave       '&#x00E8;'> <!-- ISOlat1, latin small letter e with grave -->
+	<!ENTITY eacute       '&#x00E9;'> <!-- ISOlat1, latin small letter e with acute -->
+	<!ENTITY ecirc        '&#x00EA;'> <!-- ISOlat1, latin small letter e with circumflex -->
+	<!ENTITY euml         '&#x00EB;'> <!-- ISOlat1, latin small letter e with diaeresis -->
+	<!ENTITY igrave       '&#x00EC;'> <!-- ISOlat1, latin small letter i with grave -->
+	<!ENTITY iacute       '&#x00ED;'> <!-- ISOlat1, latin small letter i with acute -->
+	<!ENTITY icirc        '&#x00EE;'> <!-- ISOlat1, latin small letter i with circumflex -->
+	<!ENTITY iuml         '&#x00EF;'> <!-- ISOlat1, latin small letter i with diaeresis -->
+	<!ENTITY eth          '&#x00F0;'> <!-- ISOlat1, latin small letter eth -->
+	<!ENTITY ntilde       '&#x00F1;'> <!-- ISOlat1, latin small letter n with tilde -->
+	<!ENTITY ograve       '&#x00F2;'> <!-- ISOlat1, latin small letter o with grave -->
+	<!ENTITY oacute       '&#x00F3;'> <!-- ISOlat1, latin small letter o with acute -->
+	<!ENTITY ocirc        '&#x00F4;'> <!-- ISOlat1, latin small letter o with circumflex -->
+	<!ENTITY ouml         '&#x00F6;'> <!-- ISOlat1, latin small letter o with diaeresis -->
+	<!ENTITY divide       '&#x00F7;'> <!-- ISOnum, division sign -->
+	<!ENTITY ugrave       '&#x00F9;'> <!-- ISOlat1, latin small letter u with grave -->
+	<!ENTITY uacute       '&#x00FA;'> <!-- ISOlat1, latin small letter u with acute -->
+	<!ENTITY ucirc        '&#x00FB;'> <!-- ISOlat1, latin small letter u with circumflex -->
+	<!ENTITY uuml         '&#x00FC;'> <!-- ISOlat1, latin small letter u with diaeresis -->
+	<!ENTITY thorn        '&#x00FE;'> <!-- ISOlat1, latin small letter thorn with -->
+<!-- Unicode                  0100 - 017F Latin Extended-A -->
+	<!ENTITY amacr        '&#x0101;'> <!-- ISOlat2, latin small letter a with macron -->
+	<!ENTITY abreve       '&#x0103;'> <!-- ISOlat2, latin small letter a with breve -->
+	<!ENTITY cacute       '&#x0107;'> <!-- ISOlat2, latin small letter c with acute -->
+	<!ENTITY ccaron       '&#x010D;'> <!-- ISOlat2, latin small letter c with caron -->
+	<!ENTITY emacr        '&#x0113;'> <!-- ISOlat2, latin small letter e with macron -->
+	<!ENTITY ebreve_      '&#x0115;'> <!-- non-SGML, latin small letter e with breve -->
+	<!ENTITY imacr        '&#x012B;'> <!-- ISOlat2, latin small letter i with macron -->
+	<!ENTITY ibreve_      '&#x012D;'> <!-- non-SGML, latin small letter i with breve -->
+	<!ENTITY Omacr        '&#x014C;'> <!-- ISOlat2, latin capital letter o with macron -->
+	<!ENTITY omacr        '&#x014D;'> <!-- ISOlat2, latin small letter o with macron -->
+	<!ENTITY obreve_      '&#x014F;'> <!-- non-SGML, latin small letter o with breve -->
+	<!ENTITY OElig        '&#x0152;'> <!-- ISOlat2, latin capital ligature OE -->
+	<!ENTITY oelig        '&#x0153;'> <!-- ISOlat2, latin small ligature oe -->
+	<!ENTITY umacr        '&#x016B;'> <!-- ISOlat2, latin small letter u with macron -->
+	<!ENTITY ubreve       '&#x016D;'> <!-- ISOlat2, latin small letter u with breve -->
+	<!ENTITY uring        '&#x016F;'> <!-- ISOlat2, latin small letter u with ring above -->
+	<!ENTITY zdot         '&#x017C;'> <!-- ISOlat2, latin small letter z with dot above -->
+<!-- Unicode                  0180 - 024F Latin Extended-B -->
+	<!ENTITY aemacr_      '&#x01E3;'> <!-- non-SGML, latin small letter ae with macron (ash) * -->
+	<!ENTITY yogh_        '&#x021D;'> <!-- non-SGML, latin small letter yogh -->
+	<!ENTITY adot_        '&#x0227;'> <!-- non-SGML, latin small letter a with dot above -->
+	<!ENTITY ymacr_       '&#x0233;'> <!-- non-SGML, latin small letter y with macron -->
+	<!ENTITY schwa_       '&#x0259;'> <!-- non-SGML, latin small letter schwa -->
+<!-- Unicode                  02B0 - 02FF Spacing Modifier Letters -->
+	<!ENTITY asper_       '&#x02BD;'> <!-- non-SGML, modifier letter reversed comma -->
+	<!ENTITY breve        '&#x02D8;'> <!-- ISOdia, breve -->
+<!-- Unicode                  0370 - 03FF Greek -->
+	<!ENTITY Alpha        '&#x0391;'> <!-- ISOgrk3, greek capital letter alpha -->
+	<!ENTITY Beta         '&#x0392;'> <!-- ISOgrk3, greek capital letter beta -->
+	<!ENTITY Gamma        '&#x0393;'> <!-- ISOgrk3, greek capital letter gamma -->
+	<!ENTITY Delta        '&#x0394;'> <!-- ISOgrk3, greek capital letter delta -->
+	<!ENTITY Epsilon      '&#x0395;'> <!-- ISOgrk3, greek capital letter epsilon -->
+	<!ENTITY Zeta         '&#x0396;'> <!-- ISOgrk3, greek capital letter zeta -->
+	<!ENTITY Eta          '&#x0397;'> <!-- ISOgrk3, greek capital letter eta -->
+	<!ENTITY Theta        '&#x0398;'> <!-- ISOgrk3, greek capital letter theta -->
+	<!ENTITY Iota         '&#x0399;'> <!-- ISOgrk3, greek capital letter iota -->
+	<!ENTITY Kappa        '&#x039A;'> <!-- ISOgrk3, greek capital letter kappa -->
+	<!ENTITY Lambda       '&#x039B;'> <!-- ISOgrk3, greek capital letter lambda -->
+	<!ENTITY Mu           '&#x039C;'> <!-- ISOgrk3, greek capital letter mu -->
+	<!ENTITY Nu           '&#x039D;'> <!-- ISOgrk3, greek capital letter nu -->
+	<!ENTITY Xi           '&#x039E;'> <!-- ISOgrk3, greek capital letter xi -->
+	<!ENTITY Omicron      '&#x039F;'> <!-- ISOgrk3, greek capital letter omicron -->
+	<!ENTITY Pi           '&#x03A0;'> <!-- ISOgrk3, greek capital letter pi -->
+	<!ENTITY Rho          '&#x03A1;'> <!-- ISOgrk3, greek capital letter rho -->
+	<!ENTITY Sigma        '&#x03A3;'> <!-- ISOgrk3, greek capital letter sigma -->
+	<!ENTITY Tau          '&#x03A4;'> <!-- ISOgrk3, greek capital letter tau -->
+	<!ENTITY Upsilon      '&#x03A5;'> <!-- ISOgrk3, greek capital letter upsilon -->
+	<!ENTITY Phi          '&#x03A6;'> <!-- ISOgrk3, greek capital letter phi -->
+	<!ENTITY Chi          '&#x03A7;'> <!-- ISOgrk3, greek capital letter chi -->
+	<!ENTITY Psi          '&#x03A8;'> <!-- ISOgrk3, greek capital letter psi -->
+	<!ENTITY Omega        '&#x03A9;'> <!-- ISOgrk3, greek capital letter omega -->
+	<!ENTITY alpha        '&#x03B1;'> <!-- ISOgrk3, greek small letter alpha -->
+	<!ENTITY beta         '&#x03B2;'> <!-- ISOgrk3, greek small letter beta -->
+	<!ENTITY gamma        '&#x03B3;'> <!-- ISOgrk3, greek small letter gamma -->
+	<!ENTITY delta        '&#x03B4;'> <!-- ISOgrk3, greek small letter delta -->
+	<!ENTITY epsilon      '&#x03B5;'> <!-- ISOgrk3, greek small letter epsilon -->
+	<!ENTITY zeta         '&#x03B6;'> <!-- ISOgrk3, greek small letter zeta -->
+	<!ENTITY eta          '&#x03B7;'> <!-- ISOgrk3, greek small letter eta -->
+	<!ENTITY theta        '&#x03B8;'> <!-- ISOgrk3, greek small letter theta -->
+	<!ENTITY iota         '&#x03B9;'> <!-- ISOgrk3, greek small letter iota -->
+	<!ENTITY kappa        '&#x03BA;'> <!-- ISOgrk3, greek small letter kappa -->
+	<!ENTITY lambda       '&#x03BB;'> <!-- ISOgrk3, greek small letter lambda -->
+	<!ENTITY mu           '&#x03BC;'> <!-- ISOgrk3, greek small letter mu -->
+	<!ENTITY nu           '&#x03BD;'> <!-- ISOgrk3, greek small letter nu -->
+	<!ENTITY xi           '&#x03BE;'> <!-- ISOgrk3, greek small letter xi -->
+	<!ENTITY omicron      '&#x03BF;'> <!-- ISOgrk3, greek small letter omicron -->
+	<!ENTITY pi           '&#x03C0;'> <!-- ISOgrk3, greek small letter pi -->
+	<!ENTITY rho          '&#x03C1;'> <!-- ISOgrk3, greek small letter rho -->
+	<!ENTITY sigmav       '&#x03C2;'> <!-- ISOgrk3, greek small ketter final sigma -->
+	<!ENTITY sigma        '&#x03C3;'> <!-- ISOgrk3, greek small letter sigma -->
+	<!ENTITY tau          '&#x03C4;'> <!-- ISOgrk3, greek small letter tau -->
+	<!ENTITY upsilon      '&#x03C5;'> <!-- ISOgrk3, greek small letter upsilon -->
+	<!ENTITY phi          '&#x03C6;'> <!-- ISOgrk3, greek small letter phi -->
+	<!ENTITY chi          '&#x03C7;'> <!-- ISOgrk3, greek small letter chi -->
+	<!ENTITY psi          '&#x03C8;'> <!-- ISOgrk3, greek small letter psi -->
+	<!ENTITY omega        '&#x03C9;'> <!-- ISOgrk3, greek small letter omega -->
+	<!ENTITY digamma_     '&#x03DD;'> <!-- non-SGML, greek small letter digamma -->
+<!-- Unicode                  1E00 - 1EFF Latin Extended Additional -->
+	<!ENTITY dsdot_       '&#x1E0D;'> <!-- non-SGML, latin small letter d with dot below -->
+	<!ENTITY hsdot_       '&#x1E25;'> <!-- non-SGML, latin small letter h with dot below -->
+	<!ENTITY lsdot_       '&#x1E37;'> <!-- non-SGML, latin small letter l with dot below -->
+	<!ENTITY mdot_        '&#x1E41;'> <!-- non-SGML, latin small letter m with dot above -->
+	<!ENTITY msdot_       '&#x1E43;'> <!-- non-SGML, latin small letter m with dot below -->
+	<!ENTITY ndot_        '&#x1E45;'> <!-- non-SGML, latin small letter n with dot above -->
+	<!ENTITY nsdot_       '&#x1E47;'> <!-- non-SGML, latin small letter n with dot below -->
+	<!ENTITY nsmacr_      '&#x1E49;'> <!-- non-SGML, latin small letter n with line below -->
+	<!ENTITY rsdot_       '&#x1E5B;'> <!-- non-SGML, latin small letter r with dot below -->
+	<!ENTITY tsdot_       '&#x1E6D;'> <!-- non-SGML, latin small letter t with dot below -->
+	<!ENTITY usuml_       '&#x1E73;'> <!-- non-SGML, latin small letter u with diaeresis below -->
+	<!ENTITY zsdot_       '&#x1E93;'> <!-- non-SGML, latin small letter z with dot below -->
+	<!ENTITY etilde_      '&#x1EBD;'> <!-- non-SGML, latin small letter e with tilde -->
+	<!ENTITY usdot_       '&#x1EE5;'> <!-- non-SGML, latin small letter u with dot below -->
+<!-- Unicode                  2000 - 206F General Punctuation -->
+	<!ENTITY mdash        '&#x2014;'> <!-- ISOpub, em dash -->
+	<!ENTITY Verbar       '&#x2016;'> <!-- ISOtech, double vertical line -->
+	<!ENTITY lsquo        '&#x2018;'> <!-- ISOnum, left single quotation mark -->
+	<!ENTITY ldquo        '&#x201C;'> <!-- ISOnum, left double quotation mark -->
+	<!ENTITY rdquo        '&#x201D;'> <!-- ISOnum, right double quotation mark -->
+	<!ENTITY dagger       '&#x2020;'> <!-- ISOpub, dagger -->
+	<!ENTITY Dagger       '&#x2021;'> <!-- ISOpub, double dagger -->
+	<!ENTITY bull         '&#x2022;'> <!-- ISOpub, bullet = black small circle -->
+	<!ENTITY prime        '&#x2032;'> <!-- ISOtech, prime = minutes = feet -->
+	<!ENTITY Prime        '&#x2033;'> <!-- ISOtech, double prime = seconds = inches -->
+	<!ENTITY asterism_    '&#x2042;'> <!-- non-SGML, asterism -->
+<!-- Unicode                  2190 - 21FF Mathematical Operators -->
+	<!ENTITY rarr         '&#x2192;'> <!-- ISOnum -->
+<!-- Unicode                  2200 - 22FF Mathematical Operators -->
+	<!ENTITY nabla        '&#x2207;'> <!-- ISOtech, nabla = backward difference -->
+	<!ENTITY radic        '&#x221A;'> <!-- ISOtech, square root = radical sign -->
+	<!ENTITY cuberoot_    '&#x221B;'> <!-- non-SGML, cube root -->
+	<!ENTITY int          '&#x222B;'> <!-- ISOtech, integral -->
+<!-- Unicode                  2300 - 23FF Miscellaneous Technical -->
+	<!ENTITY frown        '&#x2322;'> <!-- ISOamsr, frown -->
+	<!ENTITY smile        '&#x2323;'> <!-- ISOamsr, smile -->
+<!-- Unicode                  2600 - 26FF Miscellaneous Symbols -->
+	<!ENTITY sun_         '&#x2609;'> <!-- non-SGML, sun -->
+	<!ENTITY ascendnode_  '&#x260A;'> <!-- non-SGML, ascending node -->
+	<!ENTITY descendnode_ '&#x260B;'> <!-- non-SGML, descending node -->
+	<!ENTITY hand_        '&#x261E;'> <!-- non-SGML, white right pointing index -->
+	<!ENTITY mercury_     '&#x263F;'> <!-- non-SGML, mercury -->
+	<!ENTITY male         '&#x2642;'> <!-- ISOpub, male sign -->
+	<!ENTITY jupiter_     '&#x2643;'> <!-- non-SGML, jupiter -->
+	<!ENTITY aries_       '&#x2648;'> <!-- non-SGML, aries -->
+	<!ENTITY taurus_      '&#x2649;'> <!-- non-SGML, taurus -->
+	<!ENTITY gemini_      '&#x264A;'> <!-- non-SGML, gemini -->
+	<!ENTITY cancer_      '&#x264B;'> <!-- non-SGML, cancer -->
+	<!ENTITY leo_         '&#x264C;'> <!-- non-SGML, leo -->
+	<!ENTITY virgo_       '&#x264D;'> <!-- non-SGML, virgo -->
+	<!ENTITY libra_       '&#x264E;'> <!-- non-SGML, libra -->
+	<!ENTITY scorpius_    '&#x264F;'> <!-- non-SGML, scorpius -->
+	<!ENTITY sagittarius_ '&#x2650;'> <!-- non-SGML, sagittarius -->
+	<!ENTITY capricorn_   '&#x2651;'> <!-- non-SGML, capricorn -->
+	<!ENTITY aquarius_    '&#x2652;'> <!-- non-SGML, aquarius -->
+	<!ENTITY pisces_      '&#x2653;'> <!-- non-SGML, pisces -->
+	<!ENTITY flat         '&#x266D;'> <!-- ISOpub, music flat sign -->
+	<!ENTITY natur        '&#x266E;'> <!-- ISOpub, music natural sign -->
+	<!ENTITY sharp        '&#x266F;'> <!-- ISOpub, music sharp sign -->
+<!-- Unicode                  2700 - 27BF Dingbats -->
+	<!ENTITY sext         '&#x2736;'> <!-- ISOpub, six pointed black star -->
+<!-- Unicode                  FB00 - FB4F Alphabetic Presentation Forms -->
+	<!ENTITY filig        '&#xFB01;'> <!-- ISOpub, latin small ligature fi -->
+	<!ENTITY fllig        '&#xFB02;'> <!-- ISOpub, laton small ligature fl -->
+	<!ENTITY ffllig       '&#xFB04;'> <!-- ISOpub, latin small ligature ffl -->
+<!-- Unicode                  FFF0 - FFFF Specials -->
+	<!ENTITY Crev_        '&#xFFFD;'>
+	<!ENTITY aitalic_     '&#xFFFD;'>
+	<!ENTITY asuml_       '&#xFFFD;'>
+	<!ENTITY auptack_     '&#xFFFD;'>
+	<!ENTITY csdot_       '&#xFFFD;'>
+	<!ENTITY deletemark_  '&#xFFFD;'>
+	<!ENTITY eitalic_     '&#xFFFD;'>
+	<!ENTITY euptack_     '&#xFFFD;'>
+	<!ENTITY iuptack_     '&#xFFFD;'>
+	<!ENTITY ltilde_      '&#xFFFD;'>
+	<!ENTITY mtilde_      '&#xFFFD;'>
+	<!ENTITY ncirc_       '&#xFFFD;'>
+	<!ENTITY nsmallcap_   '&#xFFFD;'>
+	<!ENTITY oobreve_     '&#xFFFD;'>
+	<!ENTITY oomacr_      '&#xFFFD;'>
+	<!ENTITY ouptack_     '&#xFFFD;'>
+	<!ENTITY pause_       '&#xFFFD;'>
+	<!ENTITY thlig_       '&#xFFFD;'>
+	<!ENTITY unr_         '&#xFFFD;'>
+	<!ENTITY uuptack_     '&#xFFFD;'>
+	<!ENTITY withdot_     '&#xFFFD;'>
+	<!ENTITY ybreve_      '&#xFFFD;'>
+	<!ENTITY dotted2_     '&#xFFFD;'>
+	<!ENTITY dotted3_     '&#xFFFD;'>

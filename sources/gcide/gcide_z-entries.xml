@@ -1,0 +1,3207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="gcide.rnc" type="compact"?>
+<entries letter="Z">
+<!-- added reference to "gcide.ent" and transformed to well-formed XML
+     by Guy Lapalme (lapalme@iro.umontreal.ca)
+     Université de Montréal - Université de Marseille
+     October 2009 
+-->
+
+<!--
+    Despite what the next comment says,
+    this is file gcide_z.xml of GCIDE_XML 0.46,
+    a translation of GCIDE 0.46 into XML.
+
+    The translation was performed
+    by Michael Dyck (jmdyck@metalab.unc.edu)
+    on June 16, 2002.
+
+    Since GCIDE is made available under the terms
+    of the GNU General Public License, GCIDE_XML
+    is necessarily also published under those terms.
+    See the file gpl.txt or <http://www.gnu.org/copyleft/gpl.txt>.
+-->
+<!-- Begin file 26 of 26:  Letter Z (Version 0.46) 
+        
+           This file is part 26 of the GNU version of
+     The Collaborative International Dictionary of English
+               Also referred to as GCIDE
+  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+
+GCIDE is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2, or (at your option)
+any later version.
+
+GCIDE is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this copy of GCIDE; see the file COPYING.  If not, write 
+to the Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+Boston, MA 02111-1307, USA.
+           * * * * * * * * * * * * * * * * * * * * * 
+
+           This dictionary was derived from the
+         Webster's Revised Unabridged Dictionary
+                 Version published 1913
+               by the  C. &amp; G. Merriam Co.
+                   Springfield, Mass.
+                 Under the direction of
+                Noah Porter, D.D., LL.D.
+
+                        and from
+           WordNet, a semantic network created by
+              the Cognitive Science Department
+                 of Princeton University
+                  under the direction of
+                   Prof. George Miller
+
+             and is being updated and supplemented by
+         an open coalition of volunteer collaborators from
+                       around the world.
+
+     This electronic dictionary is the starting point for an 
+ongoing project to develop a modern on-line comprehensive encyclopedic
+dictionary, by the efforts of all individuals willing to help build a
+large and freely available knowledge base.  Contributions of data,
+time, and effort are requested from any person willing to assist creation
+of a comprehensive and organized knowledge base for free access on the
+internet.  Anyone willing to assist in any way in constructing such a
+knowledge base should contact:
+
+     Patrick Cassidy          pc@worldsoul.org
+     735 Belvidere Ave.       Office: (908)668-5252
+     Plainfield, NJ 07062
+     (908) 561-3416
+
+   Last edit January 17, 2002.
+
+-->
+<entry key="Z">
+      <hw source="1913 Webster">Z</hw>
+      <pr>zē; in England commonly, and in America sometimes, zĕd; formerly, also, ĭz"zĕrd</pr>
+      <def>Z, the twenty-sixth and last letter of the English alphabet, is a vocal consonant. It is taken from the Latin letter Z, which came from the Greek alphabet, this having it from a Semitic source. The ultimate origin is probably Egyptian. Etymologically, it is most closely related to <ex>s</ex>
+         <ex>y</ex>, and <ex>j</ex>; as in gla<ex>ss</ex>, gla<ex>z</ex>e; E. <ex>y</ex>oke, Gr. �, L. <ex>y</ex>ugum; E. <ex>z</ex>ealous, <ex>j</ex>ealous.  See <ex>Guide to Pronunciation</ex>, §§ 273, 274.</def>
+   </entry>
+   <entry key="Za">
+      <hw source="1913 Webster">Za</hw>
+      <pos>n.</pos>
+      <fld>Min</fld>
+      <def au="H. W. Poole.">An old solfeggio name for B flat; the seventh harmonic, as heard in the or æolian string; -- so called by Tartini. It was long considered a false, but is the true note of the chord of the flat seventh.</def>
+   </entry>
+   <entry key="Zabaism">
+      <mhw source="1913 Webster">
+         <hw>Za"ba*ism</hw>
+         <hw>Za"bism</hw>
+      </mhw>
+      <pos>n.</pos>
+      <def>See <er>Sabianism</er>.</def>
+   </entry>
+   <entry key="Zabian">
+      <hw source="1913 Webster">Za"bi*an</hw>
+      <pos>a. &amp; n.</pos>
+      <def>See <er>Sabian</er>.</def>
+   </entry>
+   <entry key="Zacco">
+      <hw source="1913 Webster">Zac"co</hw>
+      <pos>n.</pos>
+      <fld>Arch</fld>
+      <def>See <er>Zocco</er>.</def>
+   </entry>
+   <entry key="Zachun">
+      <hw source="1913 Webster">‖Za*chun"</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def au="J. Smith (Dict. Econ. Plants).">An oil pressed by the Arabs from the fruit of a small thorny tree (<spn>Balanites Ægyptiaca</spn>), and sold to piligrims for a healing ointment.</def>
+   </entry>
+   <entry key="Zaerthe">
+      <hw source="1913 Webster">‖Zaer"the</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>Same as <er>Zärthe</er>.</def>
+   </entry>
+   <entry key="Zaffer">
+      <hw source="1913 Webster">Zaf"fer</hw>
+      <pos>n.</pos>
+      <ety>F. <ets>zafre</ets>
+         <ets>safre</ets>; cf. Sp. <ets>zafra</ets>
+         <ets>safra</ets>, It. <ets>saffera</ets>, G. <ets>zaffer</ets>; all probably of Arabic origin.  Cf. <er>Zaphara</er>
+      </ety>
+      <def>A pigment obtained, usually by roasting cobalt glance with sand or quartz, as a dark earthy powder. It consists of crude cobalt oxide, or of an impure cobalt arseniate. It is used in porcelain painting, and in enameling pottery, to produce a blue color, and is often confounded with smalt, from which, however, it is distinct, as it contains no potash. The name is often loosely applied to mixtures of zaffer proper with silica, or oxides of iron, manganese, etc.</def>
+      <altsp>
+         <asp>zaffre</asp>
+         <asp>zaffree</asp>
+         <asp>zaffar</asp>
+         <asp>zaffir</asp>
+      </altsp>
+   </entry>
+   <entry key="Zaim">
+      <hw source="1913 Webster">‖Zaim</hw>
+      <pr>?; 277</pr>
+      <pos>n.</pos>
+      <ety>Turk. &amp; Ar. <ets>za'īm</ets>
+      </ety>
+      <def au="Smart.">A Turkish chief who supports a mounted militia bearing the same name.</def>
+   </entry>
+   <entry key="Zaimet">
+      <hw source="1913 Webster">‖Zaim"et</hw>
+      <pr>?; 277</pr>
+      <pos>n.</pos>
+      <ety>Turk. &amp; Ar. <ets>za'īmet</ets>
+      </ety>
+      <def au="Smart.">A district from which a Zaim draws his revenue.</def>
+   </entry>
+   <entry key="Zain">
+      <hw source="1913 Webster">Zain</hw>
+      <pos>n.</pos>
+      <def au="Smart.">A horse of a dark color, neither gray nor white, and having no spots.</def>
+   </entry>
+   <entry key="Zalambdodont">
+      <hw source="1913 Webster">Za*lamb"do*dont</hw>
+      <pos>a.</pos>
+      <fld>Zoöl</fld>
+      <def>Of or pertaining to a tribe (<spn>Zalambdodonta</spn>) of Insectivora in which the molar teeth have but one V-shaped ridge.</def>
+   </entry>
+   <entry key="Zalambdodont">
+      <hw source="1913 Webster">Za*lamb"do*dont</hw>
+      <pos>n.</pos>
+      <def>One of the <spn>Zalambdodonta</spn>. The tenrec, solenodon, and golden moles are examples.</def>
+   </entry>
+   <entry key="Zamang">
+      <hw source="1913 Webster">‖Za*mang"</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def au="J. Smith (Dict. Econ. Plants).">An immense leguminous tree (<spn>Pithecolobium Saman</spn>) of Venezuela. Its branches form a hemispherical mass, often one hundred and eighty feet across. The sweet pulpy pods are used commonly for feeding cattle. Also called <altname>rain tree</altname>.</def>
+   </entry>
+   <entry key="Zambo">
+      <hw source="1913 Webster">Zam"bo</hw>
+      <pos>n.</pos>; <plu>pl.<plw>Zambos</plw>
+         <pr>#</pr>.</plu>
+      <ety>See <er>Sambo</er>
+      </ety>
+      <def>The child of a mulatto and a negro; also, the child of an Indian and a negro; colloquially or humorously, a negro; a sambo.</def>
+   </entry>
+   <entry key="Zamia">
+      <hw source="1913 Webster">‖Za"mi*a</hw>
+      <pos>n.</pos>
+      <ety>L. <ets>zamia</ets> a kind of fir cone, from Gr. �, �, hurt, damage.  See Plin. xvi. 44</ety>
+      <fld>Bot</fld>
+      <def>A genus of cycadaceous plants, having the appearance of low palms, but with exogenous wood.  See <er>Coontie</er>, and <ex>Illust.</ex> of <er>Strobile</er>.</def>
+   </entry>
+   <entry key="Zamindar">
+      <hw source="1913 Webster">Zam`in*dar"</hw>
+      <pos>n.</pos>
+      <ety>Hind. <ets>zemīndār</ets>
+         <ets>zamīndār</ets>, a landholder, Per. <ets>zamīndār</ets>; <ets>zamīn</ets> land <ets>dār</ets> holding</ety>
+      <def>A landowner; also, a collector of land revenue; now, usually, a kind of feudatory recognized as an actual proprietor so long as he pays to the government a certain fixed revenue.</def>
+      <altsp>
+         <asp>zemindar</asp>
+      </altsp>
+      <mark>India</mark>
+   </entry>
+   <entry key="Zamindary">
+      <mhw source="1913 Webster">
+         <hw>Zam"in*da*ry</hw>
+         <hw>Zam"in*da*ri</hw>
+      </mhw>
+      <pos>n.</pos>
+      <def>The jurisdiction of a zamindar; the land possessed by a zamindar.</def>
+      <altsp>
+         <asp>zemindary</asp>
+         <asp>zemindari</asp>
+      </altsp>
+   </entry>
+   <entry key="Zamite">
+      <hw source="1913 Webster">Za"mite</hw>
+      <pos>n.</pos>
+      <fld>Paleon</fld>
+      <def>A fossil cycad of the genus <gen>Zamia</gen>.</def>
+   </entry>
+   <entry key="Zamouse">
+      <hw source="1913 Webster">Za*mouse"</hw>
+      <pos>n.</pos>
+      <ety>From a native name</ety>
+      <fld>Zoöl</fld>
+      <def>A West African buffalo (<spn>Bubalus brachyceros</spn>) having short horns depressed at the base, and large ears fringed internally with three rows of long hairs. It is destitute of a dewlap. Called also <altname>short-horned buffalo</altname>, and <altname>bush cow</altname>.</def>
+   </entry>
+   <entry key="Zampogna">
+      <hw source="1913 Webster">‖Zam*po"gna</hw>
+      <pos>n.</pos>
+      <ety>It</ety>
+      <fld>Mus</fld>
+      <def>A sort of bagpipe formerly in use among Italian peasants. It is now almost obsolete.</def>
+      <altsp>
+         <asp>zampugna</asp>
+      </altsp>
+   </entry>
+   <entry key="Zander">
+      <hw source="1913 Webster">Zan"der</hw>
+      <pos>n.</pos>
+      <ety>Cf. D. <ets>zand</ets> sand</ety>
+      <fld>Zoöl</fld>
+      <def>A European pike perch (<spn>Stizostedion lucioperca</spn>) allied to the wall-eye; -- called also <altname>sandari</altname>
+         <altname>sander</altname>
+         <altname>sannat</altname>
+         <altname>schill</altname>, and <altname>zant</altname>.</def>
+   </entry>
+   <entry key="Zandmole">
+      <hw source="1913 Webster">Zand"mole`</hw>
+      <pos>n.</pos>
+      <ety>Cf. D. <ets>zand</ets> sand.  See <er>Sand</er>, and <er>Mole</er> the animal</ety>
+      <fld>Zoöl</fld>
+      <def>The sand mole.</def>
+   </entry>
+   <entry key="Zante">
+      <hw source="1913 Webster">Zan"te</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>See <er>Zantewood</er>.</def>
+   </entry>
+   <entry key="Zante currant">
+      <hw source="1913 Webster">Zan"te cur"rant</hw>. <def>A kind of seedless grape or raisin; -- so called from <ets>Zante</ets>, one of the Ionian Islands.</def>
+   </entry>
+   <entry key="Zantewood">
+      <hw source="1913 Webster">Zan"te*wood`</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>A yellow dyewood; fustet; -- called also <altname>zante</altname>, and <altname>zante fustic</altname>.  See <er>Fustet</er>, and the Note under <er>Fustic</er>.</def>
+      <def>Satinwood (<spn>Chloroxylon Swietenia</spn>).</def>
+   </entry>
+   <entry key="Zantiot">
+      <hw source="1913 Webster">Zan"ti*ot</hw>
+      <pos>n.</pos>
+      <def>A native or inhabitant of Zante, one of the Ionian Islands.</def>
+   </entry>
+   <entry key="Zany">
+      <hw source="1913 Webster">Za"ny</hw>
+      <pos>n.</pos>; <plu>pl.<plw>Zanies</plw>
+         <pr>#</pr>.</plu>
+      <ety>It. <ets>zanni</ets> a buffoon, merry-andrew, orig. same as <ets>Giovanni</ets> John, i. e., merry John, L. <ets>Ioannes</ets>, Gr. �, Heb. <ets>Yōkhānān</ets>, prop., the Lord graciously gave: cf. F. <ets>zani</ets>, fr. the Italian.  Cf. <er>Jenneting</er>
+      </ety>
+      <def>A merry-andrew; a buffoon.</def>
+      <q source="1913 Webster" au="Donne.">Then write that I may follow, and so be
+Thy echo, thy debtor, thy foil, thy <ex>zany</ex>.</q>
+      <q source="1913 Webster" au="Pope.">Preacher at once, and <ex>zany</ex> of thy age.</q>
+   </entry>
+   <entry key="Zany">
+      <hw source="1913 Webster">Za"ny</hw>
+      <pos>v. t.</pos>
+      <def>To mimic.</def>
+      <mark>Obs</mark>
+      <q source="1913 Webster" au="Massinger.">Your part is acted; give me leave at distance
+To <ex>zany</ex> it.</q>
+   </entry>
+   <entry key="Zanyism">
+      <hw source="1913 Webster">Za"ny*ism</hw>
+      <pos>n.</pos>
+      <def au="Coleridge.H. Morley.">State or character of a zany; buffoonery.</def>
+   </entry>
+   <entry key="zap">
+      <hw source="PJC">zap</hw>
+      <pr>zăp</pr>
+      <pos>v. t.</pos>
+      <sn no="1">
+         <def>to shoot, destroy, or inactivate; <as>my TV set was <ex>zapped</ex> by lightning</as>.</def>
+      </sn>
+      <sn no="2">
+         <def>to bomb with an atomic bomb.</def>
+         <syn> nuke, atomize.</syn>
+      </sn>
+      <sn no="3">
+         <def>to cook or heat in a microwave oven.</def>
+         <syn> microwave, micro-cook, nuke.</syn>
+      </sn>
+      <sn no="4">
+         <def>to subject to radiation, a laser beam, a strong electric current, or other potentially destructive treatment.</def>
+      </sn>
+      <sn no="5">
+         <def>to skip over (e. g. a commercial or dull interval in a television program) by using the fast-forward button on a VCR remove control.</def>
+      </sn>
+      <sn no="6">
+         <def>to add interest, color, or attractiveness to; to liven; -- usually used with <ptcl>up</ptcl>.</def>
+         <au>RHUD</au>
+      </sn>
+   </entry>
+   <entry key="Zapas">
+      <hw source="Webster 1913 Suppl.">‖Za*pas"</hw>
+      <pos>n.</pos>
+      <ety>Russ</ety>
+      <def>See <er>Army organization</er>, above.</def>
+   </entry>
+   <entry key="Zapatera">
+      <hw source="Webster 1913 Suppl.">Za`pa*te"ra</hw>
+      <pos>n.</pos>
+      <ety>Sp. <ets>aceituna zapatera</ets>
+      </ety>
+      <fld>Olive trade</fld>
+      <def>A cured olive which has spoiled or is on the verge of decomposition; loosely, an olive defective because of bruises, wormholes, or the like.</def>
+   </entry>
+   <entry key="Zaphara">
+      <hw source="1913 Webster">Zaph"a*ra</hw>
+      <pos>n.</pos>
+      <def>Zaffer.</def>
+   </entry>
+   <entry key="Zaphrentis">
+      <hw source="1913 Webster">‖Za*phren"tis</hw>
+      <pos>n.</pos>
+      <ety>NL</ety>
+      <fld>Paleon</fld>
+      <def>An extinct genus of cyathophylloid corals common in the Paleozoic formations. It is cup-shaped with numerous septa, and with a deep pit in one side of the cup.</def>
+   </entry>
+   <entry key="Zapotilla">
+      <hw source="1913 Webster">Zap`o*til"la</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>See <er>Sapodilla</er>.</def>
+   </entry>
+   <entry key="Zaptiah">
+      <hw source="1913 Webster">Zap"ti*ah</hw>
+      <pos>n.</pos>
+      <def>A Turkish policeman.</def>
+      <altsp>
+         <asp>zaptieh</asp>
+      </altsp>
+   </entry>
+   <entry key="Zarathustrian">
+      <mhw source="1913 Webster">
+         <hw>Zar`a*thus"tri*an</hw>
+         <hw>Zar`a*thus"tric</hw>
+      </mhw>
+      <pos>a.</pos>
+      <def au="Tylor.">Of or pertaining to Zarathustra, or Zoroaster; Zoroastrian.</def>
+   </entry>
+   <entry key="Zarathustrism">
+      <hw source="1913 Webster">Zar`a*thus"trism</hw>
+      <pos>n.</pos>
+      <def>See <er>Zoroastrianism</er>.</def>
+   </entry>
+   <entry key="Zaratite">
+      <hw source="1913 Webster">Zar"a*tite</hw>
+      <pos>n.</pos>
+      <fld>Min</fld>
+      <ety>Named after Gen. <ets>Zarata</ets> of Spain</ety>
+      <def>A hydrous carbonate of nickel occurring as an emerald-green incrustation on chromite; -- called also <altname>emerald nickel</altname>.</def>
+   </entry>
+   <entry key="Zareba">
+      <hw source="1913 Webster">‖Za*re"ba</hw>
+      <pos>n.</pos>
+      <fld>Mil</fld>
+      <def>An improvised stockade; especially, one made of thorn bushes, etc.</def>
+      <altsp>
+         <asp>zareeba</asp>
+         <asp>zeriba</asp>
+      </altsp>
+      <mark>Egypt</mark>
+      <q source="1913 Webster" au="R. Jefferies.">“Ah,” he moralizes, “what wonderful instinct on the part of this little creature to surround itself with a <ex>zareba</ex> like the troops after Osman Digma.”</q>
+   </entry>
+   <entry key="Zarf">
+      <hw source="Webster 1913 Suppl.">Zarf</hw>
+      <pos>n.</pos>
+      <ety>Ar</ety>
+      <fld>Art</fld>
+      <def>A metallic cuplike stand used for holding a finjan.</def>
+   </entry>
+   <entry key="Zarnich">
+      <hw source="1913 Webster">Zar"nich</hw>
+      <pos>n.</pos>
+      <ety>F., fr. Ar. <ets>az-zernīkh</ets>, fr. Gr. �.  See <er>Arsenic</er>
+      </ety>
+      <fld>Min</fld>
+      <def>Native sulphide of arsenic, including sandarach, or realgar, and orpiment.</def>
+   </entry>
+   <entry key="Zärthe">
+      <hw source="1913 Webster">‖Zär"the</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>A European bream (<spn>Abramis vimba</spn>).</def>
+      <altsp>
+         <asp>zaerthe</asp>
+      </altsp>
+   </entry>
+   <entry key="Zastrugi">
+      <hw source="Webster 1913 Suppl.">Zas*tru"gi</hw>
+      <pos>n. pl.</pos>; <plu>sing. <plw>-ga</plw>
+         <pr>#</pr>
+      </plu>. <ety>Russ. <ets>zastruga</ets> furrow made on the shore by water</ety>
+      <def>Grooves or furrows formed in snow by the action of the wind, and running parallel with the direction of the wind. This formation results from the erosion of transverse waves previously formed.</def>
+   </entry>
+   <entry key="Zati">
+      <hw source="1913 Webster">‖Za"ti</hw>
+      <pr>zä"t�</pr>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>A species of macaque (<spn>Macacus pileatus</spn>) native of India and Ceylon. It has a crown of long erect hair, and tuft of radiating hairs on the back of the head. Called also <altname>capped macaque</altname>.</def>
+   </entry>
+   <entry key="Zauschneria">
+      <hw source="1913 Webster">‖Zau*schne"ri*a</hw>
+      <pos>n.</pos>
+      <ety>NL., named for <person>M. <ets>Zauschner</ets>
+         </person>, a Bohemian botanist</ety>
+      <fld>Bot</fld>
+      <def>A genus of flowering plants.  <spn>Zauschneria Californica</spn> is a suffrutescent perennial, with showy red flowers much resembling those of the garden fuchsia.</def>
+   </entry>
+   <entry key="Zax">
+      <hw source="1913 Webster">Zax</hw>
+      <pr>zăks</pr>
+      <pos>n.</pos>
+      <def>A tool for trimming and puncturing roofing slates.</def>
+      <altsp>
+         <asp>sax</asp>
+      </altsp>
+   </entry>
+   <entry key="Zayat">
+      <hw source="1913 Webster">‖Za"yat</hw>
+      <pr>?; 277</pr>
+      <pos>n.</pos>
+      <def>A public shed, or portico, for travelers, worshipers, etc.</def>
+      <mark>Burmah</mark>
+   </entry>
+   <entry key="Zea">
+      <hw source="1913 Webster">‖Ze"a</hw>
+      <pr>zē"ȧ</pr>
+      <pos>n.</pos>
+      <ety>L., a kind of grain, fr. Gr. <grk>ze`a</grk>
+         <grk>zeia`</grk>; cf. Skr. <ets>yava</ets> barley</ety>
+      <fld>Bot</fld>
+      <def>A genus of large grasses of which the Indian corn (<spn>Zea Mays</spn>) is the only species known. Its origin is not yet ascertained.  See <er>Maize</er>.</def>
+   </entry>
+   <entry key="Zeal">
+      <hw source="1913 Webster">Zeal</hw>
+      <pr>zēl</pr>
+      <pos>n.</pos>
+      <ety>F. <ets>zèle</ets>; cf. Pg. &amp; It. <ets>zelo</ets>, Sp. <ets>zelo</ets>
+         <ets>celo</ets>; from L. <ets>zelus</ets>, Gr. �, probably akin to �  to boil.  Cf. <er>Yeast</er>
+         <er>Jealous</er>
+      </ety>
+      <sn no="1">
+         <def>Passionate ardor in the pursuit of anything; eagerness in favor of a person or cause; ardent and active interest; engagedness; enthusiasm; fervor.</def>
+         <q>Ambition varnished o'er with<ex>zeal</ex>.</q>
+         <au>Milton.</au>
+         <q>
+            <ex>Zeal</ex>, the blind conductor of the will.</q>
+         <au>Dryden.</au>
+         <q>
+            <ex>Zeal's</ex>never-dying fire.</q>
+         <au>Keble.</au>
+         <q source="1913 Webster" au="Rom. x. 2.">I bear them record that they have a <ex>zeal</ex> of God, but not according to knowledge.</q>
+         <q source="1913 Webster" au="Johnson.">A <ex>zeal</ex> for liberty is sometimes an eagerness to subvert with little care what shall be established.</q>
+      </sn>
+      <sn no="2">
+         <def>A zealot.</def>
+         <mark au="B. Jonson.">Obs</mark>
+      </sn>
+   </entry>
+   <entry key="Zeal">
+      <hw source="1913 Webster">Zeal</hw>
+      <pos>v. i.</pos>
+      <def>To be zealous.</def>
+      <mark au="Bacon.">Obs. &amp; R</mark>
+   </entry>
+   <entry key="Zealant">
+      <hw source="1913 Webster">Zeal"ant</hw>
+      <pos>n.</pos>
+      <def>One who is zealous; a zealot; an enthusiast.</def>
+      <mark>Obs</mark>
+      <q source="1913 Webster" au="Bacon.">To certain <ex>zealants</ex>, all speech of pacification is odious.</q>
+   </entry>
+   <entry key="Zealed">
+      <hw source="1913 Webster">Zealed</hw>
+      <pos>a.</pos>
+      <def>Full of zeal; characterized by zeal.</def>
+      <mark>Obs</mark>
+      <q au="Beau. &amp; Fl.">
+         <ex>Zealed</ex>religion.</q>
+   </entry>
+   <entry key="Zealful">
+      <hw source="1913 Webster">Zeal"ful</hw>
+      <pos>a.</pos>
+      <def>Full of zeal.</def>
+      <mark au="Sylvester.">R</mark>
+   </entry>
+   <entry key="Zealless">
+      <hw source="1913 Webster">Zeal"less</hw>
+      <pos>a.</pos>
+      <def au="Hammond.">Wanting zeal.</def>
+   </entry>
+   <entry key="Zealot">
+      <hw source="1913 Webster">Zeal"ot</hw>
+      <pos>n.</pos>
+      <ety>F. <ets>zélote</ets>, L. <ets>zelotes</ets>, Gr. �.  See <er>Zeal</er>
+      </ety>
+      <def>One who is zealous; one who engages warmly in any cause, and pursues his object with earnestness and ardor; especially, one who is overzealous, or carried away by his zeal; one absorbed in devotion to anything; an enthusiast; a fanatical partisan.</def>
+      <q source="1913 Webster" au="Sir J. Stephen.">
+         <ex>Zealots</ex> for the one [tradition] were in hostile array against <ex>zealots</ex> for the other.</q>
+      <q source="1913 Webster" au="Macaulay.">In Ayrshire, Clydesdale, Nithisdale, Annandale, every parish was visited by these turbulent <ex>zealots</ex>.</q>
+   </entry>
+   <entry key="Zealotical">
+      <hw source="1913 Webster">Zea*lot"ic*al</hw>
+      <pos>a.</pos>
+      <def>Like, or suitable to, a zealot; ardently zealous.</def>
+      <mark au="Strype.">R</mark>
+   </entry>
+   <entry key="Zealotism">
+      <hw source="1913 Webster">Zeal"ot*ism</hw>
+      <pos>n.</pos>
+      <def>The character or conduct of a zealot; zealotry.</def>
+   </entry>
+   <entry key="Zealotist">
+      <hw source="1913 Webster">Zeal"ot*ist</hw>
+      <pos>n.</pos>
+      <def>A zealot.</def>
+      <mark au="Howell.">Obs</mark>
+   </entry>
+   <entry key="Zealotry">
+      <hw source="1913 Webster">Zeal"ot*ry</hw>
+      <pos>n.</pos>
+      <def>The character and behavior of a zealot; excess of zeal; fanatical devotion to a cause.</def>
+      <q source="1913 Webster" au="Coleridge.">Enthusiasm, visionariness, seems the tendency of the German; zeal, <ex>zealotry</ex>, of the English; fanaticism, of the French.</q>
+   </entry>
+   <entry key="Zealous">
+      <hw source="1913 Webster">Zeal"ous</hw>
+      <wordforms source="1913 Webster">
+         <wf>Zeal"ous*ly</wf>
+         <pos>adv.</pos>
+         <wf>Zeal"ous*ness</wf>
+         <pos>n.</pos>
+      </wordforms>
+      <wordforms>
+         <wf>Zeal"ous*ly</wf>
+         <pos>adv.</pos>
+         <wf>Zeal"ous*ness</wf>
+         <pos>n.</pos>
+      </wordforms>
+      <pr>?; 277</pr>
+      <pos>a.</pos>
+      <ety>LL. <ets>zelosus</ets>.  See <er>Zeal</er>
+      </ety>
+      <sn no="1">
+         <def>Filled with, or characterized by, zeal; warmly engaged, or ardent, in behalf of an object.</def>
+         <q source="1913 Webster" au="Law.">He may be <ex>zealous</ex> in the salvation of souls.</q>
+      </sn>
+      <sn no="2">
+         <def>Filled with religious zeal.</def>
+         <mark au="Shak.">Obs</mark>
+      </sn>
+   </entry>
+   <entry key="Zebec">
+      <hw source="1913 Webster">Ze"bec</hw>
+      <pos>n.</pos>
+      <fld>Naut</fld>
+      <def>See <er>Xebec</er>.</def>
+   </entry>
+   <entry key="Zebra">
+      <hw source="1913 Webster">Ze"bra</hw>
+      <note>☞ The true or mountain zebra (<spn>Equus zebra</spn> syn. <spn>Asinus zebra</spn>) is nearly white, and the bands which cover the body and legs are glossy black.  Its tail has a tuft of black hair at the tip.  It inhabits the mountains of <geog>Central and Southern Africa</geog>, and is noted for its wariness and wildness, as well as for its swiftness.  The second species (<spn>Equus Burchellii</spn> syn. <spn>Asinus Burchellii</spn> or <spn>Equus quagga</spn>), known as <stype>Burchell's zebra</stype>
+         <stype>plains zebra</stype>, and <stype>dauw</stype>, is the most abundant, inhabiting the grassy plains of <geog>tropical and southern Africa</geog>, and differing from the preceding in not having dark bands on the legs, while those on the body are more irregular.  It has a long tail, covered with long white flowing hair.  Grevy's zebra (<spn>Equus grevyi</spn>) is distinct from the others in being placed in the subgenus Dolichohippus, whereas the plains and mountain zebras are placed in the subgenus Hippotigris.  More on zebras can be found at:
+   http://www.imh.org/imh/bw/zebra.html</note>
+      <cs source="1913 Webster">
+         <col>Zebra caterpillar</col>
+         <cd>the larva of an American noctuid moth (<spn>Mamestra picta</spn>). It is light yellow, with a broad black stripe on the back and one on each side; the lateral stripes are crossed with withe lines. It feeds on cabbages, beets, clover, and other cultivated plants.</cd>
+         <col>Zebra opossum</col>
+         <cd>the zebra wolf.  See under <er>Wolf</er>.</cd>
+         <col>Zebra parrakeet</col>
+         <cd>an Australian grass parrakeet, often kept as a cage bird. Its upper parts are mostly pale greenish yellow, transversely barred with brownish black crescents; the under parts, rump, and upper tail coverts, are bright green; two central tail feathers and the cheek patches are blue. Called also <altname>canary parrot</altname>
+            <altname>scallop parrot</altname>
+            <altname>shell parrot</altname>, and <altname>undulated parrot</altname>.</cd>
+         <col>Zebra poison</col>
+         <fld>Bot</fld>
+         <cd>a poisonous tree (<spn>Euphorbia arborea</spn>) of the Spurge family, found in South Africa. Its milky juice is so poisonous that zebras have been killed by drinking water in which its branches had been placed, and it is also used as an arrow poison.</cd>
+         <au>J. Smith (Dict. Econ. Plants).</au>
+         <col>Zebra shark</col>. <cd>Same as <cref>Tiger shark</cref>, under <er>Tiger</er>.</cd>
+         <col>Zebra spider</col>
+         <cd>a hunting spider.</cd>
+         <col>Zebra swallowtail</col>
+         <cd>a very large North American swallow-tailed butterfly (<spn>Iphiclides ajax</spn>), in which the wings are yellow, barred with black; -- called also <altname>ajax</altname>.</cd>
+         <col>Zebra wolf</col>. <cd>See under <er>Wolf</er>.</cd>
+      </cs>
+      <pos>n.</pos>
+      <ety>Pg. <ets>zebra</ets>; cf. Sp. <ets>cebra</ets>; probably from a native African name</ety>
+      <fld>Zoöl</fld>
+      <def>Any member of three species of African wild horses remarkable for having the body white or yellowish white, and conspicuously marked with dark brown or brackish bands.</def>
+   </entry>
+   <entry key="Zebrawood">
+      <hw source="1913 Webster">Ze"bra*wood`</hw>
+      <pos>n.</pos>
+      <def>A kind of cabinet wood having beautiful black, brown, and whitish stripes, the timber of a tropical American tree (<spn>Connarus Guianensis</spn>).</def>
+      <def>The wood of a small West Indian myrtaceous tree (<spn>Eugenia fragrans</spn>).</def>
+      <def>The wood of an East Indian tree of the genus <gen>Guettarda</gen>.</def>
+   </entry>
+   <entry key="Zebrine">
+      <hw source="1913 Webster">Ze"brine</hw>
+      <pos>a.</pos>
+      <fld>Zoöl</fld>
+      <def>Pertaining to, or resembling, the zebra.</def>
+   </entry>
+   <entry key="Zebrinny">
+      <hw source="Webster 1913 Suppl.">Ze*brin"ny</hw>
+      <pos>n.</pos>; <plu>pl.<plw>-nies</plw>.</plu>
+      <def>A cross between a male horse and a female zebra.</def>
+   </entry>
+   <entry key="Zebrula">
+      <mhw source="Webster 1913 Suppl.">
+         <hw>Ze"bru*la</hw>
+         <hw>Ze"brule</hw>
+      </mhw>
+      <pos>n.</pos>
+      <def>A cross between a male zebra and a female horse.</def>
+   </entry>
+   <entry key="Zebu">
+      <hw source="1913 Webster">Ze"bu</hw>
+      <note>☞ Some of the varieties are used as beasts of burden, and some fore for riding, while others are raised for their milk and flesh. The Brahmin bull, regarded as sacred by the Hindoos, also belongs to this species. The male is called also <altname>Indian bull</altname>
+         <altname>Indian ox</altname>
+         <altname>Madras ox</altname>, and <altname>sacred bull</altname>.</note>
+      <pos>n.</pos>
+      <ety>�. <ets>zébu</ets>; of uncertain origin</ety>
+      <fld>Zoöl</fld>
+      <def>A bovine mammal (<spn>Ros Indicus</spn>) extensively domesticated in India, China, the East Indies, and East Africa. It usually has short horns, large pendulous ears, slender legs, a large dewlap, and a large, prominent hump over the shoulders; but these characters vary in different domestic breeds, which range in size from that of the common ox to that of a large mastiff.</def>
+   </entry>
+   <entry key="Zebub">
+      <hw source="1913 Webster">Ze"bub</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>A large noxious fly of Abyssinia, which like the tsetse fly, is destructive to cattle.</def>
+   </entry>
+   <entry key="Zechin">
+      <hw source="1913 Webster">Ze"chin</hw>
+      <pr>?; 277</pr>
+      <pos>n.</pos>
+      <def>See <er>Sequin</er>.</def>
+   </entry>
+   <entry key="Zechstein">
+      <hw source="1913 Webster">‖Zech"stein`</hw>
+      <pos>n.</pos>
+      <ety>Gr., fr. <ets>zeche</ets> a mine + <ets>stein</ets> a stone</ety>
+      <fld>Geol</fld>
+      <def>The upper division of the Permian (Dyas) of Europe. The prevailing rock is a magnesian limestone.</def>
+   </entry>
+   <entry key="Zed">
+      <hw source="1913 Webster">Zed</hw>
+      <pos>n.</pos>
+      <ety>F., probably through It. <ets>zeta</ets>, fr. L. <ets>zeta</ets>.  See <er>Zeta</er>
+      </ety>
+      <def>The letter <er>Z</er>; -- called also <altname>zee</altname>, and formerly <altname>izzard</altname>.</def>
+      <q au="Shak.">
+         <ex>Zed</ex>, thou unnecessary letter!</q>
+   </entry>
+   <entry key="Zedoary">
+      <hw source="1913 Webster">Zed"o*a*ry</hw>
+      <note>☞ It is the rhizome of different species of <spn>Curcuma</spn>, esp. <spn>Curcuma zedoaria</spn>, and comes in short, firm pieces, externally of a wrinkled gray, ash-colored appearance, but within of a brownish red color. There are two kinds, round zedoary, and long zedoary.</note>
+      <pos>n.</pos>
+      <ety>F. <ets>zédoaire</ets>, LL. <ets>zedoaria</ets>; cf. It. <ets>zedoaria</ets>
+         <ets>zettovario</ets>, Pg. <ets>zedoaria</ets>, Sp. <ets>zedoaria</ets>
+         <ets>cedoaria</ets>; all fr. Ar. &amp; Per. <ets>zedw�r</ets>
+      </ety>
+      <fld>Med</fld>
+      <def>A medicinal substance obtained in the East Indies, having a fragrant smell, and a warm, bitter, aromatic taste. It is used in medicine as a stimulant.</def>
+   </entry>
+   <entry key="Zeekoe">
+      <hw source="1913 Webster">‖Zee"koe</hw>
+      <pos>n.</pos>
+      <ety>D., sea cow, lake cow</ety>
+      <fld>Zoöl</fld>
+      <def>A hippopotamus.</def>
+   </entry>
+   <entry key="Zeeman effect">
+      <hw source="Webster 1913 Suppl.">Zee"man ef*fect"</hw>. <fld>Physics</fld>
+      <def>The widening and duplication, triplication, etc., of spectral lines when the radiations emanate in a strong magnetic field, first observed in 1896 by <person>P. <ets>Zeeman</ets>
+         </person>, a Dutch physicist, and regarded as an important confirmation of the electromagnetic theory of light.</def>
+   </entry>
+   <entry key="Zehner">
+      <hw source="1913 Webster">‖Zeh"ner</hw>
+      <pos>n.</pos>
+      <ety>G</ety>
+      <def>An Austrian silver coin equal to ten kreutzers, or about five cents.</def>
+   </entry>
+   <entry key="Zein">
+      <hw source="1913 Webster">Ze"in</hw>
+      <pos>n.</pos>
+      <ety>Cf. F. <ets>zéïne</ets>.  See <er>Zea</er>
+      </ety>
+      <fld>Chem</fld>
+      <def>A nitrogenous substance of the nature of gluten, obtained from the seeds of Indian corn (<spn>Zea</spn>) as a soft, yellowish, amorphous substance.</def>
+      <altsp>
+         <asp>zeine</asp>
+      </altsp>
+   </entry>
+   <entry key="Zeitgeist">
+      <hw source="Webster 1913 Suppl.">‖Zeit"geist`</hw>
+      <pos>n.</pos>
+      <ety>G.; <ets>zeit</ets> time + <ets>geist</ets> spirit. See <er>Tide</er>
+         <pos>n.</pos>; <er>Ghost</er>
+         <pos>n.</pos>
+      </ety>
+      <def>The spirit of the time; the general intellectual and moral state or temper characteristic of any period of time.</def>
+   </entry>
+   <entry key="Zemindar">
+      <hw source="1913 Webster">Zem`in*dar"</hw>
+      <pos>n.</pos>
+      <def>Same as <er>Zamindar</er>.</def>
+   </entry>
+   <entry key="Zemindary">
+      <mhw source="1913 Webster">
+         <hw>Zem"in*da*ry</hw>
+         <hw>‖Zem"in*da*ri</hw>
+      </mhw>
+      <pos>n.</pos>
+      <def>Same as <er>Zamindary</er>.</def>
+   </entry>
+   <entry key="Zemni">
+      <hw source="1913 Webster">Zem"ni</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>The blind mole rat (<spn>Spalax typhlus</spn>), native of Eastern Europe and Asia. Its eyes and ears are rudimentary, and its fur is soft and brownish, more or less tinged with gray. It constructs extensive burrows.</def>
+   </entry>
+   <entry key="Zemstvo">
+      <hw source="Webster 1913 Suppl.">Zem"stvo</hw>
+      <pos>n.</pos>
+      <ety>Russ., fr. <ets>zemlya</ets> land</ety>
+      <def>In Russia, an elective local district and provincial administrative assembly. Originally it was composed of representatives elected by the peasantry, the householders of the towns, and the landed proprietors. In the reign of Alexander III. the power of the noble landowners was increased, the peasants allowed only to elect candidates from whom the governor of the province nominated the deputy, and all acts of the zemstvo subjected to the approval of the governor. Theoretically the zemstvo has large powers relating to taxation, education, public health, etc., but practically these powers are in most cases limited to the adjustment of the state taxation.</def>
+   </entry>
+   <entry key="Zenana">
+      <hw source="1913 Webster">‖Ze*na"na</hw>
+      <pos>n.</pos>
+      <ety>Hind. <ets>zenāna</ets>
+         <ets>zanāna</ets>, fr. Per. <ets>zanāna</ets>, fr. <ets>zan</ets> woman; akin to E. <ets>queen</ets>
+      </ety>
+      <def>The part of a dwelling appropriated to women.</def>
+      <mark>India</mark>
+   </entry>
+   <entry key="Zend">
+      <hw source="1913 Webster">Zend</hw>
+      <pos>n.</pos>
+      <ety>See <er>Zend-Avesta</er>
+      </ety>
+      <def>Properly, the translation and exposition in the Huzvâresh, or literary Pehlevi, language, of the Avesta, the Zoroastrian sacred writings; as commonly used, the language (an ancient Persian dialect) in which the Avesta is written.</def>
+   </entry>
+   <entry key="Zend-Avesta">
+      <hw source="1913 Webster">‖Zend`-A*ves"ta</hw>
+      <pos>n.</pos>
+      <ety>Properly, the <ets>Avesta</ets>, or sacred text, and its <ets>zend</ets>, or interpretation, in a more modern and intelligible language. <au>W. D. Whitney.</au>
+      </ety>
+      <def>The sacred writings of the ancient Persian religion, attributed to Zoroaster, but chiefly of a later date.</def>
+   </entry>
+   <entry key="Zendik">
+      <hw source="1913 Webster">‖Zen"dik</hw>
+      <pos>n.</pos>
+      <ety>Ar. <ets>zandīk</ets>
+      </ety>
+      <def>An atheist or unbeliever; -- name given in the East to those charged with disbelief of any revealed religion, or accused of magical heresies.</def>
+   </entry>
+   <entry key="Zenick">
+      <hw source="1913 Webster">Ze"nick</hw>
+      <note>This term is not found on the internet.  It probably refers to the <er>meerkat</er>, also called suricate.</note>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>A South African burrowing mammal (<spn>Suricata tetradactyla</spn>), allied to the civets. It is grayish brown, with yellowish transverse stripes on the back. Called also <altname>suricat</altname>.</def>
+      <mark>obsolete</mark>
+   </entry>
+   <entry key="Zenik">
+      <hw source="1913 Webster">Ze"nik</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>See <er>Zenick</er>.</def>
+   </entry>
+   <entry key="Zenith">
+      <hw source="1913 Webster">Ze"nith</hw>
+      <cs source="1913 Webster">
+         <col>Zenith distance</col>. <fld>Astron</fld>
+         <cd>See under <er>Distance</er>.</cd>
+         <col>Zenith sector</col>. <fld>Astron</fld>
+         <cd>See <er>Sector</er>, 3.</cd>
+         <col>Zenith telescope</col>
+         <fld>Geodesy</fld>
+         <cd>a telescope specially designed for determining the latitude by means of any two stars which pass the meridian about the same time, and at nearly equal distances from the zenith, but on opposite sides of it. It turns both on a vertical and a horizontal axis, is provided with a graduated vertical semicircle, and a level for setting it to a given zenith distance, and with a micrometer for measuring the difference of the zenith distances of the two stars.</cd>
+      </cs>
+      <pr>?; 277</pr>
+      <pos>n.</pos>
+      <ety>OE. <ets>senyth</ets>, OF. <ets>cenith</ets>, F. <ets>zénith</ets>, Sp. <ets>zenit</ets>
+         <ets>cenit</ets>, abbrev. fr. Ar. <ets>samt-urras</ets> way of the head, vertical place; <ets>samt</ets> way, path + <ets>al</ets> the + <ets>ras</ets> head.  Cf. <er>Azimuth</er>
+      </ety>
+      <sn no="1">
+         <def>That point in the visible celestial hemisphere which is vertical to the spectator; the point of the heavens directly overhead; -- opposed to <ant>nadir</ant>.</def>
+         <q source="1913 Webster" au="Milton.">From morn
+To noon he fell, from noon to dewy eve,
+A summer's day; and with the setting sun
+Dropped from the <ex>zenith</ex>, like a falling star.</q>
+      </sn>
+      <sn no="2">
+         <def>hence, figuratively, the point of culmination; the greatest height; the height of success or prosperity.</def>
+         <q source="1913 Webster" au="Shak.">I find my <ex>zenith</ex> doth depend upon
+A most auspicious star.</q>
+         <q source="1913 Webster" au="Mrs. Barbauld.">This dead of midnight is the noon of thought,
+And wisdom mounts her <ex>zenith</ex> with the stars.</q>
+         <q source="1913 Webster" au="Macaulay.">It was during those civil troubles . . . this aspiring family reached the <ex>zenith</ex>.</q>
+      </sn>
+   </entry>
+   <entry key="Zenithal">
+      <hw source="1913 Webster">Ze"nith*al</hw>
+      <pos>a.</pos>
+      <def>Of or pertaining to the zenith.</def>
+      <q au="Tyndall.">The deep<ex>zenithal</ex>blue.</q>
+   </entry>
+   <entry key="Zeolite">
+      <hw source="1913 Webster">Ze"o*lite</hw>
+      <cs source="1913 Webster">
+         <col>Needle zeolite</col>
+         <cd>needlestone; natrolite.</cd>
+      </cs>
+      <pos>n.</pos>
+      <ety>Gr. � to boil + <ets>-lite</ets>: cf. F. <ets>zéolithe</ets>
+      </ety>
+      <fld>Min</fld>
+      <def>A term now used to designate any one of a family of minerals, hydrous silicates of alumina, with lime, soda, potash, or rarely baryta. Here are included natrolite, stilbite, analcime, chabazite, thomsonite, heulandite, and others. These species occur of secondary origin in the cavities of amygdaloid, basalt, and lava, also, less frequently, in granite and gneiss. So called because many of these species intumesce before the blowpipe.</def>
+   </entry>
+   <entry key="Zeolitic">
+      <hw source="1913 Webster">Ze`o*lit"ic</hw>
+      <pos>a.</pos>
+      <def>Of or pertaining to a zeolite; consisting of, or resembling, a zeolite.</def>
+   </entry>
+   <entry key="Zeolitiform">
+      <hw source="1913 Webster">Ze`o*lit"i*form</hw>
+      <pos>a.</pos>
+      <def>Having the form of a zeolite.</def>
+   </entry>
+   <entry key="Zephyr">
+      <hw source="1913 Webster">Zeph"yr</hw>
+      <cs source="1913 Webster">
+         <col>Zephyr cloth</col>
+         <cd>a thin kind of cassimere made in Belgium; also, a waterproof fabric of wool.</cd>
+         <col>Zephyr shawl</col>
+         <cd>a kind of thin, light, embroidered shawl made of worsted and cotton.</cd>
+         <mcol>
+            <col>Zephyr yarn</col>or<col>Zephyr worsted</col>
+         </mcol>
+         <cd>a fine, soft kind of yarn or worsted, -- used for knitting and embroidery.</cd>
+      </cs>
+      <pos>n.</pos>
+      <ety>L. <ets>zephyrus</ets>, Gr. �, akin to � darkness, the dark side, west: cf. F. <ets>zéphyr</ets>
+      </ety>
+      <def>The west wind; poetically, any soft, gentle breeze.</def>
+      <q au="Gray.">Soft the<ex>zephyr</ex>blows.</q>
+      <q source="1913 Webster" au="Shak.">As gentle
+As <ex>zephyrs</ex> blowing below the violet.</q>
+   </entry>
+   <entry key="Zephyrus">
+      <hw source="1913 Webster">‖Zeph"y*rus</hw>
+      <pos>n.</pos>
+      <ety>L.  See <er>Zephyr</er>
+      </ety>
+      <def>The west wind, or zephyr; -- usually personified, and made the most mild and gentle of all the sylvan deities.</def>
+      <q source="1913 Webster" au="Milton.">Mild as when <ex>Zephyrus</ex> on Flora breathes.</q>
+   </entry>
+   <entry key="Zeppelin">
+      <hw source="Webster 1913 Suppl.">Zep`pe*lin"</hw>
+      <pr>tsĕp`pẽ*lē"; Angl. zĕp"p�*lĭn</pr>
+      <pos>n.</pos>
+      <def>A dirigible balloon of the rigid type, consisting of a cylindrical trussed and covered frame supported by internal gas cells, and provided with means of propulsion and  control. It was first successfully used by <person>Ferdinand Count von Zeppelin</person>.</def>
+   </entry>
+   <entry key="Zequin">
+      <hw source="1913 Webster">Ze"quin</hw>
+      <pos>n.</pos>
+      <def>See <er>Sequin</er>.</def>
+   </entry>
+   <entry key="Zerda">
+      <hw source="1913 Webster">‖Zer"da</hw>
+      <pos>n.</pos>
+      <ety>Of African origin</ety>
+      <fld>Zoöl</fld>
+      <def>The fennec.</def>
+   </entry>
+   <entry key="Zeriba">
+      <hw source="1913 Webster">‖Ze*ri"ba</hw>
+      <pos>n.</pos>
+      <fld>Mil</fld>
+      <def>Same as <er>Zareba</er>.</def>
+   </entry>
+   <entry key="Zero">
+      <hw source="1913 Webster">Ze"ro</hw>
+      <note>☞ <ex>Zero</ex> in the Centigrade, or Celsius thermometer, and in the Réaumur thermometer, is at the point at which water congeals. The zero of the Fahrenheit thermometer is fixed at the point at which the mercury stands when immersed in a mixture of snow and common salt. In Wedgwood's pyrometer, the zero corresponds with 1077° on the Fahrenheit scale.  See <ex>Illust.</ex> of <er>Thermometer</er>.</note>
+      <cs source="1913 Webster">
+         <col>Absolute zero</col>. <cd>See under <er>Absolute</er>.</cd>
+         <col>Zero method</col>
+         <fld>Physics</fld>
+         <cd>a method of comparing, or measuring, forces, electric currents, etc., by so opposing them that the pointer of an indicating apparatus, or the needle of a galvanometer, remains at, or is brought to, zero, as contrasted with methods in which the deflection is observed directly; -- called also <altname>null method</altname>.</cd>
+         <col>Zero point</col>
+         <cd>the point indicating zero, or the commencement of a scale or reckoning.</cd>
+      </cs>
+      <pos>n.</pos>; <plu>pl.<plw>Zeros</plw>
+         <pr>#</pr> or <plw>Zeroes</plw>.</plu>
+      <ety>F. <ets>zéro</ets>, from Ar. <ets>çafrun</ets>
+         <ets>çifrun</ets>, empty, a cipher.  Cf. <er>Cipher</er>
+      </ety>
+      <sn no="1">
+         <fld>Arith</fld>
+         <def>A cipher; nothing; naught.</def>
+      </sn>
+      <sn no="2">
+         <def>The point from which the graduation of a scale, as of a thermometer, commences.</def>
+      </sn>
+      <sn no="3">
+         <def>Fig.: The lowest point; the point of exhaustion; <as>as, his patience had nearly reached <ex>zero</ex>
+            </as>.</def>
+      </sn>
+   </entry>
+   <entry key="Zest">
+      <hw source="1913 Webster">Zest</hw>
+      <pos>n.</pos>
+      <ety>F. <ets>zeste</ets>, probably fr. L. <ets>schistos</ets> split, cleft, divided, Gr. �, from � to split, cleave.  Cf. <er>Schism</er>
+      </ety>
+      <sn no="1">
+         <def>A piece of orange or lemon peel, or the aromatic oil which may be squeezed from such peel, used to give flavor to liquor, etc.</def>
+      </sn>
+      <sn no="2">
+         <def>Hence, something that gives or enhances a pleasant taste, or the taste itself; an appetizer; also, keen enjoyment; relish; gusto.</def>
+         <q source="1913 Webster" au="Young.">Almighty Vanity! to thee they owe
+Their <ex>zest</ex> of pleasure, and their balm of woe.</q>
+         <q source="1913 Webster" au="Gogan.">Liberality of disposition and conduct gives the highest <ex>zest</ex> and relish to social intercourse.</q>
+      </sn>
+      <sn no="3">
+         <def>The woody, thick skin inclosing the kernel of a walnut.</def>
+         <mark>Obs</mark>
+      </sn>
+   </entry>
+   <entry key="Zest">
+      <hw source="1913 Webster">Zest</hw>
+      <pos>v. t.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Zested</conjf>; <pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Zesting</conjf>
+      </vmorph>
+      <sn no="1">
+         <def>To cut into thin slips, as the peel of an orange, lemon, etc.; to squeeze, as peel, over the surface of anything.</def>
+      </sn>
+      <sn no="2">
+         <def au="Gibber.">To give a relish or flavor to; to heighten the taste or relish of; <as>as, to <ex>zest</ex> wine</as>.</def>
+      </sn>
+   </entry>
+   <entry key="Zeta">
+      <hw source="1913 Webster">‖Ze"ta</hw>
+      <pos>n.</pos>
+      <ety>L., from Gr. �.  Cf. <er>Zed</er>
+      </ety>
+      <def>A Greek letter [ζ] corresponding to our z.</def>
+   </entry>
+   <entry key="Zetetic">
+      <hw source="1913 Webster">Ze*tet"ic</hw>
+      <cs source="1913 Webster">
+         <col>Zetetic method</col>
+         <fld>Math</fld>
+         <cd>the method used for finding the value of unknown quantities by direct search, in investigation, or in the solution of problems.</cd>
+         <mark>R</mark>
+         <au>Hutton.</au>
+      </cs>
+      <pos>a.</pos>
+      <ety>Gr. �, fr. � to seek: cf. F. <ets>zététique</ets>
+      </ety>
+      <def>Seeking; proceeding by inquiry.</def>
+   </entry>
+   <entry key="Zetetic">
+      <hw source="1913 Webster">Ze*tet"ic</hw>
+      <pos>n.</pos>
+      <def>A seeker; -- a name adopted by some of the Pyrrhonists.</def>
+   </entry>
+   <entry key="Zetetics">
+      <hw source="1913 Webster">Ze*tet"ics</hw>
+      <pos>n.</pos>
+      <ety>See <er>Zetetic</er>
+         <pos>a.</pos>
+      </ety>
+      <fld>Math</fld>
+      <def>A branch of algebra which relates to the direct search for unknown quantities.</def>
+      <mark>R</mark>
+   </entry>
+   <entry key="Zeuglodon">
+      <hw source="1913 Webster">Zeu"glo*don</hw>
+      <pos>n.</pos>
+      <ety>Gr. � the strap or loop of a yoke + �, �, tooth</ety>
+      <fld>Paleon</fld>
+      <def>A genus of extinct Eocene whales, remains of which have been found in the Gulf States. The species had very long and slender bodies and broad serrated teeth.  See <er>Phocodontia</er>.</def>
+   </entry>
+   <entry key="Zeuglodont">
+      <hw source="1913 Webster">Zeu"glo*dont</hw>
+      <fld>Zoöl</fld>
+      <def>Any species of Zeuglodonta.</def>
+   </entry>
+   <entry key="Zeuglodonta">
+      <hw source="1913 Webster">‖Zeu`glo*don"ta</hw>
+      <pos>n. pl.</pos>
+      <ety>NL</ety>
+      <fld>Zoöl</fld>
+      <def>Same as <er>Phocodontia</er>.</def>
+   </entry>
+   <entry key="Zeugma">
+      <hw source="1913 Webster">Zeug"ma</hw>
+      <pos>n.</pos>
+      <ety>L., from Gr. �, fr. � to yoke, join.  See <er>Yoke</er>
+      </ety>
+      <fld>Gram</fld>
+      <def>A figure by which an adjective or verb, which agrees with a nearer word, is, by way of supplement, referred also to another more remote; <as>as, “hic illius <ex>arma</ex>, hic <ex>currus fuit</ex>;” where <ex>fuit</ex>, which agrees directly with <ex>currus</ex>, is referred also to <ex>arma</ex>
+         </as>.</def>
+   </entry>
+   <entry key="Zeugmatic">
+      <hw source="1913 Webster">Zeug*mat"ic</hw>
+      <pos>a.</pos>
+      <def>Of or pertaining to zeugma; characterized by zeugma.</def>
+   </entry>
+   <entry key="Zeugobranchiata">
+      <hw source="1913 Webster">‖Zeu`go*bran`chi*a"ta</hw>
+      <pos>n. pl.</pos>
+      <ety>NL., fr. Gr. � to yoke + � a gill</ety>
+      <fld>Zoöl</fld>
+      <def>Same as <er>Zygobranchia</er>.</def>
+   </entry>
+   <entry key="Zeus">
+      <hw source="1913 Webster">Zeus</hw>
+      <pos>n.</pos>
+      <fld>Gr. Myth</fld>
+      <def>The chief deity of the Greeks, and ruler of the upper world (cf. <er>Hades</er>). He was identified with <ex>Jupiter</ex>.</def>
+   </entry>
+   <entry key="Zeuzerian">
+      <hw source="1913 Webster">Zeu*ze"ri*an</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>Any one of a group of bombycid moths of which the genus <gen>Zeuzera</gen> is the type. Some of these moths are of large size. The goat moth is an example.</def>
+   </entry>
+   <entry key="Zeylanite">
+      <hw source="1913 Webster">Zey"lan*ite</hw>
+      <pos>n.</pos>
+      <fld>Min</fld>
+      <def>See <er>Ceylanite</er>.</def>
+   </entry>
+   <entry key="Zibet">
+      <mhw source="1913 Webster">
+         <hw>Zib"et</hw>
+         <hw>Zib"eth</hw>
+      </mhw>
+      <note>☞ It inhabits India, Southern China, and the East Indies. It yields a perfume similar to that of the civet. It is often domesticated by the natives, and then serves the same purposes as the domestic cat. Called also <altname>Asiatic civet</altname>or<altname>Indian civet</altname>.</note>
+      <pos>n.</pos>
+      <ety>Cf. It. <ets>zibetto</ets>.  See <er>Civet</er>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>A carnivorous mammal (<spn>Viverra zibetha</spn>) closely allied to the civet, from which it differs in having the spots on the body less distinct, the throat whiter, and the black rings on the tail more numerous.</def>
+   </entry>
+   <entry key="Ziega">
+      <hw source="1913 Webster">Zie"ga</hw>
+      <pos>n.</pos>
+      <def au="Brande &amp; C.">Curd produced from milk by adding acetic acid, after rennet has ceased to cause coagulation.</def>
+   </entry>
+   <entry key="Zietrisikite">
+      <hw source="1913 Webster">Zie`tri*si"kite</hw>
+      <pos>n.</pos>
+      <fld>Min</fld>
+      <def>A mineral wax, vert similar to ozocerite. It is found at <ets>Zietrisika</ets>, Moldavia, whence its name.</def>
+   </entry>
+   <entry key="Zif">
+      <hw source="1913 Webster">‖Zif</hw>
+      <pos>n.</pos>
+      <ety>Heb. <ets>ziv</ets>
+      </ety>
+      <def>The second month of the Jewish ecclesiastical year, corresponding to our May.</def>
+   </entry>
+   <entry key="Zigger">
+      <mhw source="1913 Webster">
+         <hw>Zig"ger</hw>
+         <hw>Zig"hyr</hw>
+      </mhw>
+      <pos>v. i.</pos>
+      <fld>Mining</fld>
+      <def>Same as <er>Sicker</er>.</def>
+      <mark au="Raymond.">Prov. Eng</mark>
+   </entry>
+   <entry key="Ziggurat">
+      <hw source="Webster 1913 Suppl.">Zig"gu*rat</hw>
+      <pos>n.</pos>
+      <def>A temple tower of the Babylonians or Assyrians, consisting of a lofty pyramidal structure, built in successive stages, with outside staircases, and a shrine at the top; -- called also <altname>zikkurat</altname>.</def>
+   </entry>
+   <entry key="Zigzag">
+      <hw source="1913 Webster">Zig"zag`</hw>
+      <pos>n.</pos>
+      <ety>F. <ets>zigzag</ets>, G. <ets>zickzack</ets>, from <ets>zacke</ets>
+         <ets>zacken</ets>, a dentil, tooth.  Cf. <er>Tack</er> a small nail</ety>
+      <sn no="1">
+         <def>Something that has short turns or angles.</def>
+         <q source="1913 Webster" au="Burke.">The fanatics going straight forward and openly, the politicians by the surer mode of <ex>zigzag</ex>.</q>
+      </sn>
+      <sn no="2">
+         <fld>Arch</fld>
+         <def>A molding running in a zigzag line; a chevron, or series of chevrons.  See <ex>Illust.</ex> of <er>Chevron</er>, 3.</def>
+      </sn>
+      <sn no="3">
+         <fld>Fort</fld>
+         <def>See <er>Boyau</er>.</def>
+      </sn>
+   </entry>
+   <entry key="Zigzag">
+      <hw source="1913 Webster">Zig"zag`</hw>
+      <pos>a.</pos>
+      <def>Having short, sharp turns; running this way and that in an onward course.</def>
+   </entry>
+   <entry key="Zigzag">
+      <hw source="1913 Webster">Zig"zag`</hw>
+      <pos>v. t.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Zigzagged</conjf>; <pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Zigzagging</conjf>
+      </vmorph>
+      <def>To form with short turns.</def>
+   </entry>
+   <entry key="Zigzag">
+      <hw source="1913 Webster">Zig"zag`</hw>
+      <pos>v. i.</pos>
+      <def au="R. Browning.">To move in a zigzag manner; also, to have a zigzag shape.</def>
+   </entry>
+   <entry key="Zigzaggery">
+      <hw source="1913 Webster">Zig"zag`ger*y</hw>
+      <pos>n.</pos>
+      <def>The quality or state of being zigzag; crookedness.</def>
+      <mark>R</mark>
+      <q source="1913 Webster" au="Sterne.">The . . . <ex>zigzaggery</ex> of my father's approaches.</q>
+   </entry>
+   <entry key="Zigzaggy">
+      <hw source="1913 Webster">Zig"zag`gy</hw>
+      <pos>a.</pos>
+      <def au="Barham.">Having sharp turns.</def>
+   </entry>
+   <entry key="Zikkurat">
+      <hw source="Webster 1913 Suppl.">Zik"ku*rat</hw>
+      <pos>n.</pos>
+      <def>A temple tower of the Babylonians or Assyrians, consisting of a lofty pyramidal structure, built in successive stages, with outside staircases, and a shrine at the top; -- called also <altname>ziggurat</altname>.</def>
+   </entry>
+   <entry key="Zilla">
+      <hw source="1913 Webster">Zil"la</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>A low, thorny, suffrutescent, crucifeous plant (<spn>Zilla myagroides</spn>) found in the deserts of Egypt. Its leaves are boiled in water, and eaten, by the Arabs.</def>
+   </entry>
+   <entry key="Zillah">
+      <hw source="1913 Webster">‖Zil"lah</hw>
+      <pos>n.</pos>
+      <ety>Ar. <ets>zila</ets>
+      </ety>
+      <def>A district or local division, as of a province.</def>
+      <mark>India</mark>
+   </entry>
+   <entry key="Zimb">
+      <hw source="1913 Webster">‖Zimb</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>A large, venomous, two-winged fly, native of Abyssinia. It is allied to the tsetse fly, and, like the latter, is destructive to cattle.</def>
+   </entry>
+   <entry key="Ziment-water">
+      <hw source="1913 Webster">Zim"ent-wa`ter</hw>
+      <pos>n.</pos>
+      <ety>G. <ets>cement-wasser</ets>.  See <er>Cement</er>
+      </ety>
+      <def>A kind of water found in copper mines; water impregnated with copper.</def>
+   </entry>
+   <entry key="Zimocca">
+      <hw source="Webster 1913 Suppl.">Zi*moc"ca</hw>
+      <pos>n.</pos>
+      <def>A sponge (<spn>Euspongia zimocca</spn>) of flat form and fine quality, from the Adriatic, about the Greek islands, and the coast of Barbary.</def>
+   </entry>
+   <entry key="Zinc">
+      <hw source="1913 Webster">Zinc</hw>
+      <cs source="1913 Webster">
+         <col>Butter of zinc</col>
+         <fld>Old Chem</fld>
+         <cd>zinc chloride, <chform>ZnCl2</chform>, a deliquescent white waxy or oily substance.</cd>
+         <col>Oxide of zinc</col>. <fld>Chem</fld>
+         <cd>See <cref>Zinc oxide</cref>, below.</cd>
+         <col>Zinc amine</col>
+         <fld>Chem</fld>
+         <cd>a white amorphous substance, <chform>Zn(NH2)2</chform>, obtained by the action of ammonia on zinc ethyl; -- called also <altname>zinc amide</altname>.</cd>
+         <col>Zinc amyle</col>
+         <fld>Chem</fld>
+         <cd>a colorless, transparent liquid, composed of zinc and amyle, which, when exposed to the atmosphere, emits fumes, and absorbs oxygen with rapidity.</cd>
+         <col>Zinc blende</col>
+         <ety>cf. G. <ets>zinkblende</ets>
+         </ety>
+         <fld>Min</fld>
+         <cd>a native zinc sulphide.  See <er>Blende</er>
+            <pos>n.</pos>.</cd>
+         <col>Zinc bloom</col>
+         <ety>cf. G. <ets>zinkblumen</ets> flowers of zinc, oxide of zinc</ety>
+         <fld>Min</fld>
+         <cd>hydrous carbonate of zinc, usually occurring in white earthy incrustations; -- called also <altname>hydrozincite</altname>.</cd>
+         <col>Zinc ethyl</col>
+         <fld>Chem</fld>
+         <cd>a colorless, transparent, poisonous liquid, composed of zinc and ethyl, which takes fire spontaneously on exposure to the atmosphere.</cd>
+         <col>Zinc green</col>
+         <cd>a green pigment consisting of zinc and cobalt oxides; -- called also <altname>Rinmann's green</altname>.</cd>
+         <col>Zinc methyl</col>
+         <fld>Chem</fld>
+         <cd>a colorless mobile liquid <chform>Zn(CH3)2</chform>, produced by the action of methyl iodide on a zinc sodium alloy.  It has a disagreeable odor, and is spontaneously inflammable in the air. It has been of great importance in the synthesis of organic compounds, and is the type of a large series of similar compounds, as <ex>zinc ethyl</ex>
+            <ex>zinc amyle</ex>, etc.</cd>
+         <col>Zinc oxide</col>
+         <fld>Chem</fld>
+         <cd>the oxide of zinc, <chform>ZnO</chform>, forming a light fluffy sublimate when zinc is burned; -- called also <altname>flowers of zinc</altname>
+            <altname>philosopher's wool</altname>
+            <altname>nihil album</altname>, etc. The impure oxide produced by burning the metal, roasting its ores, or in melting brass, is called also <altname>pompholyx</altname>, and <altname>tutty</altname>.</cd>
+         <col>Zinc spinel</col>
+         <fld>Min</fld>
+         <cd>a mineral, related to spinel, consisting essentially of the oxides of zinc and aluminium; gahnite.</cd>
+         <col>Zinc vitriol</col>
+         <fld>Chem</fld>
+         <cd>zinc sulphate.  See <cref>White vitriol</cref>, under <er>Vitriol</er>.</cd>
+         <col>Zinc white</col>
+         <cd>a white powder consisting of zinc oxide, used as a pigment.</cd>
+      </cs>
+      <pr>zĭṉk</pr>
+      <pos>n.</pos>
+      <ety>G. <ets>zink</ets>, probably akin to <ets>zinn</ets> tin: cf. F. <ets>zinc</ets>, from the German.  Cf. <er>Tin</er>
+      </ety>
+      <fld>Chem</fld>
+      <def>An abundant element of the magnesium-cadmium group, extracted principally from the minerals zinc blende, smithsonite, calamine, and franklinite, as an easily fusible bluish white metal, which is malleable, especially when heated. It is not easily oxidized in moist air, and hence is used for sheeting, coating galvanized iron, etc. It is used in making brass, britannia, and other alloys, and is also largely consumed in electric batteries. Symbol Zn. Atomic number 30. Atomic weight 65.38.</def>
+      <altsp>
+         <asp>zink</asp>
+      </altsp>
+   </entry>
+   <entry key="Zinc">
+      <hw source="1913 Webster">Zinc</hw>
+      <pos>v. t.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Zincked</conjf>or<conjf>Zinced</conjf>; <pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Zincking</conjf>or<conjf>Zincing</conjf>
+      </vmorph>
+      <def>To coat with zinc; to galvanize.</def>
+   </entry>
+   <entry key="Zincane">
+      <hw source="1913 Webster">Zinc"ane</hw>
+      <pos>n.</pos>
+      <fld>Chem</fld>
+      <def>Zinc chloride.</def>
+      <mark>Obs</mark>
+   </entry>
+   <entry key="Zincic">
+      <hw source="1913 Webster">Zinc"ic</hw>
+      <pos>a.</pos>
+      <fld>Chem</fld>
+      <def>Pertaining to, containing, or resembling, zinc; zincous.</def>
+   </entry>
+   <entry key="Zincide">
+      <hw source="1913 Webster">Zinc"ide</hw>
+      <pos>n.</pos>
+      <def>A binary compound of zinc.</def>
+      <mark>R</mark>
+   </entry>
+   <entry key="Zinciferous">
+      <hw source="1913 Webster">Zinc*if"er*ous</hw>
+      <pos>a.</pos>
+      <ety>
+         <ets>Zinc</ets> + <ets>-ferous</ets>
+      </ety>
+      <def>Containing or affording zinc.</def>
+   </entry>
+   <entry key="Zincification">
+      <hw source="1913 Webster">Zinc`i*fi*ca"tion</hw>
+      <pos>n.</pos>
+      <def>The act or process of applying zinc; the condition of being zincified, or covered with zinc; galvanization.</def>
+   </entry>
+   <entry key="Zincify">
+      <hw source="1913 Webster">Zinc"i*fy</hw>
+      <pos>v. t.</pos>
+      <ety>
+         <ets>Zinc</ets> + <ets>-fy</ets>
+      </ety>
+      <fld>Metal</fld>
+      <def>To coat or impregnate with zinc.</def>
+   </entry>
+   <entry key="Zincite">
+      <hw source="1913 Webster">Zinc"ite</hw>
+      <pos>n.</pos>
+      <fld>Min</fld>
+      <def>Native zinc oxide; a brittle, translucent mineral, of an orange-red color; -- called also <altname>red zinc ore</altname>, and <altname>red oxide of zinc</altname>.</def>
+   </entry>
+   <entry key="Zincking">
+      <mhw source="1913 Webster">
+         <hw>Zinck"ing</hw>or<hw>Zinc"ing</hw>
+      </mhw>
+      <pos>n.</pos>
+      <fld>Metal</fld>
+      <def>The act or process of applying zinc; galvanization.</def>
+   </entry>
+   <entry key="Zincky">
+      <hw source="1913 Webster">Zinck"y</hw>
+      <pos>a.</pos>
+      <def>Pertaining to zinc, or having its appearance.</def>
+      <altsp>
+         <asp>zinky</asp>
+      </altsp>
+   </entry>
+   <entry key="Zinco-">
+      <hw source="1913 Webster">Zin"co-</hw>. <def>A combining form from <ex>zinc</ex>; in chemistry, designating <ex>zinc</ex> as an element of certain double compounds. Also used adjectively.</def>
+   </entry>
+   <entry key="Zincode">
+      <hw source="1913 Webster">Zinc"ode</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zinc</ets> + <ets>-ode</ets>, as in <ets>electrode</ets>
+      </ety>
+      <fld>Elec</fld>
+      <def>The positive electrode of an electrolytic cell; anode.</def>
+      <mark au="Miller.">R</mark>
+   </entry>
+   <entry key="Zincograph">
+      <hw source="Webster 1913 Suppl.">Zin"co*graph</hw>
+      <pos>n.</pos>
+      <def>A zinc plate prepared for printing by zincography; also, a print from such a plate.</def>
+   </entry>
+   <entry key="Zincographer">
+      <hw source="1913 Webster">Zin*cog"ra*pher</hw>
+      <pos>n.</pos>
+      <def>An engraver on zinc.</def>
+   </entry>
+   <entry key="Zincongraphic">
+      <mhw source="1913 Webster">
+         <hw>Zin`con*graph"ic</hw>
+         <hw>Zin`con*graph"ic*al</hw>,</mhw>
+      <pos>a.</pos>
+      <def>Of or pertaining to zincography; <as>as, <ex>zincographic</ex> processes</as>.</def>
+   </entry>
+   <entry key="Zincography">
+      <hw source="1913 Webster">Zin*cog"ra*phy</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zinco-</ets> + <ets>-graphy</ets>
+      </ety>
+      <def>The art or process of engraving or etching on zinc, in which the design is left in relief in the style of a wood cut, the rest of the ground being eaten away by acid.</def>
+   </entry>
+   <entry key="Zincoid">
+      <hw source="1913 Webster">Zinc"oid</hw>
+      <pos>a.</pos>
+      <ety>
+         <ets>Zinc</ets> + <ets>-oid</ets>
+      </ety>
+      <def>Pertaining to, or resembling, zinc; -- said of the electricity of the zincous plate in connection with a copper plate in a voltaic circle; also, designating the positive pole.</def>
+      <mark>Obs</mark>
+   </entry>
+   <entry key="Zinco-polar">
+      <hw source="1913 Webster">Zin`co-po"lar</hw>
+      <pos>a.</pos>
+      <ety>
+         <ets>Zinco-</ets> + <ets>polar</ets>
+      </ety>
+      <fld>Elec</fld>
+      <def>Electrically polarized like the surface of the zinc presented to the acid in a battery, which has zincous affinity.</def>
+      <mark>Obs</mark>
+   </entry>
+   <entry key="Zincous">
+      <hw source="1913 Webster">Zinc"ous</hw>
+      <pos>a.</pos>
+      <sn no="1">
+         <fld>Chem</fld>
+         <sd no="a">
+            <def>Of, pertaining to, or containing, zinc; zincic; <as>as, <ex>zincous</ex> salts</as>.</def>
+         </sd>
+         <sd no="b">
+            <def>Hence, formerly, basic, basylous, as opposed to <contr>chlorous</contr>.</def>
+         </sd>
+      </sn>
+      <sn no="2">
+         <fld>Physics</fld>
+         <def>Of or pertaining to the positive pole of a galvanic battery; electro-positive.</def>
+      </sn>
+   </entry>
+   <entry key="zine">
+      <mhw source="PJC">
+         <hw>zine</hw>
+         <hw>'zine</hw>
+      </mhw>
+      <pr>zēn</pr>
+      <pos>n.</pos>
+      <ety>shortened from maga<ets>zine</ets>
+      </ety>
+      <def>A publication similar to a magazine{4} but in electronic rather than printed form, maintained as data files on a computer and accessible via the <er>world wide web</er>.</def>
+   </entry>
+   <entry key="Zingaro">
+      <hw source="1913 Webster">‖Zin"ga*ro</hw>
+      <pos>n.</pos>; <plu>pl.<plw>Zingari</plw>
+         <pr>#</pr>.</plu>
+      <ety>It</ety>
+      <def>A gypsy.</def>
+   </entry>
+   <entry key="Zingel">
+      <hw source="1913 Webster">Zing"el</hw>
+      <pr>zĭng"�l</pr>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>A small, edible, freshwater European perch (<spn>Aspro zingel</spn>), having a round, elongated body and prominent snout.</def>
+   </entry>
+   <entry key="Zingiberaceous">
+      <hw source="1913 Webster">Zin`gi*ber*a"ceous</hw>
+      <pr>zĭn`jĭ*bẽr*ā"shŭs</pr>
+      <pos>a.</pos>
+      <ety>L. <ets>zingiber</ets> ginger.  See <er>Ginger</er>
+      </ety>
+      <fld>Bot</fld>
+      <def>Of or pertaining to ginger, or to a tribe (<spn>Zingibereæ</spn>) of endogenous plants of the order <ord>Scitamineæ</ord>.  See <er>Scitamineous</er>.</def>
+   </entry>
+   <entry key="Zink">
+      <hw source="1913 Webster">Zink</hw>
+      <pr>zĭṉk</pr>
+      <pos>n.</pos>
+      <fld>Chem</fld>
+      <def>See <er>Zinc</er>.</def>
+      <mark>Obs</mark>
+   </entry>
+   <entry key="Zinkenite">
+      <hw source="1913 Webster">Zink"en*ite</hw>
+      <pr>-�n*īt</pr>
+      <pos>n.</pos>
+      <ety>From <ets>Zinken</ets>, director at one time of the Hanoverian mines</ety>
+      <fld>Min</fld>
+      <def>A steel-gray metallic mineral, a sulphide of antimony and lead.</def>
+   </entry>
+   <entry key="Zinky">
+      <hw source="1913 Webster">Zink"y</hw>
+      <pos>a.</pos>
+      <def au="Kirwan.">See <er>Zincky</er>.</def>
+   </entry>
+   <entry key="Zinnia">
+      <hw source="1913 Webster">‖Zin"ni*a</hw>
+      <pos>n.</pos>
+      <ety>NL. So called after Professor <ets>Zinn</ets>, of Göttingen</ety>
+      <fld>Bot</fld>
+      <def>Any plant of the composite genus <gen>Zinnia</gen>, Mexican herbs with opposite leaves and large gay-colored blossoms. <spn>Zinnia elegans</spn> is the commonest species in cultivation.</def>
+   </entry>
+   <entry key="Zinnwaldite">
+      <hw source="1913 Webster">Zinn"wald*ite</hw>
+      <pos>n.</pos>
+      <ety>So called after <ets>Zinnwald</ets>, in Bohemia, where it occurs</ety>
+      <fld>Min</fld>
+      <def>A kind of mica containing lithium, often associated with tin ore.</def>
+   </entry>
+   <entry key="Zinsang">
+      <hw source="1913 Webster">Zin"sang</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>The delundung.</def>
+   </entry>
+   <entry key="Zinziberaceous">
+      <hw source="1913 Webster">Zin`zi*ber*a"ceous</hw>
+      <pos>a.</pos>
+      <fld>Bot</fld>
+      <def>Same as <er>Zingiberaceous</er>.</def>
+   </entry>
+   <entry key="Zion">
+      <hw source="1913 Webster">Zi"on</hw>
+      <pos>n.</pos>
+      <ety>Heb. <ets>tsīyōn</ets>, originally, a hill</ety>
+      <sn no="1">
+         <fld>Jewish Antiq</fld>
+         <def>A hill in Jerusalem, which, after the capture of that city by the Israelites, became the royal residence of David and his successors.</def>
+      </sn>
+      <sn no="2">
+         <def>Hence, the theocracy, or church of God.</def>
+      </sn>
+      <sn no="3">
+         <def>The heavenly Jerusalem; heaven.</def>
+      </sn>
+   </entry>
+   <entry key="Zionism">
+      <hw source="Webster 1913 Suppl.">Zi"on*ism</hw>
+      <wordforms>
+         <wf>Zi"on*ist</wf>
+         <pos>n.</pos>
+         <wf>Zi`on*is"tic</wf>
+         <pr>#</pr>
+         <pos>a.</pos>
+      </wordforms>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zion</ets> + <ets>-ism</ets>
+      </ety>
+      <def>Among the Jews, a theory, plan, or movement for colonizing their own race in Palestine, the land of Zion, or, if that is impracticable, elsewhere, either for religious or nationalizing purposes; -- called also <altname>Zion movement</altname>.</def>
+   </entry>
+   <entry key="Zip">
+      <hw source="Webster 1913 Suppl.">Zip</hw>
+      <pr>zĭp</pr>
+      <pos>n.</pos>
+      <ety>Imitative</ety>
+      <def>A hissing or sibilant sound such as that made by a flying bullet.</def>
+   </entry>
+   <entry key="Zip">
+      <hw source="Webster 1913 Suppl.">Zip</hw>
+      <pos>v. i.</pos>
+      <def>To make, or move with, such a sound.</def>
+   </entry>
+   <entry key="zip + 4">
+      <hw source="PJC">zip + 4</hw>
+      <pr>zĭp" plŭs fōr`</pr>
+      <pos>n.</pos>
+      <def>a full nine-digit <stype>zip code</stype>.  See <er>zip code</er>.</def>
+   </entry>
+   <entry key="zip code">
+      <hw source="PJC">zip" code`</hw>
+      <pr>zĭp"kōd`</pr>
+      <pos>n.</pos>
+      <ety>
+         <ets>z</ets>one <ets>i</ets>mprovement <ets>p</ets>lan</ety>
+      <def>any one of a set of numbers assigned by the United States Postal Service to designate a particular postal delivery area. One or more <ex>zip codes</ex> are assigned to each post office.  The numbers initially had five digits (the <part>initial code</part>), indicating state and post office.  Later, four more optional digits were added (the <part>expanded code</part>) indicating the box number or delivery route.  The full set of nine digits is also referred to as <stype>zip + 4</stype>.  The code is appended in an address to the line bearing the city and state names, as in “Plainfield, NJ 07062”.</def>
+      <altsp>
+         <asp>ZIP code</asp>
+         <asp>Zip code</asp>
+      </altsp>
+   </entry>
+   <entry key="zip-code">
+      <hw source="PJC">zip"-code`</hw>
+      <pr>zĭp"kōd`</pr>
+      <pos>v. t.</pos>
+      <def>to affix a <er>zip code</er> to (an address or a letter).</def>
+   </entry>
+   <entry key="Ziphioid">
+      <hw source="1913 Webster">Ziph"i*oid</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>See <er>Xiphioid</er>.</def>
+   </entry>
+   <entry key="Zirco-">
+      <hw source="1913 Webster">Zir"co-</hw>. <fld>Chem</fld>
+      <def>A combining form (also used adjectively) designating <ex>zirconium</ex> as an element of certain double compounds; zircono-; as in <ex>zirco</ex>fluoric acid, sodium <ex>zirco</ex>fluoride.</def>
+   </entry>
+   <entry key="Zircofluoride">
+      <hw source="1913 Webster">Zir`co*flu"or*ide</hw>
+      <pos>n.</pos>
+      <fld>Chem</fld>
+      <def>A double fluoride of zirconium and hydrogen, or some other positive element or radical; <as>as, <ex>zircofluoride</ex> of sodium</as>.</def>
+   </entry>
+   <entry key="Zircon">
+      <hw source="1913 Webster; +PJC">Zir"con</hw>
+      <cs source="1913 Webster">
+         <col>Zircon syenite</col>
+         <cd>a coarse-grained syenite containing zircon crystals and often also elæolite. It is largely developed in Southern Norway.</cd>
+      </cs>
+      <pos>n.</pos>
+      <ety>F., the same word as <ets>jargon</ets>.  See <er>Jargon</er> a variety of zircon</ety>
+      <sn no="1">
+         <fld>Min</fld>
+         <def>A mineral consisting predominantly of zirconium silicate (<chform>Zr2SiO4</chform>) occurring in tetragonal crystals, usually of a brown or gray color. It consists of silica and zirconia.  A red variety, used as a gem, is called <stype>hyacinth</stype>. Colorless, pale-yellow or smoky-brown varieties from Ceylon are called <stype>jargon</stype>.</def>
+      </sn>
+      <sn no="2">
+         <def>an imitation gemstone made of <cref>cubic zirconia</cref>.</def>
+      </sn>
+   </entry>
+   <entry key="Zircona">
+      <hw source="1913 Webster">Zir"co*na</hw>
+      <pos>n.</pos>
+      <ety>NL</ety>
+      <fld>Chem</fld>
+      <def>Zirconia.</def>
+   </entry>
+   <entry key="Zirconate">
+      <hw source="1913 Webster">Zir"con*ate</hw>
+      <pos>n.</pos>
+      <fld>Chem</fld>
+      <def>A salt of zirconic acid.</def>
+   </entry>
+   <entry key="Zirconia">
+      <hw source="1913 Webster">Zir*co"ni*a</hw>
+      <cs source="PJC">
+         <col>cubic zirconia</col>.  <cd>A colorless form of zirconia similar in appearance and refractivity to diamond, and used as a substitute for diamonds in inexpensive jewelry; -- also known by the acronym <altname>CZ</altname>.</cd>
+      </cs>
+      <pos>n.</pos>
+      <ety>NL</ety>
+      <fld>Chem</fld>
+      <def>The oxide of zirconium (<chform>ZrO2</chform>), obtained as a white powder, and possessing both acid and basic properties.  On account of its infusibility, and brilliant luminosity when incandescent, it is used as an ingredient of sticks for the Drummomd light.</def>
+   </entry>
+   <entry key="Zirconic">
+      <hw source="1913 Webster">Zir*con"ic</hw>
+      <cs source="1913 Webster">
+         <col>Zirconic acid</col>
+         <cd>an acid of zirconium analogous to carbonic and silicic acids, known only in its salts.</cd>
+      </cs>
+      <pos>a.</pos>
+      <fld>Chem</fld>
+      <def>Pertaining to, containing, or resembling, zirconium; <as>as, <ex>zirconic</ex> oxide; <ex>zirconic</ex> compounds.</as>
+      </def>
+   </entry>
+   <entry key="Zirconium">
+      <hw source="1913 Webster">Zir*co"ni*um</hw>
+      <pos>n.</pos>
+      <ety>NL</ety>
+      <fld>Chem</fld>
+      <def>A rare element of the carbon-silicon group, intermediate between the metals and nonmetals, obtained from the mineral zircon as a dark sooty powder, or as a gray metallic crystalline substance. Symbol Zr. Atomic weight, 90.4.</def>
+   </entry>
+   <entry key="Zircon light">
+      <hw source="Webster 1913 Suppl.">Zir"con light</hw>. <fld>Physics</fld>
+      <def>A light, similar to the calcium light, produced by incandescent zirconia.</def>
+   </entry>
+   <entry key="Zircono">
+      <hw source="1913 Webster">Zir"co*no</hw>. <def>See <er>Zirco-</er>.</def>
+   </entry>
+   <entry key="Zirconoid">
+      <hw source="1913 Webster">Zir"con*oid</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zircon</ets> + <ets>oid</ets>
+      </ety>
+      <fld>Crystallog</fld>
+      <def>A double eight-sided pyramid, a form common with tetragonal crystals; -- so called because this form often occurs in crystals of <ets>zircon</ets>.</def>
+   </entry>
+   <entry key="zit">
+      <hw source="PJC">zit</hw>
+      <pr>zĭt</pr>
+      <pos>n.</pos>
+      <def>a <er>pimple</er>.</def>
+      <mark>slang</mark>
+   </entry>
+   <entry key="Zither">
+      <hw source="1913 Webster">Zith"er</hw>
+      <pos>n.</pos>
+      <ety>G. <ets>zither</ets>.  See <er>Cittern</er>
+      </ety>
+      <fld>Mus</fld>
+      <def>An instrument of music used in Austria and Germany. It has from thirty to forty wires strung across a shallow sounding-board, which lies horizontally on a table before the performer, who uses both hands in playing on it. <note>Not to be confounded with the old lute-shaped <contr>cittern</contr>, or <contr>cithern</contr>
+         </note>
+      </def>
+   </entry>
+   <entry key="Zittern">
+      <hw source="1913 Webster">Zit"tern</hw>
+      <pos>n.</pos>
+      <fld>Min</fld>
+      <def>See <er>Cittern</er>.</def>
+   </entry>
+   <entry key="Zizania">
+      <hw source="1913 Webster">‖Zi*za"ni*a</hw>
+      <pos>n.</pos>
+      <ety>NL., from L. <ets>zizanium</ets> darnel, cockle, Gr. �</ety>
+      <fld>Bot</fld>
+      <def>A genus of grasses including Indian rice.  See <cref>Indian rice</cref>, under <er>Rice</er>.</def>
+   </entry>
+   <entry key="Zizel">
+      <hw source="1913 Webster">Ziz"el</hw>
+      <pos>n.</pos>
+      <ety>G. <ets>ziesel</ets>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>The suslik.</def>
+      <altsp>
+         <asp>zisel</asp>
+      </altsp>
+   </entry>
+   <entry key="Zizith">
+      <hw source="Webster 1913 Suppl.">‖Zi"zith</hw>
+      <pos>n. pl.</pos>
+      <ety>Heb. <ets>tsītsith</ets>
+      </ety>
+      <def>The tassels of twisted cords or threads on the corners of the upper garment worn by strict Jews. The Hebrew for this word is translated in both the Authorized and Revised Versions (<au>Deut. xxii. 12</au>) by the word “fringes.”</def>
+   </entry>
+   <entry key="Zoanthacea">
+      <hw source="1913 Webster">‖Zo`an*tha"ce*a</hw>
+      <pos>n. pl.</pos>
+      <ety>NL., from Gr. <grk>zw^,on</grk> an animal + � flower</ety>
+      <fld>Zoöl</fld>
+      <def>A suborder of Actinaria, including <gen>Zoanthus</gen> and allied genera, which are permanently attached by their bases.</def>
+   </entry>
+   <entry key="Zoantharia">
+      <hw source="1913 Webster">‖Zo`an*tha"ri*a</hw>
+      <pos>n. pl.</pos>
+      <ety>NL</ety>
+      <fld>Zoöl</fld>
+      <def>Same as <er>Anthozoa</er>.</def>
+   </entry>
+   <entry key="Zoantharian">
+      <hw source="1913 Webster">Zo`an*tha"ri*an</hw>
+      <pos>a.</pos>
+      <fld>Zoöl</fld>
+      <def>Of or pertaining to the Zoantharia.</def>
+      <def2>
+         <pos>n.</pos>
+         <def>One of the Anthozoa.</def>
+      </def2>
+   </entry>
+   <entry key="Zoanthodeme">
+      <hw source="1913 Webster">Zo*an"tho*deme</hw>
+      <pos>n.</pos>
+      <ety>See <er>Zoantharia</er>, and <er>Deme</er>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>The zooids of a compound anthozoan, collectively.</def>
+   </entry>
+   <entry key="Zoanthoid">
+      <hw source="1913 Webster">Zo*an"thoid</hw>
+      <pos>a.</pos>
+      <ety>See <er>Zoantharia</er>, and <er>-oid</er>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>Of or pertaining to the Zoanthacea.</def>
+   </entry>
+   <entry key="Zoanthropy">
+      <hw source="1913 Webster">Zo*an"thro*py</hw>
+      <pos>n.</pos>
+      <ety>Gr. � animal + � man</ety>
+      <fld>Med</fld>
+      <def>A kind of monomania in which the patient believes himself transformed into one of the lower animals.</def>
+   </entry>
+   <entry key="Zoanthus">
+      <hw source="1913 Webster">‖Zo*an"thus</hw>
+      <pos>n.</pos>
+      <ety>NL.  See <er>Zoantharia</er>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>A genus of Actinaria, including numerous species, found mostly in tropical seas. The zooids or polyps resemble small, elongated actinias united together at their bases by fleshy stolons, and thus forming extensive groups. The tentacles are small and bright colored.</def>
+   </entry>
+   <entry key="Zobo">
+      <hw source="1913 Webster">‖Zo"bo</hw>
+      <pos>n.</pos>
+      <ety>Native name</ety>
+      <fld>Zoöl</fld>
+      <def>A kind of domestic cattle reared in Asia for its flesh and milk. It is supposed to be a hybrid between the zebu and the yak.</def>
+   </entry>
+   <entry key="Zocco">
+      <mhw source="1913 Webster">
+         <hw>Zoc"co</hw>
+         <hw>Zoc"co*lo</hw>,</mhw>
+      <pos>n.</pos>
+      <ety>It. fr. L. <ets>socculus</ets>.  See <er>Socle</er>, and cf. <er>Zacco</er>
+      </ety>
+      <fld>Arch</fld>
+      <def>Same as <er>Socle</er>.</def>
+   </entry>
+   <entry key="Zocle">
+      <hw source="1913 Webster">Zo"cle</hw>
+      <pr>?; 277</pr>
+      <pos>n.</pos>
+      <fld>Arch</fld>
+      <def>Same as <er>Socle</er>.</def>
+   </entry>
+   <entry key="Zocor">
+      <hw source="PJC">Zo"cor</hw>
+      <pr>zō"kôr</pr>
+      <pos>n.</pos>
+      <ety>Trade name from <org>Merck &amp; Co.</org>
+      </ety>
+      <def>a trade name for <er>simvastatin</er>.</def>
+   </entry>
+   <entry key="Zodiac">
+      <hw source="1913 Webster">Zo"di*ac</hw>
+      <pos>n.</pos>
+      <ety>F. <ets>zodiaque</ets>cf. It. <ets>zodiaco</ets>), fr. L. <ets>zodiacus</ets>, Gr. � (sc. �), fr. �, dim. of <grk>zw^,on</grk> an animal, akin to � living, � to live</ety>
+      <sn no="1">
+         <fld>Astron</fld>
+         <sd no="a">
+            <def>An imaginary belt in the heavens, 16° or 18° broad, in the middle of which is the ecliptic, or sun's path. It comprises the twelve constellations, which one constituted, and from which were named, the twelve signs of the zodiac.</def>
+         </sd>
+         <sd no="b">
+            <def>A figure representing the signs, symbols, and constellations of the zodiac.</def>
+         </sd>
+      </sn>
+      <sn no="2">
+         <def>A girdle; a belt.</def>
+         <mark>Poetic &amp; R</mark>
+         <q source="1913 Webster" au="Milton.">By his side,
+As in a glistering <ex>zodiac</ex>, hung the sword.</q>
+      </sn>
+   </entry>
+   <entry key="Zodiacal">
+      <hw source="1913 Webster">Zo*di"a*cal</hw>
+      <cs source="1913 Webster">
+         <col>Zodiacal light</col>
+         <cd>a luminous tract of the sky, of an elongated, triangular figure, lying near the ecliptic, its base being on the horizon, and its apex at varying altitudes. It is to be seen only in the evening, after twilight, and in the morning before dawn. It is supposed to be due to sunlight reflected from multitudes of meteoroids revolving about the sun nearly in the plane of the ecliptic.</cd>
+      </cs>
+      <pos>a.</pos>
+      <ety>Cf. F. <ets>zodiacal</ets>
+      </ety>
+      <fld>Astron</fld>
+      <def>Of or pertaining to the zodiac; situated within the zodiac; <as>as, the <ex>zodiacal</ex> planets</as>.</def>
+   </entry>
+   <entry key="Zoëa">
+      <hw source="1913 Webster">‖Zo"ë*a</hw>
+      <note>☞ In this stage the anterior part of the body is relatively large, and usually bears three or four long spines. The years are conspicuous, and the antennæ and jaws are long, fringed organs used in swimming. The thoracic legs are undeveloped or rudimentary, the abdomen long, slender, and often without appendages. The zoëa, after casting its shell, changes to a megalops.</note>
+      <pos>n.</pos>
+      <ety>NL., fr. Gr. � life</ety>
+      <fld>Zoöl</fld>
+      <def>A peculiar larval stage of certain decapod Crustacea, especially of crabs and certain Anomura.</def>
+      <altsp>
+         <asp>zoæa</asp>
+      </altsp>
+   </entry>
+   <entry key="Zoetrope">
+      <hw source="1913 Webster">Zo"e*trope</hw>
+      <pos>n.</pos>
+      <ety>Gr. � life + � turning, from � to turn</ety>
+      <def>An optical toy, in which figures made to revolve on the inside of a cylinder, and viewed through slits in its circumference, appear like a single figure passing through a series of natural motions as if animated or mechanically moved.</def>
+   </entry>
+   <entry key="Zohar">
+      <hw source="1913 Webster">‖Zo"har</hw>
+      <pos>n.</pos>
+      <ety>Heb. <ets>zōhar</ets> candor, splendor</ety>
+      <def au="Encyc. Brit.">A Jewish cabalistic book attributed by tradition to Rabbi Simon ben Yochi, who lived about the end of the 1st century, a. d.  Modern critics believe it to be a compilation of the 13th century.</def>
+   </entry>
+   <entry key="Zoic">
+      <hw source="1913 Webster">Zo"ic</hw>
+      <pos>a.</pos>
+      <ety>Gr. �</ety>
+      <fld>Zoöl</fld>
+      <def>Of or pertaining to animals, or animal life.</def>
+   </entry>
+   <entry key="Zoide">
+      <hw source="1913 Webster">Zo"ide</hw>
+      <pos>n.</pos>
+      <fld>Biol</fld>
+      <def>See <er>Meride</er>.</def>
+   </entry>
+   <entry key="Zoilean">
+      <hw source="1913 Webster">Zo*il"e*an</hw>
+      <pos>a.</pos>
+      <def>Having the characteristic of <ets>Zoilus</ets>, a bitter, envious, unjust critic, who lived about 270 years before Christ.</def>
+   </entry>
+   <entry key="Zoilism">
+      <hw source="1913 Webster">Zo"i*lism</hw>
+      <pos>n.</pos>
+      <def>Resemblance to Zoilus in style or manner; carping criticism; detraction.</def>
+      <q source="1913 Webster" au="Sir T. Browne.">Bring candid eyes the perusal of men's works, and let not <ex>Zoilism</ex> or detraction blast well-intended labors.</q>
+   </entry>
+   <entry key="Zoisite">
+      <hw source="1913 Webster">Zois"ite</hw>
+      <pos>n.</pos>
+      <ety>After its discoverer, Von <ets>Zois</ets>, an Austrian mineralogist</ety>
+      <fld>Min</fld>
+      <def>A grayish or whitish mineral occurring in orthorhombic, prismatic crystals, also in columnar masses. It is a silicate of alumina and lime, and is allied to epidote.</def>
+   </entry>
+   <entry key="Zoism">
+      <hw source="Webster 1913 Suppl.">Zo"ism</hw>
+      <pos>n.</pos>
+      <ety>Gr. <grk>zwh`</grk> life + <ets>-ism</ets>
+      </ety>
+      <sn no="1">
+         <def>Reverence for animal life or belief in animal powers and influences, as among savages.</def>
+      </sn>
+      <sn no="2">
+         <fld>Biol</fld>
+         <def>A doctrine, now discarded, that the phenomena of life are due to a peculiar vital principle; the theory of vital force.</def>
+      </sn>
+   </entry>
+   <entry key="Zokor">
+      <hw source="1913 Webster">‖Zo"kor</hw>
+      <pr>zō"kôr</pr>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>An Asiatic burrowing rodent (<spn>Siphneus aspalax</spn>) resembling the mole rat. It is native of the Altai Mountains.</def>
+   </entry>
+   <entry key="Zolaesque">
+      <hw source="Webster 1913 Suppl.">Zo`la*esque"</hw>
+      <pos>a.</pos>
+      <def>In the style of <person>Zola</person>see <er>Zolaism</er>).</def>
+   </entry>
+   <entry key="Zolaism">
+      <hw source="Webster 1913 Suppl.">Zo"la*ism</hw>
+      <wordforms>
+         <wf>Zo"la*ist</wf>
+         <pos>n.</pos>
+         <wf>Zo`la*is"tic</wf>
+         <pr>#</pr>
+         <pos>a.</pos>
+         <wf>Zo"la*ize</wf>
+         <pr>#</pr>
+         <pos>v.</pos>
+      </wordforms>
+      <pos>n.</pos>
+      <def>The literary theories and practices of the French novelist <person>Emile <ets>Zola</ets>
+         </person>1840-1902); naturalism, esp. in a derogatory sense.</def>
+   </entry>
+   <entry key="Zöllner's lines">
+      <hw source="Webster 1913 Suppl.">Zöll"ner's lines`</hw>. <ety>So called after <person>Friedrich <ets>Zöllner</ets>
+         </person>, a German physicist</ety>
+      <def>Parallel lines that are made to appear convergent or divergent by means of oblique intersections.</def>
+   </entry>
+   <entry key="Zollverein">
+      <hw source="1913 Webster">‖Zoll"ve*rein`</hw>
+      <note>☞ In 1834 a zollverein was established which included most of the principal German states except Austria. This was terminated by the events of 1866, and in 1867 a more closely organized union was formed, the administration of which was ultimately merged in that of the new German empire, with which it nearly corresponds territorially.</note>
+      <pos>n.</pos>
+      <ety>G., from <ets>zoll</ets> duty + <ets>verein</ets> union</ety>
+      <def>Literally, a customs union; specifically, applied to the several customs unions successively formed under the leadership of Prussia among certain German states for establishing liberty of commerce among themselves and common tariff on imports, exports, and transit.</def>
+   </entry>
+   <entry key="Zomboruk">
+      <hw source="1913 Webster">Zom"bo*ruk</hw>
+      <pos>n.</pos>
+      <fld>Mil</fld>
+      <def>See <er>Zumbooruk</er>.</def>
+   </entry>
+   <entry key="Zona">
+      <hw source="1913 Webster">‖Zo"na</hw>
+      <cs source="1913 Webster">
+         <col>Zona pellucida</col>. <ety>NL</ety>
+         <fld>Biol</fld>
+         <cd>The outer transparent layer, or envelope, of the ovum. It is a more or less elastic membrane with radiating striæ, and corresponds to the cell wall of an ordinary cell.  See <er>Ovum</er>, and <ex>Illust.</ex> of <er>Microscope</er>.</cd>
+         <cd>The zona radiata.</cd>
+         <col>Zona radiata</col>
+         <ety>NL</ety>
+         <fld>Biol</fld>
+         <cd>a radiately striated membrane situated next the yolk of an ovum, or separated from it by a very delicate membrane only.</cd>
+      </cs>
+      <pos>n.</pos>; <plu>pl.<plw>Zonæ</plw>
+         <pr>#</pr>.</plu>
+      <ety>L., a girdle.  See <er>Zone</er>
+      </ety>
+      <def>A zone or band; a layer.</def>
+   </entry>
+   <entry key="Zonal">
+      <hw source="1913 Webster">Zon"al</hw>
+      <cs source="1913 Webster">
+         <col>Zonal equation</col>
+         <fld>Crystallog</fld>
+         <cd>the mathematical relation which belongs to all the planes of a zone, and expresses their common position with reference to the axes.</cd>
+         <col>Zonal structure</col>
+         <fld>Crystallog</fld>
+         <cd>a structure characterized by the arrangements of color, inclusions, etc., of a crystal in parallel or concentric layers, which usually follow the outline of the crystal, and mark the changes that have taken place during its growth.</cd>
+         <col>Zonal symmetry</col>. <fld>Biol</fld>
+         <cd>See the Note under <er>Symmetry</er>.</cd>
+      </cs>
+      <pos>a.</pos>
+      <ety>L. <ets>zonalis</ets>
+      </ety>
+      <def>Of or pertaining to a zone; having the form of a zone or zones.</def>
+   </entry>
+   <entry key="Zonar">
+      <hw source="1913 Webster">Zo"nar</hw>
+      <pos>n.</pos>
+      <ety>Mod. Gr. � a girdle, fr. Gr. �, dim. of � a girdle.  See <er>Zone</er>
+      </ety>
+      <def>A belt or girdle which the Christians and Jews of the Levant were obliged to wear to distinguish them from Mohammedans.</def>
+      <altsp>
+         <asp>zonnar</asp>
+      </altsp>
+   </entry>
+   <entry key="Zonaria">
+      <hw source="1913 Webster">‖Zo*na"ri*a</hw>
+      <pos>n. pl.</pos>
+      <ety>NL</ety>
+      <fld>Zoöl</fld>
+      <def>A division of Mammalia in which the placenta is zonelike.</def>
+   </entry>
+   <entry key="Zonate">
+      <hw source="1913 Webster">Zon"ate</hw>
+      <pos>a.</pos>
+      <fld>Bot</fld>
+      <def>Divided by parallel planes; <as>as, <ex>zonate</ex> tetraspores, found in certain red algæ</as>.</def>
+   </entry>
+   <entry key="Zone">
+      <hw source="1913 Webster">Zone</hw>
+      <note>☞ The <ex>zones</ex> are five: the <ex>torrid</ex> zone, extending from tropic to tropic 46° 56′, or 23° 28′ on each side of the equator; two <ex>temperate</ex> or <ex>variable</ex> zones, situated between the tropics and the polar circles; and two <ex>frigid</ex> zones, situated between the polar circles and the poles.</note>
+      <note>The <ex>zones</ex>, or <ex>life zones</ex>, commonly recognized for North America are Arctic, Hudsonian, Canadian, Transition, Upper Austral, Lower Austral, and Tropical.</note>
+      <cs source="1913 Webster">
+         <col>Abyssal zone</col>. <fld>Phys. Geog</fld>
+         <cd>See under <er>Abyssal</er>.</cd>
+         <col>Zone axis</col>
+         <fld>Crystallog</fld>
+         <cd>a straight line passing through the center of a crystal, to which all the planes of a given zone are parallel.</cd>
+      </cs>
+      <pr>zōn</pr>
+      <pos>n.</pos>
+      <ety>F. <ets>zone</ets>, L. <ets>zona</ets>, Gr. <grk>zw`nh</grk>; akin to <grk>zwnny`nai</grk> to gird, Lith. <ets>jůsta</ets> a girdle, <ets>jůsti</ets> to gird, Zend <ets>yāh</ets>
+      </ety>
+      <sn no="1">
+         <def>A girdle; a cincture.</def>
+         <mark>Poetic</mark>
+         <q source="1913 Webster" au="Dryden.">An embroidered <ex>zone</ex> surrounds her waist.</q>
+         <q source="1913 Webster" au="Collins.">Loose were her tresses seen, her <ex>zone</ex> unbound.</q>
+      </sn>
+      <sn no="2">
+         <fld>Geog</fld>
+         <def>One of the five great divisions of the earth, with respect to latitude and temperature.</def>
+         <q source="1913 Webster" au="Bancroft.">Commerce . . . defies every wind, outrides every tempest, and invades.</q>
+      </sn>
+      <sn no="3">
+         <fld>Math</fld>
+         <def au="Davies &amp; Peck (Math. Dict.)">The portion of the surface of a sphere included between two parallel planes; the portion of a surface of revolution included between two planes perpendicular to the axis.</def>
+      </sn>
+      <sn no="4">
+         <fld>Nat. Hist</fld>
+         <sd no="a">
+            <def>A band or stripe extending around a body.</def>
+         </sd>
+         <sd no="b">
+            <def>A band or area of growth encircling anything; <as>as, a <ex>zone</ex> of evergreens on a mountain; the <ex>zone</ex> of animal or vegetable life in the ocean around an island or a continent; the Alpine <ex>zone</ex>, that part of mountains which is above the limit of tree growth.</as>
+            </def>
+         </sd>
+      </sn>
+      <sn no="5">
+         <fld>Crystallog</fld>
+         <def>A series of planes having mutually parallel intersections.</def>
+      </sn>
+      <sn no="6">
+         <def>Circuit; circumference.</def>
+         <mark au="Milton.">R</mark>
+      </sn>
+      <sn no="7">
+         <fld>Biogeography</fld>
+         <def>An area or part of a region characterized by uniform or similar animal and plant life; a life zone; <as>as, Littoral <ex>zone</ex>, Austral <ex>zone</ex>, etc.</as>
+         </def>
+      </sn>
+      <sn no="8">
+         <fld>Cryst</fld>
+         <def>A series of faces whose intersection lines with each other are parallel.</def>
+      </sn>
+      <sn no="9">
+         <fld>Railroad Econ</fld>
+         <sd no="a">
+            <def>The aggregate of stations, in whatsoever direction or on whatsoever line of railroad, situated between certain maximum and minimum limits from a point at which a shipment of traffic originates.</def>
+         </sd>
+         <sd no="b">
+            <def>Any circular or ring-shaped area within which the street-car companies make no differences of fare.</def>
+         </sd>
+      </sn>
+      <sn no="10">
+         <def>any area to or within which a shipment or transportation cost is constant;</def>
+         <specif>specifically,</specif>
+         <def>in the United States parcel-post system, any of the areas about any point of shipment for which but one rate of postage is charged for a parcel post shipment from that point. The rate increases from within outwards. The first zone includes the unit of area “(a quadrangle 30 minutes square)” in which the place of shipment is situated and the 8 contiguous units; the outer limits of the second to the seventh zones, respectively, are approximately 150, 300, 600, 1000, 1400, and 1800 miles from the point of shipment; the eighth zone includes all units of area outside the seventh zone.</def>
+      </sn>
+   </entry>
+   <entry key="Zone">
+      <hw source="1913 Webster">Zone</hw>
+      <pos>v. t.</pos>
+      <def>To girdle; to encircle.</def>
+      <mark au="Keats.">R</mark>
+   </entry>
+   <entry key="Zoned">
+      <hw source="1913 Webster">Zoned</hw>
+      <pos>a.</pos>
+      <sn no="1">
+         <def au="Pope.">Wearing a zone, or girdle.</def>
+      </sn>
+      <sn no="2">
+         <def>Having zones, or concentric bands; striped.</def>
+      </sn>
+      <sn no="3">
+         <fld>Bot</fld>
+         <def>Zonate.</def>
+      </sn>
+   </entry>
+   <entry key="Zoneless">
+      <hw source="1913 Webster">Zone"less</hw>
+      <pos>a.</pos>
+      <def>Not having a zone; ungirded.</def>
+      <q source="1913 Webster" au="Cowper.">The reeling goddess with the <ex>zoneless</ex> waist.</q>
+      <q source="1913 Webster" au="Mason.">In careless folds, loose fell her <ex>zoneless</ex> vest.</q>
+   </entry>
+   <entry key="Zonnar">
+      <hw source="1913 Webster">Zon"nar</hw>
+      <pos>n.</pos>
+      <def>See <er>Zonar</er>.</def>
+   </entry>
+   <entry key="Zonular">
+      <hw source="1913 Webster">Zon"u*lar</hw>
+      <pos>a.</pos>
+      <def>Of or pertaining to a zone; zone-shaped.</def>
+      <q au="Dana.">The<ex>zonular</ex>type of a placenta.</q>
+   </entry>
+   <entry key="Zonule">
+      <hw source="1913 Webster">Zon"ule</hw>
+      <pos>n.</pos>
+      <def>A little zone, or girdle.</def>
+   </entry>
+   <entry key="Zonulet">
+      <hw source="1913 Webster">Zon"u*let</hw>
+      <pos>n.</pos>
+      <def au="Herrick.">A zonule.</def>
+   </entry>
+   <entry key="Zonure">
+      <hw source="1913 Webster">Zon"ure</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zone</ets> + Gr. � tail</ety>
+      <fld>Zoöl</fld>
+      <def>Any one of several of South African lizards of the genus <gen>Zonura</gen>, common in rocky situations.</def>
+   </entry>
+   <entry key="Zoö-">
+      <hw source="1913 Webster">Zo"ö-</hw>. <def>A combining form from Gr. <grk>zwo^,n</grk> an <ex>animal</ex>, as in <ex>zoö</ex>genic, <ex>zoö</ex>logy, etc.</def>
+   </entry>
+   <entry key="Zoöchemical">
+      <hw source="1913 Webster">Zo`ö*chem"ic*al</hw>
+      <pos>a.</pos>
+      <def>Pertaining to zoöchemistry.</def>
+   </entry>
+   <entry key="Zoöchemistry">
+      <hw source="1913 Webster">Zo`ö*chem"is*try</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + <ets>chemistry</ets>
+      </ety>
+      <def>Animal chemistry; particularly, the description of the chemical compounds entering into the composition of the animal body, in distinction from <ex>biochemistry</ex>.</def>
+   </entry>
+   <entry key="Zoöchemy">
+      <hw source="1913 Webster">Zo*öch"e*my</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + Gr. � alchemy</ety>
+      <def au="Dunglison.">Animal chemistry; zoöchemistry.</def>
+   </entry>
+   <entry key="Zoöchlorella">
+      <hw source="1913 Webster">‖Zo`ö*chlo*rel"la</hw>
+      <pos>n.</pos>
+      <ety>NL., dim. from Gr. <grk>zw^,on</grk> an animal + � green</ety>
+      <fld>Zoöl</fld>
+      <def>One of the small green granulelike bodies found in the interior of certain stentors, hydras, and other invertebrates.</def>
+   </entry>
+   <entry key="Zoöcyst">
+      <hw source="1913 Webster">Zo"ö*cyst</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + <ets>cyst</ets>
+      </ety>
+      <fld>Biol</fld>
+      <def>A cyst formed by certain Protozoa and unicellular plants which the contents divide into a large number of granules, each of which becomes a germ.</def>
+   </entry>
+   <entry key="Zoöcytium">
+      <hw source="1913 Webster">‖Zo`ö*cy"ti*um</hw>
+      <pos>n.</pos>; <plu>pl.<plw>Zoöcytia</plw>
+         <pr>#</pr>.</plu>
+      <ety>NL., fr. Gr. <grk>zw^,on</grk> an animal + � a hollow vessel</ety>
+      <fld>Zoöl</fld>
+      <def>The common support, often branched, of certain species of social Infusoria.</def>
+   </entry>
+   <entry key="Zoödendrium">
+      <hw source="1913 Webster">‖Zo`ö*den"dri*um</hw>
+      <pos>n.</pos>; <plu>pl.<plw>Zoödendria</plw>
+         <pr>#</pr>.</plu>
+      <ety>NL., fr. Gr. <grk>zw^,on</grk> an animal + � a tree</ety>
+      <fld>Zoöl</fld>
+      <def>The branched, and often treelike, support of the colonies of certain Infusoria.</def>
+   </entry>
+   <entry key="Zoœcium">
+      <hw source="1913 Webster">‖Zo*œ"ci*um</hw>
+      <pos>n.</pos>; <plu>pl.<plw>Zoœcia</plw>
+         <pr>#</pr>.</plu>
+      <ety>NL., fr. Gr. <grk>zw^,on</grk> an animal + � house</ety>
+      <fld>Zoöl</fld>
+      <def>One of the cells or tubes which inclose the feeling zooids of Bryozoa.  See <ex>Illust.</ex> of <er>Sea Moss</er>.</def>
+   </entry>
+   <entry key="Zoöerythrine">
+      <hw source="1913 Webster">Zo`ö*e*ryth"rine</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + Gr. � red</ety>
+      <fld>Zoöl</fld>
+      <def>A peculiar organic red coloring matter found in the feathers of various birds.</def>
+   </entry>
+   <entry key="Zoögamous">
+      <hw source="1913 Webster">Zo*ög"a*mous</hw>
+      <pos>a.</pos>
+      <ety>
+         <ets>Zoö-</ets> + Gr. � marriage</ety>
+      <fld>Biol</fld>
+      <def>Of or pertaining zoögamy.</def>
+   </entry>
+   <entry key="Zoögamy">
+      <hw source="1913 Webster">Zo*ög"a*my</hw>
+      <pos>n.</pos>
+      <fld>Biol</fld>
+      <def>The sexual reproduction of animals.</def>
+   </entry>
+   <entry key="Zoögenic">
+      <hw source="1913 Webster">Zo`ö*gen"ic</hw>
+      <pos>a.</pos>
+      <ety>
+         <ets>Zoö-</ets> + <ets>-gen</ets> + <ets>-ic</ets>: cf. Gr. � born of an animal</ety>
+      <fld>Biol</fld>
+      <def>Of or pertaining to zoögeny, animal production.</def>
+   </entry>
+   <entry key="Zoögeny">
+      <mhw source="1913 Webster">
+         <hw>Zo*ög"e*ny</hw>
+         <hw>Zo*ög"o*ny</hw>,</mhw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + root of Gr. � to be born, � offspring</ety>
+      <def>The doctrine of the formation of living beings.</def>
+   </entry>
+   <entry key="Zoögeographical">
+      <hw source="1913 Webster">Zo`ö*ge`o*graph"ic*al</hw>
+      <pos>a.</pos>
+      <def>Of or pertaining to zoögraphy.</def>
+   </entry>
+   <entry key="Zoögeography">
+      <hw source="1913 Webster">Zo`ö*ge*og"ra*phy</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + <ets>geography</ets>
+      </ety>
+      <def>The study or description of the geographical distribution of animals.</def>
+   </entry>
+   <entry key="Zoöglœa">
+      <hw source="1913 Webster">‖Zo`ö*glœ"a</hw>
+      <pos>n.</pos>
+      <ety>NL., from Gr. <grk>zw^,on</grk> an animal + � any glutinous substance</ety>
+      <fld>Biol</fld>
+      <def>A colony or mass of bacteria imbedded in a viscous gelatinous substance. The zoöglœa is characteristic of a transitory stage through which rapidly multiplying bacteria pass in the course of their evolution. Also used adjectively.</def>
+   </entry>
+   <entry key="Zoögrapher">
+      <hw source="1913 Webster">Zo*ög"ra*pher</hw>
+      <pos>n.</pos>
+      <def>One who describes animals, their forms and habits.</def>
+   </entry>
+   <entry key="Zoögraphic">
+      <mhw source="1913 Webster">
+         <hw>Zo`ö*graph"ic</hw>
+         <hw>Zo`ö*graph"ic*al</hw>,</mhw>
+      <pos>a.</pos>
+      <ety>Cf. F. <ets>zoographique</ets>
+      </ety>
+      <def>Of or pertaining to the description of animals.</def>
+   </entry>
+   <entry key="Zoögraphist">
+      <hw source="1913 Webster">Zo*ög"ra*phist</hw>
+      <pos>n.</pos>
+      <def>A zoögrapher.</def>
+   </entry>
+   <entry key="Zoögraphy">
+      <hw source="1913 Webster">Zo*ög"ra*phy</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + <ets>-graphy</ets>: cf. F. <ets>zoographie</ets>
+      </ety>
+      <def>A description of animals, their forms and habits.</def>
+   </entry>
+   <entry key="Zooid">
+      <hw source="1913 Webster">Zo"oid</hw>
+      <pos>a.</pos>
+      <ety>
+         <ets>Zo</ets>ö- + <ets>-oid</ets>
+      </ety>
+      <fld>Biol</fld>
+      <def>Pertaining to, or resembling, an animal.</def>
+   </entry>
+   <entry key="Zooid">
+      <hw source="1913 Webster">Zo"oid</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <fld>Biol</fld>
+         <def>An organic body or cell having locomotion, as a spermatic cell or spermatozooid.</def>
+      </sn>
+      <sn no="2">
+         <fld>Zoöl</fld>
+         <sd no="a">
+            <def>An animal in one of its inferior stages of development, as one of the intermediate forms in alternate generation.</def>
+         </sd>
+         <sd no="b">
+            <def>One of the individual animals in a composite group, as of Anthozoa, Hydroidea, and Bryozoa; -- sometimes restricted to those individuals in which the mouth and digestive organs are not developed.</def>
+         </sd>
+      </sn>
+   </entry>
+   <entry key="Zooidal">
+      <hw source="1913 Webster">Zo*oid"al</hw>
+      <pos>a.</pos>
+      <def>Of or pertaining to a zooid; <as>as, a <ex>zooidal</ex> form</as>.</def>
+   </entry>
+   <entry key="Zoölatry">
+      <hw source="1913 Webster">Zo*öl"a*try</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + Gr. � worship</ety>
+      <def>The worship of animals.</def>
+   </entry>
+   <entry key="Zoöloger">
+      <hw source="1913 Webster">Zo*öl"o*ger</hw>
+      <pos>n.</pos>
+      <def au="Boyle.">A zoölogist.</def>
+   </entry>
+   <entry key="Zoölogical">
+      <hw source="1913 Webster">Zo`ö*log"ic*al</hw>
+      <pos>a.</pos>
+      <ety>Cf. F. <ets>zoologique</ets>
+      </ety>
+      <def>Of or pertaining to zoölogy, or the science of animals.</def>
+   </entry>
+   <entry key="Zoölogically">
+      <hw source="1913 Webster">Zo`ö*log"ic*al*ly</hw>
+      <pos>adv.</pos>
+      <def>In a zoölogical manner; according to the principles of zoölogy.</def>
+   </entry>
+   <entry key="Zoölogist">
+      <hw source="1913 Webster">Zo*öl"o*gist</hw>
+      <pos>n.</pos>
+      <ety>Cf. F. <ets>zoologiste</ets>
+      </ety>
+      <def>One who is well versed in zoölogy.</def>
+   </entry>
+   <entry key="Zoölogize">
+      <hw source="Webster 1913 Suppl.">Zo*öl"o*gize</hw>
+      <pos>v. i.</pos>
+      <def>To study zoölogy; esp., to collect animals for study.</def>
+   </entry>
+   <entry key="Zoölogy">
+      <hw source="1913 Webster">Zo*öl"o*gy</hw>
+      <pos>n.</pos>; <plu>pl.<plw>Zoölogies</plw>
+         <pr>#</pr>.</plu>
+      <ety>
+         <ets>Zoö-</ets> + <ets>-logy</ets>: cf. F. <ets>zoologie</ets>.  See <er>Zodiac</er>
+      </ety>
+      <sn no="1">
+         <def>That part of biology which relates to the animal kingdom, including the structure, embryology, evolution, classification, habits, and distribution of all animals, both living and extinct.</def>
+      </sn>
+      <sn no="2">
+         <def>A treatise on this science.</def>
+      </sn>
+   </entry>
+   <entry key="Zoömelanin">
+      <hw source="1913 Webster">Zo`ö*mel"a*nin</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + <ets>melanin</ets>
+      </ety>
+      <fld>Physiol. Chem</fld>
+      <def>A pigment giving the black color to the feathers of many birds.</def>
+   </entry>
+   <entry key="Zoömorphic">
+      <hw source="1913 Webster">Zo`ö*mor"phic</hw>
+      <pos>a.</pos>
+      <ety>
+         <ets>Zoö-</ets> + Gr. � form</ety>
+      <def>Of or pertaining to zoömorphism.</def>
+   </entry>
+   <entry key="Zoömorphism">
+      <hw source="1913 Webster">Zo`ö*mor"phism</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>The transformation of men into beasts.</def>
+         <mark au="Smart.">R</mark>
+      </sn>
+      <sn no="2">
+         <def>The quality of representing or using animal forms; <as>as, <ex>zoömorphism</ex> in ornament</as>.</def>
+      </sn>
+      <sn no="3">
+         <def>The representation of God, or of gods, in the form, or with the attributes, of the lower animals.</def>
+         <q source="1913 Webster" au="Mivart.">To avoid the error of anthropomorphism, we fall into the vastly greater, and more absurd, error of <ex>zoömorphism</ex>.</q>
+      </sn>
+   </entry>
+   <entry key="Zoön">
+      <hw source="1913 Webster">‖Zo"ön</hw>
+      <pos>n.</pos>; <plu>pl.<plw>Zoa</plw>
+         <pr>#</pr>.</plu>
+      <ety>NL., fr. Gr. <grk>zw^,on</grk> an animal</ety>
+      <fld>Zoöl</fld>
+      <def>An animal which is the sole product of a single egg; -- opposed to <contr>zooid</contr>.</def>
+      <au>H. Spencer.</au>
+      <def>Any one of the perfectly developed individuals of a compound animal.</def>
+   </entry>
+   <entry key="Zoönic">
+      <hw source="1913 Webster">Zo*ön"ic</hw>
+      <pos>a.</pos>
+      <ety>Gr. <grk>zw^,on</grk> an animal: cf.  F. <ets>zoonique</ets>
+      </ety>
+      <def>Of or pertaining to animals; obtained from animal substances.</def>
+   </entry>
+   <entry key="Zoönite">
+      <hw source="1913 Webster">Zo"ö*nite</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>One of the segments of the body of an articulate animal.</def>
+      <def>One of the theoretic transverse divisions of any segmented animal.</def>
+   </entry>
+   <entry key="Zoönomy">
+      <hw source="1913 Webster">Zo*ön"o*my</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + Gr. � a law: cf. F. <ets>zoonomie</ets>
+      </ety>
+      <def>The laws of animal life, or the science which treats of the phenomena of animal life, their causes and relations.</def>
+   </entry>
+   <entry key="Zoönule">
+      <hw source="1913 Webster">Zo"ö*nule</hw>
+      <pos>n.</pos>
+      <ety>Dim. fr. Gr. <grk>zw^,on</grk> an animal</ety>
+      <fld>Zoöl</fld>
+      <def>Same as <er>Zoönite</er>.</def>
+   </entry>
+   <entry key="Zoöpathology">
+      <hw source="1913 Webster">Zo`ö*pa*thol"o*gy</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + <ets>pathology</ets>
+      </ety>
+      <def>Animal pathology.</def>
+   </entry>
+   <entry key="Zoöphaga">
+      <hw source="1913 Webster">‖Zo*öph"a*ga</hw>
+      <pos>n. pl.</pos>
+      <ety>NL., fr. Gr. � animal + � to eat</ety>
+      <fld>Zoöl</fld>
+      <def>An artificial group comprising various carnivorous and insectivorous animals.</def>
+   </entry>
+   <entry key="Zoöphagan">
+      <hw source="1913 Webster">Zo*öph"a*gan</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>A animal that feeds on animal food.</def>
+   </entry>
+   <entry key="Zoöphagous">
+      <hw source="1913 Webster">Zo*öph"a*gous</hw>
+      <note>☞ This is a more general term than either <ex>sarcophagous</ex> or <ex>carnivorous</ex>.</note>
+      <pos>a.</pos>
+      <ety>Gr. �; <grk>zw^,on</grk> an animal + � to eat</ety>
+      <def>Feeding on animals.</def>
+   </entry>
+   <entry key="Zoöphilist">
+      <hw source="1913 Webster">Zo*öph"i*list</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + Gr. � to love</ety>
+      <def au="Southey.">A lover of animals.</def>
+   </entry>
+   <entry key="Zoöphily">
+      <hw source="1913 Webster">Zo*öph"i*ly</hw>
+      <pos>n.</pos>
+      <def>Love of animals.</def>
+   </entry>
+   <entry key="Zoöphite">
+      <hw source="1913 Webster">Zo"ö*phite</hw>
+      <pos>n.</pos>
+      <def>A zoöphyte.</def>
+      <mark>R</mark>
+   </entry>
+   <entry key="Zoöphoric">
+      <hw source="1913 Webster">Zo`ö*phor"ic</hw>
+      <pos>a.</pos>
+      <ety>Gr. �; <grk>zw^,on</grk> an animal + <grk>fe`rein</grk> to bear; cf. F. <ets>zoophorique</ets>
+      </ety>
+      <def>Bearing or supporting the figure of an animal; <as>as, a <ex>zoöphoric</ex> column</as>.</def>
+   </entry>
+   <entry key="Zoöphorous">
+      <hw source="1913 Webster">‖Zo*öph"o*rous</hw>
+      <pos>n.</pos>
+      <ety>L., fr. Gr. �.  See <er>Zoöphoric</er>
+      </ety>
+      <fld>Anc. Arch</fld>
+      <def>The part between the architrave and cornice; the frieze; -- so called from the figures of animals carved upon it.</def>
+   </entry>
+   <entry key="Zoöphyta">
+      <hw source="1913 Webster">‖Zo*öph"y*ta</hw>
+      <note>☞ Sometimes the name is restricted to the Cœlentera, or to the Anthozoa.</note>
+      <pos>n. pl.</pos>
+      <ety>NL., from Gr. <grk>zw^,on</grk> an animal + <grk>fyto`n</grk> a plant</ety>
+      <fld>Zoöl</fld>
+      <def>An extensive artificial and heterogeneous group of animals, formerly adopted by many zoölogists. It included the cœlenterates, echinoderms, sponges, Bryozoa, Protozoa, etc.</def>
+   </entry>
+   <entry key="Zoöphyte">
+      <hw source="1913 Webster">Zo"ö*phyte</hw>
+      <pos>n.</pos>
+      <ety>F. <ets>zoophyte</ets>, Gr. �; <grk>zw^,on</grk> an animal + � plant, akin to � to be born, to be.  See <er>Zodiac</er>, and <er>Be</er>
+         <pos>v. i.</pos>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>Any one of numerous species of invertebrate animals which more or less resemble plants in appearance, or mode of growth, as the corals, gorgonians, sea anemones, hydroids, bryozoans, sponges, etc., especially any of those that form compound colonies having a branched or treelike form, as many corals and hydroids.</def>
+      <def>Any one of the Zoöphyta.</def>
+   </entry>
+   <entry key="Zoöphytic">
+      <mhw source="1913 Webster">
+         <hw>Zo`ö*phyt"ic</hw>
+         <hw>Zo`ö*phyt"ic*al</hw>,</mhw>
+      <pos>a.</pos>
+      <ety>Cf. F. <ets>zoophytique</ets>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>Of or pertaining to zoöphytes.</def>
+   </entry>
+   <entry key="Zoöphytoid">
+      <hw source="1913 Webster">Zo*öph"y*toid</hw>
+      <pos>a.</pos>
+      <ety>
+         <ets>Zoöphyte</ets> + <ets>-oid</ets>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>Pertaining to, or resembling, a zoöphyte.</def>
+   </entry>
+   <entry key="Zoöphytological">
+      <hw source="1913 Webster">Zo`ö*phyt`o*log"ic*al</hw>
+      <pos>a.</pos>
+      <ety>Cf. F. <ets>zoophytologique</ets>
+      </ety>
+      <def>Of or pertaining to zoöphytology; <as>as, <ex>zoöphytological</ex> observations</as>.</def>
+   </entry>
+   <entry key="Zoöphytology">
+      <hw source="1913 Webster">Zo*öph`y*tol"o*gy</hw>
+      <pr>?; 277</pr>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoöphyte</ets> + <ets>-logy</ets>: cf. F. <ets>zoophytologie</ets>
+      </ety>
+      <def>The natural history zoöphytes.</def>
+   </entry>
+   <entry key="Zoöpraxiscope">
+      <hw source="1913 Webster">Zo`ö*prax"i*scope</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + Gr. � a doing, an acting (from � to do) + <ets>-scope</ets>
+      </ety>
+      <def>An instrument similar to, or the same as, the, the phenakistoscope, by means of which pictures projected upon a screen are made to exhibit the natural movements of animals, and the like.</def>
+   </entry>
+   <entry key="Zoöpsychology">
+      <hw source="1913 Webster">Zo`ö*psy*chol"o*gy</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + <ets>psychology</ets>
+      </ety>
+      <def>Animal psychology.</def>
+   </entry>
+   <entry key="Zoösperm">
+      <hw source="1913 Webster">Zo"ö*sperm</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + <ets>sperm</ets>
+      </ety>
+      <fld>Biol</fld>
+      <def>One of the spermatic particles; spermatozoid.</def>
+   </entry>
+   <entry key="Zoösporangium">
+      <hw source="1913 Webster">‖Zo`ö*spo*ran"gi*um</hw>
+      <pos>n.</pos>; <plu>pl.<plw>-sporangia</plw>
+         <pr>#</pr>.</plu>
+      <ety>NL.  See <er>Zoö-</er>, and <er>Sporangium</er>
+      </ety>
+      <fld>Bot</fld>
+      <def>A spore, or conceptacle containing zoöspores.</def>
+   </entry>
+   <entry key="Zoöspore">
+      <hw source="1913 Webster">Zo"ö*spore</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + <ets>spore</ets>
+      </ety>
+      <sn no="1">
+         <fld>Bot</fld>
+         <def>A spore provided with one or more slender cilia, by the vibration of which it swims in the water. Zoöspores are produced by many green, and by some olive-brown, algæ. In certain species they are divided into the larger macrozoöspores and the smaller microzoöspores. Called also <altname>sporozoid</altname>, and <altname>swarmspore</altname>.</def>
+      </sn>
+      <sn no="2">
+         <fld>Zoöl</fld>
+         <def>See <er>Swarmspore</er>.</def>
+      </sn>
+   </entry>
+   <entry key="Zoösporic">
+      <hw source="1913 Webster">Zo`ö*spor"ic</hw>
+      <pos>a.</pos>
+      <def>Of or pertaining to zoöspores; of the nature of zoöspores.</def>
+   </entry>
+   <entry key="Zoötic">
+      <hw source="1913 Webster">Zo*öt"ic</hw>
+      <pos>a.</pos>
+      <ety>Gr. <grk>zw^,on</grk> an animal</ety>
+      <def>Containing the remains of organized bodies; -- said of rock or soil.</def>
+   </entry>
+   <entry key="Zoötomical">
+      <hw source="1913 Webster">Zo`ö*tom"ic*al</hw>
+      <pos>a.</pos>
+      <ety>Cf. F. <ets>zootomique</ets>
+      </ety>
+      <def>Of or pertaining to zoötomy.</def>
+   </entry>
+   <entry key="Zoötomist">
+      <hw source="1913 Webster">Zo*öt"o*mist</hw>
+      <pos>n.</pos>
+      <ety>Cf. F. <ets>zootomiste</ets>
+      </ety>
+      <def>One who dissects animals, or is skilled in zoötomy.</def>
+   </entry>
+   <entry key="Zoötomy">
+      <hw source="1913 Webster">Zo*öt"o*my</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zoö-</ets> + Gr. � to cut: cf. F. <ets>zootomie</ets>
+      </ety>
+      <def>The dissection or the anatomy of animals; -- distinguished from <ex>androtomy</ex>.</def>
+   </entry>
+   <entry key="Zoötrophic">
+      <hw source="1913 Webster">Zo`ö*troph"ic</hw>
+      <pos>a.</pos>
+      <ety>Gr. �.  See <er>Zoö-</er>, and <er>Trophic</er>
+      </ety>
+      <fld>Physiol</fld>
+      <def>Of or pertaining to the nourishment of animals.</def>
+   </entry>
+   <entry key="Zoozoo">
+      <hw source="1913 Webster">Zoo"zoo`</hw>
+      <pos>n.</pos>
+      <ety>Of imitative origin</ety>
+      <fld>Zoöl</fld>
+      <def>The wood pigeon.</def>
+      <mark>Prov. Eng</mark>
+   </entry>
+   <entry key="Zope">
+      <hw source="1913 Webster">Zope</hw>
+      <pos>n.</pos>
+      <ety>G</ety>
+      <fld>Zoöl</fld>
+      <def>A European fresh-water bream (<spn>Abramis ballerus</spn>).</def>
+   </entry>
+   <entry key="Zopilote">
+      <hw source="1913 Webster">Zo"pi*lote</hw>
+      <pos>n.</pos>
+      <ety>Sp</ety>
+      <fld>Zoöl</fld>
+      <def>The urubu, or American black vulture.</def>
+   </entry>
+   <entry key="Zoril">
+      <hw source="1913 Webster">Zor"il</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>Same as <er>Zorilla</er>.</def>
+   </entry>
+   <entry key="Zorilla">
+      <hw source="1913 Webster">Zo*ril"la</hw>
+      <note>☞ The best-known species (<spn>Ictonyx zorilla</spn>) has black shiny fur with white bands and spots. It has anal glands which produce a very offensive secretion, similar to that of the skunk. It feeds upon birds and their eggs and upon small mammals, and is often very destructive to poultry. It is sometimes tamed by the natives, and kept to destroy rats and mice. Called also <altname>mariput</altname>
+         <altname>Cape polecat</altname>, and <altname>African polecat</altname>. The name is sometimes erroneously applied to the American skunk.</note>
+      <pos>n.</pos>
+      <ety>Sp. <ets>zorilla</ets>
+         <ets>zorillo</ets>, dim. of <ets>zorra</ets>
+         <ets>zorro</ets>, a fox: cf. F. <ets>zorille</ets>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>Either one of two species of small African carnivores of the genus <gen>Ictonyx</gen> allied to the weasels and skunks.</def>
+      <altsp>
+         <asp>zoril</asp>
+         <asp>zorille</asp>
+      </altsp>
+   </entry>
+   <entry key="Zoroastrian">
+      <hw source="1913 Webster">Zo`ro*as"tri*an</hw>
+      <pos>a.</pos>
+      <def>Of or pertaining to <ets>Zoroaster</ets>, or his religious system.</def>
+   </entry>
+   <entry key="Zoroastrian">
+      <hw source="1913 Webster">Zo`ro*as"tri*an</hw>
+      <pos>n.</pos>
+      <def>A follower of Zoroaster; one who accepts Zoroastrianism.</def>
+   </entry>
+   <entry key="Zoroastrianism">
+      <hw source="1913 Webster">Zo`ro*as"tri*an*ism</hw>
+      <pos>n.</pos>
+      <def>The religious system of Zoroaster, the legislator and prophet of the ancient Persians, which was the national faith of Persia; mazdeism. The system presupposes a good spirit (Ormuzd) and an opposing evil spirit (Ahriman).  Cf. <cref>Fire worship</cref>, under <er>Fire</er>, and <er>Parsee</er>.</def>
+   </entry>
+   <entry key="Zoroastrism">
+      <hw source="1913 Webster">Zo`ro*as"trism</hw>
+      <pos>n.</pos>
+      <def au="Tylor.">Same as <er>Zoroastrianism</er>.</def>
+   </entry>
+   <entry key="Zoster">
+      <hw source="1913 Webster">‖Zos"ter</hw>
+      <pos>n.</pos>
+      <ety>L., fr. Gr. � girdle, zoster.  See <er>Zone</er>
+      </ety>
+      <fld>Med</fld>
+      <def>Shingles.</def>
+   </entry>
+   <entry key="Zostera">
+      <hw source="1913 Webster">‖Zos"te*ra</hw>
+      <pos>n.</pos>
+      <ety>NL</ety>
+      <fld>Bot</fld>
+      <def>A genus of plants of the <fam>Naiadaceæ</fam>, or Pondweed family. <spn>Zostera marina</spn> is commonly known as <stype>sea wrack</stype>, and <stype>eelgrass</stype>.</def>
+   </entry>
+   <entry key="Zosterops">
+      <hw source="1913 Webster">‖Zos"ter*ops</hw>
+      <pos>n.</pos>
+      <ety>NL., fr. Gr. � girdle + �, �, the eye</ety>
+      <fld>Zoöl</fld>
+      <def>A genus of birds that comprises the white-eyes.  See <er>White-eye</er>.</def>
+   </entry>
+   <entry key="Zouave">
+      <hw source="1913 Webster">Zouave</hw>
+      <pr>?; 277</pr>
+      <pos>n.</pos>
+      <ety>F., fr. Ar. <ets>Zouaoua</ets> a tribe of Kabyles living among the Jurjura mountains in Algeria</ety>
+      <fld>Mil</fld>
+      <def>One of an active and hardy body of soldiers in the French service, originally Arabs, but now composed of Frenchmen who wear the Arab dress.</def>
+      <def>Hence, one of a body of soldiers who adopt the dress and drill of the Zouaves, as was done by a number of volunteer regiments in the army of the United States in the Civil War, 1861-65.</def>
+   </entry>
+   <entry key="Zounds">
+      <hw source="1913 Webster">Zounds</hw>
+      <pos>interj.</pos>
+      <ety>Contracted from <ets>God's wounds</ets>
+      </ety>
+      <def>An exclamation formerly used as an oath, and an expression of anger or wonder.</def>
+   </entry>
+   <entry key="Zoutch">
+      <hw source="1913 Webster">Zoutch</hw>
+      <pr>?; 277</pr>
+      <pos>v. t.</pos>
+      <fld>Cookery</fld>
+      <def au="Smart.">To stew, as flounders, eels, etc., with just enough or liquid to cover them.</def>
+   </entry>
+   <entry key="Zubr">
+      <hw source="1913 Webster">Zubr</hw>
+      <pr>z�br</pr>
+      <pos>n.</pos>
+      <ety>Polish <ets>żubr</ets>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>The aurochs.</def>
+   </entry>
+   <entry key="Zuche">
+      <hw source="1913 Webster">Zuche</hw>
+      <pr>z�ch</pr>
+      <pos>n.</pos>
+      <def au="Cowell.">A stump of a tree.</def>
+   </entry>
+   <entry key="Zuchetto">
+      <hw source="1913 Webster">Zu*chet"to</hw>
+      <pos>n.</pos>
+      <ety>It. <ets>zucchetto</ets>
+      </ety>
+      <fld>R. C. Ch</fld>
+      <def>A skullcap covering the tonsure, worn under the berretta. The pope's is white; a cardinal's red; a bishop's purple; a priest's black.</def>
+   </entry>
+   <entry key="Zufolo">
+      <hw source="1913 Webster">‖Zu"fo*lo</hw>
+      <pr>?; 277</pr>
+      <pos>n.</pos>
+      <ety>It</ety>
+      <fld>Mus</fld>
+      <def>A little flute or flageolet, especially that which is used to teach birds.</def>
+      <altsp>
+         <asp>zuffolo</asp>
+      </altsp>
+   </entry>
+   <entry key="Zuisin">
+      <hw source="1913 Webster">Zui"sin</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>The American widgeon.</def>
+      <mark>Local, U. S</mark>
+   </entry>
+   <entry key="Zulu">
+      <hw source="Webster 1913 Suppl.">Zu"lu</hw>
+      <pr>z�"l�</pr>
+      <pos>n.</pos>
+      <ety>Also <ets>Zooloo</ets>
+      </ety>
+      <sn no="1">
+         <def>Any member of the tribe of Zulus; a Zulu-Kaffir. See <er>Zulus</er>.</def>
+      </sn>
+      <sn no="2">
+         <fld>Philol</fld>
+         <def>One of the most important members of the South African, or Bantu, family of languages, spoken partly in Natal and partly in Zululand, but understood, and more or less in use, over a wide territory, at least as far north as the Zambezi; -- called also <altname>Zulu-Kaffir</altname>.</def>
+      </sn>
+      <sn no="3">
+         <def>a word used in spoken communications to represent the letter Z.</def>
+      </sn>
+   </entry>
+   <entry key="Zulu-Kaffir">
+      <hw source="Webster 1913 Suppl.">Zu"lu-Kaf"fir</hw>
+      <pos>n.</pos>
+      <def>A member of the Bantu race comprising the Zulus and the Kaffirs.</def>
+   </entry>
+   <entry key="Zulus">
+      <hw source="1913 Webster">Zu"lus</hw>
+      <pr>z�"l�z</pr>
+      <pos>n. pl.</pos>; <sing>sing.<sing>Zulu</sing>
+         <pr>-l�</pr>
+      </sing>. <fld>Ethnol</fld>
+      <def>The most important tribe belonging to the Kaffir race. They inhabit a region on the southeast coast of Africa, but formerly occupied a much more extensive country. They are noted for their warlike disposition, courage, and military skill.</def>
+   </entry>
+   <entry key="Zumbooruk">
+      <hw source="1913 Webster">Zum*boo"ruk</hw>
+      <pos>n.</pos>
+      <ety>Turk. &amp; Ar. <ets>zambūrak</ets>, fr. Ar. <ets>zambūr</ets> a hornet</ety>
+      <fld>Mil</fld>
+      <def>A small cannon supported by a swiveled rest on the back of a camel, whence it is fired, -- used in the East.</def>
+   </entry>
+   <entry key="Zumic">
+      <mhw source="1913 Webster">
+         <hw>Zu"mic</hw>
+         <pos>a.</pos>
+         <hw>Zu`mo*log"ic*al</hw>
+         <pos>a.</pos>
+         <hw>Zu*mol"o*gy</hw>
+         <pos>n.</pos>
+         <hw>Zu*mom"e*ter</hw>
+         <pos>n.</pos>, etc.</mhw>
+      <def>See <er>Zymic</er>
+         <er>Zymological</er>, etc.</def>
+   </entry>
+   <entry key="Zuñian">
+      <hw source="Webster 1913 Suppl.">Zu"ñi*an</hw>
+      <pos>a.</pos>
+      <def>Of or pertaining to the Zuñis, or designating their linguistic stock.</def>
+      <def2>
+         <pos>n.</pos>
+         <def>A Zuñi.</def>
+      </def2>
+   </entry>
+   <entry key="Zuñis">
+      <hw source="1913 Webster">Zu"ñis</hw>
+      <pos>n. pl.</pos>; <sing>sing. <sing>Zuñi</sing>
+      </sing>. <fld>Ethnol</fld>
+      <def>A tribe of Pueblo Indians occupying a village in New Mexico, on the <ets>Zuñi</ets> River.</def>
+   </entry>
+   <entry key="Zunyite">
+      <hw source="1913 Webster">Zun"yite</hw>
+      <pos>n.</pos>
+      <fld>Min</fld>
+      <def>A fluosilicate of alumina occurring in tetrahedral crystals at the <ex>Zuñi</ex> mine in Colorado.</def>
+   </entry>
+   <entry key="Zwanziger">
+      <hw source="1913 Webster">‖Zwan"zi*ger</hw>
+      <pr>tsvän"ts�*gẽr</pr>
+      <pos>n.</pos>
+      <ety>G</ety>
+      <def>An Austrian silver coin equivalent to 20 kreutzers, or about 10 cents.</def>
+   </entry>
+   <entry key="Zwieback">
+      <hw source="Webster 1913 Suppl.">‖Zwie"back`</hw>
+      <pr>tsvē"bäk`</pr>
+      <pos>n.</pos>
+      <ety>G., fr. <ets>zwie-</ets> two, twice (see <er>Twice</er>) + <ets>backen</ets> to bake</ety>
+      <def>A kind of biscuit or rusk first baked in a loaf and afterwards cut and toasted.</def>
+   </entry>
+   <entry key="Zwinglian">
+      <hw source="Webster 1913 Suppl.">Zwing"li*an</hw>
+      <pos>prop. a.</pos>
+      <fld>Theol</fld>
+      <def>Of or pertaining to <person>Ulric <ets>Zwingli</ets>
+         </person>1481-1531), the reformer of German Switzerland, who maintained that in the Lord's Supper the true body of Christ is present by the contemplation of faith but not in essence or reality, and that the sacrament is a memorial without mystical elements.</def>
+      <def2>
+         <pos>n.</pos>
+         <def>A follower of Zwingli.</def>
+      </def2>
+   </entry>
+   <entry key="Zygantrum">
+      <hw source="1913 Webster">‖Zy*gan"trum</hw>
+      <pos>n.</pos>; <plu>pl.<plw>Zygantra</plw>
+         <pr>#</pr>.</plu>
+      <ety>Gr. � a yoke + �  a cave, hole</ety>
+      <fld>Anat</fld>
+      <def>See under <er>Zygosphene</er>.</def>
+   </entry>
+   <entry key="Zygapophysis">
+      <hw source="1913 Webster">Zyg`a*poph"y*sis</hw>
+      <wordforms>
+         <wf>Zyg`ap*o*phys"i*al</wf>
+         <pr>#</pr>
+         <pos>a.</pos>
+      </wordforms>
+      <pos>n.</pos>; <plu>pl.<plw>Zygapophyses</plw>
+         <pr>#</pr>.</plu>
+      <ety>Gr. � a yoke + E. <ets>apophysis</ets>
+      </ety>
+      <fld>Anat</fld>
+      <def>One of the articular processes of a vertebra, of which there are usually four, two anterior and two posterior.  See under <er>Vertebra</er>.</def>
+   </entry>
+   <entry key="Zygenid">
+      <hw source="1913 Webster">Zyg"e*nid</hw>
+      <pos>n.</pos>
+      <ety>Cf. Gr. �, probably the hammer-headed shark</ety>
+      <fld>Zoöl</fld>
+      <def>Any one of numerous species of moths of the family <fam>Zygænidæ</fam>, most of which are bright colored. The wood nymph and the vine forester are examples. Also used adjectively.</def>
+   </entry>
+   <entry key="Zygobranchia">
+      <hw source="1913 Webster">‖Zyg`o*bran"chi*a</hw>
+      <pos>n. pl.</pos>
+      <ety>NL., from Gr. <grk>zygo`n</grk> a yoke + � a gill</ety>
+      <fld>Zoöl</fld>
+      <def>A division of marine gastropods in which the gills are developed on both sides of the body and the renal organs are also paired. The abalone (<gen>Haliotis</gen>) and the keyhole limpet (<gen>Fissurella</gen>) are examples.</def>
+   </entry>
+   <entry key="Zygobranchiate">
+      <hw source="1913 Webster">Zyg`o*bran"chi*ate</hw>
+      <pos>a.</pos>
+      <fld>Zoöl</fld>
+      <def>Of or pertaining to the Zygobranchia.</def>
+   </entry>
+   <entry key="Zygodactyl">
+      <mhw source="1913 Webster">
+         <hw>Zyg`o*dac"tyl</hw>
+         <hw>Zyg`o*dac"tyle</hw>
+      </mhw>
+      <pos>n.</pos>
+      <ety>See <er>Zygodactylic</er>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>Any zygodactylous bird.</def>
+   </entry>
+   <entry key="Zygodactylæ">
+      <hw source="1913 Webster">‖Zyg`o*dac"ty*læ</hw>
+      <pos>n. pl.</pos>
+      <ety>NL</ety>
+      <fld>Zoöl</fld>
+      <def>The zygodactylous birds. In a restricted sense applied to a division of birds which includes the barbets, toucans, honey guides, and other related birds.</def>
+   </entry>
+   <entry key="Zygodactyli">
+      <hw source="1913 Webster">‖Zyg`o*dac"ty*li</hw>
+      <pos>n. pl.</pos>
+      <ety>NL</ety>
+      <fld>Zoöl</fld>
+      <def>Same as <er>Scansores</er>.</def>
+   </entry>
+   <entry key="Zygodactylic">
+      <mhw source="1913 Webster">
+         <hw>Zyg`o*dac"ty*lic</hw>
+         <hw>Zyg`o*dac"tyl*ous</hw>
+         <pr>?; 277</pr>,</mhw>
+      <pos>a.</pos>
+      <ety>Gr. <grk>zygo`n</grk> a yoke, pair + � finger, toe: cf. F. <ets>zygodactyle</ets>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>Yoke-footed; having the toes disposed in pairs; -- applied to birds which have two toes before and two behind, as the parrot, cuckoo, woodpecker, etc.</def>
+   </entry>
+   <entry key="Zygoma">
+      <hw source="1913 Webster">‖Zy*go"ma</hw>
+      <pos>n.</pos>
+      <ety>NL., fr. Gr. �, fr. � to yoke, <grk>zygo`n</grk> a yoke</ety>
+      <fld>Anat</fld>
+      <def>The jugal, malar, or cheek bone.</def>
+      <def>The zygomatic process of the temporal bone.</def>
+      <def>The whole zygomatic arch.</def>
+   </entry>
+   <entry key="Zygomatic">
+      <hw source="1913 Webster">Zyg`o*mat"ic</hw>
+      <cs source="1913 Webster">
+         <col>Zygomatic arch</col>
+         <cd>the arch of bone beneath the orbit, formed in most mammals by the union of the malar, or jugal, with the zygomatic process of the temporal bone. In the lower vertebrates other bones may help to form it, and there may be two arches on each side of the skull, as in some reptiles.</cd>
+         <col>Zygomatic process</col>
+         <cd>a process of the temporal or squamosal bone helping to form the zygomatic arch.</cd>
+      </cs>
+      <pr>?; 277</pr>
+      <pos>a.</pos>
+      <ety>Cf. F. <ets>zygomatique</ets>
+      </ety>
+      <fld>Anat</fld>
+      <def>Of, pertaining to, or in the region of, the zygoma.</def>
+   </entry>
+   <entry key="Zygomorphic">
+      <mhw source="1913 Webster">
+         <hw>Zyg`o*mor"phic</hw>
+         <hw>Zyg`o*mor"phous</hw>,</mhw>
+      <pos>a.</pos>
+      <ety>Gr. <grk>zygo`n</grk> a yoke + � form</ety>
+      <fld>Biol</fld>
+      <def>Symmetrical bilaterally; -- said of organisms, or parts of organisms, capable of division into two symmetrical halves only in a single plane.</def>
+   </entry>
+   <entry key="Zygophyte">
+      <hw source="1913 Webster">Zyg"o*phyte</hw>
+      <pos>n.</pos>
+      <ety>Gr. <grk>zygo`n</grk> a yoke + <grk>fyto`n</grk> a plant</ety>
+      <fld>Bot</fld>
+      <def>Any plant of a proposed class or grand division (<class>Zygophytes</class>
+         <class>Zygophyta</class>, or <class>Zygosporeæ</class>), in which reproduction consists in the union of two similar cells.  Cf. <er>Oöphyte</er>.</def>
+   </entry>
+   <entry key="Zygosis">
+      <hw source="1913 Webster">‖Zy*go"sis</hw>
+      <pos>n.</pos>
+      <ety>NL., fr. Gr. � balancing, fr. <grk>zygo`n</grk> yoke</ety>
+      <fld>Biol</fld>
+      <def>The process of the merging of two gametes.  Same as <er>Conjugation</er>.</def>
+   </entry>
+   <entry key="Zygosperm">
+      <hw source="1913 Webster">Zyg"o*sperm</hw>
+      <pos>n.</pos>
+      <ety>Gr. <grk>zygo`n</grk> a yoke + E. <ets>sperm</ets>
+      </ety>
+      <fld>Bot</fld>
+      <def>A spore formed by the union of the contents of two similar cells, either of the same or of distinct individual plants. Zygosperms are found in certain orders of algæ and fungi.</def>
+   </entry>
+   <entry key="Zygosphene">
+      <hw source="1913 Webster">Zyg"o*sphene</hw>
+      <pos>n.</pos>
+      <ety>Gr. <grk>zygo`n</grk> a yoke + � a wedge</ety>
+      <fld>Anat</fld>
+      <def>A median process on the front part of the neural arch of the vertebræ of most snakes and some lizards, which fits into a fossa, called the <ex>zygantrum</ex>, on the back part of the arch in front.</def>
+   </entry>
+   <entry key="Zygospore">
+      <hw source="1913 Webster">Zyg"o*spore</hw>
+      <pos>n.</pos>
+      <ety>Gr. <grk>zygo`n</grk> a yoke + E. <ets>spore</ets>
+      </ety>
+      <fld>Bot</fld>
+      <def>Same as <er>Zygosperm</er>.</def>
+      <def>A spore formed by the union of several zoöspores; -- called also <altname>zygozoöspore</altname>.</def>
+   </entry>
+   <entry key="Zylonite">
+      <hw source="1913 Webster">Zy"lon*ite</hw>
+      <pos>n.</pos>
+      <ety>Gr. � wood</ety>
+      <def>Celluloid.</def>
+   </entry>
+   <entry key="Zymase">
+      <hw source="1913 Webster">Zym"ase</hw>
+      <pos>n.</pos>
+      <ety>From <er>Zyme</er>
+      </ety>
+      <fld>Physiol. Chem</fld>
+      <def>A soluble ferment, or enzyme.  See <er>Enzyme</er>.</def>
+   </entry>
+   <entry key="Zyme">
+      <hw source="1913 Webster">Zyme</hw>
+      <pos>n.</pos>
+      <ety>Gr. � leaven</ety>
+      <sn no="1">
+         <def>A ferment.</def>
+      </sn>
+      <sn no="2">
+         <fld>Med</fld>
+         <def au="Quain.">The morbific principle of a zymotic disease.</def>
+      </sn>
+   </entry>
+   <entry key="Zymic">
+      <hw source="1913 Webster">Zym"ic</hw>
+      <pos>a.</pos>
+      <fld>Old Chem</fld>
+      <def>Pertaining to, or produced by, fermentation; -- formerly, by confusion, used to designate lactic acid.</def>
+   </entry>
+   <entry key="Zymogen">
+      <hw source="1913 Webster">Zym"o*gen</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zyme</ets> + <ets>-gen</ets>
+      </ety>
+      <fld>Physiol. Chem</fld>
+      <def>A mother substance, or antecedent, of an enzyme or chemical ferment; -- applied to such substances as, not being themselves actual ferments, may by internal changes give rise to a ferment.</def>
+      <q source="1913 Webster" au="Foster.">The pancreas contains but little ready-made ferment, though there is present in it a body, <ex>zymogen</ex>, which gives birth to the ferment.</q>
+   </entry>
+   <entry key="Zymogene">
+      <hw source="1913 Webster">Zym"o*gene</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zyme</ets> + root of Gr. � to be born</ety>
+      <fld>Biol</fld>
+      <def>One of a physiological group of globular bacteria which produces fermentations of diverse nature; -- distinguished from <ex>pathogene</ex>.</def>
+   </entry>
+   <entry key="Zymogenic">
+      <hw source="1913 Webster">Zym`o*gen"ic</hw>
+      <cs source="1913 Webster">
+         <col>Zymogenic organism</col>
+         <fld>Biol</fld>
+         <cd>a microörganism, such as the yeast plant of the <spn>Bacterium lactis</spn>, which sets up certain fermentative processes by which definite chemical products are formed; -- distinguished from a <contr>pathogenic organism</contr>.  Cf. <er>Micrococcus</er>.</cd>
+      </cs>
+      <pos>a.</pos>
+      <fld>Biol</fld>
+      <def>Pertaining to, or formed by, a zymogene.</def>
+      <def>Capable of producing a definite zymogen or ferment.</def>
+   </entry>
+   <entry key="Zymologic">
+      <mhw source="1913 Webster">
+         <hw>Zy`mo*log"ic</hw>
+         <hw>Zy`mo*log"ic*al</hw>,</mhw>
+      <pos>a.</pos>
+      <ety>Cf. F. <ets>zymologique</ets>
+      </ety>
+      <def>Of or pertaining to zymology.</def>
+   </entry>
+   <entry key="Zymologist">
+      <hw source="1913 Webster">Zy*mol"o*gist</hw>
+      <pos>n.</pos>
+      <def>One who is skilled in zymology, or in the fermentation of liquors.</def>
+   </entry>
+   <entry key="Zymology">
+      <hw source="1913 Webster">Zy*mol"o*gy</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zyme</ets> + <ets>-logy</ets>: cf. F. <ets>zymologie</ets>
+      </ety>
+      <def>A treatise on the fermentation of liquors, or the doctrine of fermentation.</def>
+      <altsp>
+         <asp>zumology</asp>
+      </altsp>
+   </entry>
+   <entry key="Zymolysis">
+      <hw source="Webster 1913 Suppl.; +PJC">‖Zy*mol"y*sis</hw>
+      <wordforms>
+         <wf>Zy`mo*lyt"ic</wf>
+         <pr>#</pr>
+         <pos>a.</pos>
+      </wordforms>
+      <pos>n.</pos>
+      <ety>NL. See <er>Zyme</er>, and <er>Lysis</er>
+      </ety>
+      <fld>Physiol. Chem</fld>
+      <def>The action of enzymes, such as digestion or fermentation; also, the changes produced by such action.</def>
+   </entry>
+   <entry key="Zymome">
+      <hw source="1913 Webster">Zy"mome</hw>
+      <pos>n.</pos>
+      <ety>Gr. � a fermented mixture</ety>
+      <fld>Old Chem</fld>
+      <def>A glutinous substance, insoluble in alcohol, resembling legumin; -- now called <altname>vegetable fibrin</altname>
+         <altname>vegetable albumin</altname>, or <altname>gluten casein</altname>.</def>
+   </entry>
+   <entry key="Zymometer">
+      <mhw source="1913 Webster">
+         <hw>Zy*mom"e*ter</hw>
+         <hw>Zy`mo*sim"e*ter</hw>,</mhw>
+      <pos>n.</pos>
+      <ety>Gr. � ferment, or � fermentation + <ets>-meter</ets>: cf. F. <ets>zymosimètre</ets>
+      </ety>
+      <def>An instrument for ascertaining the degree of fermentation occasioned by the mixture of different liquids, and the degree of heat which they acquire in fermentation.</def>
+   </entry>
+   <entry key="Zymophyte">
+      <hw source="1913 Webster">Zym"o*phyte</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zyme</ets> + Gr. <grk>fyto`n</grk> a plant</ety>
+      <fld>Physiol. Chem</fld>
+      <def>A bacteroid ferment.</def>
+   </entry>
+   <entry key="Zymoscope">
+      <hw>Zy"mo*scope</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Zyme</ets> + <ets>-scope</ets>
+      </ety>
+      <fld>Physiol. Chem</fld>
+      <def>An apparatus for determining the fermenting power of yeast by measuring the amount of carbonic acid evolved from a given quantity of sugar.</def>
+   </entry>
+   <entry key="Zymose">
+      <hw source="1913 Webster">Zy*mose"</hw>
+      <pos>n.</pos>
+      <fld>Chem</fld>
+      <def>Invertin.</def>
+   </entry>
+   <entry key="Zymosis">
+      <hw source="1913 Webster">‖Zy*mo"sis</hw>
+      <pos>n.</pos>
+      <ety>NL., fr. Gr. � fermentation, fr. � ferment</ety>
+      <fld>Med</fld>
+      <def>A fermentation; hence, an analogous process by which an infectious disease is believed to be developed.</def>
+      <def>A zymotic disease.</def>
+      <mark>R</mark>
+   </entry>
+   <entry key="Zymotic">
+<!-- now infectious disease. -->
+<hw source="1913 Webster">Zy*mot"ic</hw>
+      <cs source="1913 Webster">
+         <col>Zymotic disease</col>
+         <fld>Med</fld>
+         <cd> any epidemic, endemic, contagious, or sporadic affection which is produced by some morbific principle or organism acting on the system like a ferment.</cd>
+      </cs>
+      <pos>a.</pos>
+      <ety>Gr. � causing to ferment, fr. � to ferment, � ferment, leaven</ety>
+      <sn no="1">
+         <def>Of, pertaining to, or caused by, fermentation.</def>
+      </sn>
+      <sn no="2">
+         <fld>Med</fld>
+         <def>Designating, or pertaining to, a certain class of diseases.  See <cref>Zymotic disease</cref>, below.</def>
+         <!-- now infectious disease. -->
+</sn>
+   </entry>
+   <entry key="Zythem">
+      <hw source="1913 Webster">Zy"them</hw>
+      <pr>zī"thĕm</pr>
+      <pos>n.</pos>
+      <def>See <er>Zythum</er>.</def>
+   </entry>
+   <entry key="Zythepsary">
+      <hw source="1913 Webster">Zy*thep"sa*ry</hw>
+      <pr>zĭ*thĕp"sȧ*rŭ</pr>
+      <pos>n.</pos>
+      <ety>Gr. <grk>zy^qos</grk> a kind of beer + <grk>'e`psein</grk> to boil</ety>
+      <def>A brewery.</def>
+      <mark>R</mark>
+   </entry>
+   <entry key="Zythum">
+<!-- End of main (1890) section of the dictionary.  New Words added in 1913 in the "Department of New Words" supplement have been incorporated into this GCIDE version. -->
+<hw source="1913 Webster">‖Zy"thum</hw>
+      <pr>zĭ"thŭm</pr>
+      <pos>n.</pos>
+      <ety>L., fr. Gr. <grk>zy^qos</grk> a kind of beer; -- so called by the Egyptians.]</ety>
+      <def>A kind of ancient malt beverage; a liquor made from malt and wheat.</def>
+      <altsp>
+         <asp>zythem</asp>
+      </altsp>
+      <!-- End of main (1890) section of the dictionary.  New Words added in 1913 in the "Department of New Words" supplement have been incorporated into this GCIDE version. -->
+</entry>
+</entries>

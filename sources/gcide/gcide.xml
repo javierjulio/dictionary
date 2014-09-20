@@ -1,0 +1,57 @@
+<?xml version ="1.0"?>
+
+<!--
+	This is file gcide.xml of GCIDE_XML 0.46,
+	a translation of GCIDE 0.46 into XML.
+
+	The translation was performed
+	by Michael Dyck (jmdyck@metalab.unc.edu)
+	on June 16, 2002.
+
+	Since GCIDE is made available under the terms
+	of the GNU General Public License, GCIDE_XML
+	is necessarily also published under those terms.
+	See the file gpl.txt or http://www.gnu.org/copyleft/gpl.txt
+-->
+
+<!-- modified to use XInclude
+     by Guy Lapalme (lapalme@iro.umontreal.ca)
+     Université de Montréal - Université de Marseille
+     October 2009 
+-->
+<?oxygen RNGSchema="gcide.rnc" type="compact"?>
+<dictionary>
+    <front>
+        <xi:include href="gcide_authorities-entries.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+        <xi:include href="gcide_abbreviations-entries.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    </front>
+    <body>
+        <xi:include href="gcide_numbers-entries.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+       <xi:include href='gcide_a-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_b-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_c-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_d-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_e-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_f-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_g-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_h-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_i-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_j-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_k-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_l-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_m-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_n-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_o-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_p-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_q-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_r-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_s-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_t-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_u-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_v-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_w-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_x-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_y-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+       <xi:include href='gcide_z-entries.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+    </body>
+</dictionary>

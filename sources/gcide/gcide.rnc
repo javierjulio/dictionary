@@ -1,0 +1,57 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+include "gcide-conv.rnc"
+
+start = dictionary-elem | entries-elem 
+
+dictionary-elem = element dictionary {front-elem, body-elem}
+front-elem = element front{entries-elem*}
+body-elem  = element body {entries-elem*}
+               
+entries-elem = element entries{ 
+                    attribute letter {text},
+                    attribute xml:base{text}?,
+                    q-elem?,au-elem?,div0-elem?,
+                    entry-elem*
+               }
+               
+entry-elem = element entry {
+                   attribute key{text},
+                   p-content
+              }
+
+## all elements from the "old" p except for those that are not defined...
+#content = (abbr-elem | altname-elem | altsp-elem | amorph-elem | ant-elem | as-elem | au-elem | 
+#           bio-elem | bio-elem | caption-elem | cd-elem | col-elem | colbreak-elem | note-elem | conseq-elem | 
+#           contr-elem | contxt-elem | cref-elem | cs-elem | def-elem | def2-elem | er-elem | ets-elem | ety-elem | 
+#           ex-elem | figcap-elem | figure-elem | fld-elem | fr-elem | fu-elem | gen-elem | grk-elem | conseq-elem | 
+#           hw-elem | isa-elem | illu-elem | illust-elem | mark-elem | mcol-elem | method-elem | mhw-elem | 
+#           mord-elem | mtable-elem | nmorph-elem | note-elem | person-elem | plu-elem | pluf-elem | plw-elem | 
+#           pos-elem | pr-elem | q-elem | au-elem | ex-elem | refs-elem | sd-elem | see-elem | simto-elem | 
+#           sing-elem | singf-elem | sn-elem | source-elem | specif-elem | stype-elem | subtypes-elem | syn-elem | 
+#           table-elem | title-elem | usage-elem | vmorph-elem | wns-elem | note-elem | wns-elem | 
+#           wordforms-elem | ex-elem)
+
+sn-elem = element sn {
+                   attribute no{xsd:integer},
+                   attribute source{text}?,
+                   p-content
+              }
+ 
+sd-elem = element sd {
+                   attribute no{xsd:string{pattern="[a-z]\.?"}},
+                   attribute source{text}?,
+                   p-content
+              }
+
+
+# special elements flagged with * in the excel file
+altsp-elem = element altsp {mixed{asp-elem*}}
+source-elem = element source{empty}
+
+note-elem = element note {note-content}
+usage-elem = element usage {usage-content}
+
+pr-elem = element pr{pr-content}
+
+

@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="gcide.rnc" type="compact"?>
+<entries letter="NUMBERS">
+<!-- added reference to "gcide.ent" and transformed to well-formed XML
+     by Guy Lapalme (lapalme@iro.umontreal.ca)
+     Université de Montréal - Université de Marseille
+     October 2009 
+-->
+
+<!--
+    Despite what the next comment says,
+    this is file gcide_a.xml of GCIDE_XML 0.46,
+    a translation of GCIDE 0.46 into XML.
+
+    The translation was performed
+    by Michael Dyck (jmdyck@metalab.unc.edu)
+    on June 16, 2002.
+
+    Since GCIDE is made available under the terms
+    of the GNU General Public License, GCIDE_XML
+    is necessarily also published under those terms.
+    See the file gpl.txt or <http://www.gnu.org/copyleft/gpl.txt>.
+-->
+
+<!-- Begin file 1 of 26:  Letter A (Version 0.46) 
+        
+           This file is part 1 of the GNU version of
+     The Collaborative International Dictionary of English
+               Also referred to as GCIDE
+  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+
+GCIDE is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2, or (at your option)
+any later version.
+
+GCIDE is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this copy of GCIDE; see the file COPYING.  If not, write 
+to the Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+Boston, MA 02111-1307, USA.
+           * * * * * * * * * * * * * * * * * * * * * 
+
+           This dictionary was derived from the
+         Webster's Revised Unabridged Dictionary
+                 Version published 1913
+               by the  C. &amp; G. Merriam Co.
+                   Springfield, Mass.
+                 Under the direction of
+                Noah Porter, D.D., LL.D.
+
+                        and from
+           WordNet, a semantic network created by
+              the Cognitive Science Department
+                 of Princeton University
+                  under the direction of
+                   Prof. George Miller
+
+             and is being updated and supplemented by
+         an open coalition of volunteer collaborators from
+                       around the world.
+
+     This electronic dictionary is the starting point for an 
+ongoing project to develop a modern on-line comprehensive encyclopedic
+dictionary, by the efforts of all individuals willing to help build a
+large and freely available knowledge base.  Contributions of data,
+time, and effort are requested from any person willing to assist creation
+of a comprehensive and organized knowledge base for free access on the
+internet.  Anyone willing to assist in any way in constructing such a
+knowledge base should contact:
+
+     Patrick Cassidy          pc@worldsoul.org
+     735 Belvidere Ave.       Office: (908)668-5252
+     Plainfield, NJ 07062
+     (908) 561-3416
+
+
+   Last edit January 16, 2002.
+
+ -->
+<!--Tag ignored during the conversion:
+                     A dictionary containing a natural history requires too many hands, as well as too much time, ever to be hoped for.-->
+<entry key="0">
+      <hw source="WordNet 1.5; +PJC">0</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>indicating the absence of any or all units under consideration; -- representing the number zero as an Arabic numeral</def>
+         <syn> zero</syn>
+      </sn>
+   </entry>
+   <entry key="1">
+      <hw source="WordNet 1.5; +PJC">1</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>used of a single unit or thing; not two or more; -- representing the number one as an Arabic numeral</def>
+         <syn> one, i, ane</syn>
+      </sn>
+   </entry>
+   <entry key="1-dodecanol">
+      <hw source="WordNet 1.5; +PJC">1-dodecanol</hw>
+      <pos>n.</pos>
+      <def>An insoluble solid alcohol (<chform>C12H25OH</chform>) with an unbranched paraffin chain, used to make detergents, such as sodium lauryl sulfate.</def>
+      <syn> lauryl alcohol</syn>
+   </entry>
+   <entry key="1-hitter">
+      <hw source="WordNet 1.5; +PJC">1-hitter</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>a baseball game in which one team's pitchers allow the opposing team only one hit.</def>
+         <syn> one-hitter</syn>
+      </sn>
+   </entry>
+   <entry key="1st-class">
+      <hw source="WordNet 1.5">1st-class</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>a class mail comprising letters, postcards, and other mail sealed against inspection, having a higher priority than second, third, or fourth-class mail; -- it is the highest class of mail not handled in a special manner, as is registered or priority mail.</def>
+         <syn> first-class, first-class mail, 1st-class mail</syn>
+      </sn>
+   </entry>
+   <entry key="10">
+      <hw source="WordNet 1.5; +PJC">10</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>denoting a quantity consisting of one more than nine and one less than eleven; -- representing the number ten as Arabic numerals</def>
+         <syn> ten, x</syn>
+      </sn>
+   </entry>
+   <entry key="100">
+      <hw source="WordNet 1.5; +PJC">100</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>the Arabic numerals representing the number one hundred; denoting a quantity consisting of one more than ninety nine and one less than one hundred and one; ten times ten</def>
+         <syn> hundred, a hundred, one hundred, c</syn>
+      </sn>
+   </entry>
+   <entry key="1000">
+      <hw source="WordNet 1.5; +PJC">1000</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>denoting a quantity consisting of one more than nine hundred ninety nine and one less than one thousand and one; -- representing the number one thousand as Arabic numerals</def>
+         <syn> thousand, a thousand, one thousand, m, k</syn>
+      </sn>
+   </entry>
+   <entry key="1000th">
+      <hw source="WordNet 1.5">1000th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the nine hundred ninety-ninth in a series</def>
+         <syn> thousandth</syn>
+      </sn>
+   </entry>
+   <entry key="10th">
+      <hw source="WordNet 1.5">10th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the ninth in a series</def>
+         <syn> tenth</syn>
+      </sn>
+   </entry>
+   <entry key="100th">
+      <hw source="WordNet 1.5; +PJC">100th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the ninety-ninth in a series</def>
+         <syn> hundredth, centesimal</syn>
+      </sn>
+   </entry>
+   <entry key="11">
+      <hw source="WordNet 1.5; +PJC">11</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>denoting a quantity consisting of one more than ten and one less than twelve; -- representing the number eleven as Arabic numerals</def>
+         <syn> eleven, xi</syn>
+      </sn>
+   </entry>
+   <entry key="11-plus">
+      <hw source="WordNet 1.5">11-plus</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>an examination taken by 11 and 12 year old students to select suitable candidates for grammar school.</def>
+         <mark>formerly in England</mark>
+         <syn> eleven-plus</syn>
+      </sn>
+   </entry>
+   <entry key="11th">
+      <hw source="WordNet 1.5; +PJC">11th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the tenth in a series</def>
+         <syn> eleventh</syn>
+      </sn>
+   </entry>
+   <entry key="12">
+      <hw source="WordNet 1.5; +PJC">12</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>denoting a quantity consisting of 12 items or units; -- representing the number twelve as Arabic numerals</def>
+         <syn> twelve, xii, dozen</syn>
+      </sn>
+   </entry>
+   <entry key="12th">
+      <hw source="WordNet 1.5; +PJC">12th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the eleventh in a series</def>
+         <syn> twelfth</syn>
+      </sn>
+   </entry>
+   <entry key="13">
+      <hw source="WordNet 1.5; +PJC">13</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>denoting a quantity consisting of one more than twelve and one less than fourteen; -- representing the number thirteen as Arabic numerals</def>
+         <syn> thirteen, xiii</syn>
+      </sn>
+   </entry>
+   <entry key="13th">
+      <hw source="WordNet 1.5; +PJC">13th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the twelfth in a series</def>
+         <syn> thirteenth</syn>
+      </sn>
+   </entry>
+   <entry key="14">
+      <hw source="WordNet 1.5; +PJC">14</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>denoting a quantity consisting of one more than thirteen and one less than fifteen; -- representing the number fourteen as Arabic numerals</def>
+         <syn> fourteen, xiv</syn>
+      </sn>
+   </entry>
+   <entry key="14th">
+      <hw source="WordNet 1.5; +PJC">14th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the thirteenth in a series</def>
+         <syn> fourteenth</syn>
+      </sn>
+   </entry>
+   <entry key="15">
+      <hw source="WordNet 1.5; +PJC">15</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>denoting a quantity consisting of one more than fourteen and one less than sixteen; -- representing the number fifteen as Arabic numerals</def>
+         <syn> fifteen, xv</syn>
+      </sn>
+   </entry>
+   <entry key="15th">
+      <hw source="WordNet 1.5; +PJC">15th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the fourteenth in a series</def>
+         <syn> fifteenth</syn>
+      </sn>
+   </entry>
+   <entry key="16">
+      <hw source="WordNet 1.5; +PJC">16</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>denoting a quantity consisting of one more than fifteen and one less than seventeen; -- representing the number sixteen as Arabic numerals</def>
+         <syn> sixteen, xvi</syn>
+      </sn>
+   </entry>
+   <entry key="16th">
+      <hw source="WordNet 1.5; +PJC">16th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the fifteenth in a series</def>
+         <syn> sixteenth</syn>
+      </sn>
+   </entry>
+   <entry key="17">
+      <hw source="WordNet 1.5; +PJC">17</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>denoting a quantity consisting of one more than sixteen and one less than eighteen; -- representing the number seventeen as Arabic numerals</def>
+         <syn> seventeen, xvii</syn>
+      </sn>
+   </entry>
+   <entry key="17th">
+      <hw source="WordNet 1.5; +PJC">17th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the sixteenth in a series</def>
+         <syn> seventeenth</syn>
+      </sn>
+   </entry>
+   <entry key="18">
+      <hw source="WordNet 1.5; +PJC">18</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than seventeen; denoting a quantity consisting of one more than seventeen and one less than nineteen; -- representing the number eighteen as Arabic numerals</def>
+         <syn> eighteen, xviii</syn>
+      </sn>
+   </entry>
+   <entry key="18th">
+      <hw source="WordNet 1.5; +PJC">18th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the seventeenth in a series</def>
+         <syn> eighteenth</syn>
+      </sn>
+   </entry>
+   <entry key="19">
+      <hw source="WordNet 1.5; +PJC">19</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than eighteen; denoting a quantity consisting of one more than eighteen and one less than twenty; -- representing the number nineteen as Arabic numerals</def>
+         <syn> nineteen, xix</syn>
+      </sn>
+   </entry>
+   <entry key="19th">
+      <hw source="WordNet 1.5; +PJC">19th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the eighteenth in a series</def>
+         <syn> nineteenth</syn>
+      </sn>
+   </entry>
+   <entry key="1st">
+      <hw source="WordNet 1.5; +PJC">1st</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>preceding all other objects or events in order, time, or importance; occurring before all other members of a series.</def>
+         <syn> first</syn>
+      </sn>
+   </entry>
+   <entry key="2">
+      <hw source="WordNet 1.5">2</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>denoting a quantity consisting of one more than one; one plus one more; -- representing the number two as an Arabic numeral</def>
+         <syn> two, ii</syn>
+      </sn>
+   </entry>
+   <entry key="2-hitter">
+      <hw source="WordNet 1.5">2-hitter</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>a game in which a pitcher allows the opposing team only 2 hits.</def>
+         <syn> two-hitter</syn>
+      </sn>
+   </entry>
+   <entry key="20">
+      <hw source="WordNet 1.5; +PJC">20</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than nineteen; denoting a quantity consisting of twenty items or units; -- representing the number twenty as Arabic numerals</def>
+         <syn> twenty, xx, score</syn>
+      </sn>
+   </entry>
+   <entry key="20th">
+      <hw source="WordNet 1.5">20th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the nineteenth in a series</def>
+         <syn> twentieth</syn>
+      </sn>
+   </entry>
+   <entry key="21">
+      <hw source="WordNet 1.5; +PJC">21</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than twenty; twenty plus one more; denoting a quantity consisting of twenty-one items or units; -- representing the number twenty-one as Arabic numerals</def>
+         <syn> twenty-one, xxi</syn>
+      </sn>
+   </entry>
+   <entry key="21st">
+      <hw source="WordNet 1.5; +PJC">21st</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the twentieth in a series</def>
+         <syn> twenty-first</syn>
+      </sn>
+   </entry>
+   <entry key="22">
+      <hw source="WordNet 1.5; +PJC">22</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than twenty-one; denoting a quantity consisting of twenty-two items or units; -- representing the number twenty-two as Arabic numerals</def>
+         <syn> twenty-two, xxii</syn>
+      </sn>
+   </entry>
+   <entry key="22nd">
+      <hw source="WordNet 1.5; +PJC">22nd</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the twenty-first in a series</def>
+         <syn> twenty-second</syn>
+      </sn>
+   </entry>
+   <entry key="23">
+      <hw source="WordNet 1.5; +PJC">23</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than twenty-two; denoting a quantity consisting of twenty-three items or units; -- representing the number twenty-three as Arabic numerals</def>
+         <syn> twenty-three, xxiii</syn>
+      </sn>
+   </entry>
+   <entry key="23rd">
+      <hw source="WordNet 1.5; +PJC">23rd</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the twenty-second in a series</def>
+         <syn> twenty-third</syn>
+      </sn>
+   </entry>
+   <entry key="24">
+      <hw source="WordNet 1.5; +PJC">24</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than twenty-three; denoting a quantity consisting of twenty-four items or units; -- representing the number twenty-four as Arabic numerals</def>
+         <syn> twenty-four, xxiv</syn>
+      </sn>
+   </entry>
+   <entry key="24/7">
+      <hw source="PJC">24/7</hw>
+      <pos>adj. &amp; adv.</pos>
+      <pr>twĕn"tēfôr-sĕv"�n</pr>
+      <ety>From <ets>24</ets> hours per day, <ets>7</ets> days per week</ety>
+      <def>Without interruption; non-stop; continuous; <as>as, the computer manufacturer provides <ex>24/7</ex> technical help</as>.</def>
+      <syn> twenty-four-seven, 7/24</syn>
+   </entry>
+   <entry key="24th">
+      <hw source="WordNet 1.5; +PJC">24th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the twenty-third in a series</def>
+         <syn> twenty-fourth</syn>
+      </sn>
+   </entry>
+   <entry key="25">
+      <hw source="WordNet 1.5; +PJC">25</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than twenty-four; denoting a quantity consisting of twenty-five items or units; -- representing the number twenty-five as Arabic numerals</def>
+         <syn> twenty-five, xxv</syn>
+      </sn>
+   </entry>
+   <entry key="25th">
+      <hw source="WordNet 1.5; +PJC">25th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the twenty-fourth in a series</def>
+         <syn> twenty-fifth</syn>
+      </sn>
+   </entry>
+   <entry key="26">
+      <hw source="WordNet 1.5; +PJC">26</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>denoting a quantity consisting of twenty-six items or units; -- representing the number twenty-six as Arabic numerals</def>
+         <syn> twenty-six, xxvi</syn>
+      </sn>
+   </entry>
+   <entry key="26th">
+      <hw source="WordNet 1.5; +PJC">26th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the twenty-fifth in a series</def>
+         <syn> twenty-sixth</syn>
+      </sn>
+   </entry>
+   <entry key="27">
+      <hw source="WordNet 1.5; +PJC">27</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>denoting a quantity consisting of twenty-seven items or units; -- representing the number twenty-seven as Arabic numerals</def>
+         <syn> twenty-seven, xxvii</syn>
+      </sn>
+   </entry>
+   <entry key="27th">
+      <hw source="WordNet 1.5; +PJC">27th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the twenty-sixth in a series</def>
+         <syn> twenty-seventh</syn>
+      </sn>
+   </entry>
+   <entry key="28">
+      <hw source="WordNet 1.5; +PJC">28</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>denoting a quantity consisting of twenty-eight items or units; -- representing the number twenty-eight as Arabic numerals</def>
+         <syn> twenty-eight, xxviii</syn>
+      </sn>
+   </entry>
+   <entry key="28th">
+      <hw source="WordNet 1.5; +PJC">28th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the twenty-seventh in a series</def>
+         <syn> twenty-eighth</syn>
+      </sn>
+   </entry>
+   <entry key="29">
+      <hw source="WordNet 1.5; +PJC">29</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>denoting a quantity consisting of twenty-nine items or units; -- representing the number twenty-nine as Arabic numerals</def>
+         <syn> twenty-nine, xxix</syn>
+      </sn>
+   </entry>
+   <entry key="29th">
+      <hw source="WordNet 1.5; +PJC">29th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the twenty-eighth in a series</def>
+         <syn> twenty-ninth</syn>
+      </sn>
+   </entry>
+   <entry key="2d">
+      <mhw source="WordNet 1.5; +PJC">
+         <hw>2d</hw>
+         <hw>2nd</hw>
+      </mhw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the first in position in space or time or degree or magnitude</def>
+         <syn> second, 2nd</syn>
+      </sn>
+   </entry>
+   <entry key="3">
+      <hw source="WordNet 1.5; +PJC">3</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than two; denoting a quantity consisting of three items or units; -- representing the number three as an Arabic numeral</def>
+         <syn> three, iii</syn>
+      </sn>
+   </entry>
+   <entry key="30">
+      <hw source="WordNet 1.5; +PJC">30</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than twenty-nine; three times ten; denoting a quantity consisting of thirty items or units; -- representing the number thirty as an Arabic numeral</def>
+         <syn> thirty, xxx</syn>
+      </sn>
+   </entry>
+   <entry key="30th">
+      <hw source="WordNet 1.5; +PJC">30th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the twenty-ninth in a series</def>
+         <syn> thirtieth</syn>
+      </sn>
+   </entry>
+   <entry key="3rd">
+      <hw source="WordNet 1.5; +PJC">3rd</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the second in a series</def>
+         <syn> third, tertiary</syn>
+      </sn>
+   </entry>
+   <entry key="4">
+      <hw source="WordNet 1.5; +PJC">4</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than three; denoting a quantity consisting of four items or units; -- representing the number four as an Arabic numeral</def>
+         <syn> four, iv</syn>
+      </sn>
+   </entry>
+   <entry key="4-hitter">
+      <hw source="WordNet 1.5">4-hitter</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>a game in which a pitcher allows the opposing team 4 hits.</def>
+         <syn> four-hitter</syn>
+      </sn>
+   </entry>
+   <entry key="40">
+      <hw source="WordNet 1.5; +PJC">40</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than thirty-nine; four times ten; denoting a quantity consisting of fourty items or units; -- representing the number fourty as an Arabic numeral</def>
+         <syn> forty, xl, twoscore</syn>
+      </sn>
+   </entry>
+   <entry key="40th">
+      <hw source="WordNet 1.5; +PJC">40th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the thirty-ninth in position</def>
+         <syn> fortieth</syn>
+      </sn>
+   </entry>
+   <entry key="4th">
+      <hw source="WordNet 1.5; +PJC">4th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the third in position</def>
+         <syn> fourth, quaternary</syn>
+      </sn>
+   </entry>
+   <entry key="4to">
+      <hw source="WordNet 1.5">4to</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>the size of a book whose pages are made by folding a sheet of paper twice to form four leaves.</def>
+         <syn> quarto</syn>
+      </sn>
+   </entry>
+   <entry key="5">
+      <hw source="WordNet 1.5; +PJC">5</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than four; denoting a quantity consisting of five items or units; -- representing the number five as an Arabic numeral</def>
+         <syn> five, v</syn>
+      </sn>
+   </entry>
+   <entry key="5-hitter">
+      <hw source="WordNet 1.5">5-hitter</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>a game in which a pitcher allows the opposing team 5 hits.</def>
+         <syn> five-hitter</syn>
+      </sn>
+   </entry>
+   <entry key="50">
+      <hw source="WordNet 1.5; +PJC">50</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than fourty-nine; five times ten; denoting a quantity consisting of fifty items or units; -- representing the number fifty as an Arabic numeral</def>
+         <syn> fifty, l</syn>
+      </sn>
+   </entry>
+   <entry key="500">
+      <hw source="WordNet 1.5; +PJC">500</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than four hundred ninety-nine; five times one hundred; denoting a quantity consisting of five hundred items or units; -- representing the number five hundred as Arabic numerals</def>
+         <syn> five hundred, d</syn>
+      </sn>
+   </entry>
+   <entry key="50th">
+      <hw source="WordNet 1.5; +PJC">50th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the fourty-ninth in a series</def>
+         <syn> fiftieth</syn>
+      </sn>
+   </entry>
+   <entry key="5th">
+      <hw source="WordNet 1.5; +PJC">5th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the fourth in a series</def>
+         <syn> fifth</syn>
+      </sn>
+   </entry>
+   <entry key="6">
+      <hw source="WordNet 1.5; +PJC">6</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than five; denoting a quantity consisting of six items or units; -- representing the number six as an Arabic numeral</def>
+         <syn> six, vi, half dozen, half a dozen</syn>
+      </sn>
+   </entry>
+   <entry key="60">
+      <hw source="WordNet 1.5; +PJC">60</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than fifty-nine; denoting a quantity consisting of sixty items or units; -- representing the number sixty as an Arabic numeral</def>
+         <syn> sixty, lx, threescore</syn>
+      </sn>
+   </entry>
+   <entry key="60 minutes">
+      <hw source="WordNet 1.5">60 minutes</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <syn> hour, hr</syn>
+         <def>a period of time equal to 1/24th of a day.</def>
+      </sn>
+      <sn no="2">
+         <def>a 1-hour television program broadcast once weekly on the CBS television network since the 1970's.  Its format is that of a "news magazine" treating typically three topics during each show, plus occasional commentary.</def>
+         <mark>Proper name</mark>
+         <syn> Sixty Minutes</syn>
+      </sn>
+   </entry>
+   <entry key="60th">
+      <hw source="WordNet 1.5; +PJC">60th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the fifty-ninth in a series</def>
+         <syn> sixtieth</syn>
+      </sn>
+   </entry>
+   <entry key="6th">
+      <hw source="WordNet 1.5; +PJC">6th</hw>
+      <pos>adj.</pos>
+      <def>Coming next after the fifth in a series</def>
+      <syn> sixth</syn>
+   </entry>
+   <entry key="7">
+      <hw source="WordNet 1.5; +PJC">7</hw>
+      <pos>adj.</pos>
+      <def>One more than six; constituting or denoting a quantity consisting of seven items or units; -- representing the number seven as an Arabic numeral</def>
+      <syn> seven, vii</syn>
+   </entry>
+   <entry key="7/24">
+      <hw source="PJC">7/24</hw>
+      <pos>adj. &amp; adv.</pos>
+      <def>Same as <er>24/7</er>.</def>
+   </entry>
+   <entry key="70">
+      <hw source="WordNet 1.5; +PJC">70</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than sixty-nine; denoting a quantity consisting of seventy items or units; -- representing the number sevent as an Arabic numeral</def>
+         <syn> seventy, lxx</syn>
+      </sn>
+   </entry>
+   <entry key="70th">
+      <hw source="WordNet 1.5; +PJC">70th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the sixty-ninth in a series</def>
+         <syn> seventieth</syn>
+      </sn>
+   </entry>
+   <entry key="7th">
+      <hw source="WordNet 1.5; +PJC">7th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the sixth in a series</def>
+         <syn> seventh</syn>
+      </sn>
+   </entry>
+   <entry key="8">
+      <hw source="WordNet 1.5; +PJC">8</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than seven; denoting a quantity consisting of eight items or units; -- representing the number eight as an Arabic numeral</def>
+         <syn> eight, viii</syn>
+      </sn>
+   </entry>
+   <entry key="80">
+      <hw source="WordNet 1.5; +PJC">80</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than seventy-nine and one less than eighty-one; denoting a quantity consisting of eighty items or units; -- representing the number eighty as Arabic numerals</def>
+         <syn> eighty, lxxx, fourscore</syn>
+      </sn>
+   </entry>
+   <entry key="80th">
+      <hw source="WordNet 1.5; +PJC">80th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the seventy-ninth in a series</def>
+         <syn> eightieth</syn>
+      </sn>
+   </entry>
+   <entry key="8th">
+      <hw source="WordNet 1.5; +PJC">8th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the seventh in a series</def>
+         <syn> eighth</syn>
+      </sn>
+   </entry>
+   <entry key="9">
+      <hw source="WordNet 1.5; +PJC">9</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than eight and one less than ten; denoting a quantity consisting of nine items or units; -- representing the number nine as an Arabic numeral</def>
+         <syn> nine, ix</syn>
+      </sn>
+   </entry>
+   <entry key="90">
+      <hw source="WordNet 1.5; +PJC">90</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>one more than eighty-nine and one less than ninety-one; denoting a quantity consisting of ninety items or units; -- representing the number ninety as Arabic numerals</def>
+         <syn> ninety, xc</syn>
+      </sn>
+   </entry>
+   <entry key="90th">
+      <hw source="WordNet 1.5; +PJC">90th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the eighty-ninth in a series</def>
+         <syn> ninetieth</syn>
+      </sn>
+   </entry>
+   <entry key="9th">
+      <hw source="WordNet 1.5; +PJC">9th</hw>
+      <pos>adj.</pos>
+      <sn no="1">
+         <def>coming next after the eighth and just before the tenth in position</def>
+         <syn> ninth</syn>
+      </sn>
+   </entry>
+   <entry key="3-D">
+      <hw source="WordNet 1.5">3-D</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>a movie with images having three dimensional form or appearance.</def>
+         <syn> three-D, 3D</syn>
+      </sn>
+   </entry>
+   <entry key="3-hitter">
+      <hw source="WordNet 1.5">3-hitter</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>a game in which a pitcher allows the opposing team only 3 hits.</def>
+         <syn> three-hitter</syn>
+      </sn>
+   </entry>
+   <entry key="8vo">
+<!-- p. 1 -->
+<hw source="WordNet 1.5">8vo</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>the size of a book whose pages are made by folding a sheet of paper three times to form eight leaves.</def>
+         <syn> octavo, eightvo</syn>
+         <!-- p. 1 -->
+</sn>
+   </entry>
+</entries>

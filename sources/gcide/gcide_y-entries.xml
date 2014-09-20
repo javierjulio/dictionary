@@ -1,0 +1,3973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="gcide.rnc" type="compact"?>
+<entries letter="Y">
+<!-- added reference to "gcide.ent" and transformed to well-formed XML
+     by Guy Lapalme (lapalme@iro.umontreal.ca)
+     Université de Montréal - Université de Marseille
+     October 2009 
+-->
+
+<!--
+    Despite what the next comment says,
+    this is file gcide_y.xml of GCIDE_XML 0.46,
+    a translation of GCIDE 0.46 into XML.
+
+    The translation was performed
+    by Michael Dyck (jmdyck@metalab.unc.edu)
+    on June 16, 2002.
+
+    Since GCIDE is made available under the terms
+    of the GNU General Public License, GCIDE_XML
+    is necessarily also published under those terms.
+    See the file gpl.txt or <http://www.gnu.org/copyleft/gpl.txt>.
+-->
+<!-- Begin file 25 of 26:  Letter Y (Version 0.46) 
+        
+           This file is part 25 of the GNU version of
+     The Collaborative International Dictionary of English
+               Also referred to as GCIDE
+  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+
+GCIDE is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2, or (at your option)
+any later version.
+
+GCIDE is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this copy of GCIDE; see the file COPYING.  If not, write 
+to the Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+Boston, MA 02111-1307, USA.
+           * * * * * * * * * * * * * * * * * * * * * 
+
+           This dictionary was derived from the
+         Webster's Revised Unabridged Dictionary
+                 Version published 1913
+               by the  C. &amp; G. Merriam Co.
+                   Springfield, Mass.
+                 Under the direction of
+                Noah Porter, D.D., LL.D.
+
+                        and from
+           WordNet, a semantic network created by
+              the Cognitive Science Department
+                 of Princeton University
+                  under the direction of
+                   Prof. George Miller
+
+             and is being updated and supplemented by
+         an open coalition of volunteer collaborators from
+                       around the world.
+
+     This electronic dictionary is the starting point for an 
+ongoing project to develop a modern on-line comprehensive encyclopedic
+dictionary, by the efforts of all individuals willing to help build a
+large and freely available knowledge base.  Contributions of data,
+time, and effort are requested from any person willing to assist creation
+of a comprehensive and organized knowledge base for free access on the
+internet.  Anyone willing to assist in any way in constructing such a
+knowledge base should contact:
+
+     Patrick Cassidy          pc@worldsoul.org
+     735 Belvidere Ave.       Office: (908)668-5252
+     Plainfield, NJ 07062
+     (908) 561-3416
+
+   Last edit January 17, 2002.
+
+-->
+<entry key="Y">
+      <hw source="1913 Webster">Y</hw>
+      <note> It derives its form from the Latin Y, which is from the Greek Υ, originally the same letter as V. Etymologically, it is most nearly related to <ex>u</ex>
+         <ex>i</ex>
+         <ex>o</ex>, and <ex>j</ex>. <ex>g</ex>; as in <ex>full</ex>
+         <ex>fill</ex>, AS. <ex>fyllan</ex>; E. <ex>crypt</ex>
+         <ex>grotto</ex>; <ex>young</ex>
+         <ex>juvenile</ex>; <ex>day</ex>, AS. <ex>dæg</ex>.  See <er>U</er>
+         <er>I</er>, and <er>J</er>
+         <er>G</er>.</note>
+      <note>☞ Y has been called the <ex>Pythagorean letter</ex>, because the Greek letter Υ was taken represent the sacred triad, formed by the duad proceeding from the monad; and also because it represents the dividing of the paths of vice and virtue in the development of human life.</note>
+      <pr>wī</pr>. <def>Y, the twenty-fifth letter of the English alphabet, at the beginning of a word or syllable, except when a prefix (see Y-), is usually a fricative vocal consonant; as a prefix, and usually in the middle or at the end of a syllable, it is a vowel.  See <ex>Guide to Pronunciation</ex>, §§ 145, 178-9, 272.</def>
+   </entry>
+   <entry key="Y">
+      <hw source="1913 Webster">Y</hw>
+      <cs source="1913 Webster">
+         <col>Y level</col>
+         <fld>Surv</fld>
+         <cd>an instrument for measuring differences of level by means of a telescope resting in Y's.</cd>
+         <col>Y moth</col>
+         <fld>Zoöl</fld>
+         <cd>a handsome European noctuid moth <spn>Plusia gamma</spn>) which has a bright, silvery mark, shaped like the letter Y, on each of the fore wings. Its larva, which is green with five dorsal white species, feeds on the cabbage, turnip, bean, etc. Called also <altname>gamma moth</altname>, and <altname>silver Y</altname>.</cd>
+      </cs>
+      <pr>wī</pr>
+      <pos>n.</pos>; <plu>pl.<plw>Y's</plw>
+         <pr>wīz</pr>or<plw>Ys</plw>.</plu>
+      <def>Something shaped like the letter Y; a forked piece resembling in form the letter Y.</def>  Specifically: <def>One of the forked holders for supporting the telescope of a leveling instrument, or the axis of a theodolite; a wye.</def>
+      <def>A forked or bifurcated pipe fitting.</def>
+      <fld>Railroads</fld>
+      <def>A portion of track consisting of two diverging tracks connected by a cross track.</def>
+   </entry>
+   <entry key="Y">
+      <hw source="1913 Webster">Y</hw>
+      <pr>ī</pr>
+      <pos>pron.</pos>
+      <def>I.</def>
+      <mark au="King Horn. Wyclif.">Obs</mark>
+   </entry>
+   <entry key="Y-">
+      <mhw source="1913 Webster">
+         <hw>Y-</hw>or<hw>I-</hw>
+      </mhw>
+      <note>☞ Some examples of Chaucer's use of this prefix are; <ex>i</ex>be, <ex>i</ex>been, <ex>i</ex>caught, <ex>y</ex>come, <ex>y</ex>do, <ex>i</ex>doon, <ex>y</ex>go, <ex>i</ex>proved, <ex>y</ex>wrought. It <ex>i</ex>nough, <ex>e</ex>nough, it is combined with an adjective. Other examples are in the Vocabulary.
+   Spenser and later writers frequently employed this prefix when affecting an archaic style, and sometimes used it incorrectly.</note>. <ety>OE. <ets>y-</ets>
+         <ets>i-</ets>, AS. <ets>ge-</ets>, akin to D. &amp; G. <ets>ge-</ets>, OHG. <ets>gi-</ets>
+         <ets>ga-</ets>, Goth. <ets>ga-</ets>, and perhaps to Latin <ets>con</ets>-; originally meaning, together.  Cf. <er>Com-</er>
+         <er>Aware</er>
+         <er>Enough</er>
+         <er>Handiwork</er>
+         <er>Ywis</er>
+      </ety>
+      <def>A prefix of obscure meaning, originally used with verbs, adverbs, adjectives, nouns, and pronouns. In the Middle English period, it was little employed except with verbs, being chiefly used with past participles, though occasionally with the infinitive.  <ex>Ycleped</ex>, or <ex>yclept</ex>, is perhaps the only word not entirely obsolete which shows this use.</def>
+      <q source="1913 Webster" au="Chaucer.">That no wight mighte it see neither <ex>y</ex>heere.</q>
+      <q source="1913 Webster" au="Chaucer.">Neither to ben <ex>y</ex>buried nor <ex>y</ex>brent.</q>
+   </entry>
+   <entry key="Ya">
+      <hw source="1913 Webster">Ya</hw>
+      <pr>yä</pr>
+      <pos>adv.</pos>
+      <def>Yea.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Yacare">
+      <hw source="1913 Webster">Yac"a*re`</hw>
+      <note>☞ The name is also applied to allied species.</note>
+      <pr>yăk"ȧ*rā`</pr>
+      <pos>n.</pos>
+      <ety>See <ets>Jacare</ets>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>A South American crocodilian (<spn>Jacare sclerops</spn>) resembling the alligator in size and habits. The eye orbits are connected together, and surrounded by prominent bony ridges. Called also <altname>spectacled alligator</altname>, and <altname>spectacled cayman</altname>.</def>
+      <altsp>
+         <asp>jacare</asp>
+      </altsp>
+   </entry>
+   <entry key="Yacca">
+      <hw source="1913 Webster">Yac"ca</hw>
+      <pr>yăk"kȧ</pr>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>A West Indian name for two large timber trees (<spn>Podocarpus coriaceus</spn>, and <spn>Podocarpus Purdicanus</spn>) of the Yew family. The wood, which is much used, is pale brownish with darker streaks.</def>
+   </entry>
+   <entry key="Yacht">
+      <hw source="1913 Webster">Yacht</hw>
+      <cs source="1913 Webster">
+         <col>Yacht measurement</col>. <cd>See the Note under <er>Tonnage</er>, 4.</cd>
+      </cs>
+      <pr>yŏt</pr>
+      <pos>n.</pos>
+      <ety>D. <ets>jagt</ets>
+         <ets>jacht</ets>; perhaps properly, a chase, hunting, from. <ets>jagen</ets> to chase, hunt, akin to G. <ets>jagen</ets>, OHG. <ets>jagōn</ets>, of uncertain origin; or perhaps akin to OHG. <ets>gāhi</ets> quick, sudden (cf. <er>Gay</er>)</ety>
+      <fld>Naut</fld>
+      <def>A light and elegantly furnished vessel, used either for private parties of pleasure, or as a vessel of state to convey distinguished persons from one place to another; a seagoing vessel used only for pleasure trips, racing, etc.</def>
+   </entry>
+   <entry key="Yacht">
+      <hw source="1913 Webster">Yacht</hw>
+      <pos>v. i.</pos>
+      <def>To manage a yacht; to voyage in a yacht.</def>
+   </entry>
+   <entry key="Yachter">
+      <hw source="1913 Webster">Yacht"er</hw>
+      <pr>-ẽr</pr>
+      <pos>n.</pos>
+      <def>One engaged in sailing a jacht.</def>
+   </entry>
+   <entry key="Yachting">
+      <hw source="1913 Webster">Yacht"ing</hw>
+      <pos>n.</pos>
+      <def>Sailing for pleasure in a yacht.</def>
+   </entry>
+   <entry key="Yachtman">
+      <hw source="1913 Webster">Yacht"man</hw>
+      <pr>yŏt"m�n</pr>
+      <pos>n.</pos>
+      <def>See <er>Yachtsman</er>.</def>
+   </entry>
+   <entry key="Yachtsman">
+      <hw source="1913 Webster">Yachts"man</hw>
+      <pr>yŏts"m�n</pr>
+      <pos>n.</pos>; <plu>pl.<plw>Yachtsmen</plw>
+         <pr>yŏts"m�n</pr>.</plu>
+      <def>One who owns or sails a yacht; a yachter.</def>
+   </entry>
+   <entry key="Yaf">
+      <hw source="1913 Webster">Yaf</hw>
+      <pr>yäf</pr>
+      <mark>obs.</mark>
+      <pos>imp.</pos> of <er>Give</er>. <ety>AS. <ets>geaf</ets>, imp. of <ets>giefan</ets> to give.  See <er>Give</er>
+      </ety>
+      <def au="Chaucer.">Gave.  See <er>Give</er>.</def>
+   </entry>
+   <entry key="Yaffingale">
+      <hw source="1913 Webster">Yaf"fin*gale</hw>
+      <pos>n.</pos>
+      <ety>See <er>Yaffle</er>, and cf. <er>Nightingale</er>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>The yaffle.</def>
+      <mark>Prov. Eng</mark>
+   </entry>
+   <entry key="Yaffle">
+      <hw source="1913 Webster">Yaf"fle</hw>
+      <pr>yăf"f'l</pr>
+      <pos>n.</pos>
+      <ety>Probably imitative of its call or cry</ety>
+      <fld>Zoöl</fld>
+      <def>The European green woodpecker (<spn>Picus viridis</spn> syn. <spn>Genius viridis</spn>).  It is noted for its loud laughlike note.  Called also <altname>eccle</altname>
+         <altname>hewhole</altname>
+         <altname>highhoe</altname>
+         <altname>laughing bird</altname>
+         <altname>popinjay</altname>
+         <altname>rain bird</altname>
+         <altname>yaffil</altname>
+         <altname>yaffler</altname>
+         <altname>yaffingale</altname>
+         <altname>yappingale</altname>
+         <altname>yackel</altname>, and <altname>woodhack</altname>.</def>
+   </entry>
+   <entry key="Yager">
+      <hw source="1913 Webster">Ya"ger</hw>
+      <pr>?; 277</pr>
+      <pos>n.</pos>
+      <ety>G. <ets>jäger</ets> a hunter, from <ets>jagen</ets> to chase, hunt</ety>
+      <fld>Mil</fld>
+      <def>In the German army, one belonging to a body of light infantry armed with rifles, resembling the <ex>chasseur</ex> of the French army.</def>
+      <altsp>
+         <asp>jager</asp>
+      </altsp>
+   </entry>
+   <entry key="Yaguarundi">
+      <hw source="1913 Webster">Ya`gua*run"di</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>Same as <er>Jaguarondi</er>.</def>
+      <altsp>
+         <asp>yaguarondi</asp>
+         <asp>yagouarondi</asp>
+      </altsp>
+   </entry>
+   <entry key="Yahoo">
+      <hw source="Webster 1913 Suppl.">Ya"hoo</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>One of a race of filthy brutes in Swift's “Gulliver's Travels.” See in the Dictionary of Noted Names in Fiction.</def>
+      </sn>
+      <sn no="2">
+         <def>Hence, any brutish or vicious character.</def>
+      </sn>
+      <sn no="3">
+         <def>A raw countryman; a lout; a greenhorn.</def>
+         <mark>U. S</mark>
+      </sn>
+   </entry>
+   <entry key="Yahweh">
+      <mhw source="Webster 1913 Suppl.">
+         <hw>Yah"weh</hw>
+         <pr>yä"wĕ</pr>
+         <hw>Yah"we</hw>
+         <pos>n.</pos> Also <hw>Jah"veh</hw>
+         <pr>yä"wĕ</pr>
+         <hw>Jah"ve</hw>, etc.</mhw>
+      <def>A modern transliteration of the Hebrew word translated <altname>Jehovah</altname> in the Bible; -- used by some critics to discriminate the tribal god of the ancient Hebrews from the Christian <ex>Jehovah</ex>. <ex>Yahweh</ex> or <altname>Yahwe</altname> is the spelling now generally adopted by scholars.</def>
+   </entry>
+   <entry key="Yahwism">
+      <mhw source="Webster 1913 Suppl.">
+         <hw>Yah"wism</hw>
+         <pos>n.</pos> Also <hw>Jah"vism</hw>
+      </mhw>. <sn no="1">
+         <def>The religion or worship of <ets>Yahweh</ets>Jehovah), or the system of doctrines, etc., connected with it.</def>
+      </sn>
+      <sn no="2">
+         <def>Use of <ex>Yahweh</ex> as a name of God.</def>
+      </sn>
+   </entry>
+   <entry key="Yahwist">
+      <mhw source="Webster 1913 Suppl.">
+         <hw>Yah"wist</hw>
+         <pos>n.</pos> Also <hw>Jah"vist</hw>
+         <hw>Jah"wist</hw>, older <hw>Je*ho"vist</hw>.</mhw>
+      <def>The author of the passages of the Old Testament, esp. those of the Hexateuch, in which God is styled <ex>Yahweh</ex>, or <ex>Jehovah</ex>; the author of the Yahwistic, or Jehovistic, Prophetic Document (J); also, the document itself.</def>
+   </entry>
+   <entry key="Yajur-Veda">
+      <hw source="1913 Webster">‖Yaj"ur-Ve"da</hw>
+      <pr>yȧj"ûr-vā`dȧ or yȧj"ûr-vē`dȧ</pr>
+      <pos>n.</pos>
+      <ety>Skr. <ets>yajur-vēda</ets>
+      </ety>
+      <def>See <er>Veda</er>.</def>
+   </entry>
+   <entry key="Yak">
+      <hw source="1913 Webster">Yak</hw>
+      <cs source="1913 Webster">
+         <col>Yak lace</col>
+         <cd>a coarse pillow lace made from the silky hair of the yak.</cd>
+      </cs>
+      <pr>yăk</pr>
+      <pos>n.</pos>
+      <ety>Tibetan <ets>gyag</ets>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>A bovine mammal (<spn>Poëphagus grunnies</spn>) native of the high plains of Central Asia. Its neck, the outer side of its legs, and its flanks, are covered with long, flowing, fine hair. Its tail is long and bushy, often white, and is valued as an ornament and for other purposes in India and China. There are several domesticated varieties, some of which lack the mane and the long hair on the flanks. Called also <altname>chauri gua</altname>
+         <altname>grunting cow</altname>
+         <altname>grunting ox</altname>
+         <altname>sarlac</altname>
+         <altname>sarlik</altname>, and <altname>sarluc</altname>.</def>
+   </entry>
+   <entry key="Yakamilk">
+      <hw source="1913 Webster">Yak"a*milk</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>See <er>Trumpeter</er>, 3 .</def>
+   </entry>
+   <entry key="Yakare">
+      <hw source="1913 Webster">Yak"a*re`</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>Same as <er>Yacare</er>.</def>
+   </entry>
+   <entry key="Yakin">
+      <hw source="1913 Webster">Ya"kin</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>A large Asiatic antelope (<spn>Budorcas taxicolor</spn>) native of the higher parts of the Himalayas and other lofty mountains. Its head and neck resemble those of the ox, and its tail is like that of the goat. Called also <altname>budorcas</altname>.</def>
+   </entry>
+   <entry key="Yakoots">
+      <hw source="1913 Webster">Ya*koots"</hw>
+      <pos>n. pl.</pos>; <sing>sing. <sing>Yakoot</sing>
+      </sing>.<def>
+         <fld>Ethnol</fld> A nomadic Mongolian tribe native of Northern Siberia, and supposed to be of Turkish stock. They are mainly pastoral in their habits.</def>
+      <altsp>
+         <asp>Yakuts</asp>
+      </altsp>
+   </entry>
+   <entry key="Yaksha">
+      <hw source="1913 Webster">‖Yak"sha</hw>
+      <pos>n.</pos>
+      <ety>Skr</ety>
+      <fld>Hindoo Myth</fld>
+      <def>A kind of demigod attendant on Kuvera, the god of wealth.</def>
+   </entry>
+   <entry key="Yakut">
+      <hw source="Webster 1913 Suppl.">Ya*kut"</hw>
+      <pos>n.</pos>
+      <def>The Turkish language of the Yakuts, a Mongolian people of northeastern Siberia, which is lingua franca over much of eastern Siberia.</def>
+   </entry>
+   <entry key="Yalah">
+      <hw source="1913 Webster">Ya"lah</hw>
+      <pos>n.</pos>
+      <def>The oil of the mahwa tree.</def>
+   </entry>
+   <entry key="Yam">
+      <hw source="1913 Webster">Yam</hw>
+      <cs source="1913 Webster">
+         <col>Chinese yam</col>
+         <cd>a plant (<spn>Dioscorea Batatas</spn>) with a long and slender tuber, hardier than most of the other species.</cd>
+         <col>Wild yam</col>. <cd>A common plant (<spn>Dioscorea villosa</spn>) of the Eastern United States, having a hard and knotty rootstock.</cd>
+         <cd>An orchidaceous plant (<spn>Gastrodia sesamoides</spn>) of Australia and Tasmania.</cd>
+      </cs>
+      <pr>yăm</pr>
+      <pos>n.</pos>
+      <ety>Pg. <ets>inhame</ets>, probably from some native name</ety>
+      <sn no="1">
+         <fld>Bot</fld>
+         <def>A large, esculent, farinaceous tuber of various climbing plants of the genus <gen>Dioscorea</gen>; also, the plants themselves. Mostly natives of warm climates. The plants have netted-veined, petioled leaves, and pods with three broad wings. The commonest species is <spn>Dioscorea sativa</spn>, but several others are cultivated.</def>
+      </sn>
+      <sn no="2">
+         <fld>Bot</fld>
+         <def>Any one of several cultural varieties of the sweet potato.</def>
+         <mark>U. S</mark>
+      </sn>
+   </entry>
+   <entry key="Yama">
+      <hw source="1913 Webster">‖Ya"ma</hw>
+      <pos>n.</pos>
+      <ety>Skr. <ets>yama</ets> a twin</ety>
+      <fld>Hindoo Myth</fld>
+      <def>The king of the infernal regions, corresponding to the Greek Pluto, and also the judge of departed souls. In later times he is more exclusively considered the dire judge of all, and the tormentor of the wicked. He is represented as of a green color, with red garments, having a crown on his head, his eyes inflamed, and sitting on a buffalo, with a club and noose in his hands.</def>
+   </entry>
+   <entry key="Yamen">
+      <hw source="Webster 1913 Suppl.">Ya"men</hw>
+      <pos>n.</pos>
+      <ety>Chin. <ets>ya</ets> a civil or military court + <ets>men</ets> a gate</ety>
+      <def>In China, the official headquarters or residence of a mandarin, including court rooms, offices, gardens, prisons, etc.; the place where the business of any public department is transcated.</def>
+   </entry>
+   <entry key="Yamma">
+      <hw source="1913 Webster">Yam"ma</hw>
+      <pos>n.</pos>
+      <ety>See <er>Llama</er>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>The llama.</def>
+   </entry>
+   <entry key="Yamp">
+      <hw source="1913 Webster">Yamp</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>An umbelliferous plant (<spn>Carum Gairdneri</spn>); also, its small fleshy roots, which are eaten by the Indians from Idaho to California.</def>
+   </entry>
+   <entry key="Yang">
+      <hw source="1913 Webster">Yang</hw>
+      <pos>n.</pos>
+      <ety>Of imitative origin</ety>
+      <def>The cry of the wild goose; a honk.</def>
+   </entry>
+   <entry key="Yang">
+      <hw source="1913 Webster">Yang</hw>
+      <pos>v. i.</pos>
+      <def>To make the cry of the wild goose.</def>
+   </entry>
+   <entry key="yang">
+      <hw>yang</hw>
+      <pos>n.</pos>
+      <fld>Chinese philosophy</fld>
+      <def>one of the two fundamental principles.  See <er>yin and yang</er>.</def>
+   </entry>
+   <entry key="Yank">
+      <hw source="1913 Webster">Yank</hw>
+      <pos>n.</pos>
+      <ety>Cf. Scot. <ets>yank</ets> a sudden and severe blow</ety>
+      <def>A jerk or twitch.</def>
+      <mark>Colloq. U. S</mark>
+   </entry>
+   <entry key="Yank">
+      <hw source="1913 Webster">Yank</hw>
+      <pos>v. t.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Yanked</conjf>; <pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Yanking</conjf>
+      </vmorph>
+      <def>To twitch; to jerk.</def>
+      <mark>Colloq. U. S</mark>
+   </entry>
+   <entry key="Yank">
+      <hw source="1913 Webster">Yank</hw>
+      <pos>n.</pos>
+      <def>An abbreviation of <er>Yankee</er>.</def>
+      <mark>Slang</mark>
+   </entry>
+   <entry key="Yankee">
+      <hw source="1913 Webster">Yan"kee</hw>
+      <pos>n.</pos>
+      <ety>Commonly considered to be a corrupt pronunciation of the word <ets>English</ets>, or of the French word <ets>Anglais</ets>, by the native Indians of America. According to Thierry, a corruption of <ets>Jankin</ets>, a diminutive of <ets>John</ets>, and a nickname given to the English colonists of Connecticut by the Dutch settlers of New York. Dr. W. Gordon (“Hist. of the Amer. War,” ed, 1789, vol. i., pp. 324, 325) says it was a favorite cant word in Cambridge, Mass., as early as 1713, and that it meant <ets>excellent</ets>; as, a <ets>yankee</ets> good horse, <ets>yankee</ets> good cider, etc.  Cf. Scot <ets>yankie</ets> a sharp, clever, and rather bold woman, and Prov. E. bow-<ets>yankees</ets> a kind of leggins worn by agricultural laborers</ety>
+      <def>A nickname for a native or citizen of New England, especially one descended from old New England stock; by extension, an inhabitant of the Northern States as distinguished from a Southerner; also, applied sometimes by foreigners to any inhabitant of the United States.</def>
+      <q source="1913 Webster" au="Oppression, A poem by an American (Boston, 1765).">From meanness first this Portsmouth <ex>Yankey</ex> rose,
+And still to meanness all his conduct flows.</q>
+   </entry>
+   <entry key="Yankee">
+      <hw source="1913 Webster">Yan"kee</hw>
+      <cs source="1913 Webster">
+         <col>Yankee clover</col>. <fld>Bot</fld>
+         <cd>See <cref>Japan clover</cref>, under <er>Japan</er>.</cd>
+      </cs>
+      <pos>a.</pos>
+      <def>Of or pertaining to a Yankee; characteristic of the Yankees.</def>
+      <q source="1913 Webster" au="Hawthorne.">The alertness of the <ex>Yankee</ex> aspect.</q>
+   </entry>
+   <entry key="Yankee-Doodle">
+      <hw source="1913 Webster">Yan`kee-Doo"dle</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>The name of a tune adopted popularly as one of the national airs of the United States.</def>
+      </sn>
+      <sn no="2">
+         <def>Humorously, a Yankee.</def>
+         <q source="1913 Webster" au="Moore.">We might have withheld our political noodles
+From knocking their heads against hot <ex>Yankee-Doodles</ex>.</q>
+      </sn>
+   </entry>
+   <entry key="Yankeeism">
+      <hw source="1913 Webster">Yan"kee*ism</hw>
+      <pos>n.</pos>
+      <def au="Lowell.">A Yankee idiom, word, custom, or the like.</def>
+   </entry>
+   <entry key="Yaourt">
+<!-- now usually yoghurt-->
+<hw source="1913 Webster">‖Yaourt</hw>
+      <pos>n.</pos>
+      <ety>Turk. <ets>yoghurt</ets>
+      </ety>
+      <def>A fermented drink, or milk beer, made by the Turks.</def>
+      <!-- now usually yoghurt-->
+</entry>
+   <entry key="Yap">
+      <hw source="1913 Webster">Yap</hw>
+      <pos>v. i.</pos>
+      <ety>Icel. <ets>gjālpa</ets>; akin to <ets>yelp</ets>.  Cf. <er>Yaup</er>
+      </ety>
+      <def au="L'Estrange.">To bark; to yelp.</def>
+   </entry>
+   <entry key="Yap">
+      <hw source="1913 Webster">Yap</hw>
+      <pos>n.</pos>
+      <def>A bark; a yelp.</def>
+   </entry>
+   <entry key="Yapock">
+      <hw source="1913 Webster">Ya"pock</hw>
+      <pr>?; 277</pr>
+      <pos>n.</pos>
+      <ety>Probably from the river <ets>Oyapok</ets>, between French Guiana and Brazil</ety>
+      <fld>Zoöl</fld>
+      <def>A South American aquatic opossum (<spn>Chironectes variegatus</spn>) found in Guiana and Brazil. Its hind feet are webbed, and its fore feet do not have an opposable thumb for climbing. Called also <altname>water opossum</altname>.</def>
+      <altsp>
+         <asp>yapack</asp>
+      </altsp>
+   </entry>
+   <entry key="Yapon">
+      <hw source="1913 Webster">Ya"pon</hw>
+      <pr>?; 277</pr>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>Same as <er>Yaupon</er>.</def>
+   </entry>
+   <entry key="Yarage">
+      <hw source="1913 Webster">Yar"age</hw>
+      <pr>?; 48</pr>
+      <pos>n.</pos>
+      <ety>See <er>Yare</er>
+         <pos>a.</pos>
+      </ety>
+      <fld>Naut</fld>
+      <def au="Sir T. North.">The power of moving, or being managed, at sea; -- said with reference to a ship.</def>
+   </entry>
+   <entry key="Yard">
+      <hw source="1913 Webster">Yard</hw>
+      <cs source="1913 Webster">
+         <mcol>
+            <col>Golden Yard</col>or<col>Yard and Ell</col>
+         </mcol>
+         <fld>Astron</fld>
+         <cd>a popular name of the three stars in the belt of Orion.</cd>
+         <col>Under yard</col>i. e., under the rod], <cd>under contract.</cd>
+         <mark>Obs</mark>
+         <au>Chaucer.</au>
+      </cs>
+      <pos>n.</pos>
+      <ety>OE. <ets>yerd</ets>, AS. <ets>gierd</ets>
+         <ets>gyrd</ets>, a rod, stick, a measure, a yard; akin to OFries. <ets>ierde</ets>, OS. <ets>gerda</ets>, D. <ets>garde</ets>, G. <ets>gerte</ets>, OHG. <ets>gartia</ets>
+         <ets>gerta</ets>
+         <ets>gart</ets>, Icel. <ets>gaddr</ets> a goad, sting, Goth. <ets>gazds</ets>, and probably to L. <ets>hasta</ets> a spear.  Cf. <er>Gad</er>
+         <pos>n.</pos>
+         <er>Gird</er>
+         <pos>n.</pos>
+         <er>Gride</er>
+         <pos>v. i.</pos>
+         <er>Hastate</er>
+      </ety>
+      <sn no="1">
+         <def>A rod; a stick; a staff.</def>
+         <mark au="P. Plowman.">Obs</mark>
+         <q source="1913 Webster" au="Chaucer.">If men smote it with a <ex>yerde</ex>.</q>
+      </sn>
+      <sn no="2">
+         <def>A branch; a twig.</def>
+         <mark>Obs</mark>
+         <q source="1913 Webster" au="Chaucer.">The bitter frosts with the sleet and rain
+Destroyed hath the green in every <ex>yerd</ex>.</q>
+      </sn>
+      <sn no="3">
+         <def>A long piece of timber, as a rafter, etc.</def>
+         <mark>Obs</mark>
+      </sn>
+      <sn no="4">
+         <def>A measure of length, equaling three feet, or thirty-six inches, being the standard of English and American measure.</def>
+      </sn>
+      <sn no="5">
+         <def>The penis.</def>
+      </sn>
+      <sn no="6">
+         <fld>Naut</fld>
+         <def>A long piece of timber, nearly cylindrical, tapering toward the ends, and designed to support and extend a square sail. A yard is usually hung by the center to the mast.  See <ex>Illust.</ex> of <er>Ship</er>.</def>
+      </sn>
+      <sn no="7">
+         <fld>Zoöl</fld>
+         <def>A place where moose or deer herd together in winter for pasture, protection, etc.</def>
+      </sn>
+   </entry>
+   <entry key="Yard">
+      <hw source="1913 Webster">Yard</hw>
+      <cs source="1913 Webster">
+         <col>Liberty of the yard</col>
+         <cd>a liberty, granted to persons imprisoned for debt, of walking in the yard, or within any other limits prescribed by law, on their giving bond not to go beyond those limits.</cd>
+         <col>Prison yard</col>
+         <cd>an inclosure about a prison, or attached to it.</cd>
+         <col>Yard grass</col>
+         <fld>Bot</fld>
+         <cd>a low-growing grass (<spn>Eleusine Indica</spn>) having digitate spikes. It is common in dooryards, and like places, especially in the Southern United States. Called also <altname>crab grass</altname>.</cd>
+         <col>Yard of land</col>. <cd>See <er>Yardland</er>.</cd>
+      </cs>
+      <pos>n.</pos>
+      <ety>OE. <ets>yard</ets>
+         <ets>yerd</ets>, AS. <ets>geard</ets>; akin to OFries. <ets>garda</ets> garden, OS. <ets>gardo</ets> garden, <ets>gard</ets> yard, D. <ets>gaard</ets> garden, G. <ets>garten</ets>, OHG. <ets>garto</ets> garden, <ets>gari</ets> inclosure, Icel. <ets>garðr</ets> yard, house, Sw. <ets>gård</ets>, Dan. <ets>gaard</ets>, Goth. <ets>gards</ets> a house, <ets>garda</ets> sheepfold, L. <ets>hortus</ets> garden, Gr. <grk>cho`rtos</grk> an inclosure.  Cf. <er>Court</er>
+         <er>Garden</er>
+         <er>Garth</er>
+         <er>Horticulture</er>
+         <er>Orchard</er>
+      </ety>
+      <sn no="1">
+         <def>An inclosure; usually, a small inclosed place in front of, or around, a house or barn; <as>as, a court<ex>yard</ex>; a cow<ex>yard</ex>; a barn<ex>yard</ex>.</as>
+         </def>
+         <q source="1913 Webster" au="Chaucer.">A <ex>yard</ex> . . . inclosed all about with sticks
+In which she had a cock, hight chanticleer.</q>
+      </sn>
+      <sn no="2">
+         <def>An inclosure within which any work or business is carried on; <as>as, a dock<ex>yard</ex>; a ship<ex>yard</ex>.</as>
+         </def>
+      </sn>
+   </entry>
+   <entry key="Yard">
+      <hw source="1913 Webster">Yard</hw>
+      <pos>v. t.</pos>
+      <def>To confine (cattle) to the yard; to shut up, or keep, in a yard; <as>as, to <ex>yard</ex> cows</as>.</def>
+   </entry>
+   <entry key="Yardarm">
+      <hw source="1913 Webster">Yard"arm`</hw>
+      <note>☞ Ships are said to be <ex>yardarm and yardarm</ex> when so near as to touch, or interlock yards.</note>
+      <note>   A yard{6} is considered to have four unequal quarters,  two quarters extending from the mast to the slings on each side, and two smaller outer quarters outboard of the slings.</note>
+      <pos>n.</pos>
+      <sn no="1">
+         <fld>Naut</fld>
+         <def>Either half of a square-rigged vessel's yard{6}, from the center or mast to the end.</def>
+      </sn>
+      <sn no="2">
+         <fld>Naut</fld>
+         <def>The portion of a yard{6} outboard of the slings, often called the <altname>outer quarter</altname>.</def>
+      </sn>
+   </entry>
+   <entry key="Yardful">
+      <hw source="1913 Webster">Yard"ful</hw>
+      <pos>n.</pos>; <plu>pl.<plw>Yardfuls</plw>.</plu>
+      <def>As much as a yard will contain; enough to fill a yard.</def>
+   </entry>
+   <entry key="Yardland">
+      <hw source="1913 Webster">Yard"land`</hw>
+      <pos>n.</pos>
+      <fld>O. Eng. Law</fld>
+      <def>A measure of land of uncertain quantity, varying from fifteen to forty acres; a virgate.</def>
+      <mark>Obs</mark>
+   </entry>
+   <entry key="Yardstick">
+      <hw source="1913 Webster">Yard"stick`</hw>
+      <pos>n.</pos>
+      <def>A stick three feet, or a yard, in length, used as a measure of cloth, etc.</def>
+   </entry>
+   <entry key="Yardwand">
+      <hw source="1913 Webster">Yard"wand`</hw>
+      <pos>n.</pos>
+      <def au="Tennyson.">A yardstick.</def>
+   </entry>
+   <entry key="Yare">
+      <hw source="1913 Webster">Yare</hw>
+      <pos>a.</pos>
+      <ety>OE. <ets>yare</ets>
+         <ets>ȝaru</ets>, AS. <ets>gearu</ets>; akin to OS. <ets>garu</ets>, OHG. <ets>garo</ets>, G. <ets>gar</ets>, Icel. <ets>gerr</ets> perfect, <ets>görva</ets> quite, G. <ets>gerben</ets> to tan, to curry, OHG. <ets>garawen</ets>
+         <ets>garwen</ets>, to make ready.  Cf. <er>Carouse</er>
+         <er>Garb</er> clothing, <er>Gear</er>
+         <pos>n.</pos>
+      </ety>
+      <def>Ready; dexterous; eager; lively; quick to move.</def>
+      <mark>Obs</mark>
+      <q au="Shak.">Be<ex>yare</ex>in thy preparation.</q>
+      <q source="1913 Webster" au="Sir W. Raleigh.">The lesser [ship] will come and go, leave or take, and is <ex>yare</ex>; whereas the greater is slow.</q>
+   </entry>
+   <entry key="Yare">
+      <hw source="1913 Webster">Yare</hw>
+      <pos>adv.</pos>
+      <def>Soon.</def>
+      <mark au="Cursor Mundi.">Obs</mark>
+   </entry>
+   <entry key="Yarely">
+      <hw source="1913 Webster">Yare"ly</hw>
+      <pos>adv.</pos>
+      <def>In a yare manner.</def>
+      <mark au="Shak.">Obs</mark>
+   </entry>
+   <entry key="Yark">
+      <hw source="1913 Webster">Yark</hw>
+      <pos>v. t. &amp; i.</pos>
+      <def>To yerk.</def>
+      <mark>Prov. Eng</mark>
+   </entry>
+   <entry key="Yarke">
+      <hw source="1913 Webster">Yar"ke</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>Same as <er>Saki</er>.</def>
+   </entry>
+   <entry key="Yarn">
+      <hw source="1913 Webster">Yarn</hw>
+      <pos>n.</pos>
+      <ety>OE. <ets>yarn</ets>
+         <ets>ȝarn</ets>, AS. <ets>gearn</ets>; akin to D. <ets>garen</ets>, G., OHG., Icel., Sw., &amp; Dan. <ets>garn</ets>; of uncertain origin.  Cf. <er>Cord</er>
+      </ety>
+      <sn no="1">
+         <def>Spun wool; woolen thread; also, thread of other material, as of cotton, flax, hemp, or silk; material spun and prepared for use in weaving, knitting, manufacturing sewing thread, or the like.</def>
+      </sn>
+      <sn no="2">
+         <fld>Rope Making</fld>
+         <def>One of the threads of which the strands of a rope are composed.</def>
+      </sn>
+      <sn no="3">
+         <def>A story told by a sailor for the amusement of his companions; a story or tale; <as>as, to spin a <ex>yarn</ex>
+            </as>.</def>
+         <mark>Colloq</mark>
+      </sn>
+   </entry>
+   <entry key="Yarnen">
+      <hw source="1913 Webster">Yarn"en</hw>
+      <pos>a.</pos>
+      <def>Made of yarn; consisting of yarn.</def>
+      <mark>Obs</mark>
+      <q au="Turbervile.">A pair of<ex>yarnen</ex>stocks.</q>
+   </entry>
+   <entry key="Yarnut">
+      <hw source="1913 Webster">Yar"nut`</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>See <er>Yernut</er>.</def>
+   </entry>
+   <entry key="Yarr">
+      <hw source="1913 Webster">Yarr</hw>
+      <pos>v. i.</pos>
+      <ety>OE. <ets>ȝarren</ets>
+      </ety>
+      <def>To growl or snarl as a dog.</def>
+      <mark au="Ainsworth.">Obs</mark>
+   </entry>
+   <entry key="Yarrish">
+      <hw source="1913 Webster">Yar"rish</hw>
+      <pos>a.</pos>
+      <ety>Prov. E. <ets>yar</ets> sour, <ets>yare</ets> brackish</ety>
+      <def>Having a rough, dry taste.</def>
+      <mark>Prov. Eng</mark>
+   </entry>
+   <entry key="Yarrow">
+      <hw source="1913 Webster">Yar"row</hw>
+      <pos>n.</pos>
+      <ety>OE. <ets>yarowe</ets>
+         <ets>yarwe</ets>
+         <ets>ȝarowe</ets>, AS. <ets>gearwe</ets>; akin to D. <ets>gerw</ets>, OHG. <ets>garwa</ets>
+         <ets>garawa</ets>, G. <ets>garbe</ets>
+         <ets>schafgarbe</ets>, and perhaps to E. <ets>yare</ets>
+      </ety>
+      <fld>Bot</fld>
+      <def>An American and European composite plant (<spn>Achillea Millefolium</spn>) with very finely dissected leaves and small white corymbed flowers. It has a strong, and somewhat aromatic, odor and taste, and is sometimes used in making beer, or is dried for smoking. Called also <altname>milfoil</altname>, and <altname>nosebleed</altname>.</def>
+   </entry>
+   <entry key="Yarwhip">
+      <hw source="1913 Webster">Yar"whip`</hw>
+      <pos>n.</pos>
+      <ety>So called from its sharp cry uttered when taking wing</ety>
+      <fld>Zoöl</fld>
+      <def>The European bar-tailed godwit; -- called also <altname>yardkeep</altname>, and <ex>yarwhelp</ex>.  See <er>Godwit</er>.</def>
+      <mark>Prov. Eng</mark>
+   </entry>
+   <entry key="Yataghan">
+      <hw source="1913 Webster">Yat"a*ghan</hw>
+      <pos>n.</pos>
+      <ety>Turk. <ets>yātāghān</ets>
+      </ety>
+      <def>A long knife, or short saber, common among Mohammedan nations, usually having a double curve, sometimes nearly straight.</def>
+      <altsp>
+         <asp>ataghan</asp>
+         <asp>attaghan</asp>
+      </altsp>
+   </entry>
+   <entry key="Yate">
+      <hw source="1913 Webster">Yate</hw>
+      <pos>n.</pos>
+      <def>A gate.  See 1st <er>Gate</er>.</def>
+      <mark au="Spenser.">Obs. or Prov. Eng</mark>
+   </entry>
+   <entry key="Yaud">
+      <hw source="1913 Webster">Yaud</hw>
+      <pos>n.</pos>
+      <def>See <er>Yawd</er>.</def>
+      <mark>Prov. Eng. &amp; Scot</mark>
+   </entry>
+   <entry key="Yaul">
+      <hw source="1913 Webster">Yaul</hw>
+      <pos>n.</pos>
+      <fld>Naut</fld>
+      <def>See <er>Yawl</er>.</def>
+   </entry>
+   <entry key="Yaulp">
+      <hw source="1913 Webster">Yaulp</hw>
+      <pos>v. i.</pos>
+      <def>To yaup.</def>
+   </entry>
+   <entry key="Yaup">
+      <hw source="1913 Webster">Yaup</hw>
+      <pos>v. i.</pos>
+      <ety>See <er>Yap</er>, and <er>Yelp</er>
+      </ety>
+      <def>To cry out like a child; to yelp.</def>
+      <mark>Scot. &amp; Colloq. U. S</mark>
+      <altsp>
+         <asp>yawp</asp>
+      </altsp>
+   </entry>
+   <entry key="Yaup">
+      <hw source="1913 Webster">Yaup</hw>
+      <pos>n.</pos>
+      <ety>Written also <ets>yawp</ets>
+      </ety>
+      <sn no="1">
+         <def>A cry of distress, rage, or the like, as the cry of a sickly bird, or of a child in pain.</def>
+         <mark>Scot. &amp; Colloq. U. S</mark>
+      </sn>
+      <sn no="2">
+         <fld>Zoöl</fld>
+         <def>The blue titmouse.</def>
+         <mark>Prov. Eng</mark>
+      </sn>
+   </entry>
+   <entry key="Yauper">
+      <hw source="1913 Webster">Yaup"er</hw>
+      <pos>n.</pos>
+      <def>One who, or that which, yaups.</def>
+   </entry>
+   <entry key="Yaupon">
+      <hw source="1913 Webster">Yau"pon</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>A shrub (<spn>Ilex Cassine</spn>) of the Holly family, native from Virginia to Florida. The smooth elliptical leaves are used as a substitute for tea, and were formerly used in preparing the <prod>black drink</prod> of the Indians of North Carolina. Called also <altname>South-Sea tea</altname>.</def>
+      <altsp>
+         <asp>yapon</asp>
+         <asp>youpon</asp>
+         <asp>yupon</asp>
+      </altsp>
+   </entry>
+   <entry key="Yautia">
+      <hw source="Webster 1913 Suppl.">Yau*ti"a</hw>
+      <pos>n.</pos>
+      <ety>Native name in the Antilles</ety>
+      <def>In Puerto Rico, any of several araceous plants or their starchy edible roots, which are cooked and eaten like yams or potatoes, as the taro.</def>
+   </entry>
+   <entry key="Yaw">
+      <hw source="1913 Webster">Yaw</hw>
+      <pr>y�</pr>
+      <pos>v. i.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Yawed</conjf>
+         <pr>y�d</pr>; <pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Yawing</conjf>
+      </vmorph>
+      <ety>Cf. <er>Yew</er>
+         <pos>v. i.</pos>
+      </ety>
+      <def>To rise in blisters, breaking in white froth, as cane juice in the clarifiers in sugar works.</def>
+   </entry>
+   <entry key="Yaw">
+      <hw source="1913 Webster">Yaw</hw>
+      <pos>v. i. &amp; t.</pos>
+      <ety>Cf. Prov. G. <ets>gagen</ets> to rock, <ets>gageln</ets> to totter, shake, Norw. <ets>gaga</ets> to bend backward, Icel. <ets>gagr</ets> bent back, <ets>gaga</ets> to throw the neck back</ety>
+      <fld>Naut</fld>
+      <def>To steer wild, or out of the line of her course; to deviate from her course, as when struck by a heavy sea; -- said of a ship.</def>
+      <q source="1913 Webster" au="Lowell.">Just as he would lay the ship's course, all <ex>yawing</ex> being out of the question.</q>
+   </entry>
+   <entry key="Yaw">
+      <hw source="1913 Webster">Yaw</hw>
+      <pos>n.</pos>
+      <fld>Naut</fld>
+      <def>A movement of a vessel by which she temporarily alters her course; a deviation from a straight course in steering.</def>
+   </entry>
+   <entry key="yawd">
+      <hw source="1913 Webster">yawd</hw>
+      <pr>y�d</pr>
+      <pos>n.</pos>
+      <ety>Cf. Icel. <ets>jalda</ets> a mare, E. <ets>jade</ets> a nag</ety>
+      <def>A jade; an old horse or mare.</def>
+      <altsp>
+         <asp>yaud</asp>
+      </altsp>
+      <mark au="Grose.">Prov. Eng. &amp; Scot</mark>
+   </entry>
+   <entry key="yawl">
+      <hw source="1913 Webster">yawl</hw>
+      <pr>y�l</pr>
+      <pos>n.</pos>
+      <ety>D. <ets>jol</ets>; akin to LG. &amp; Dan. <ets>jolle</ets>, Sw. <ets>julle</ets>.  Cf. <er>Jolly-boat</er>
+      </ety>
+      <sn no="1">
+         <fld>Naut</fld>
+         <def>A small ship's boat, usually rowed by four or six oars.</def>
+         <altsp>
+            <asp>yaul</asp>
+         </altsp>
+      </sn>
+      <sn no="2">
+         <def>A fore-and-aft-rigged vessel with two masts, a mainmast carrying a mainsail and jibs, taller than the mizzenmast and stepped a little farther forward than in a <contr>sloop</contr>, and with the mizzenmast, or jiggermast far aft, usually placed aft of the water line or aft the rudder post.  The mizzenmast of a yawl is smaller, and set further aft, than that of a <contr>sloop</contr>.</def>
+      </sn>
+   </entry>
+   <entry key="Yawl">
+      <hw source="1913 Webster">Yawl</hw>
+      <pos>v. i.</pos>
+      <ety>OE. <ets>ȝaulen</ets>
+         <ets>ȝoulen</ets>
+         <ets>gaulen</ets>
+         <ets>goulen</ets>, Icel. <ets>gaula</ets> to low, bellow.  Cf. <er>Gowl</er>
+      </ety>
+      <def au="Tennyson.">To cry out like a dog or cat; to howl; to yell.</def>
+      <q source="1913 Webster" au="Fairfax.">There howling Scyllas <ex>yawling</ex> round about.</q>
+   </entry>
+   <entry key="Yawl-rigged">
+      <hw source="1913 Webster">Yawl"-rigged"</hw>
+      <pos>a.</pos>
+      <fld>Naut</fld>
+      <def>Having two masts with fore-and-aft sails, but differing from a schooner in that the after mast is very small, and stepped as far aft as possible.  See <ex>Illustration</ex> in Appendix.</def>
+   </entry>
+   <entry key="Yawn">
+      <hw source="1913 Webster">Yawn</hw>
+      <pr>y�n</pr>
+      <pos>v. i.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Yawned</conjf>; <pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Yawning</conjf>
+      </vmorph>
+      <ety>OE. <ets>yanien</ets>
+         <ets>ȝanien</ets>
+         <ets>ganien</ets>
+         <ets>gonien</ets>, AS. <ets>gānian</ets>; akin to <ets>ginian</ets> to yawn, <ets>gīnan</ets> to yawn, open wide, G. <ets>gähnen</ets> to yawn, OHG. <ets>ginēn</ets>
+         <ets>geinōn</ets>, Icel. <ets>gīna</ets> to yawn, <ets>gin</ets> the mouth, OSlav. <ets>zijati</ets> to yawn, L. <ets>hiare</ets> to gape, yawn; and perhaps to E. <ets>begin</ets>, cf. Gr. <grk>cheia`</grk> a hole. √47b.  Cf. <ets>Begin</ets>
+         <ets>Gin</ets> to begin, <er>Hiatus</er>
+      </ety>
+      <sn no="1">
+         <def>To open the mouth involuntarily through drowsiness, dullness, or fatigue; to gape; to oscitate.</def>
+         <q au="Shak.">The lazy,<ex>yawning</ex>drone.</q>
+         <q source="1913 Webster" au="Trumbull.">And while above he spends his breath,
+The <ex>yawning</ex> audience nod beneath.</q>
+      </sn>
+      <sn no="2">
+         <def>To open wide; to gape, as if to allow the entrance or exit of anything.</def>
+         <q source="1913 Webster" au="Shak.">'t is now the very witching time of night,
+When churchyards <ex>yawn</ex>.</q>
+      </sn>
+      <sn no="3">
+         <def au="Shak.">To open the mouth, or to gape, through surprise or bewilderment.</def>
+      </sn>
+      <sn no="4">
+         <def>To be eager; to desire to swallow anything; to express desire by yawning; <as>as, to <ex>yawn</ex> for fat livings</as>.</def>
+         <q au="Landor.">One long,<ex>yawning</ex>gaze.</q>
+      </sn>
+   </entry>
+   <entry key="Yawn">
+      <hw source="1913 Webster">Yawn</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>An involuntary act, excited by drowsiness, etc., consisting of a deep and long inspiration following several successive attempts at inspiration, the mouth, fauces, etc., being wide open.</def>
+         <q source="1913 Webster" au="N. Chipman.">One person yawning in company will produce a spontaneous <ex>yawn</ex> in all present.</q>
+      </sn>
+      <sn no="2">
+         <def au="Addison.">The act of opening wide, or of gaping.</def>
+      </sn>
+      <sn no="3">
+         <def>A chasm, mouth, or passageway.</def>
+         <mark>R</mark>
+         <q source="1913 Webster" au="Marston.">Now gape the graves, and trough their <ex>yawns</ex> let loose
+Imprisoned spirits.</q>
+      </sn>
+   </entry>
+   <entry key="Yawningly">
+      <hw source="1913 Webster">Yawn"ing*ly</hw>
+      <pos>adv.</pos>
+      <def>In a yawning manner.</def>
+   </entry>
+   <entry key="Yawp">
+      <hw source="1913 Webster">Yawp</hw>
+      <pos>v. &amp; n.</pos>
+      <def>See <er>Yaup</er>.</def>
+   </entry>
+   <entry key="Yaws">
+      <hw source="1913 Webster">Yaws</hw>
+      <pos>n.</pos>
+      <ety>African <ets>yaw</ets> a raspberry</ety>
+      <fld>Med</fld>
+      <def>A disease, occurring in the Antilles and in Africa, characterized by yellowish or reddish tumors, of a contagious character, which, in shape and appearance, often resemble currants, strawberries, or raspberries. There are several varieties of this disease, variously known as <stype>frambœsia</stype>
+         <stype>pian</stype>
+         <stype>verrugas</stype>, and <stype>crab-yaws</stype>.</def>
+   </entry>
+   <entry key="Yaw-weed">
+      <hw source="1913 Webster">Yaw"-weed`</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>A low, shrubby, rubiaceous plant (<spn>Morinda Royoc</spn>) growing along the seacoast of the West Indies. It has small, white, odorous flowers.</def>
+   </entry>
+   <entry key="Yazoo Fraud">
+      <hw source="Webster 1913 Suppl.">Yaz"oo Fraud</hw>. <fld>U. S. Hist</fld>
+      <def>The grant by the State of Georgia, by Act of Jan. 7, 1795, of 35,000,000 acres of her western territory, for $500,000, to four companies known as the <col>Yazoo Companies</col> from the region granted ; -- commonly so called, the act being known as the <col>Yazoo Frauds Act</col>, because of alleged corruption of the legislature, every member but one being a shareholder in one or more of the companies. The act granting the land was repealed in 1796 by a new legislature, and the repealing provision was incorporated in the State constitution in 1798. In 1802 the territory was ceded to the United States. The claims of the purchasers, whom Georgia had refused to compensate, were sustained by the United States Supreme Court, which (1810) declared the repealing act of 1796 unconstitutional. Congress in 1814 ordered the lands sold and appropriated $5,000,000 to pay the claims.</def>
+   </entry>
+   <entry key="Ybe">
+      <hw source="1913 Webster">Y*be"</hw>
+      <mark>obs.</mark>
+      <pos>p. p.</pos> of <er>Be</er>.  <def au="Chaucer.">Been.</def>
+   </entry>
+   <entry key="Ycleped">
+      <hw source="1913 Webster">Y*cleped"</hw>
+      <pos>p. p.</pos>
+      <ety>AS. <ets>geclipod</ets>, p. p. of <ets>clipian</ets>
+         <ets>cleopian</ets>
+         <ets>cliopian</ets>, to call.  See <er>Clepe</er>, and also the Note under <er>Y-</er>
+      </ety>
+      <def>Called; named; -- obsolete, except in archaic or humorous writings.</def>
+      <altsp>
+         <asp>yclept</asp>
+      </altsp>
+      <q source="1913 Webster" au="Chaucer.">It is full fair to ben <ex>yclept</ex> madame.</q>
+      <q source="1913 Webster" au="Milton.">But come, thou goddess fair and free.
+In heaven <ex>ycleped</ex> Euphrosyne.</q>
+      <q source="1913 Webster" au="Lamb.">Those charming little missives <ex>ycleped</ex> valentines.</q>
+   </entry>
+   <entry key="Y current">
+      <hw source="Webster 1913 Suppl.">Y current</hw>. <fld>Elec</fld>
+      <def>The current through one branch of the star arrangement of a three-phase circuit.</def>
+   </entry>
+   <entry key="Ydo">
+      <hw source="1913 Webster">Y*do"</hw>
+      <mark>obs.</mark>
+      <pos>p. p.</pos> of <er>Do</er>. <def au="Chaucer.">Done.</def>
+   </entry>
+   <entry key="Ydrad">
+      <hw source="1913 Webster">Y*drad"</hw>
+      <mark>obs.</mark>
+      <pos>p. p.</pos>
+      <mord>of <er>Dread</er>.</mord>
+      <def>Dreaded.</def>
+      <q source="1913 Webster" au="Spenser.">Yet nothing did he dread, but ever was <ex>ydrad</ex>.</q>
+   </entry>
+   <entry key="Ye">
+      <mhw source="1913 Webster">
+         <hw>Y<supr>e</supr>
+         </hw>
+         <hw>Ye</hw>
+         <pr>�ē</pr>
+      </mhw>
+      <def>an old method of printing the article <ex>the</ex>AS.  <ets>þe</ets>), the “y” being used in place of the Anglo-Saxon thorn (þ). It is sometimes incorrectly pronounced <pr>yē</pr>.  See <er>The</er>, and <er>Thorn</er>
+         <pos>n.</pos>, 4.</def>
+   </entry>
+   <entry key="Yë">
+      <hw source="1913 Webster">Y"ë</hw>
+      <pr>ē"�</pr>
+      <pos>n.</pos>; <plu>pl.<plw>Yën</plw>
+         <pr>ē"�n</pr>.</plu>
+      <def>An eye.</def>
+      <mark>Obs</mark>
+      <q source="1913 Webster" au="Chaucer.">From his <ex>yën</ex> ran the water down.</q>
+   </entry>
+   <entry key="Ye">
+      <hw source="1913 Webster">Ye</hw>
+      <note>☞ In Old English <ex>ye</ex> was used only as a nominative, and <ex>you</ex> only as a dative or objective. In the 16th century, however, <ex>ye</ex> and <ex>you</ex> became confused and were often used interchangeably, both as nominatives and objectives, and <ex>you</ex> has now superseded <ex>ye</ex> except in solemn or poetic use.  See <er>You</er>, and also the first Note under <er>Thou</er>.</note>
+      <pr>yē</pr>
+      <pos>pron.</pos>
+      <ety>OE. <ets>ye</ets>
+         <ets>ȝe</ets>, nom. pl., AS. <ets>ge</ets>
+         <ets>gī</ets>; cf. OS. <ets>ge</ets>
+         <ets>gī</ets>, OFries. <ets>gī</ets>
+         <ets>ī</ets>, D. <ets>gij</ets>, Dan. &amp; Sw. <ets>i</ets>, Icel. <ets>ēr</ets>, OHG. <ets>ir</ets>, G. <ets>ihr</ets>, Goth. <ets>jus</ets>, Lith. <ets>jus</ets>, Gr. <grk>"ymei^s</grk>, Skr. <ets>yuyam</ets>. √189</ety>
+      <def>The plural of the pronoun of the second person in the nominative case.</def>
+      <q source="1913 Webster" au="Chaucer.">
+         <ex>Ye</ex> ben to me right welcome heartily.</q>
+      <q source="1913 Webster" au="1 Cor. vi. 11.">But <ex>ye</ex> are washed, but <ex>ye</ex> are sanctified.</q>
+      <q source="1913 Webster" au="Udall.">This would cost you your life in case <ex>ye</ex> were a man.</q>
+      <q source="1913 Webster" au="Shak.">Vain pomp and glory of this world, I hate <ex>ye</ex>.</q>
+      <q source="1913 Webster" au="Dryden.">I come, kind gentlemen, strange news to tell <ex>ye</ex>.</q>
+   </entry>
+   <entry key="Ye">
+      <hw source="1913 Webster">Ye</hw>
+      <pr>yā</pr>
+      <pos>adv.</pos>
+      <ety>See <er>Yea</er>
+      </ety>
+      <def>Yea; yes.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Yea">
+      <hw source="1913 Webster">Yea</hw>
+      <note>☞ <ex>Yea</ex> sometimes introduces a clause, with the sense of <ex>indeed</ex>
+         <ex>verily</ex>
+         <ex>truly</ex>. “<ex>Yea</ex>, hath God said, Ye shall not eat of every tree of the garden?”</note>
+      <pr>yā or yē; 277</pr>
+      <pos>adv.</pos>
+      <ety>OE. <ets>ye</ets>
+         <ets>ya</ets>
+         <ets>ȝe</ets>
+         <ets>ȝa</ets>, AS. <ets>geá</ets>; akin to OFries. <ets>gē</ets>
+         <ets>iē</ets>, OS., D., OHG., G., Dan. &amp; Sw. <ets>ja</ets>, Icel, <ets>jā</ets>, Goth. <ets>ja</ets>
+         <ets>jai</ets>, and probably to Gr. <grk>"h^</grk> truly, verily. √188.  Cf. <er>Yes</er>
+      </ety>
+      <sn no="1">
+         <def>Yes; ay; a word expressing assent, or an affirmative, or an affirmative answer to a question, now superseded by <ex>yes</ex>.  See <er>Yes</er>.</def>
+         <q source="1913 Webster" au="Matt. v. 37.">Let your communication be <ex>yea</ex>
+            <ex>yea</ex>; nay, nay.</q>
+      </sn>
+      <sn no="2">
+         <def>More than this; not only so, but; -- used to mark the addition of a more specific or more emphatic clause.  Cf. <er>Nay</er>
+            <pos>adv.</pos>, 2.</def>
+         <q source="1913 Webster" au="Phil. i. 18.">I therein do rejoice, <ex>yea</ex>, and will rejoice.</q>
+      </sn>
+   </entry>
+   <entry key="Yea">
+      <hw source="1913 Webster">Yea</hw>
+      <note>☞ In the Scriptures, <ex>yea</ex> is used as a sign of certainty or stability. “All the promises of God in him are <ex>yea</ex>, and in him Amen.”</note>
+      <pos>n.</pos>
+      <def>An affirmative vote; one who votes in the affirmative; <as>as, a vote by <ex>yeas</ex> and nays</as>.</def>
+   </entry>
+   <entry key="Yead">
+      <hw source="1913 Webster">Yead</hw>
+      <pos>v. i.</pos>
+      <def>Properly, a variant of the defective imperfect <ex>yode</ex>, but sometimes mistaken for a present.  See the Note under <er>Yede</er>.</def>
+      <mark>Obs</mark>
+      <q source="1913 Webster" au="Drant.">Years <ex>yead</ex> away and faces fair deflower.</q>
+   </entry>
+   <entry key="Yean">
+      <hw source="1913 Webster">Yean</hw>
+      <pos>v. t. &amp; i.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Yeaned</conjf>; <pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Yeaning</conjf>
+      </vmorph>
+      <ety>AS. <ets>eánian</ets>, or <ets>geeánian</ets>; perhaps akin to E. <ets>ewe</ets>, or perhaps to L. <ets>agnus</ets>, Gr. �.  Cf. <er>Ean</er>
+      </ety>
+      <def au="Shak.">To bring forth young, as a goat or a sheep; to ean.</def>
+   </entry>
+   <entry key="Yeanling">
+      <hw source="1913 Webster">Yean"ling</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Yean</ets> + <ets>-ling</ets>.  Cf. <er>Eanling</er>
+      </ety>
+      <def au="Shak.">A lamb or a kid; an eanling.</def>
+   </entry>
+   <entry key="Year">
+      <hw source="1913 Webster">Year</hw>
+      <note>☞ The <ex>civil</ex>, or <ex>legal</ex>
+         <ex>year</ex>, in England, formerly commenced on the 25th of March. This practice continued throughout the British dominions till the year 1752.</note>
+      <cs source="1913 Webster">
+         <col>Anomalistic year</col>
+         <cd>the time of the earth's revolution from perihelion to perihelion again, which is 365 days, 6 hours, 13 minutes, and 48 seconds.</cd>
+         <col>A year's mind</col>
+         <fld>Eccl</fld>
+         <cd>a commemoration of a deceased person, as by a Mass, a year after his death.  Cf. <cref>A month's mind</cref>, under <er>Month</er>.</cd>
+         <col>Bissextile year</col>. <cd>See <er>Bissextile</er>.</cd>
+         <col>Canicular year</col>. <cd>See under <er>Canicular</er>.</cd>
+         <col>Civil year</col>
+         <cd>the year adopted by any nation for the computation of time.</cd>
+         <col>Common lunar year</col>
+         <cd>the period of 12 lunar months, or 354 days.</cd>
+         <col>Common year</col>
+         <cd>each year of 365 days, as distinguished from <ex>leap year</ex>.</cd>
+         <mcol>
+            <col>Embolismic year</col>or<col>Intercalary lunar year</col>
+         </mcol>
+         <cd>the period of 13 lunar months, or 384 days.</cd>
+         <col>Fiscal year</col>
+         <fld>Com</fld>
+         <cd>the year by which accounts are reckoned, or the year between one annual time of settlement, or balancing of accounts, and another.</cd>
+         <col>Great year</col>. <cd>See <cref>Platonic year</cref>, under <er>Platonic</er>.</cd>
+         <mcol>
+            <col>Gregorian year</col>
+            <col>Julian year</col>
+         </mcol>. <cd>See under <er>Gregorian</er>, and <er>Julian</er>.</cd>
+         <col>Leap year</col>. <cd>See <er>Leap year</er>, in the Vocabulary.</cd>
+         <col>Lunar astronomical year</col>
+         <cd>the period of 12 lunar synodical months, or 354 days, 8 hours, 48 minutes, 36 seconds.</cd>
+         <col>Lunisolar year</col>. <cd>See under <er>Lunisolar</er>.</cd>
+         <col>Periodical year</col>. <cd>See <cref>Anomalistic year</cref>, above.</cd>
+         <mcol>
+            <col>Platonic year</col>
+            <col>Sabbatical year</col>
+         </mcol>. <cd>See under <er>Platonic</er>, and <er>Sabbatical</er>.</cd>
+         <col>Sidereal year</col>
+         <cd>the time in which the sun, departing from any fixed star, returns to the same. This is 365 days, 6 hours, 9 minutes, and 9.3 seconds.</cd>
+         <col>Tropical year</col>. <cd>See under <er>Tropical</er>.</cd>
+         <col>Year and a day</col>
+         <fld>O. Eng. Law</fld>
+         <cd>a time to be allowed for an act or an event, in order that an entire year might be secured beyond all question.</cd>
+         <au>Abbott.</au>
+         <col>Year of grace</col>
+         <cd>any year of the Christian era; Anno Domini; A. D. or a. d.</cd>
+      </cs>
+      <pos>n.</pos>
+      <ety>OE. <ets>yer</ets>
+         <ets>yeer</ets>
+         <ets>ȝer</ets>, AS. <ets>geár</ets>; akin to OFries. <ets>i�r</ets>
+         <ets>g�r</ets>, D. <ets>jaar</ets>, OHG. <ets>jār</ets>, G. <ets>jahr</ets>, Icel. <ets>ār</ets>, Dan. <ets>aar</ets>, Sw. <ets>år</ets>, Goth. <ets>j�r</ets>, Gr. � a season of the year, springtime, a part of the day, an hour, � a year, Zend <ets>yāre</ets> year. √4, 279.  Cf. <er>Hour</er>
+         <er>Yore</er>
+      </ety>
+      <sn no="1">
+         <def>The time of the apparent revolution of the sun trough the ecliptic; the period occupied by the earth in making its revolution around the sun, called the <ex>astronomical year</ex>; also, a period more or less nearly agreeing with this, adopted by various nations as a measure of time, and called the <ex>civil year</ex>; <as>as, the common lunar <ex>year</ex> of 354 days, still in use among the Mohammedans; the <ex>year</ex> of 360 days, etc. In common usage, the year consists of 365 days, and every fourth year (called <ex>bissextile</ex>, or <ex>leap year</ex>) of 366 days, a day being added to February on that year, on account of the excess above 365 days (see <er>Bissextile</er>
+            </as>.</def>
+         <q source="1913 Webster" au="Chaucer.">Of twenty <ex>year</ex> of age he was, I guess.</q>
+      </sn>
+      <sn no="2">
+         <def>The time in which any planet completes a revolution about the sun; <as>as, the <ex>year</ex> of Jupiter or of Saturn</as>.</def>
+      </sn>
+      <sn no="3">
+         <pluf>pl.</pluf>
+         <def au="Shak.">Age, or old age; <as>as, a man in <ex>years</ex>
+            </as>.</def>
+      </sn>
+   </entry>
+   <entry key="year 2000 bug">
+      <mhw source="PJC">
+         <hw>year 2000 bug</hw>
+         <hw>year 2000 problem</hw>
+      </mhw>
+      <note>In 1998 many programs with the <ex>year 2000 bug</ex> were still not corrected, and it is not clear how many programs will retain the bug when the year 2000 arrives.  Tune in then.</note>
+      <pos>n.</pos>
+      <fld>Computers</fld>
+      <def>an error in the coding of certain computer programs in which the year portion of dates was represented by only two decimal digits, assuming that the first two digits are “19”.  In such a program the the year 1975 is represented as “75”.  This was a common practise in computer programming even into the 1990's, as many programmers failed to consider that their programs would be used after the year 1999.  Thus, with such a program, a person born in 2000 would be considered as 101 years old in 2001; many different serious problems, as various as the programs, could be caused by such an error.</def>
+   </entry>
+   <entry key="year 2000 compliant">
+      <hw source="PJC">year 2000 compliant</hw>
+      <pos>a.</pos>
+      <fld>Computers</fld>
+      <def>having dates fully and properly represented, and not susceptible to failure due to the <er>year 2000 bug</er>.</def>
+   </entry>
+   <entry key="Yeara">
+      <hw source="1913 Webster">Ye*a"ra</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>The California poison oak (<spn>Rhus diversiloba</spn>).  See under <er>Poison</er>
+         <pos>a.</pos>
+      </def>
+   </entry>
+   <entry key="Yearbook">
+      <hw source="1913 Webster">Year"book`</hw>
+      <note>☞ The <ex>Yearbooks</ex> are the oldest English reports extant, beginning with the reign of Edward II., and ending with the reign of Henry VIII. They were published annually, and derive their name from that fact. They consist of eleven parts, or volumes, are written in Law French, and extend over nearly two hundred years. There are, however, several hiatuses, or chasms, in the series.</note>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>A book published yearly; any annual report or summary of the statistics or facts of a year, designed to be used as a reference book; <as>as, the Congregational <ex>Yearbook</ex>
+            </as>.</def>
+      </sn>
+      <sn no="2">
+         <fld>Eng. Law</fld>
+         <def>A book containing annual reports of cases adjudged in the courts of England.</def>
+      </sn>
+   </entry>
+   <entry key="Yeared">
+      <hw source="1913 Webster">Yeared</hw>
+      <pos>a.</pos>
+      <def>Containing years; having existed or continued many years; aged.</def>
+      <mark au="B. Jonson.">Obs</mark>
+   </entry>
+   <entry key="Yearling">
+      <hw source="1913 Webster">Year"ling</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Year</ets> + <ets>-ling</ets>
+      </ety>
+      <def>An animal one year old, or in the second year of its age; -- applied chiefly to cattle, sheep, and horses.</def>
+   </entry>
+   <entry key="Yearling">
+      <hw source="1913 Webster">Year"ling</hw>
+      <pos>a.</pos>
+      <def>Being a year old.</def>
+      <q au="Pope.">A<ex>yearling</ex>bullock to thy name small smoke.</q>
+   </entry>
+   <entry key="Yearly">
+      <hw source="1913 Webster">Year"ly</hw>
+      <pos>a.</pos>
+      <ety>AS. <ets>geárlic</ets>
+      </ety>
+      <sn no="1">
+         <def>Happening, accruing, or coming every year; annual; <as>as, a <ex>yearly</ex> income; a <ex>yearly</ex> feast</as>.</def>
+      </sn>
+      <sn no="2">
+         <def>Lasting a year; <as>as, a <ex>yearly</ex> plant</as>.</def>
+      </sn>
+      <sn no="3">
+         <def au="Shak.">Accomplished in a year; <as>as, the <ex>yearly</ex> circuit, or revolution, of the earth</as>.</def>
+      </sn>
+   </entry>
+   <entry key="Yearly">
+      <hw source="1913 Webster">Year"ly</hw>
+      <pos>adv.</pos>
+      <ety>AS. <ets>geárlice</ets>
+      </ety>
+      <def>Annually; once a year to year; <as>as, blessings <ex>yearly</ex> bestowed</as>.</def>
+      <q source="1913 Webster" au="Shak.">
+         <ex>Yearly</ex> will I do this rite.</q>
+   </entry>
+   <entry key="Yearn">
+      <hw source="1913 Webster">Yearn</hw>
+      <pr>yẽrn</pr>
+      <pos>v. t.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Yearned</conjf>; <pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Yearning</conjf>
+      </vmorph>
+      <ety>Also <ets>earn</ets>
+         <ets>ern</ets>; probably a corruption of OE. <ets>ermen</ets> to grieve, AS. <ets>ierman</ets>
+         <ets>yrman</ets>, or <ets>geierman</ets>
+         <ets>geyrman</ets>, fr. <ets>earm</ets> wretched, poor; akin to D. &amp; G. <ets>arm</ets>, Icel. <ets>armr</ets>, Goth. <ets>arms</ets>. The <ets>y-</ets> in English is perhaps due to the AS. <ets>ge</ets>see <er>Y-</er>)</ety>
+      <def>To pain; to grieve; to vex.</def>
+      <mark>Obs</mark>
+      <q au="Shak.">She laments, sir, for it, that it would<ex>yearn</ex>your heart to see it.</q>
+      <q source="1913 Webster" au="Shak.">It <ex>yearns</ex> me not if men my garments wear.</q>
+   </entry>
+   <entry key="Yearn">
+      <hw source="1913 Webster">Yearn</hw>
+      <pos>v. i.</pos>
+      <def>To be pained or distressed; to grieve; to mourn.</def>
+      <mark>Obs</mark>
+      <q au="Shak.">Falstaff he is dead, and we must<ex>yearn</ex>therefore.</q>
+   </entry>
+   <entry key="Yearn">
+      <hw source="1913 Webster">Yearn</hw>
+      <pos>v. i. &amp; t.</pos>
+      <ety>See <er>Yearnings</er>
+      </ety>
+      <def>To curdle, as milk.</def>
+      <mark>Scot</mark>
+   </entry>
+   <entry key="Yearn">
+      <hw source="1913 Webster">Yearn</hw>
+      <pos>v. i.</pos>
+      <ety>OE. <ets>yernen</ets>
+         <ets>ȝernen</ets>
+         <ets>ȝeornen</ets>, AS. <ets>geornian</ets>
+         <ets>gyrnan</ets>, fr. <ets>georn</ets> desirous, eager; akin to OS. <ets>gern</ets> desirous, <ets>girnean</ets>
+         <ets>gernean</ets>, to desire, D. <ets>gaarne</ets> gladly, willingly, G. <ets>gern</ets>, OHG. <ets>gerno</ets>, adv., <ets>gern</ets>, a., G. <ets>gier</ets> greed, OHG. <ets>girī</ets> greed, <ets>ger</ets> desirous, <ets>gerōn</ets> to desire, G. be<ets>gehren</ets>, Icel. <ets>girna</ets> to desire, <ets>gjarn</ets> eager, Goth. faíhu<ets>gaírns</ets> covetous, <ets>gaírnjan</ets> to desire, and perhaps to Gr. <grk>chai`rein</grk> to rejoice, be glad, Skr. <ets>hary</ets> to desire, to like. √33</ety>
+      <def>To be filled with longing desire; to be harassed or rendered uneasy with longing, or feeling the want of a thing; to strain with emotions of affection or tenderness; to long; to be eager.</def>
+      <q source="1913 Webster" au="Gen. xliii. 30.">Joseph made haste; for his bowels did <ex>yearn</ex> upon his brother; and he sought where to weep.</q>
+      <q source="1913 Webster" au="Addison.">Your mother's heart <ex>yearns</ex> towards you.</q>
+   </entry>
+   <entry key="Yearnful">
+      <hw source="1913 Webster">Yearn"ful</hw>
+      <pos>a.</pos>
+      <ety>OE. <ets>ȝeornful</ets>, AS. <ets>geornfull</ets>
+      </ety>
+      <def>Desirous.</def>
+      <mark au="Ormulum. P. Fletcher.">Obs</mark>
+   </entry>
+   <entry key="Yearningly">
+      <hw source="1913 Webster">Yearn"ing*ly</hw>
+      <pos>adv.</pos>
+      <def>With yearning.</def>
+   </entry>
+   <entry key="Yearnings">
+      <hw source="1913 Webster">Yearn"ings</hw>
+      <pos>n. pl.</pos>
+      <ety>Cf. AS. <ets>geirnan</ets>
+         <ets>geyrnan</ets>, to rum.  See 4th <er>Earn</er>
+      </ety>
+      <def>The maws, or stomachs, of young calves, used as a rennet for curdling milk.</def>
+      <mark>Scot</mark>
+   </entry>
+   <entry key="Year's purchase">
+      <hw source="Webster 1913 Suppl.">Year's purchase</hw>. <def>The amount that is yielded by the annual income of property; -- used in expressing the value of a thing in the number of years required for its income to yield its purchase price, in reckoning the amount to be paid for annuities, etc.</def>
+   </entry>
+   <entry key="Yearth">
+      <hw source="1913 Webster">Yearth</hw>
+      <pos>n.</pos>
+      <def>The earth.</def>
+      <mark>Obs</mark>
+      <q au="Ld. Berners.">Is my son dead or hurt or on the<ex>yerthe</ex>felled?</q>
+   </entry>
+   <entry key="Yeast">
+      <hw source="1913 Webster">Yeast</hw>
+      <cs source="1913 Webster">
+         <col>Yeast cake</col>
+         <cd>a mealy cake impregnated with the live germs of the yeast plant, and used as a conveniently transportable substitute for yeast.</cd>
+         <col>Yeast plant</col>
+         <fld>Bot</fld>
+         <cd>the vegetable organism, or fungus, of which beer yeast consists. The yeast plant is composed of simple cells, or granules, about one three-thousandth of an inch in diameter, often united into filaments which reproduce by budding, and under certain circumstances by the formation of spores. The name is extended to other ferments of the same genus.  See <er>Saccharomyces</er>.</cd>
+         <col>Yeast powder</col>
+         <cd>a baling powder, -- used instead of yeast in leavening bread.</cd>
+      </cs>
+      <pos>n.</pos>
+      <ety>OE. <ets>ȝeest</ets>
+         <ets>ȝest</ets>, AS. <ets>gist</ets>; akin to D. <ets>gest</ets>
+         <ets>gist</ets>, G. <ets>gischt</ets>
+         <ets>gäscht</ets>, OHG. <ets>jesan</ets>
+         <ets>jerian</ets>, to ferment, G. <ets>gischen</ets>
+         <ets>gäschen</ets>
+         <ets>gähren</ets>, Gr. � boiled, <grk>zei^n</grk> to boil, Skr. <ets>yas</ets>. √111</ety>
+      <sn no="1">
+         <def>The foam, or troth (<ex>top yeast</ex>), or the sediment (<ex>bottom yeast</ex>), of beer or other in fermentation, which contains the yeast plant or its spores, and under certain conditions produces fermentation in saccharine or farinaceous substances; a preparation used for raising dough for bread or cakes, and making it light and puffy; barm; ferment.</def>
+      </sn>
+      <sn no="2">
+         <def>Spume, or foam, of water.</def>
+         <q source="1913 Webster" au="Byron.">They melt thy <ex>yeast</ex> of waves, which mar
+Alike the Armada's pride, or spoils of Trafalgar.</q>
+      </sn>
+   </entry>
+   <entry key="Yeast-bitten">
+      <hw source="1913 Webster">Yeast"-bit`ten</hw>
+      <pos>a.</pos>
+      <fld>Brewing</fld>
+      <def>A term used of beer when the froth of the yeast has reëntered the body of the beer.</def>
+   </entry>
+   <entry key="Yeastiness">
+      <hw source="1913 Webster">Yeast"i*ness</hw>
+      <pos>n.</pos>
+      <def>The quality or state of being yeasty, or frothy.</def>
+   </entry>
+   <entry key="Yeasty">
+      <hw source="1913 Webster">Yeast"y</hw>
+      <pos>a.</pos>
+      <def>Frothy; foamy; spumy, like yeast.</def>
+   </entry>
+   <entry key="Yedding">
+      <hw source="1913 Webster">Yed"ding</hw>
+      <pos>n.</pos>
+      <ety>AS. <ets>geddung</ets>
+         <ets>gidding</ets>
+         <ets>giedding</ets>, from <ets>gieddian</ets>
+         <ets>giddian</ets>, to sing, speak</ety>
+      <def>The song of a minstrel; hence, any song.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Yede">
+      <hw source="1913 Webster">Yede</hw>
+      <note>☞ Spenser and some later writers mistook this for a present of the defective imperfect <ex>yode</ex>. It is, however, only a variant of <ex>yode</ex>.  See <er>Yode</er>, and cf. <er>Yead</er>.</note>
+      <mark>obs.</mark>
+      <pos>imp.</pos>
+      <def>Went.  See <er>Yode</er>.</def>
+      <q source="1913 Webster" au="Chaucer.">All as he bade fulfilled was indeed
+This ilke servant anon right out <ex>yede</ex>.</q>
+      <q source="1913 Webster" au="Spenser">He] on foot was forced for to <ex>yeed</ex>.</q>
+   </entry>
+   <entry key="Yeel">
+      <hw source="1913 Webster">Yeel</hw>
+      <pos>n.</pos>
+      <def>An eel.</def>
+      <mark au="Holland.">Obs</mark>
+   </entry>
+   <entry key="Yeldhall">
+      <hw source="1913 Webster">Yeld"hall`</hw>
+      <pos>n.</pos>
+      <def>Guildhall.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Yeldrin">
+      <mhw source="1913 Webster">
+         <hw>Yel"drin</hw>or<hw>Yel"drine</hw>
+      </mhw>
+      <pos>n.</pos>
+      <ety>Cf. <er>Yellow</er>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>The yellow-hammer; -- called also <altname>yeldrock</altname>, and <altname>yoldrin</altname>.</def>
+      <mark>Prov. Eng</mark>
+   </entry>
+   <entry key="Yelk">
+      <hw source="1913 Webster">Yelk</hw>
+      <pos>n.</pos>
+      <def>Same as <er>Yolk</er>.</def>
+   </entry>
+   <entry key="Yell">
+      <hw source="1913 Webster">Yell</hw>
+      <pr>yĕl</pr>
+      <pos>v. i.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Yelled</conjf>; <pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Yelling</conjf>
+      </vmorph>
+      <ety>OE. <ets>yellen</ets>
+         <ets>ȝellen</ets>, AS. <ets>giellan</ets>
+         <ets>gillan</ets>
+         <ets>gyllan</ets>; akin to D. <ets>gillen</ets>, OHG. <ets>gellan</ets>, G. <ets>gellen</ets>, Icel. <ets>gjalla</ets>, Sw. <ets>gälla</ets> to ring, resound, and to AS., OS., &amp; OHG. <ets>galan</ets> to sing, Icel. <ets>gala</ets>.  Cf. 1st <er>Gale</er>, and <er>Nightingale</er>
+      </ety>
+      <def>To cry out, or shriek, with a hideous noise; to cry or scream as with agony or horror.</def>
+      <q source="1913 Webster" au="Chaucer.">They <ex>yelleden</ex> as feendes doon in helle.</q>
+      <q source="1913 Webster" au="Spenser.">Nor the night raven, that still deadly <ex>yells</ex>.</q>
+      <q source="1913 Webster" au="Milton.">Infernal ghosts and hellish furies round
+Environed thee; some howled, some <ex>yelled</ex>.</q>
+   </entry>
+   <entry key="Yell">
+      <hw source="1913 Webster">Yell</hw>
+      <pos>v. t.</pos>
+      <def au="Shak.">To utter or declare with a yell; to proclaim in a loud tone.</def>
+   </entry>
+   <entry key="Yell">
+      <hw source="1913 Webster">Yell</hw>
+      <pos>n.</pos>
+      <def>A sharp, loud, hideous outcry.</def>
+      <q source="1913 Webster" au="J. Philips.">Their hideous <ex>yells</ex>
+Rend the dark welkin.</q>
+   </entry>
+   <entry key="Yellow">
+      <hw source="1913 Webster">Yel"low</hw>
+      <cs source="1913 Webster">
+         <col>Yellow atrophy</col>
+         <fld>Med</fld>
+         <cd>a fatal affection of the liver, in which it undergoes fatty degeneration, and becomes rapidly smaller and of a deep yellow tinge. The marked symptoms are black vomit, delirium, convulsions, coma, and jaundice.</cd>
+         <col>Yellow bark</col>
+         <cd>calisaya bark.</cd>
+         <col>Yellow bass</col>
+         <fld>Zoöl</fld>
+         <cd>a North American fresh-water bass (<spn>Morone interrupta</spn>) native of the lower parts of the Mississippi and its tributaries. It is yellow, with several more or less broken black stripes or bars. Called also <altname>barfish</altname>.</cd>
+         <col>Yellow berry</col>. <fld>Bot</fld>
+         <cd>Same as <cref>Persian berry</cref>, under <er>Persian</er>.</cd>
+         <col>Yellow boy</col>
+         <cd>a gold coin, as a guinea.</cd>
+         <mark>Slang</mark>
+         <au>Arbuthnot.</au>
+         <col>Yellow brier</col>. <fld>Bot</fld>
+         <cd>See under <er>Brier</er>.</cd>
+         <col>Yellow bugle</col>
+         <fld>Bot</fld>
+         <cd>a European labiate plant (<spn>Ajuga Chamæpitys</spn>).</cd>
+         <col>Yellow bunting</col>
+         <fld>Zoöl</fld>
+         <cd>the European yellow-hammer.</cd>
+         <col>Yellow cat</col>
+         <fld>Zoöl</fld>
+         <cd>a yellow catfish; especially, the bashaw.</cd>
+         <col>Yellow copperas</col>
+         <fld>Min</fld>
+         <cd>a hydrous sulphate of iron; -- called also <altname>copiapite</altname>.</cd>
+         <col>Yellow copper ore</col>
+         <cd>a sulphide of copper and iron; copper pyrites.  See <er>Chalcopyrite</er>.</cd>
+         <col>Yellow cress</col>
+         <fld>Bot</fld>
+         <cd>a yellow-flowered, cruciferous plant (<spn>Barbarea præcox</spn>), sometimes grown as a salad plant.</cd>
+         <col>Yellow dock</col>. <fld>Bot</fld>
+         <cd>See the Note under <er>Dock</er>.</cd>
+         <col>Yellow earth</col>
+         <cd>a yellowish clay, colored by iron, sometimes used as a yellow pigment.</cd>
+         <col>Yellow fever</col>
+         <fld>Med</fld>
+         <cd>a malignant, contagious, febrile disease of warm climates, attended with jaundice, producing a yellow color of the skin, and with the black vomit.  See <er>Black vomit</er>, in the Vocabulary.</cd>
+         <col>Yellow flag</col>
+         <cd>the quarantine flag.  See under <er>Quarantine</er>, and 3d <er>Flag</er>.</cd>
+         <col>Yellow jack</col>. <cd>The yellow fever.  See under 2d <er>Jack</er>.</cd>
+         <cd>The quarantine flag.  See under <er>Quarantine</er>.</cd>
+         <col>Yellow jacket</col>
+         <fld>Zoöl</fld>
+         <cd>any one of several species of American social wasps of the genus <gen>Vespa</gen>, in which the color of the body is partly bright yellow. These wasps are noted for their irritability, and for their painful stings.</cd>
+         <col>Yellow lead ore</col>
+         <fld>Min</fld>
+         <cd>wulfenite.</cd>
+         <col>Yellow lemur</col>
+         <fld>Zoöl</fld>
+         <cd>the kinkajou.</cd>
+         <col>Yellow macauco</col>
+         <fld>Zoöl</fld>
+         <cd>the kinkajou.</cd>
+         <col>Yellow mackerel</col>
+         <fld>Zoöl</fld>
+         <cd>the jurel.</cd>
+         <col>Yellow metal</col>. <cd>Same as <cref>Muntz metal</cref>, under <er>Metal</er>.</cd>
+         <col>Yellow ocher</col>
+         <fld>Min</fld>
+         <cd>an impure, earthy variety of brown iron ore, which is used as a pigment.</cd>
+         <col>Yellow oxeye</col>
+         <fld>Bot</fld>
+         <cd>a yellow-flowered plant (<spn>Chrysanthemum segetum</spn>) closely related to the oxeye daisy.</cd>
+         <col>Yellow perch</col>
+         <fld>Zoöl</fld>
+         <cd>the common American perch.  See <er>Perch</er>.</cd>
+         <col>Yellow pike</col>
+         <fld>Zoöl</fld>
+         <cd>the wall-eye.</cd>
+         <col>Yellow pine</col>
+         <fld>Bot</fld>
+         <cd>any of several kinds of pine; also, their yellowish and generally durable timber. Among the most common are valuable species are <spn>Pinus mitis</spn> and <spn>Pinus palustris</spn> of the Eastern and Southern States, and <spn>Pinus ponderosa</spn> and <spn>Pinus Arizonica</spn> of the Rocky Mountains and Pacific States.</cd>
+         <col>Yellow plover</col>
+         <fld>Zoöl</fld>
+         <cd>the golden plover.</cd>
+         <col>Yellow precipitate</col>
+         <fld>Med. Chem</fld>
+         <cd>an oxide of mercury which is thrown down as an amorphous yellow powder on adding corrosive sublimate to limewater.</cd>
+         <col>Yellow puccoon</col>. <fld>Bot</fld>
+         <cd>Same as <er>Orangeroot</er>.</cd>
+         <col>Yellow rail</col>
+         <fld>Zoöl</fld>
+         <cd>a small American rail (<spn>Porzana Noveboracensis</spn>) in which the lower parts are dull yellow, darkest on the breast. The back is streaked with brownish yellow and with black, and spotted with white. Called also <altname>yellow crake</altname>.</cd>
+         <mcol>
+            <col>Yellow rattle</col>
+            <col>Yellow rocket</col>
+         </mcol>. <fld>Bot</fld>
+         <cd>See under <er>Rattle</er>, and <er>Rocket</er>.</cd>
+         <col>Yellow Sally</col>
+         <fld>Zoöl</fld>
+         <cd>a greenish or yellowish European stone fly of the genus <gen>Chloroperla</gen>; -- so called by anglers.</cd>
+         <col>Yellow sculpin</col>
+         <fld>Zoöl</fld>
+         <cd>the dragonet.</cd>
+         <col>Yellow snake</col>
+         <fld>Zoöl</fld>
+         <cd>a West Indian boa (<spn>Chilobothrus inornatus</spn>) common in Jamaica. It becomes from eight to ten long. The body is yellowish or yellowish green, mixed with black, and anteriorly with black lines.</cd>
+         <col>Yellow spot</col>. <fld>Anat</fld>
+         <cd>A small yellowish spot with a central pit, the <ex>fovea centralis</ex>, in the center of the retina where vision is most accurate.  See <er>Eye</er>.</cd>
+         <fld>Zoöl</fld>
+         <cd>A small American butterfly (<spn>Polites Peckius</spn>) of the Skipper family. Its wings are brownish, with a large, irregular, bright yellow spot on each of the hind wings, most conspicuous beneath. Called also <altname>Peck's skipper</altname>. See <ex>Illust.</ex> under <er>Skipper</er>
+            <pos>n.</pos>, 5.</cd>
+         <col>Yellow tit</col>
+         <fld>Zoöl</fld>
+         <cd>any one of several species of crested titmice of the genus <gen>Machlolophus</gen>, native of India. The predominating colors of the plumage are yellow and green.</cd>
+         <col>Yellow viper</col>
+         <fld>Zoöl</fld>
+         <cd>the fer-de-lance.</cd>
+         <col>Yellow warbler</col>
+         <fld>Zoöl</fld>
+         <cd>any one of several species of American warblers of the genus <gen>Dendroica</gen> in which the predominant color is yellow, especially <spn>Dendroica æstiva</spn>, which is a very abundant and familiar species; -- called also <altname>garden warbler</altname>
+            <altname>golden warbler</altname>
+            <altname>summer yellowbird</altname>
+            <altname>summer warbler</altname>, and <altname>yellow-poll warbler</altname>.</cd>
+         <col>Yellow wash</col>
+         <fld>Pharm</fld>
+         <cd>yellow oxide of mercury suspended in water, -- a mixture prepared by adding corrosive sublimate to limewater.</cd>
+         <col>Yellow wren</col>
+         <fld>Zoöl</fld>
+         <cd>The European willow warbler.</cd>
+         <cd>The European wood warbler.</cd>
+      </cs>
+      <pr>yĕl"l�</pr>
+      <pos>a.</pos>
+      <amorph>
+         <pos>Compar.</pos>
+         <adjf>Yellower</adjf>
+         <pr>yĕl"l�*ẽr</pr>; <pos>superl.</pos>
+         <adjf>Yellowest</adjf>
+      </amorph>
+      <ety>OE. <ets>yelow</ets>
+         <ets>yelwe</ets>
+         <ets>ȝelow</ets>
+         <ets>ȝeoluw</ets>, from AS. <ets>geolu</ets>; akin to D. <ets>geel</ets>, OS. &amp; OHG. <ets>gelo</ets>, G. <ets>gelb</ets>, Icel. <ets>gulr</ets>, Sw. <ets>gul</ets>, Dan. <ets>guul</ets>, L. <ets>helvus</ets> light bay, Gr. <grk>chlo`n</grk> young verdure, <grk>chlwro`s</grk> greenish yellow, Skr. <ets>hari</ets> tawny, yellowish. √49.  Cf. <er>Chlorine</er>
+         <er>Gall</er> a bitter liquid, <er>Gold</er>
+         <er>Yolk</er>
+      </ety>
+      <sn no="1">
+         <def>Being of a bright saffronlike color; of the color of gold or brass; having the hue of that part of the rainbow, or of the solar spectrum, which is between the orange and the green.</def>
+         <q source="1913 Webster" au="Chaucer.">Her <ex>yellow</ex> hair was browded [braided] in a tress.</q>
+         <q source="1913 Webster" au="Milton.">A sweaty reaper from his tillage brought
+First fruits, the green ear and the <ex>yellow</ex> sheaf.</q>
+         <q source="1913 Webster" au="Keble.">The line of <ex>yellow</ex> light dies fast away.</q>
+      </sn>
+      <sn no="2">
+         <def>Cowardly; hence, dishonorable; mean; contemptible; <as>as, he has a <ex>yellow</ex> streak</as>.</def>
+         <mark>Slang</mark>
+      </sn>
+      <sn no="3">
+         <def>Sensational; -- said of some newspapers, their makers, etc.; <as>as, <ex>yellow</ex> journal, journalism, etc.</as>
+         </def>
+         <mark>Colloq</mark>
+      </sn>
+   </entry>
+   <entry key="Yellow">
+      <hw source="1913 Webster">Yel"low</hw>
+      <cs source="1913 Webster">
+         <mcol>
+            <col>Cadmium yellow</col>
+            <col>Chrome yellow</col>
+            <col>Indigo yellow</col>
+            <col>King's yellow</col>, etc.</mcol>
+         <cd>See under <er>Cadmium</er>
+            <er>Chrome</er>, etc.</cd>
+         <col>Naples yellow</col>
+         <cd>a yellow amorphous pigment, used in oil, porcelain, and enamel painting, consisting of a basic lead metantimonate, obtained by fusing together tartar emetic lead nitrate, and common salt.</cd>
+         <col>Patent yellow</col>
+         <fld>Old Chem</fld>
+         <cd>a yellow pigment consisting essentially of a lead oxychloride; -- called also <altname>Turner's yellow</altname>.</cd>
+      </cs>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>A bright golden color, reflecting more light than any other except white; the color of that part of the spectrum which is between the orange and green.</def>
+         <q au="Shak.">A long motley coat guarded with<ex>yellow</ex>.</q>
+      </sn>
+      <sn no="2">
+         <def>A yellow pigment.</def>
+      </sn>
+   </entry>
+   <entry key="Yellow">
+      <hw source="1913 Webster">Yel"low</hw>
+      <pos>v. t.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Yellowed</conjf>; <pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Yellowing</conjf>
+      </vmorph>
+      <def>To make yellow; to cause to have a yellow tinge or color; to dye yellow.</def>
+   </entry>
+   <entry key="Yellow">
+      <hw source="1913 Webster">Yel"low</hw>
+      <pos>v. i.</pos>
+      <def>To become yellow or yellower.</def>
+   </entry>
+   <entry key="Yellowammer">
+      <hw source="1913 Webster">Yel"low*am`mer</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>See <er>Yellow-hammer</er>.</def>
+   </entry>
+   <entry key="Yellowbill">
+      <hw source="1913 Webster">Yel"low*bill`</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>The American scoter.</def>
+   </entry>
+   <entry key="Yellowbird">
+      <hw source="1913 Webster">Yel"low*bird`</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>The American goldfinch, or thistle bird.  See <er>Goldfinch</er>.</def>
+      <def>The common yellow warbler; -- called also <altname>summer yellowbird</altname>.  See <ex>Illust.</ex> of <cref>Yellow warbler</cref>, under <er>Yellow</er>
+         <pos>a.</pos>
+      </def>
+   </entry>
+   <entry key="Yellow Book">
+      <hw source="Webster 1913 Suppl.">Yellow Book</hw>. <ety>F. <ets>livre jaune</ets>
+      </ety>
+      <def>In France, an official government publication bound in yellow covers.</def>
+   </entry>
+   <entry key="Yellow-covered">
+      <hw source="1913 Webster">Yel"low-cov`ered</hw>
+      <cs source="1913 Webster">
+         <col>Yellow-covered literature</col>
+         <cd>cheap sensational novels and trashy magazines; -- formerly so called from the usual color of their covers.</cd>
+         <mark>Colloq. U. S</mark>
+         <au>Bartlett.</au>
+      </cs>
+      <pos>a.</pos>
+      <def>Covered or bound in yellow paper.</def>
+   </entry>
+   <entry key="Yellow-eyed">
+      <hw source="1913 Webster">Yel"low-eyed`</hw>
+      <cs source="1913 Webster">
+         <col>Yellow-eyed grass</col>
+         <fld>Bot</fld>
+         <cd>any plant of the genus <gen>Xyris</gen>.</cd>
+      </cs>
+      <pos>a.</pos>
+      <def>Having yellow eyes.</def>
+   </entry>
+   <entry key="Yellowfin">
+      <hw source="1913 Webster">Yel"low*fin`</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>A large squeteague.</def>
+   </entry>
+   <entry key="Yellowfish">
+      <hw source="1913 Webster">Yel"low*fish`</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>A rock trout (<spn>Pleurogrammus monopterygius</spn>) found on the coast of Alaska; -- called also <altname>striped fish</altname>, and <altname>Atka mackerel</altname>.</def>
+   </entry>
+   <entry key="Yellow-golds">
+      <hw source="1913 Webster">Yel"low-golds`</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def au="B. Jonson.">A certain plant, probably the yellow oxeye.</def>
+   </entry>
+   <entry key="Yellowhammer">
+      <hw source="1913 Webster">Yel"low*ham`mer</hw>
+      <pos>n.</pos>
+      <ety>For <ets>yellow-ammer</ets>, where <ets>ammer</ets> is fr. AS. <ets>amore</ets> a kind of bird; akin to G. <ets>ammer</ets> a yellow-hammer, OHG. <ets>amero</ets>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>A common European finch (<spn>Emberiza citrinella</spn>). The color of the male is bright yellow on the breast, neck, and sides of the head, with the back yellow and brown, and the top of the head and the tail quills blackish. Called also <altname>yellow bunting</altname>
+         <altname>scribbling lark</altname>, and <altname>writing lark</altname>.</def>
+      <altsp>
+         <asp>yellow-ammer</asp>
+      </altsp>
+      <def>The flicker.</def>
+      <mark>Local, U. S</mark>
+   </entry>
+   <entry key="Yellowing">
+      <hw source="1913 Webster">Yel"low*ing</hw>
+      <pos>n.</pos>
+      <def>The act or process of making yellow.</def>
+      <q source="1913 Webster" au="G. Eliot.">Softened . . . by the <ex>yellowing</ex> which time has given.</q>
+   </entry>
+   <entry key="Yellowish">
+      <hw source="1913 Webster">Yel"low*ish</hw>
+      <wordforms>
+         <wf>Yel"low*ish*ness</wf>
+         <pos>n.</pos>
+      </wordforms>
+      <pos>a.</pos>
+      <def>Somewhat yellow; <as>as, amber is of a <ex>yellowish</ex> color</as>.</def>
+   </entry>
+   <entry key="Yellowlegs">
+      <hw source="1913 Webster">Yel"low*legs`</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>Any one of several species of long-legged sandpipers of the genus <gen>Totanus</gen>, in which the legs are bright yellow; -- called also <altname>stone snipe</altname>
+         <altname>tattler</altname>
+         <altname>telltale</altname>
+         <altname>yellowshanks</altname>; and <altname>yellowshins</altname>.  See <er>Tattler</er>, 2.</def>
+   </entry>
+   <entry key="Yellowness">
+      <hw source="1913 Webster">Yel"low*ness</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>The quality or state of being yellow; <as>as, the <ex>yellowness</ex> of an orange</as>.</def>
+      </sn>
+      <sn no="2">
+         <def>Jealousy.</def>
+         <mark>Obs</mark>
+         <q source="1913 Webster" au="Shak.">I will possess him with <ex>yellowness</ex>.</q>
+      </sn>
+   </entry>
+   <entry key="Yellowroot">
+      <hw source="1913 Webster">Yel"low*root`</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>Any one of several plants with yellow roots.</def>  Specifically: <def>See <er>Xanthorhiza</er>.</def>
+      <def>Same as <er>Orangeroot</er>.</def>
+   </entry>
+   <entry key="Yellow pages">
+      <hw source="PJC">Yel"low pag`es</hw>
+      <pos>n. pl.</pos>
+      <def>a telephone book or part of a book in which the telephone numbers and often advertisements of business enterprises are listed in numerous sections, organized by the category of the business, the categories themselves being arranged alphabetically; a classified telephone directory.  So called because for many years the listing thus organized was printed on yellow paper, to distinguish it from the white pages containing the names of individuals, listed alphabetically by last name.  The yellow pages are usually bound together with the white pages in the telephone book distributed by the telephone company to its subscribers.  The name was adopted by companies not affiliated with the telephone company, for the classified business directories that they sell.</def>
+   </entry>
+   <entry key="Yellows">
+      <hw source="1913 Webster">Yel"lows</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <fld>Far</fld>
+         <def>A disease of the bile in horses, cattle, and sheep, causing yellowness of the eyes; jaundice.</def>
+         <q source="1913 Webster" au="Shak.">His horse . . . sped with spavins, rayed with the <ex>yellows</ex>.</q>
+      </sn>
+      <sn no="2">
+         <fld>Bot</fld>
+         <def>A disease of plants, esp. of peach trees, in which the leaves turn to a yellowish color; jeterus.</def>
+      </sn>
+      <sn no="3">
+         <fld>Zoöl</fld>
+         <def>A group of butterflies in which the predominating color is yellow. It includes the common small yellow butterflies.  Called also <altname>redhorns</altname>, and <altname>sulphurs</altname>.  See <er>Sulphur</er>.</def>
+      </sn>
+   </entry>
+   <entry key="Yellowseed">
+      <hw source="1913 Webster">Yel"low*seed`</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>A kind of pepper grass (<spn>Lepidium campestre</spn>).</def>
+   </entry>
+   <entry key="Yellowshanks">
+      <mhw source="1913 Webster">
+         <hw>Yel"low*shanks`</hw>
+         <hw>Yel"low*shins`</hw>,</mhw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>See <er>Yellolegs</er>.</def>
+   </entry>
+   <entry key="Yellowtail">
+      <hw source="1913 Webster">Yel"low*tail`</hw>
+      <note>☞ Several other fishes are also locally called <ex>yellowtail</ex>.</note>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>Any one of several species of marine carangoid fishes of the genus <gen>Seriola</gen>; especially, the large California species (<spn>Seriola dorsalis</spn>) which sometimes weighs thirty or forty pounds, and is highly esteemed as a food fish; -- called also <altname>cavasina</altname>, and <altname>white salmon</altname>.</def>
+      <def>The mademoiselle, or silver perch.</def>
+      <def>The menhaden.</def>
+      <def>The runner, 12.</def>
+      <def>A California rockfish (<spn>Sebastodes flavidus</spn>).</def>
+      <def>The sailor's choice (<spn>Diplodus rhomboides</spn>).</def>
+   </entry>
+   <entry key="Yellowthroat">
+      <hw source="1913 Webster">Yel"low*throat`</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>Any one of several species of American ground warblers of the genus <gen>Geothlypis</gen>, esp. the Maryland yellowthroat (<spn>Geothlypis trichas</spn>), which is a very common species.</def>
+   </entry>
+   <entry key="Yellowtop">
+      <hw source="1913 Webster">Yel"low*top`</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>A kind of grass, perhaps a species of <spn>Agrostis</spn>.</def>
+   </entry>
+   <entry key="Yellowwood">
+      <hw source="1913 Webster">Yel"low*wood`</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>The wood of any one of several different kinds of trees; also, any one of the trees themselves. Among the trees so called are the <spn>Cladrastis tinctoria</spn>, an American leguminous tree; the several species of prickly ash (<spn>Xanthoxylum</spn>); the Australian <spn>Flindersia Oxleyana</spn>, a tree related to the mahogany; certain South African species of <spn>Podocarpus</spn>, trees related to the yew; the East Indian <spn>Podocarpus latifolia</spn>; and the true satinwood (<spn>Chloroxylon Swietenia</spn>). All these Old World trees furnish valuable timber.</def>
+   </entry>
+   <entry key="Yellowwort">
+      <hw source="1913 Webster">Yel"low*wort`</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>A European yellow-flowered, gentianaceous (<spn>Chlora perfoliata</spn>). The whole plant is intensely bitter, and is sometimes used as a tonic, and also in dyeing yellow.</def>
+   </entry>
+   <entry key="Yelp">
+      <hw source="1913 Webster">Yelp</hw>
+      <pos>v. i.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Yelped</conjf>; <pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Yelping</conjf>
+      </vmorph>
+      <ety>OE. <ets>yelpen</ets>
+         <ets>ȝelpen</ets>, to boast, boast noisily, AS. <ets>gielpan</ets>
+         <ets>gilpan</ets>
+         <ets>gylpan</ets>; akin to OHG. <ets>gelph</ets> arrogant: cf. Icel. <ets>gjālpa</ets> to yelp.  Cf. <er>Yap</er>
+      </ety>
+      <sn no="1">
+         <def>To boast.</def>
+         <mark>Obs</mark>
+         <q source="1913 Webster" au="Chaucer.">I keep [care] not of armes for to <ex>yelpe</ex>.</q>
+      </sn>
+      <sn no="2">
+         <def>To utter a sharp, quick cry, as a hound; to bark shrilly with eagerness, pain, or fear; to yaup.</def>
+         <q source="1913 Webster" au="Shak.">A little herd of England's timorous deer,
+Mazed with a <ex>yelping</ex> kennel of French curs?</q>
+         <q source="1913 Webster" au="W. Irving.">At the least flourish of a broomstick or ladle, he would fly to the door with a <ex>yelping</ex> precipitation.</q>
+      </sn>
+   </entry>
+   <entry key="Yelp">
+      <hw source="1913 Webster">Yelp</hw>
+      <pos>n.</pos>
+      <def au="Chaucer.">A sharp, quick cry; a bark.</def>
+   </entry>
+   <entry key="Yelper">
+      <hw source="1913 Webster">Yelp"er</hw>
+      <pos>n.</pos>
+      <def>An animal that yelps, or makes a yelping noise.</def>  Specifically: <fld>Zoöl</fld>
+      <def>The avocet; -- so called from its sharp, shrill cry.</def>
+      <mark>Prov. Eng</mark>
+      <def>The tattler.</def>
+      <mark>Local, U. S</mark>
+   </entry>
+   <entry key="Yelting">
+      <hw source="Webster 1913 Suppl.">Yel"ting</hw>
+      <pos>n.</pos>
+      <ety>Orig. uncert</ety>
+      <def>The Florida and West Indian red snapper (<spn>Lutianus aya</spn>); also, sometimes, one of certain other allied species, as <spn>Lutianus caxis</spn>.</def>
+   </entry>
+   <entry key="Yeman">
+      <hw source="1913 Webster">Ye"man</hw>
+      <pos>n.</pos>
+      <def>A yeoman.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Yen">
+      <hw source="1913 Webster; +PJC">‖Yen</hw>
+      <pos>n.</pos>
+      <def>The unit of value and account in Japan. The <ex>yen</ex> is equal to 100 <ex>sen</ex>. From Japan's adoption of the gold standard, in 1897, to about 1913 the value of the yen was about 50 cents. In 1997 and 1998 the value of the yen varied from 80 per U. S. dollar to 120 per dollar.</def>
+   </entry>
+   <entry key="Yend">
+      <hw source="1913 Webster">Yend</hw>
+      <pos>v. t.</pos>
+      <def>To throw; to cast.</def>
+      <mark>Prov. Eng</mark>
+   </entry>
+   <entry key="Yenite">
+      <hw source="1913 Webster">Ye"nite</hw>
+      <pos>n.</pos>
+      <ety>After <ets>Jena</ets>, in Germany</ety>
+      <fld>Min</fld>
+      <def>A silicate of iron and lime occurring in black prismatic crystals; -- also called <altname>ilvaite</altname>.</def>
+      <altsp>
+         <asp>jenite</asp>
+      </altsp>
+   </entry>
+   <entry key="Yeoman">
+      <hw source="1913 Webster">Yeo"man</hw>
+      <note>☞ A <ex>yeoman</ex> in England is considered as next in order to the gentry. The word is little used in the United States, unless as a title in law proceedings and instruments, designating occupation, and this only in particular States.</note>
+      <cs source="1913 Webster">
+         <col>Yeoman of the guard</col>
+         <cd>one of the bodyguard of the English sovereign, consisting of the hundred yeomen, armed with partisans, and habited in the costume of the sixteenth century. They are members of the royal household.</cd>
+      </cs>
+      <pos>n.</pos>; <plu>pl.<plw>Yeomen</plw>
+         <pr>#</pr>.</plu>
+      <ety>OE. <ets>yoman</ets>
+         <ets>ȝeman</ets>
+         <ets>ȝoman</ets>; of uncertain origin; perhaps the first, syllable is akin to OFries. <ets>gā</ets> district, region, G. <ets>gau</ets>, OHG. <ets>gewi</ets>
+         <ets>gouwi</ets>, Goth. <ets>gawi</ets>. √100</ety>
+      <sn no="1">
+         <def>A common man, or one of the commonly of the first or most respectable class; a freeholder; a man free born.</def>
+      </sn>
+      <sn no="2">
+         <def>A servant; a retainer.</def>
+         <mark>Obs</mark>
+         <q source="1913 Webster" au="Chaucer.">A <ex>yeman</ex> hadde he and servants no mo.</q>
+      </sn>
+      <sn no="3">
+         <def>A yeoman of the guard; also, a member of the yeomanry cavalry.</def>
+         <mark>Eng</mark>
+      </sn>
+      <sn no="4">
+         <fld>Naut</fld>
+         <def>An interior officer under the boatswain, gunner, or carpenters, charged with the stowage, account, and distribution of the stores.</def>
+      </sn>
+   </entry>
+   <entry key="Yeomanlike">
+      <hw source="1913 Webster">Yeo"man*like`</hw>
+      <pos>a.</pos>
+      <def>Resembling, or suitable to, a yeoman; yeomanly.</def>
+   </entry>
+   <entry key="Yeomanly">
+      <hw source="1913 Webster">Yeo"man*ly</hw>
+      <pos>a.</pos>
+      <def au="B. Jonson.">Pertaining to a yeoman; becoming or suitable to, a yeoman; yeomanlike.</def>
+      <q source="1913 Webster" au="Chaucer.">Well could he dress his tackle <ex>yeomanly</ex>.</q>
+   </entry>
+   <entry key="Yeomanry">
+      <hw source="1913 Webster">Yeo"man*ry</hw>
+      <cs source="1913 Webster">
+         <col>Yeomanry cavalry</col>
+         <cd>certain bodies of volunteer cavalry liable to service in Great Britain only.</cd>
+         <mark>Eng</mark>
+      </cs>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>The position or rank of a yeoman.</def>
+         <mark>Obs</mark>
+         <q au="Chaucer.">His estate of<ex>yeomanry</ex>.</q>
+      </sn>
+      <sn no="2">
+         <def>The collective body of yeomen, or freeholders.</def>
+         <q source="1913 Webster" au="Bancroft.">The enfranchised <ex>yeomanry</ex> began to feel an instinct for dominion.</q>
+      </sn>
+      <sn no="3">
+         <def>A British volunteer cavalry force, growing out of a royal regiment of fox hunters raised by Yorkshire gentlemen in 1745 to fight the Pretender, Charles Edward; -- calle dalso <altname>yeomanry cavalry</altname>. The members furnish their own horses, have fourteen days' annual camp training, and receive pay and allowance when on duty. In 1901 the name was altered to <altname>imperial yeomanry</altname> in recognition of the services of the force in the Boer war. See <er>Army organization</er>, above.</def>
+      </sn>
+   </entry>
+   <entry key="Yeorling">
+      <hw source="1913 Webster">Yeor"ling</hw>
+      <pos>n.</pos>
+      <ety>Cf. <er>Yellow</er>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>The European yellow-hammer.</def>
+   </entry>
+   <entry key="Yer">
+      <hw source="1913 Webster">Yer</hw>
+      <pos>prep.</pos>
+      <def>Ere; before.</def>
+      <mark au="Sylvester.">Obs</mark>
+   </entry>
+   <entry key="Yerba">
+      <hw source="1913 Webster">‖Yer"ba</hw>
+      <note>☞ This word is much used in compound names of plants in Spanish; as, <ex>yerba buena</ex>
+         <ety>Sp., a good herb</ety>, a name applied in Spain to several kinds of mint (<spn>Mentha sativa</spn>
+         <spn>viridis</spn>, etc.), but in California universally applied to a common, sweet-scented labiate plant (<spn>Micromeria Douglasii</spn>).</note>
+      <cs source="1913 Webster">
+         <col>Yerba dol osa</col>. <ety>Sp., herb of the she-bear</ety>
+         <cd>A kind of buckthorn (<spn>Rhamnus Californica</spn>).</cd>
+         <col>Yerba mansa</col>. <ety>Sp., a mild herb, soft herb</ety>
+         <cd>A plant (<spn>Anemopsis Californica</spn>) with a pungent, aromatic rootstock, used medicinally by the Mexicans and the Indians.</cd>
+         <col>Yerba reuma</col>. <ety>Cf. Sp. <ets>reuma</ets> rheum, rheumatism</ety>
+         <cd>A low California undershrub (<spn>Frankenia grandifolia</spn>).</cd>
+      </cs>
+      <pos>n.</pos>
+      <ety>Sp</ety>
+      <fld>Bot</fld>
+      <def>An herb; a plant.</def>
+   </entry>
+   <entry key="Yerd">
+      <hw source="1913 Webster">Yerd</hw>
+      <pos>n.</pos>
+      <def>See 1st &amp; 2d <er>Yard</er>.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Yerk">
+      <hw source="1913 Webster">Yerk</hw>
+      <pos>v. t.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Yerked</conjf>; <pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Yerking</conjf>
+      </vmorph>
+      <ety>See <er>Yerk</er>
+      </ety>
+      <sn no="1">
+         <def>To throw or thrust with a sudden, smart movement; to kick or strike suddenly; to jerk.</def>
+         <q source="1913 Webster" au="Shak.">Their wounded steeds . . . <ex>Yerk</ex> out their armed heels at their dead masters.</q>
+      </sn>
+      <sn no="2">
+         <def>To strike or lash with a whip.</def>
+         <mark>Obs. or Scot</mark>
+      </sn>
+   </entry>
+   <entry key="Yerk">
+      <hw source="1913 Webster">Yerk</hw>
+      <pos>v. i.</pos>
+      <sn no="1">
+         <def>To throw out the heels; to kick; to jerk.</def>
+         <q source="1913 Webster" au="Drayton.">They flirt, they <ex>yerk</ex>, they backward . . . fling.</q>
+      </sn>
+      <sn no="2">
+         <def>To move a quick, jerking motion.</def>
+      </sn>
+   </entry>
+   <entry key="Yerk">
+      <hw source="1913 Webster">Yerk</hw>
+      <pos>n.</pos>
+      <def>A sudden or quick thrust or motion; a jerk.</def>
+   </entry>
+   <entry key="Yern">
+      <hw source="1913 Webster">Yern</hw>
+      <pos>v. i.</pos>
+      <def>See 3d <er>Yearn</er>.</def>
+      <mark>Obs</mark>
+   </entry>
+   <entry key="Yern">
+      <hw source="1913 Webster">Yern</hw>
+      <pos>a.</pos>
+      <ety>OE. <ets>ȝern</ets>
+         <ets>ȝeorne</ets>, AS. <ets>georn</ets> desirous, eager.  See <er>Yearn</er> to long</ety>
+      <def>Eager; brisk; quick; active.</def>
+      <mark>Obs</mark>
+      <q au="Chaucer.">Her song . . . loud and<ex>yern</ex>.</q>
+   </entry>
+   <entry key="Yerne">
+      <hw source="1913 Webster">Yerne</hw>
+      <pos>adv.</pos>
+      <ety>OE. <ets>ȝeorne</ets>.  See <er>Yern</er>
+         <pos>a.</pos>
+      </ety>
+      <def>Eagerly; briskly; quickly.</def>
+      <mark au="Piers Plowman.">Obs</mark>
+      <q source="1913 Webster" au="Chaucer.">My hands and my tongue go so <ex>yerne</ex>.</q>
+   </entry>
+   <entry key="Yernut">
+      <hw source="1913 Webster">Yer"nut`</hw>
+      <pos>n.</pos>
+      <ety>Cf. Dan. <ets>jordnöd</ets>, Sw. <ets>jordnöt</ets>, earthnut.  Cf. <er>Jarnut</er>
+      </ety>
+      <def>An earthnut, or groundnut.  See <er>Groundnut</er>.</def>
+      <altsp>
+         <asp>yarnut</asp>
+      </altsp>
+   </entry>
+   <entry key="Yerst">
+      <hw source="1913 Webster">Yerst</hw>
+      <pos>adv.</pos>
+      <def>See <er>Erst</er>.</def>
+      <mark au="Sylvester.">Obs</mark>
+   </entry>
+   <entry key="Yes">
+      <hw source="1913 Webster">Yes</hw>
+      <note>☞ <ex>Yes</ex> is used, like <ex>yea</ex>, to enforce, by repetition or addition, something which precedes; as, you have done all this<ex>yes</ex>, you have done more. “<ex>Yes</ex>, you despise the man books confined.”  <au>Pope.</au>
+      </note>
+      <note>☞ “The fine distinction between ‘yea' and ‘yes,' ‘nay' and ‘no,' that once existed in English, has quite disappeared. ‘Yea' and ‘nay' in Wyclif's time, and a good deal later, were the answers to questions framed in the affirmative. ‘Will he come?' To this it would have been replied, ‘Yea' or ‘Nay', as the case might be. But, ‘Will he not come?' To this the answer would have been ‘Yes' or ‘No.'  Sir Thomas More finds fault with Tyndale, that in his translation of the Bible he had not observed this distinction, which was evidently therefore going out even then, that is, in the reign of Henry VIII.; and shortly after it was quite forgotten.”</note>
+      <pos>adv.</pos>
+      <ety>OE. <ets>yis</ets>
+         <ets>ȝis</ets>
+         <ets>ȝes</ets>
+         <ets>ȝise</ets>, AS. <ets>gese</ets>
+         <ets>gise</ets>; probably fr. <ets>geá</ets> yea + <ets>swā</ets> so. √188.  See <er>Yea</er>, and <er>So</er>
+      </ety>
+      <def>Ay; yea; -- a word which expresses affirmation or consent; -- opposed to <ant>no</ant>.</def>
+   </entry>
+   <entry key="Yest">
+      <hw source="1913 Webster">Yest</hw>
+      <pos>n.</pos>
+      <def au="Shak.">See <er>Yeast</er>.</def>
+   </entry>
+   <entry key="Yester">
+      <hw source="1913 Webster">Yes"ter</hw>
+      <note>☞ This word is now seldom used except in a few compounds; as, <ex>yester</ex>day, <ex>yester</ex>night, etc.</note>
+      <pos>a.</pos>
+      <ety>See <er>Yesterday</er>
+      </ety>
+      <def>Last; last past; next before; of or pertaining to yesterday.</def>
+      <q source="1913 Webster" au="Dryden.">An enemy] whom <ex>yester</ex> sun beheld
+Mustering her charms.</q>
+   </entry>
+   <entry key="Yesterday">
+      <hw source="1913 Webster">Yes"ter*day</hw>
+      <pos>n.</pos>
+      <ety>OE. <ets>ȝisterdai</ets>, AS. <ets>geostran dæg</ets>, from <ets>geostran</ets>
+         <ets>geostra</ets>
+         <ets>giestran</ets>
+         <ets>gistran</ets>
+         <ets>gystran</ets>, yesterday (akin to D. <ets>gisteren</ets>, G. <ets>gestern</ets>, OHG. <ets>gestaron</ets>, Icel. <ets>gær</ets> yesterday, to-morrow, Goth. <ets>gistradagis</ets> to-morrow, L. <ets>heri</ets> yesterday, Gr. �, Skr. <ets>hyas</ets>) + <ets>dæg</ets> day.  Cf. <er>Hestern</er>. ����</ety>
+      <sn no="1">
+         <def>The day last past; the day next before the present.</def>
+         <q source="1913 Webster" au="Shak.">All our <ex>yesterdays</ex> have lighted fools
+The way to dusty death.</q>
+         <q source="1913 Webster" au="Job viii. 9.">We are but of <ex>yesterday</ex>, and know nothing.</q>
+      </sn>
+      <sn no="2">
+         <def>Fig.: A recent time; time not long past.</def>
+         <q source="1913 Webster" au="Macaulay.">The proudest royal houses are but of <ex>yesterday</ex>, when compared with the line of supreme pontiffs.</q>
+      </sn>
+   </entry>
+   <entry key="Yesterday">
+      <hw source="1913 Webster">Yes"ter*day</hw>
+      <pos>adv.</pos>
+      <def>On the day last past; on the day preceding to-day; <as>as, the affair took place <ex>yesterday</ex>
+         </as>.</def>
+   </entry>
+   <entry key="Yestereve">
+      <mhw source="1913 Webster">
+         <hw>Yes"ter*eve`</hw>
+         <hw>Yes"ter-e`ven*ing</hw>,</mhw>
+      <pos>n.</pos>
+      <def>The evening of yesterday; the evening last past.</def>
+   </entry>
+   <entry key="Yestermorn">
+      <mhw source="1913 Webster">
+         <hw>Yes"ter*morn`</hw>
+         <hw>Yes"ter-morn`ing</hw>,</mhw>
+      <pos>n.</pos>
+      <def au="Coleridge.">The morning of yesterday.</def>
+   </entry>
+   <entry key="Yestern">
+      <hw source="1913 Webster">Yes"tern</hw>
+      <pos>a.</pos>
+      <ety>See <er>Yester</er>
+      </ety>
+      <def>Of or pertaining to yesterday; relating to the day last past.</def>
+   </entry>
+   <entry key="Yesternight">
+      <hw source="1913 Webster">Yes"ter*night`</hw>
+      <pos>n.</pos>
+      <def>The last night; the night last past.</def>
+   </entry>
+   <entry key="Yesternight">
+      <hw source="1913 Webster">Yes"ter*night`</hw>
+      <pos>adv.</pos>
+      <ety>AS. <ets>gystran niht</ets>.  See <er>Yesterday</er>
+      </ety>
+      <def au="B. Jonson.">On the last night.</def>
+   </entry>
+   <entry key="Yesternoon">
+      <hw source="1913 Webster">Yes"ter*noon`</hw>
+      <pos>n.</pos>
+      <def>The noon of yesterday; the noon last past.</def>
+   </entry>
+   <entry key="Yesterweek">
+      <hw source="1913 Webster">Yes"ter*week`</hw>
+      <pos>n.</pos>
+      <def>The week last past; last week.</def>
+   </entry>
+   <entry key="Yesteryear">
+<!-- now also used to mean in olden days, not just last year. -->
+<hw source="1913 Webster">Yes"ter*year`</hw>
+      <pos>n.</pos>
+      <def>The year last past; last year.</def>
+      <!-- now also used to mean in olden days, not just last year. -->
+</entry>
+   <entry key="Yestreen">
+      <hw source="1913 Webster">Yes`treen"</hw>
+      <pos>n.</pos>
+      <def>Yester-evening; yesternight; last night.</def>
+      <mark>R. or Scot</mark>
+      <q source="1913 Webster" au="Bp. Coxe.">
+         <ex>Yestreen</ex> I did not know
+How largely I could live.</q>
+   </entry>
+   <entry key="Yesty">
+      <hw source="1913 Webster">Yest"y</hw>
+      <pos>a.</pos>
+      <def au="Shak.">See <er>Yeasty</er>.</def>
+   </entry>
+   <entry key="Yet">
+      <hw source="1913 Webster">Yet</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>Any one of several species of large marine gastropods belonging to the genus <gen>Yetus</gen>, or <gen>Cymba</gen>; a boat shell.</def>
+   </entry>
+   <entry key="Yet">
+      <hw source="1913 Webster">Yet</hw>
+      <pos>adv.</pos>
+      <ety>OE. <ets>yet</ets>
+         <ets>ȝet</ets>
+         <ets>ȝit</ets>, AS. <ets>git</ets>
+         <ets>gyt</ets>
+         <ets>giet</ets>
+         <ets>gieta</ets>; akin to OFries. <ets>ieta</ets>
+         <ets>eta</ets>
+         <ets>ita</ets>, MHG. <ets>iezuo</ets>
+         <ets>ieze</ets>, now, G. <ets>jetzo</ets>
+         <ets>jetzt</ets>
+      </ety>
+      <sn no="1">
+         <def>In addition; further; besides; over and above; still.</def>
+         <q au="Dryden.">A little longer;<ex>yet</ex>a little longer.</q>
+         <q source="1913 Webster" au="Atterbury.">This furnishes us with <ex>yet</ex> one more reason why our savior, lays such a particular stress acts of mercy.</q>
+         <q source="1913 Webster" au="L'Estrange.">The rapine is made <ex>yet</ex> blacker by the pretense of piety and justice.</q>
+      </sn>
+      <sn no="2">
+         <def>At the same time; by continuance from a former state; still.</def>
+         <q source="1913 Webster" au="Addison.">Facts they had heard while they were <ex>yet</ex> heathens.</q>
+      </sn>
+      <sn no="3">
+         <def>Up to the present time; thus far; hitherto; until now; -- and with the negative, <ex>not yet</ex>, not up to the present time; not as soon as now; <as>as, Is it time to go? Not <ex>yet</ex>
+            </as>.  See <cref>As yet</cref>, under <er>As</er>
+            <pos>conj.</pos>
+         </def>
+         <q source="1913 Webster" au="Chaucer.">Ne never <ex>yet</ex> no villainy ne said.</q>
+      </sn>
+      <sn no="4">
+         <def>Before some future time; before the end; eventually; in time.</def>
+         <q au="Shak.">He 'll be hanged<ex>yet</ex>.</q>
+      </sn>
+      <sn no="5">
+         <def>Even; -- used emphatically.</def>
+         <q source="1913 Webster" au="Bacon.">Men may not too rashly believe the confessions of witches, nor <ex>yet</ex> the evidence against them.</q>
+      </sn>
+   </entry>
+   <entry key="Yet">
+      <hw source="1913 Webster">Yet</hw>
+      <pos>conj.</pos>
+      <def>Nevertheless; notwithstanding; however.</def>
+      <q source="1913 Webster" au="Matt. vi. 29.">
+         <ex>Yet</ex> I say unto you, That even Solomon in all his glory was not arrayed like one of these.</q>
+      <syn source="1913 Webster">See <er>However</er>.</syn>
+   </entry>
+   <entry key="Yeve">
+      <hw source="1913 Webster">Yeve</hw>
+      <pos>v. i.</pos>
+      <def>To give.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Yeven">
+      <hw source="1913 Webster">Yev"en</hw>
+      <pos>p. p.</pos>
+      <def>Given.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Yew">
+      <hw source="1913 Webster">Yew</hw>
+      <pr>ū</pr>
+      <pos>v. i.</pos>
+      <def>See <er>Yaw</er>.</def>
+   </entry>
+   <entry key="Yew">
+      <hw source="1913 Webster">Yew</hw>
+      <note>☞ The <stype>American yew</stype>
+         <spn>Taxus baccata</spn>, var. <spn>Canadensis</spn>) is a low and straggling or prostrate bush, never forming an erect trunk. The <stype>California yew</stype>
+         <spn>Taxus brevifolia</spn>) is a good-sized tree, and its wood is used for bows, spear handles, paddles, and other similar implements. Another yew is found in Florida, and there are species in Japan and the Himalayas.</note>
+      <pos>n.</pos>
+      <ety>OE. <ets>ew</ets>, AS. <ets>eów</ets>
+         <ets>īw</ets>
+         <ets>eoh</ets>; akin to D. <ets>ijf</ets>, OHG. <ets>īwa</ets>
+         <ets>īha</ets>, G. <ets>eibe</ets>, Icel. <ets>ȳr</ets>; cf. Ir. <ets>iubhar</ets>, Gael. <ets>iubhar</ets>
+         <ets>iughar</ets>, W. <ets>yw</ets>
+         <ets>ywen</ets>, Lith. <ets>jëva</ets> the black alder tree</ety>
+      <sn no="1">
+         <fld>Bot</fld>
+         <def>An evergreen tree (<spn>Taxus baccata</spn>) of Europe, allied to the pines, but having a peculiar berrylike fruit instead of a cone. It frequently grows in British churchyards.</def>
+      </sn>
+      <sn no="2">
+         <def>The wood of the yew. It is light red in color, compact, fine-grained, and very elastic. It is preferred to all other kinds of wood for bows and whipstocks, the best for these purposes coming from Spain.</def>
+      </sn>
+      <sn no="3">
+         <def>A bow for shooting, made of the yew.</def>
+      </sn>
+   </entry>
+   <entry key="Yew">
+      <hw source="1913 Webster">Yew</hw>
+      <pr>ū</pr>
+      <pos>a.</pos>
+      <def>Of or pertaining to yew trees; made of the wood of a yew tree; <as>as, a <ex>yew</ex> whipstock</as>.</def>
+   </entry>
+   <entry key="Yewen">
+      <hw source="1913 Webster">Yew"en</hw>
+      <pos>a.</pos>
+      <def>Made of yew; <as>as, <ex>yewen</ex> bows</as>.</def>
+   </entry>
+   <entry key="Yex">
+      <hw source="1913 Webster">Yex</hw>
+      <pos>v. i.</pos>
+      <ety>OE. <ets>ȝexen</ets>
+         <ets>yesken</ets>, AS. <ets>giscian</ets> to sob</ety>
+      <def>To hiccough.</def>
+      <altsp>
+         <asp>yox</asp>
+         <asp>yux</asp>
+      </altsp>
+      <mark>Obs. or Prov. Eng</mark>
+      <q source="1913 Webster" au="Chaucer.">He <ex>yexeth</ex> and he speaketh through the nose.</q>
+   </entry>
+   <entry key="Yex">
+      <hw source="1913 Webster">Yex</hw>
+      <pos>n.</pos>
+      <ety>AS. <ets>geocsa</ets> a sobbing, hiccough.  Cf. <er>Yex</er>
+         <pos>v. i.</pos>
+      </ety>
+      <def>A hiccough.</def>
+      <altsp>
+         <asp>yox</asp>
+         <asp>yux</asp>
+      </altsp>
+      <mark>Obs. or Prov. Eng</mark>
+      <q au="Holland.">The excessive<ex>yex</ex>.</q>
+   </entry>
+   <entry key="Yezdegerdian">
+      <hw source="1913 Webster">Yez`de*ger"di*an</hw>
+      <pr>?; 277</pr>
+      <pos>a.</pos>
+      <def>Of or pertaining to <ets>Yezdegerd</ets>, the last Sassanian monarch of Persia, who was overthrown by the Mohammedans; <as>as, the <ex>Yezdegerdian</ex> era, which began on the 16th of June, a. d. 632. The era is still used by the Parsees</as>.</def>
+   </entry>
+   <entry key="Yezdi">
+      <hw source="1913 Webster">Yez"di</hw>
+      <pr>yĕz"dē</pr>
+      <pos>n.</pos>
+      <def au="Tylor.">Same as <er>Izedi</er>.</def>
+   </entry>
+   <entry key="Yezidee">
+      <mhw source="1913 Webster">
+         <hw>Yez"i*dee</hw>
+         <hw>Yez"i*di</hw>
+      </mhw>
+      <pos>n.</pos>
+      <def>Same as <er>Izedi.</er>
+      </def>
+   </entry>
+   <entry key="Yfere">
+      <hw source="1913 Webster">Y*fere"</hw>
+      <pos>adv.</pos>
+      <def>Together.  See <er>Ifere</er>.</def>
+      <mark>Obs</mark>
+      <q source="1913 Webster" au="Chaucer.">As friends do when they be met <ex>yfere</ex>.</q>
+   </entry>
+   <entry key="Ygdrasyl">
+      <hw source="1913 Webster">Yg"dra*syl</hw>
+      <pos>n.</pos>
+      <fld>Scand. Myth</fld>
+      <def>See in the Dictionary of Noted Names in Fiction.</def>
+   </entry>
+   <entry key="Yghe">
+      <hw source="1913 Webster">Y"ghe</hw>
+      <pos>n.</pos>
+      <def>Eye.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Ygo">
+      <hw source="1913 Webster">Y*go"</hw>
+      <mark>obs.</mark>
+      <pos>p. p.</pos> of <er>Go</er>. <def au="Chaucer.">Gone.</def>
+   </entry>
+   <entry key="Yground">
+      <hw source="1913 Webster">Y*ground"</hw>
+      <mark>obs.</mark>
+      <def au="Chaucer.">
+         <pos>p. p.</pos> of <er>Grind</er>.</def>
+   </entry>
+   <entry key="Yholde">
+      <hw source="1913 Webster">Y*hold"e</hw>
+      <mark>obs.</mark>
+      <def au="Chaucer.">
+         <pos>p. p.</pos> of <er>Hold</er>.</def>
+   </entry>
+   <entry key="Yid">
+      <hw source="Webster 1913 Suppl.">Yid</hw>
+      <pos>n.</pos>
+      <ety>See <er>Yiddish</er>
+      </ety>
+      <def>A Jew; -- now (1998) usually considered offensive or contemptuous.</def>
+      <mark>Slang or Colloq</mark>
+      <q au="John Corbin.">Almost any young<ex>Yid</ex>who goes out from among her people.</q>
+   </entry>
+   <entry key="Yiddish">
+      <hw source="Webster 1913 Suppl.">Yid"dish</hw>
+      <pos>n.</pos>
+      <ety>G. <ets>jüdisch</ets>, prop., Jewish, fr. <ets>Jude</ets> Jew. See <er>Jew</er>
+         <er>Jewish</er>
+      </ety>
+      <def>A language used by German and other Jews, being a Middle German dialect developed under Hebrew and Slavic influence. It is written in Hebrew characters.</def>
+   </entry>
+   <entry key="Yiddisher">
+      <hw source="Webster 1913 Suppl.">Yid"dish*er</hw>
+      <pos>n.</pos>
+      <ety>See <er>Yiddish</er>
+      </ety>
+      <def>A Yid.</def>
+      <mark>Slang</mark>
+   </entry>
+   <entry key="Yield">
+      <hw source="1913 Webster">Yield</hw>
+      <cs source="1913 Webster">
+         <mcol>
+            <col>To yield the breath</col>
+            <col>To yield the breath up</col>
+            <col>To yield the ghost</col>
+            <col>To yield the ghost up</col>
+            <col>To yield up the ghost</col>or<col>To yield the life</col>
+         </mcol>
+         <cd>to die; to expire; -- similar to <cref>To give up the ghost</cref>.</cd>
+         <q>One calmly <ex>yields</ex> his willing <ex>breath</ex>.</q>
+         <au>Keble.</au>
+      </cs>
+      <pos>v. t.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Yielded</conjf>; <pos>obs. p. p.</pos>
+         <conjf>Yold</conjf>; <pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Yielding</conjf>
+      </vmorph>
+      <ety>OE. <ets>yelden</ets>
+         <ets>ȝelden</ets>
+         <ets>ȝilden</ets>, AS. <ets>gieldan</ets>
+         <ets>gildan</ets>, to pay, give, restore, make an offering; akin to OFries. <ets>jelda</ets>, OS. <ets>geldan</ets>, D. <ets>gelden</ets> to cost, to be worth, G. <ets>gelten</ets>, OHG. <ets>geltan</ets> to pay, restore, make an offering, be worth, Icel. <ets>gjalda</ets> to pay, give up, Dan. <ets>gielde</ets> to be worth, Sw. <ets>gälla</ets> to be worth, <ets>gälda</ets> to pay, Goth. <ets>gildan</ets> in fra<ets>gildan</ets>, us<ets>gildan</ets>.  Cf. 1st <er>Geld</er>
+         <er>Guild</er>
+      </ety>
+      <sn no="1">
+         <def>To give in return for labor expended; to produce, as payment or interest on what is expended or invested; to pay; <as>as, money at interest <ex>yields</ex> six or seven per cent</as>.</def>
+         <q source="1913 Webster" au="Chaucer.">To <ex>yelde</ex> Jesu Christ his proper rent.</q>
+         <q source="1913 Webster" au="Gen. iv. 12.">When thou tillest the ground, it shall not henceforth <ex>yield</ex> unto thee her strength.</q>
+      </sn>
+      <sn no="2">
+         <def>To furnish; to afford; to render; to give forth.</def>
+         <q au="Milton.">Vines<ex>yield</ex>nectar.</q>
+         <q source="1913 Webster" au="Shak.">He] makes milch kine <ex>yield</ex> blood.</q>
+         <q source="1913 Webster" au="Job xxiv. 5.">The wilderness <ex>yieldeth</ex> food for them and for their children.</q>
+      </sn>
+      <sn no="3">
+         <def>To give up, as something that is claimed or demanded; to make over to one who has a claim or right; to resign; to surrender; to relinquish; as a city, an opinion, etc.</def>
+         <q source="1913 Webster" au="Shak.">And, force perforce, I'll make him <ex>yield</ex> the crown.</q>
+         <q source="1913 Webster" au="Milton.">Shall <ex>yield</ex> up all their virtue, all their fame.</q>
+      </sn>
+      <sn no="4">
+         <def>To admit to be true; to concede; to allow.</def>
+         <q source="1913 Webster" au="Milton.">I <ex>yield</ex> it just, said Adam, and submit.</q>
+      </sn>
+      <sn no="5">
+         <def>To permit; to grant; <as>as, to <ex>yield</ex> passage</as>.</def>
+      </sn>
+      <sn no="6">
+         <def>To give a reward to; to bless.</def>
+         <mark au="Chaucer.">Obs</mark>
+         <q source="1913 Webster" au="Shak.">Tend me to-night two hours, I ask no more,
+And the gods <ex>yield</ex> you for 't.</q>
+         <q source="1913 Webster" au="Beau. &amp; Fl.">God <ex>yield</ex> thee, and God thank ye.</q>
+      </sn>
+   </entry>
+   <entry key="Yield">
+      <hw source="1913 Webster">Yield</hw>
+      <pos>v. i.</pos>
+      <sn no="1">
+         <def>To give up the contest; to submit; to surrender; to succumb.</def>
+         <q source="1913 Webster" au="Dryden.">He saw the fainting Grecians <ex>yield</ex>.</q>
+      </sn>
+      <sn no="2">
+         <def>To comply with; to assent; <as>as, I <ex>yielded</ex> to his request</as>.</def>
+      </sn>
+      <sn no="3">
+         <def>To give way; to cease opposition; to be no longer a hindrance or an obstacle; <as>as, men readily <ex>yield</ex> to the current of opinion, or to customs; the door <ex>yielded</ex>.</as>
+         </def>
+         <q source="1913 Webster" au="Shak.">Will ye relent,
+And <ex>yield</ex> to mercy while 't is offered you?</q>
+      </sn>
+      <sn no="4">
+         <def>To give place, as inferior in rank or excellence; <as>as, they will <ex>yield</ex> to us in nothing</as>.</def>
+         <q source="1913 Webster" au="Pope.">Nay tell me first, in what more happy fields
+The thistle springs, to which the lily <ex>yields</ex>?</q>
+      </sn>
+   </entry>
+   <entry key="Yield">
+      <hw source="1913 Webster">Yield</hw>
+      <pos>n.</pos>
+      <def>Amount yielded; product; -- applied especially to products resulting from growth or cultivation.</def>
+      <q au="Bacon.">A goodly<ex>yield</ex>of fruit doth bring.</q>
+   </entry>
+   <entry key="Yieldable">
+      <hw source="1913 Webster">Yield"a*ble</hw>
+      <wordforms au="Bp. Hall.">
+         <wf>Yield"a*ble*ness</wf>
+         <pos>n.</pos>
+         <mark>R</mark>
+      </wordforms>
+      <pos>a.</pos>
+      <def>Disposed to yield or comply.</def>
+      <mark>R</mark>
+   </entry>
+   <entry key="Yieldance">
+      <hw source="1913 Webster">Yield"ance</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>The act of producing; yield; <as>as, the <ex>yieldance</ex> of the earth</as>.</def>
+         <mark au="Bp. Hall.">R</mark>
+      </sn>
+      <sn no="2">
+         <def>The act of yielding; concession.</def>
+         <mark au="South.">R</mark>
+      </sn>
+   </entry>
+   <entry key="Yielder">
+      <hw source="1913 Webster">Yield"er</hw>
+      <pos>n.</pos>
+      <def au="Shak.">One who yields.</def>
+   </entry>
+   <entry key="Yielding">
+      <hw source="1913 Webster">Yield"ing</hw>
+      <cs source="1913 Webster">
+         <col>Yielding and paying</col>
+         <fld>Law</fld>
+         <cd>the initial words of that clause in leases in which the rent to be paid by the lessee is mentioned and reserved.</cd>
+         <au>Burrill.</au>
+      </cs>
+      <usage>
+         <er>Yielding</er>
+         <er>Obsequious</er>
+         <er>Attentive</er>. In many cases a man may be <ex>attentive</ex> or <ex>yielding</ex> in a high degree without any sacrifice of his dignity; but he who is <ex>obsequious</ex> seeks to gain favor by excessive and mean compliances for some selfish end.</usage>
+      <wordforms source="1913 Webster">
+         <wf>Yield"ing*ly</wf>
+         <pos>adv.</pos>
+         <wf>Yield"ing*ness</wf>
+         <pos>n.</pos>
+      </wordforms>
+      <wordforms>
+         <wf>Yield"ing*ly</wf>
+         <pos>adv.</pos>
+         <wf>Yield"ing*ness</wf>
+         <pos>n.</pos>
+      </wordforms>
+      <pos>a.</pos>
+      <def>Inclined to give way, or comply; flexible; compliant; accommodating; <as>as, a <ex>yielding</ex> temper</as>.</def>
+      <syn source="1913 Webster">Obsequious; attentive.</syn>
+   </entry>
+   <entry key="Yieldless">
+      <hw source="1913 Webster">Yield"less</hw>
+      <pos>a.</pos>
+      <def>Without yielding; unyielding.</def>
+      <mark>Obs</mark>
+   </entry>
+   <entry key="Yift">
+      <hw source="1913 Webster">Yift</hw>
+      <pos>n.</pos>
+      <def>Gift.</def>
+      <mark>Obs</mark>
+      <q au="Chaucer.">Great<ex>yiftes</ex>.</q>
+   </entry>
+   <entry key="Yin">
+      <hw source="1913 Webster">Yin</hw>
+      <pos>n.</pos>
+      <def>A Chinese weight of 2<fract>2/3</fract> pounds.</def>
+   </entry>
+   <entry key="Yin">
+      <hw>Yin</hw>
+      <pos>n.</pos>
+      <fld>Chinese philosophy</fld>
+      <def>one of the two fundamental principles.  See <er>yin and yang</er>.</def>
+   </entry>
+   <entry key="yin and yang">
+      <hw>yin and yang</hw>
+      <pos>n.</pos>
+      <fld>Chinese philosophy</fld>
+      <def>the two fundamental principles, one negative, dark, passive, cold, wet, and feminine (yin) and the other (yang) positive, bright, active, dry, hot and masculine.  The interactions and balance of these forces in people and nature influence their behavior and fate.</def>
+      <au>RHUD</au>
+   </entry>
+   <entry key="Yis">
+      <hw source="1913 Webster">Yis</hw>
+      <pos>adv.</pos>
+      <def>Yes.</def>
+      <mark>Obs</mark>
+      <q source="1913 Webster" au="Chaucer.">“<ex>Yis</ex>, sir,” quod he, “<ex>yis</ex>, host.”</q>
+   </entry>
+   <entry key="Yit">
+      <hw source="1913 Webster">Yit</hw>
+      <pos>conj.</pos>
+      <def>Yet.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Yite">
+      <hw source="1913 Webster">Yite</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>The European yellow-hammer.</def>
+   </entry>
+   <entry key="Yive">
+      <hw source="1913 Webster">Yive</hw>
+      <pos>v. t. &amp; i.</pos>
+      <def>To give.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="-yl">
+      <hw source="1913 Webster">-yl</hw>
+      <note>☞ <ex>-yl</ex> was first used in 1832 by Liebig and Wöhler in naming <ex>benzoyl</ex>, in the sense of <ex>stuff</ex>, or <ex>fundamental material</ex>, then in 1834 by Dumas and Peligot in naming <ex>methyl</ex>, in the sense of <ex>wood</ex>. After this <ex>-yl</ex> was generally used as in <ex>benzoyl</ex>, in the sense of <ex>stuff</ex>
+         <ex>characteristic ground</ex>
+         <ex>fundamental material</ex>.</note>. <ety>Gr. � wood, material</ety>
+      <fld>Chem</fld>
+      <def>A suffix used as a characteristic termination of chemical radicals; as in eth<ex>yl</ex>, carbon<ex>yl</ex>, hydrox<ex>yl</ex>, etc.</def>
+   </entry>
+   <entry key="Ylang-ylang">
+      <hw source="Webster 1913 Suppl.">Y*lang`-y*lang"</hw>
+      <pos>n.</pos>
+      <def>See <er>Ihlang-ihlang</er>.</def>
+   </entry>
+   <entry key="Yle">
+      <hw source="1913 Webster">Yle</hw>
+      <pos>n.</pos>
+      <def>Isle.</def>
+      <mark>Obs</mark>
+      <q au="Chaucer.">The barren<ex>yle</ex>.</q>
+   </entry>
+   <entry key="Y level">
+      <hw source="1913 Webster">Y" lev`el</hw>. <fld>Surv</fld>
+      <def>See under <er>Y</er>
+         <pos>n.</pos>
+      </def>
+   </entry>
+   <entry key="Yliche">
+      <mhw source="1913 Webster">
+         <hw>Y*liche"</hw>
+         <hw>Y*like"</hw>
+      </mhw>
+      <pos>a. &amp; adv.</pos>
+      <def>Like; alike.</def>
+      <mark>Obs</mark>
+      <q au="Chaucer.">All . . .<ex>yliche</ex>good.</q>
+   </entry>
+   <entry key="Yllanraton">
+      <hw source="1913 Webster">Yl`lan*ra*ton"</hw>
+      <pos>n.</pos>
+      <ety>From the native name</ety>
+      <fld>Zoöl</fld>
+      <def>The agouara.</def>
+   </entry>
+   <entry key="Ymaked">
+      <hw source="1913 Webster">Y*mak"ed</hw>
+      <mark>obs.</mark>
+      <pos>p. p.</pos> of <er>Make</er>. <def>Made.</def>
+   </entry>
+   <entry key="Ymel">
+      <hw source="1913 Webster">Y*mel"</hw>
+      <pos>prep.</pos>
+      <ety>OE. <ets>ymel</ets>
+         <ets>imelle</ets>, of Scand. origin; cf. Icel. <ets>ī milli</ets>
+         <ets>ī millum</ets>properly, in the middle, fr. � in + <ets>mi�il</ets>
+         <ets>me�al</ets>, middle, akin to E. <ets>middle</ets>), Dan. <ets>imellem</ets>, Sw. <ets>emellan</ets>.  See <er>In</er>, and <er>Middle</er>
+      </ety>
+      <def>Among.</def>
+      <mark>Obs</mark>
+      <q au="Chaucer.">
+         <ex>Ymel</ex>them all.</q>
+   </entry>
+   <entry key="Ynambu">
+      <hw source="1913 Webster">Y*nam"bu</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>A South American tinamou (<spn>Rhynchotus rufescens</spn>); -- called also <altname>perdiz grande</altname>, and <altname>rufous tinamou</altname>.  See <ex>Illust.</ex> of <er>Tinamou</er>.</def>
+   </entry>
+   <entry key="Ynough">
+      <mhw source="1913 Webster">
+         <hw>Y*nough"</hw>
+         <hw>Y*now"</hw>
+      </mhw>
+      <pos>a.</pos>
+      <ety>See <er>Enough</er>
+      </ety>
+      <def>Enough.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Yockel">
+      <hw source="1913 Webster">Yock"el</hw>
+      <pos>n.</pos>
+      <ety>Cf. <er>Yokel</er>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>The yaffle.</def>
+   </entry>
+   <entry key="Yode">
+      <hw source="1913 Webster">Yode</hw>
+      <mark>obs.</mark>
+      <pos>imp.</pos> of Go. <ety>OE. <ets>yode</ets>
+         <ets>yede</ets>
+         <ets>ȝede</ets>
+         <ets>ȝeode</ets>
+         <ets>eode</ets>, AS. <ets>eóde</ets>, used as the imp. of <ets>gān</ets> to go; akin to Goth. <ets>iddja</ets> I, he, went, L. <ets>ire</ets> to go, Gr. <grk>'ie`nai</grk>, Skr. <ets>i</ets>
+         <ets>yā</ets>. √4.  Cf. <er>Issue</er>
+      </ety>
+      <def>Went; walked; proceeded.</def>
+      <altsp>
+         <asp>yede</asp>
+      </altsp> See <er>Yede</er>.<q source="1913 Webster" au="Cursor Mundi.">Quer [whether] they rade [rode] or <ex>yode</ex>.</q>
+      <q source="1913 Webster" au="Lydgate.">Then into Cornhill anon I <ex>yode</ex>.</q>
+   </entry>
+   <entry key="Yodel">
+      <mhw source="1913 Webster">
+         <hw>Yo"del</hw>
+         <hw>Yo"dle</hw>,</mhw>
+      <pos>v. t. &amp; i.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Yodeled</conjf>
+         <conjf>Yodled</conjf>; <pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Yodeling</conjf>
+         <conjf>Yodling</conjf>
+      </vmorph>
+      <ety>G. <ets>jodeln</ets>
+      </ety>
+      <def>To sing in a manner common among the Swiss and Tyrolese mountaineers, by suddenly changing from the head voice, or falsetto, to the chest voice, and the contrary; to warble.</def>
+   </entry>
+   <entry key="Yodel">
+      <mhw source="1913 Webster">
+         <hw>Yo"del</hw>
+         <hw>Yo"dle</hw>
+      </mhw>
+      <pos>n.</pos>
+      <def>A song sung by yodeling, as by the Swiss mountaineers.</def>
+   </entry>
+   <entry key="Yodler">
+      <hw source="1913 Webster">Yo"dler</hw>
+      <pos>n.</pos>
+      <def>One who yodels.</def>
+   </entry>
+   <entry key="Yoga">
+      <hw source="1913 Webster">‖Yo"ga</hw>
+      <pos>n.</pos>
+      <ety>Skr. <ets>yōga</ets> union</ety>
+      <def>A species of asceticism among the Hindoos, which consists in a complete abstraction from all worldly objects, by which the votary expects to obtain union with the universal spirit, and to acquire superhuman faculties.</def>
+   </entry>
+   <entry key="Yogi">
+      <hw source="1913 Webster">Yo"gi</hw>
+      <pos>n.</pos>
+      <ety>Skr. <ets>yōgin</ets>
+      </ety>
+      <def>A follower of the yoga philosophy; an ascetic.</def>
+      <altsp>
+         <asp>yokin</asp>
+      </altsp>
+   </entry>
+   <entry key="Yogism">
+      <hw source="Webster 1913 Suppl.">Yo"gism</hw>
+      <pos>n.</pos>
+      <def>Yoga, or its practice.</def>
+   </entry>
+   <entry key="Yoicks">
+      <hw source="1913 Webster">Yo"icks</hw>
+      <pos>interj.</pos>
+      <fld>Hunting</fld>
+      <def>A cry of encouragement to foxhounds.</def>
+   </entry>
+   <entry key="Yoit">
+      <hw source="1913 Webster">Yoit</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>The European yellow-hammer.</def>
+      <mark>Prov. Eng</mark>
+   </entry>
+   <entry key="Yojan">
+      <hw source="1913 Webster">‖Yo"jan</hw>
+      <pos>n.</pos>
+      <ety>Skr. <ets>yōjana</ets>
+      </ety>
+      <def>A measure of distance, varying from four to ten miles, but usually about five.</def>
+      <mark>India</mark>
+      <altsp>
+         <asp>yojana</asp>
+      </altsp>
+   </entry>
+   <entry key="Yoke">
+      <hw source="1913 Webster">Yoke</hw>
+      <note>☞ The modern yoke for oxen is usually a piece of timber hollowed, or made curving, near each end, and laid on the necks of the oxen, being secured in place by two bows, one inclosing each neck, and fastened through the timber. In some countries the yoke consists of a flat piece of wood fastened to the foreheads of the oxen by thongs about the horns.</note>
+      <cs source="1913 Webster">
+         <mcol>
+            <col>Neck yoke</col>
+            <col>Pig yoke</col>
+         </mcol>. <cd>See under <er>Neck</er>, and <er>Pig</er>.</cd>
+         <col>Yoke elm</col>
+         <fld>Bot</fld>
+         <cd>the European hornbeam (<spn>Carpinus Betulus</spn>), a small tree with tough white wood, often used for making yokes for cattle.</cd>
+      </cs>
+      <pr>yōk</pr>
+      <pos>n.</pos>
+      <ety>OE. <ets>yok</ets>
+         <ets>ȝoc</ets>, AS. <ets>geoc</ets>; akin to D. <ets>juk</ets>, OHG. <ets>joh</ets>, G. <ets>joch</ets>, Icel. &amp; Sw. <ets>ok</ets>, Dan. <ets>aag</ets>, Goth. <ets>juk</ets>, Lith. <ets>jungas</ets>, Russ. <ets>igo</ets>, L. <ets>jugum</ets>, Gr. <grk>zy`gon</grk>, Skr. <ets>yuga</ets>, and to L. <ets>jungere</ets> to join, Gr. �, Skr. <ets>yui</ets>. √109, 280.  Cf. <er>Join</er>
+         <er>Jougs</er>
+         <er>Joust</er>
+         <er>Jugular</er>
+         <er>Subjugate</er>
+         <er>Syzygy</er>
+         <er>Yuga</er>
+         <er>Zeugma</er>
+      </ety>
+      <sn no="1">
+         <def>A bar or frame of wood by which two oxen are joined at the heads or necks for working together.</def>
+         <q source="1913 Webster" au="Pope.">A yearling bullock to thy name shall smoke,
+Untamed, unconscious of the galling <ex>yoke</ex>.</q>
+      </sn>
+      <sn no="2">
+         <def>A frame or piece resembling a yoke, as in use or shape.</def>  Specifically: <sd no="a">
+            <def>A frame of wood fitted to a person's shoulders for carrying pails, etc., suspended on each side; <as>as, a milkmaid's <ex>yoke</ex>
+               </as>.</def>
+         </sd>
+         <sd no="b">
+            <def>A frame worn on the neck of an animal, as a cow, a pig, a goose, to prevent passage through a fence.</def>
+         </sd>
+         <sd no="c">
+            <def>A frame or convex piece by which a bell is hung for ringing it.  See <ex>Illust.</ex> of <er>Bell</er>.</def>
+         </sd>
+         <sd no="d">
+            <def>A crosspiece upon the head of a boat's rudder.  To its ends lines are attached which lead forward so that the boat can be steered from amidships.</def>
+         </sd>
+         <sd no="e">
+            <fld>Mach</fld>
+            <def>A bent crosspiece connecting two other parts.</def>
+         </sd>
+         <sd no="f">
+            <fld>Arch</fld>
+            <def>A tie securing two timbers together, not used for part of a regular truss, but serving a temporary purpose, as to provide against unusual strain.</def>
+         </sd>
+         <sd no="g">
+            <fld>Dressmaking</fld>
+            <def>A band shaped to fit the shoulders or the hips, and joined to the upper full edge of the waist or the skirt.</def>
+         </sd>
+      </sn>
+      <sn no="3">
+         <def>Fig.: That which connects or binds; a chain; a link; a bond connection.</def>
+         <q source="1913 Webster" au="Chaucer.">Boweth your neck under that blissful <ex>yoke</ex> . . . 
+Which that men clepeth spousal or wedlock.</q>
+         <q source="1913 Webster" au="Dryden.">This <ex>yoke</ex> of marriage from us both remove.</q>
+      </sn>
+      <sn no="4">
+         <def>A mark of servitude; hence, servitude; slavery; bondage; service.</def>
+         <q source="1913 Webster" au="Shak.">Our country sinks beneath the <ex>yoke</ex>.</q>
+         <q source="1913 Webster" au="Matt. xi. 30.">My <ex>yoke</ex> is easy, and my burden is light.</q>
+      </sn>
+      <sn no="5">
+         <def>Two animals yoked together; a couple; a pair that work together.</def>
+         <q source="1913 Webster" au="Luke xiv. 19.">I have bought five <ex>yoke</ex> of oxen, and I go to prove them.</q>
+      </sn>
+      <sn no="6">
+         <def>The quantity of land plowed in a day by a yoke of oxen.</def>
+         <mark au="Gardner.">Obs</mark>
+      </sn>
+      <sn no="7">
+         <def>A portion of the working day; <as>as, to work two <ex>yokes</ex>, that is, to work both portions of the day, or morning and afternoon</as>.</def>
+         <mark au="Halliwell.">Prov. Eng</mark>
+      </sn>
+      <sn no="8">
+         <fld>Chiefly Mach</fld>
+         <def>A clamp or similar piece that embraces two other parts to hold or unite them in their respective or relative positions, as a strap connecting a slide valve to the valve stem, or the soft iron block or bar permanently connecting the pole pieces of an electromagnet, as in a dynamo.</def>
+      </sn>
+   </entry>
+   <entry key="Yoke">
+      <hw source="1913 Webster">Yoke</hw>
+      <pos>v. t.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Yoked</conjf>; <pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Yoking</conjf>
+      </vmorph>
+      <sn no="1">
+         <def>To put a yoke on; to join in or with a yoke; <as>as, to <ex>yoke</ex> oxen, or pair of oxen</as>.</def>
+      </sn>
+      <sn no="2">
+         <def>To couple; to join with another.</def>
+         <q au="2 Cor. vi. 14.">Be ye not unequally<ex>yoked</ex>with unbelievers.</q>
+         <q source="1913 Webster" au="Shak.">Cassius, you are <ex>yoked</ex> with a lamb.</q>
+      </sn>
+      <sn no="3">
+         <def>To enslave; to bring into bondage; to restrain; to confine.</def>
+         <q source="1913 Webster" au="Milton.">Then were they <ex>yoked</ex> with garrisons.</q>
+         <q source="1913 Webster" au="Hudibras.">The words and promises that <ex>yoke</ex>
+The conqueror are quickly broke.</q>
+      </sn>
+   </entry>
+   <entry key="Yoke">
+      <hw source="1913 Webster">Yoke</hw>
+      <pos>v. i.</pos>
+      <def>To be joined or associated; to be intimately connected; to consort closely; to mate.</def>
+      <q source="1913 Webster" au="Shak.">We 'll <ex>yoke</ex> together, like a double shadow.</q>
+   </entry>
+   <entry key="Yokeage">
+      <hw source="1913 Webster">Yoke"age</hw>
+      <pos>n.</pos>
+      <def>See <er>Rokeage</er>.</def>
+      <mark>Local, U. S</mark>
+   </entry>
+   <entry key="Yokefellow">
+      <hw source="1913 Webster">Yoke"fel`low</hw>
+      <pos>n.</pos>
+      <ety>
+         <ets>Yoke</ets> + <ets>fellow</ets>
+      </ety>
+      <def au="Phil. iv. 3.">An associate or companion in, or as in; a mate; a fellow; especially, a partner in marriage.</def>
+      <q source="1913 Webster" au="Earle.">The two languages [English and French] became <ex>yokefellows</ex> in a still more intimate manner.</q>
+      <q source="1913 Webster" au="Addison.">Those who have most distinguished themselves by railing at the sex, very often choose one of the most worthless for a companion and <ex>yokefellow</ex>.</q>
+   </entry>
+   <entry key="Yokel">
+      <hw source="1913 Webster">Yo"kel</hw>
+      <pos>n.</pos>
+      <ety>Perhaps from an AS. word akin to E. <ets>gawk</ets>
+      </ety>
+      <def>A country bumpkin.</def>
+      <mark au="Dickens.">Eng</mark>
+   </entry>
+   <entry key="Yokelet">
+      <hw source="1913 Webster">Yoke"let</hw>
+      <pos>n.</pos>
+      <def>A small farm; -- so called as requiring but one yoke of oxen to till it.</def>
+      <mark>Prov. Eng</mark>
+   </entry>
+   <entry key="Yokemate">
+      <hw source="1913 Webster">Yoke"mate`</hw>
+      <pos>n.</pos>
+      <def>Same as <er>Yokefellow</er>.</def>
+   </entry>
+   <entry key="Yoke-toed">
+      <hw source="1913 Webster">Yoke"-toed`</hw>
+      <pos>a.</pos>
+      <fld>Zoöl</fld>
+      <def>Having two toes in front and two behind, as the trogons and woodpeckers.</def>
+   </entry>
+   <entry key="Yold">
+      <hw source="1913 Webster">Yold</hw>
+      <mark>obs.</mark>
+      <pos>p. p.</pos> of <er>Yield</er>. <def au="Spenser.">Yielded.</def>
+   </entry>
+   <entry key="Yolden">
+      <hw source="1913 Webster">Yold"en</hw>
+      <mark>obs.</mark>
+      <pos>p. p.</pos> of <er>Yield</er>. <def>Yielded.</def>
+   </entry>
+   <entry key="Yolk">
+      <hw source="1913 Webster">Yolk</hw>
+      <cs source="1913 Webster">
+         <col>Yolk cord</col>
+         <fld>Zoöl</fld>
+         <cd>a slender cord or duct which connects the yolk glands with the egg chambers in certain insects, as in the aphids.</cd>
+         <col>Yolk gland</col>
+         <fld>Zoöl</fld>
+         <cd>a special organ which secretes the yolk of the eggs in many turbellarians, and in some other invertebrates.  See <ex>Illust.</ex> of <er>Hermaphrodite</er> in Appendix.</cd>
+         <col>Yolk sack</col>
+         <fld>Anat</fld>
+         <cd>the umbilical vesicle.  See under <er>Unbilical</er>.</cd>
+      </cs>
+      <pr>yōlk or yōk; 277</pr>
+      <pos>n.</pos>
+      <ety>OE. <ets>yolke</ets>
+         <ets>yelke</ets>
+         <ets>ȝolke</ets>
+         <ets>ȝelke</ets>, AS. <ets>geoloca</ets>
+         <ets>geoleca</ets>, fr. <ets>geolu</ets> yellow.  See <er>Yellow</er>
+      </ety>
+      <altsp>
+         <asp>yelk</asp>
+      </altsp>
+      <sn no="1">
+         <def>The yellow part of an egg; the vitellus.</def>
+      </sn>
+      <sn no="2">
+         <fld>Zoöl</fld>
+         <def>An oily secretion which naturally covers the wool of sheep.</def>
+      </sn>
+   </entry>
+   <entry key="Yoll">
+      <hw source="1913 Webster">Yoll</hw>
+      <pr>yōl</pr>
+      <pos>v. i.</pos>
+      <def>To yell.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Yom">
+      <hw source="Webster 1913 Suppl.">Yom</hw>
+      <pos>n.</pos>
+      <ety>Heb. <ets>yōm</ets>
+      </ety>
+      <def>Day; -- a Hebrew word used in the names of various Jewish feast days; <as>as, <ex>Yom Kippur</ex>, the Day of Atonement; <ex>Yom Teruah</ex>lit., day of shouting), the Feast of Trumpets</as>.</def>
+   </entry>
+   <entry key="Yom Kippur">
+      <hw source="Webster 1913 Suppl.; +PJC">Yom` Kip*pur"</hw>
+      <pr>yōm`kĭ*p�r", yäm`kĭ*p�r"</pr>
+      <ety>Heb. yōm kippūr, day of atonement</ety>
+      <fld>Jewish Antiq</fld>
+      <def>the only fast day of the Mosaic ritual, celebrated on the tenth day of the seventh month (Tishri), according to the rites described in Leviticus xvi. Also called <altname>Day of Atonement</altname>.</def>
+   </entry>
+   <entry key="Yon">
+      <hw source="1913 Webster">Yon</hw>
+      <pr>yŏn</pr>
+      <pos>a.</pos>
+      <ety>OE. <ets>yon</ets>
+         <ets>ȝon</ets>, AS. <ets>geon</ets>; akin to G. <ets>jener</ets>, OHG. <ets>jenēr</ets>, Icel. <ets>enn</ets>
+         <ets>inn</ets>; cf. Goth. <ets>jains</ets>. √188.  Cf. <er>Beyond</er>
+         <er>Yond</er>
+         <er>Yonder</er>
+      </ety>
+      <def>At a distance, but within view; yonder.</def>
+      <mark>Poetic</mark>
+      <q source="1913 Webster" au="Milton.">Read thy lot in <ex>yon</ex> celestial sign.</q>
+      <q source="1913 Webster" au="Keble.">Though fast <ex>yon</ex> shower be fleeting.</q>
+   </entry>
+   <entry key="Yon">
+      <hw source="1913 Webster">Yon</hw>
+      <pos>adv.</pos>
+      <def>Yonder.</def>
+      <mark>Obs. or Poetic</mark>
+      <q source="1913 Webster" au="Milton.">But, first and chiefest, with thee bring
+Him that <ex>yon</ex> soars on golden wing.</q>
+   </entry>
+   <entry key="Yoncopin">
+      <hw source="1913 Webster">Yon"co*pin</hw>
+      <pos>n.</pos>
+      <ety>Perhaps corrupted from Illinois <ets>micoupena</ets>, Chippewa <ets>makopin</ets>, the American lotus</ety>
+      <fld>Bot</fld>
+      <def>A local name in parts of the Mississippi Valley for the American lotus (<spn>Nelumbo lutea</spn>).</def>
+   </entry>
+   <entry key="Yond">
+      <hw source="1913 Webster">Yond</hw>
+      <pos>a.</pos>
+      <ety>Cf. AS. <ets>anda</ets>
+         <ets>onda</ets>, anger, <ets>andian</ets> to be angry</ety>
+      <def>Furious; mad; angry; fierce.</def>
+      <mark>Obs</mark>
+      <q au="Spenser.">Then wexeth wood and<ex>yond</ex>.</q>
+   </entry>
+   <entry key="Yond">
+      <hw source="1913 Webster">Yond</hw>
+      <pos>adv. &amp; a.</pos>
+      <ety>OE. <ets>yond</ets>
+         <ets>ȝond</ets>
+         <ets>ȝeond</ets>, through, beyond, over, AS. <ets>geond</ets>, adv. &amp; prep.; cf. Goth. <ets>jaind</ets> thither. √188.  See <er>Yon</er>
+         <pos>a.</pos>
+      </ety>
+      <def>Yonder.</def>
+      <mark>Obs</mark>
+      <q au="Chaucer.">
+         <ex>Yond</ex>in the garden.</q>
+   </entry>
+   <entry key="Yonder">
+      <hw source="1913 Webster">Yon"der</hw>
+      <pos>adv.</pos>
+      <ety>OE. <ets>yonder</ets>
+         <ets>ȝonder</ets>; cf. OD. <ets>ginder</ets>, Goth. <ets>jaindr�</ets> there. ����.  See <er>Yond</er>
+         <pos>adv.</pos>
+      </ety>
+      <def>At a distance, but within view.</def>
+      <q source="1913 Webster" au="Arbuthnot.">
+         <ex>Yonder</ex> are two apple women scolding.</q>
+   </entry>
+   <entry key="Yonder">
+      <hw source="1913 Webster">Yon"der</hw>
+      <pos>a.</pos>
+      <def>Being at a distance within view, or conceived of as within view; that or those there; yon.</def>
+      <q>Yon flowery arbors,<ex>yonder</ex>alleys green.</q>
+      <au>Milton.</au>
+      <q>
+         <ex>Yonder</ex>sea of light.</q>
+      <au>Keble.</au>
+      <q source="1913 Webster" au="Bacon.">
+         <ex>Yonder</ex> men are too many for an embassage.</q>
+   </entry>
+   <entry key="Yoni">
+      <hw source="1913 Webster">‖Yo"ni</hw>
+      <pr>yō"nē</pr>
+      <pos>n.</pos>
+      <ety>Skr. <ets>yōni</ets>
+      </ety>
+      <fld>Hindu Myth</fld>
+      <def>The symbol under which Sakti, or the personification of the female power in nature, is worshiped.  Cf. <er>Lingam</er>.</def>
+   </entry>
+   <entry key="Yonker">
+      <hw source="1913 Webster">Yon"ker</hw>
+      <pos>n.</pos>
+      <ety>See <er>Younker</er>
+      </ety>
+      <def>A young fellow; a younker.</def>
+      <mark au="Sir W. Scott.">Obs. or Colloq</mark>
+   </entry>
+   <entry key="Yore">
+      <hw source="1913 Webster">Yore</hw>
+      <cs source="1913 Webster">
+         <col>Of yore</col>
+         <cd>of old time; long ago; as, in times or days <ex>of yore</ex>.</cd> “But Satan now is wiser than <ex>of yore</ex>.”  <au>Pope.</au>
+      </cs>
+      <pr>yōr</pr>
+      <pos>adv.</pos>
+      <ety>OE. <ets>ȝore</ets>
+         <ets>yare</ets>
+         <ets>ȝare</ets>, AS. <ets>geára</ets>;akin to <ets>geár</ets> a year, E. <ets>year</ets>. √204.  See <er>Year</er>
+      </ety>
+      <def>In time long past; in old time; long since.</def>
+      <mark>Obs. or Poetic</mark>
+      <q source="1913 Webster" au="Chaucer.">As it hath been of olde times <ex>yore</ex>.</q>
+      <q source="1913 Webster" au="Spenser.">Which though he hath polluted oft and <ex>yore</ex>,
+Yet I to them for judgment just do fly.</q>
+      <q source="1913 Webster" au="Keble.">Where Abraham fed his flock <ex>of yore</ex>.</q>
+   </entry>
+   <entry key="Yorker">
+      <hw source="1913 Webster">York"er</hw>
+      <pos>n.</pos>
+      <fld>Cricket</fld>
+      <def>A tice.</def>
+   </entry>
+   <entry key="York rite">
+      <hw source="Webster 1913 Suppl.">York rite</hw>. <fld>Freemasonry</fld>
+      <def>The rite or ceremonial observed by one of the Masonic systems, deriving its name from the city of <ets>York</ets>, in England; also, the system itself, which, in England, confers only the first three degrees.</def>
+   </entry>
+   <entry key="Yorkshire">
+      <hw source="1913 Webster">York"shire</hw>
+      <cs source="1913 Webster">
+         <col>Yorkshire grit</col>
+         <cd>a kind of stone used for polishing marble, and copperplates for engravers.</cd>
+         <au>Simmonds.</au>
+         <col>Yorkshire pudding</col>
+         <cd>a batter pudding baked under meat.</cd>
+      </cs>
+      <pos>n.</pos>
+      <def>A county in the north of England.</def>
+   </entry>
+   <entry key="York use">
+      <hw source="1913 Webster">York" use`</hw>. <fld>Eccl</fld>
+      <def au="Shipley.">The one of the three printed uses of England which was followed in the north. It was based on the Sarum use.  See <er>Use</er>
+         <altname>n</altname>., 6.</def>
+   </entry>
+   <entry key="Yot">
+      <hw source="1913 Webster">Yot</hw>
+      <pos>v. t.</pos>
+      <def>To unite closely.</def>
+      <mark>Prov. Eng</mark>
+   </entry>
+   <entry key="Yote">
+      <hw source="1913 Webster">Yote</hw>
+      <pr>yōt</pr>
+      <pos>v. t.</pos>
+      <ety>OE. <ets>ȝeoten</ets>
+         <ets>ȝeten</ets>, to pour, AS. <ets>geótan</ets>.  See <er>Found</er> to cast</ety>
+      <def>To pour water on; to soak in, or mix with, water.</def>
+      <mark au="Grose.">Obs. or Prov. Eng</mark>
+      <q source="1913 Webster" au="Chapman.">My fowls, which well enough,
+I, as before, found feeding at their trough
+Their <ex>yoted</ex> wheat.</q>
+   </entry>
+   <entry key="You">
+      <hw source="1913 Webster">You</hw>
+      <note>☞ Though <ex>you</ex> is properly a plural, it is in all ordinary discourse used also in addressing a single person, yet properly always with a plural verb. “Are <ex>you</ex> he that hangs the verses on the trees, wherein Rosalind is so admired ?” <au>Shak.</au>
+         <ex>You</ex> and <ex>your</ex> are sometimes used indefinitely, like <ex>we</ex>
+         <ex>they</ex>
+         <ex>one</ex>, to express persons not specified. “The looks at a distance like a new-plowed land; but as <ex>you</ex> come near it, <ex>you</ex> see nothing but a long heap of heavy, disjointed clods.” <au>Addison.</au> “<ex>Your</ex> medalist and critic are much nearer related than the world imagine.” <au>Addison.</au> “It is always pleasant to be forced to do what <ex>you</ex> wish to do, but what, until pressed, <ex>you</ex> dare not attempt.” <au>Hook.</au>
+         <ex>You</ex> is often used reflexively for <ex>yourself</ex> of <ex>yourselves</ex>. “Your highness shall repose <ex>you</ex> at the tower.”  <au>Shak.</au>
+      </note>
+      <pr>ū</pr>
+      <pos>pron.</pos>
+      <nmorph>
+         <pos>Possess.</pos>
+         <decf>Your</decf>
+         <pr>ūr</pr> or <decf>Yours</decf>
+         <pr>ūrz</pr>; <pos>dat. &amp; obj.</pos>
+         <decf>You</decf>
+      </nmorph>
+      <ety>OE. <ets>you</ets>
+         <ets>eou</ets>
+         <ets>eow</ets>, dat. &amp; acc., AS. <ets>eów</ets>, used as dat. &amp; acc. of <ets>ge</ets>
+         <ets>gē</ets>, ye; akin to OFries. <ets>iu</ets>
+         <ets>io</ets>, D. <ets>u</ets>, G. <ets>euch</ets>, OHG. <ets>iu</ets>, dat., <ets>iuwih</ets>, acc., Icel. <ets>yðr</ets>, dat. &amp; acc., Goth. <ets>izwis</ets>; of uncertain origin. √189.  Cf. <er>Your</er>
+      </ety>
+      <def>The pronoun of the second person, in the nominative, dative, and objective case, indicating the person or persons addressed.  See the Note under <er>Ye</er>.</def>
+      <q source="1913 Webster" au="Chaucer.">Ye go to Canterbury; God <ex>you</ex> speed.</q>
+      <q source="1913 Webster" au="Shak.">Good sir, I do in friendship counsel <ex>you</ex>
+To leave this place.</q>
+      <q source="1913 Webster" au="Prior.">In vain <ex>you</ex> tell your parting lover<ex>You</ex> wish fair winds may waft him over.</q>
+   </entry>
+   <entry key="Youl">
+      <hw source="1913 Webster">Youl</hw>
+      <pos>v. i.</pos>
+      <def>To yell; to yowl.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Young">
+      <hw source="1913 Webster">Young</hw>
+      <pr>yŭng</pr>
+      <pos>a.</pos>
+      <amorph>
+         <pos>Compar.</pos>
+         <adjf>Younger</adjf>
+         <pr>yŭṉ"gẽr</pr>; <pos>superl.</pos>
+         <adjf>Youngest</adjf>
+         <pr>-gĕst</pr>
+      </amorph>
+      <ety>OE. <ets>yung</ets>
+         <ets>yong</ets>
+         <ets>ȝong</ets>
+         <ets>ȝung</ets>, AS. <ets>geong</ets>; akin to OFries. <ets>iung</ets>
+         <ets>iong</ets>, D. <ets>joing</ets>, OS., OHG., &amp; G. <ets>jung</ets>, Icel. <ets>ungr</ets>, Sw. &amp; Dan. <ets>ung</ets>, Goth. <ets>juggs</ets>, Lith. <ets>jaunas</ets>, Russ. <ets>iunuii</ets>, L. <ets>juvencus</ets>
+         <ets>juvenis</ets>, Skr. <ets>juvaça</ets>
+         <ets>juvan</ets>. √281.  Cf. <er>Junior</er>
+         <er>Juniper</er>
+         <er>Juvenile</er>
+         <er>Younker</er>
+         <er>Youth</er>
+      </ety>
+      <sn no="1">
+         <def>Not long born; still in the first part of life; not yet arrived at adolescence, maturity, or age; not old; juvenile; -- said of animals; <as>as, a <ex>young</ex> child; a <ex>young</ex> man; a <ex>young</ex> fawn</as>.</def>
+         <q source="1913 Webster" au="Chaucer.">For he so <ex>young</ex> and tender was of age.</q>
+         <q source="1913 Webster" au="Mrs. H. H. Jackson.">“Whom the gods love, die <ex>young</ex>,” has been too long carelessly said; . . . whom the gods love, live <ex>young</ex> forever.</q>
+      </sn>
+      <sn no="2">
+         <def>Being in the first part, pr period, of growth; <as>as, a <ex>young</ex> plant; a <ex>young</ex> tree</as>.</def>
+         <q source="1913 Webster" au="De Foe.">While the fears of the people were <ex>young</ex>.</q>
+      </sn>
+      <sn no="3">
+         <def>Having little experience; inexperienced; unpracticed; ignorant; weak.</def>
+         <q source="1913 Webster" au="Shak.">Come, come, elder brother, you are too <ex>young</ex> in this.</q>
+      </sn>
+   </entry>
+   <entry key="Young">
+      <hw source="1913 Webster">Young</hw>
+      <cs source="1913 Webster">
+         <col>With young</col>
+         <cd>with child; pregnant.</cd>
+      </cs>
+      <pos>n.</pos>
+      <def>The offspring of animals, either a single animal or offspring collectively.</def>
+      <q source="1913 Webster" au="Milton.">The egg] bursting with kindly rupture, forth disclosed
+Their callow <ex>young</ex>.</q>
+   </entry>
+   <entry key="Youngger">
+      <hw source="1913 Webster">Young"ger</hw>
+      <pos>n.</pos>
+      <def>One who is younger; an inferior in age; a junior.</def>
+      <q au="Rom. ix. 12.">The elder shall serve the<ex>younger</ex>.</q>
+   </entry>
+   <entry key="Youngish">
+      <hw source="1913 Webster">Young"ish</hw>
+      <pos>a.</pos>
+      <def au="Tatler.">Somewhat young.</def>
+   </entry>
+   <entry key="Youngling">
+      <hw source="1913 Webster">Young"ling</hw>
+      <pos>n.</pos>
+      <ety>AS. <ets>geongling</ets>
+      </ety>
+      <def>A young person; a youth; also, any animal in its early life.</def>
+      <q au="Spenser.">More dear . . . than<ex>younglings</ex>to their dam.</q>
+      <q source="1913 Webster" au="Ridley.">He will not be so willing, I think, to join with you as with us <ex>younglings</ex>.</q>
+   </entry>
+   <entry key="Youngling">
+      <hw source="1913 Webster">Young"ling</hw>
+      <pos>a.</pos>
+      <def au="Wordsworth.">Young; youthful.</def>
+   </entry>
+   <entry key="Youngly">
+      <hw source="1913 Webster">Young"ly</hw>
+      <pos>a.</pos>
+      <ety>AS. <ets>geonglic</ets>
+      </ety>
+      <def>Like a young person or thing; young; youthful.</def>
+      <mark au="Shak.">Obs</mark>
+   </entry>
+   <entry key="Youngly">
+      <hw source="1913 Webster">Young"ly</hw>
+      <pos>adv.</pos>
+      <sn no="1">
+         <def>In a young manner; in the period of youth; early in life.</def>
+         <mark au="Shak.">Obs</mark>
+      </sn>
+      <sn no="2">
+         <def>Ignorantly; weakly.</def>
+         <mark>R</mark>
+      </sn>
+   </entry>
+   <entry key="Young Men's Christian Association">
+      <hw source="Webster 1913 Suppl.; +PJC">Young Men's Christian Association</hw>. <def>An organization for promoting the spiritual, intellectual, social, and physical welfare of young men, founded, June 6, 1844, by George Williams (knighted therefor by Queen Victoria) in London. In 1851 it extended to the United States and Canada, and in 1855 representatives of similar organizations throughout Europe and America formed an international body. The movement has successfully expanded not only among young men in general, but also specifically among railroad men, in the army and navy, with provision for Indians and negroes, and a full duplication of all the various lines of oepration in the boys' departments.  It currently (1998) maintains buildings which usually have both recreational facilities and dormitories for dwelling.  It is usually called by its acronym <altname>YMCA</altname>.  See also the similar organizations <er>Young Women's Christian Association</er> and <er>YMHA</er>.</def>
+   </entry>
+   <entry key="Youngness">
+      <hw source="1913 Webster">Young"ness</hw>
+      <pos>n.</pos>
+      <def>The quality or state of being young.</def>
+   </entry>
+   <entry key="Young one">
+      <hw source="Webster 1913 Suppl.">Young one</hw>. <def>A young human being; a child; also, a young animal, as a colt.</def>
+   </entry>
+   <entry key="Youngster">
+      <hw source="1913 Webster">Young"ster</hw>
+      <pos>n.</pos>
+      <def>A young person; a youngling; a lad.</def>
+      <mark>Colloq</mark>
+      <q au="G. Eliot.">He felt himself quite a<ex>youngster</ex>, with a long life before him.</q>
+   </entry>
+   <entry key="Youngth">
+      <hw source="1913 Webster">Youngth</hw>
+      <pos>n.</pos>
+      <def>Youth.</def>
+      <mark>Obs</mark>
+      <q source="1913 Webster" au="Spenser.">
+         <ex>Youngth</ex> is a bubble blown up with breath.</q>
+   </entry>
+   <entry key="Youngthly">
+      <hw source="1913 Webster">Youngth"ly</hw>
+      <pos>a.</pos>
+      <def>Pertaining to, or resembling, youth; youthful.</def>
+      <mark au="Spenser.">Obs</mark>
+   </entry>
+   <entry key="Young'un">
+      <hw source="PJC">Young'un</hw>. <def>A young human being; -- a contraction of <er>young one</er>.</def>
+   </entry>
+   <entry key="Young Women's Christian Association">
+      <hw source="Webster 1913 Suppl.; +PJC">Young Women's Christian Association</hw>. <def>An organization for promoting the spiritual, intellectual, social, and economic welfare of young women, originating in 1855 with Lady Kinnaird's home for young women, and Miss Emma Robert's prayer union for young women,in England, which were combined in the year 1884 as a national association. Now nearly all the civilized countries, and esp. the United States, have local, national, and international organizations.  See also the similar organizations <er>Young Men's Christian Association</er> and <er>YMHA</er>.</def>
+   </entry>
+   <entry key="Younker">
+      <hw source="1913 Webster">Youn"ker</hw>
+      <pos>n.</pos>
+      <ety>D. <ets>jonker</ets>
+         <ets>jonkeer</ets>; <ets>jong</ets> young + <ets>heer</ets> a lord, sir, gentleman.  See <er>Young</er>
+         <pos>a.</pos>
+      </ety>
+      <def>A young person; a stripling; a yonker.</def>
+      <mark>Obs. or Colloq</mark>
+      <q source="1913 Webster" au="Spenser.">That same <ex>younker</ex> soon was overthrown.</q>
+   </entry>
+   <entry key="Youpon">
+      <hw source="1913 Webster">You"pon</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>Same as <er>Yaupon</er>.</def>
+   </entry>
+   <entry key="Your">
+      <hw source="1913 Webster">Your</hw>
+      <note>☞ The possessive takes the form <ex>yours</ex> when the noun to which it refers is not expressed, but implied; as, this book is <ex>yours</ex>. “An old fellow of <ex>yours</ex>.”</note>
+      <pr>ūr</pr>
+      <pos>pron. &amp; a.</pos>
+      <ety>OE. <ets>your</ets>
+         <ets>ȝour</ets>
+         <ets>eowr</ets>
+         <ets>eower</ets>, AS. <ets>eówer</ets>, originally used as the gen. of <ets>ge</ets>
+         <ets>gē</ets>, ye; akin to OFries. <ets>iuwer</ets> your, OS. <ets>iuwar</ets>, D. <ets>uw</ets>, OHG. <ets>iuwēr</ets>, G. <ets>euer</ets>, Icel. <ets>yðar</ets>, Goth. <ets>izwara</ets>
+         <ets>izwar</ets>, and E. <ets>you</ets>. √189.  See <er>You</er>
+      </ety>
+      <def>The form of the possessive case of the personal pronoun <ex>you</ex>.</def>
+   </entry>
+   <entry key="Yours">
+      <hw source="1913 Webster">Yours</hw>
+      <pr>ürz</pr>
+      <pos>pron.</pos>
+      <def>See the Note under <er>Your</er>.</def>
+   </entry>
+   <entry key="Yourself">
+      <hw source="1913 Webster">Your*self"</hw>
+      <pos>pron.</pos>; <plu>pl.<plw>Yourselves</plw>
+         <pr>#</pr>.</plu>
+      <ety>
+         <ets>Your</ets> + <ets>self</ets>
+      </ety>
+      <def>An emphasized or reflexive form of the pronoun of the second person; -- used as a subject commonly with <ex>you</ex>; <as>as, you <ex>yourself</ex> shall see it</as>; also, alone in the predicate, either in the nominative or objective case; <as>as, you have injured <ex>yourself</ex>
+         </as>.</def>
+      <q source="1913 Webster" au="Chaucer.">Of which right now ye han <ex>yourselve</ex> heard.</q>
+      <q source="1913 Webster" au="Shak.">If <ex>yourselves</ex> are old, make it your cause.</q>
+      <q source="1913 Webster" au="Milton.">Why should you be so cruel to <ex>yourself</ex> ?</q>
+      <q source="1913 Webster" au="J. H. Newman.">The religious movement which you <ex>yourself</ex>, as well as I, so faithfully followed from first to last.</q>
+   </entry>
+   <entry key="Youth">
+      <hw source="1913 Webster">Youth</hw>
+      <pr>ūth</pr>
+      <pos>n.</pos>; <plu>pl.<plw>Youths</plw>
+         <pr>ūths; 264</pr> or <ex>collectively</ex>
+         <plw>Youth</plw>.</plu>
+      <ety>OE. <ets>youthe</ets>
+         <ets>youhþe</ets>
+         <ets>ȝuheðe</ets>
+         <ets>ȝuweðe</ets>
+         <ets>ȝeoȝeðe</ets>, AS. <ets>geoguð</ets>
+         <ets>geogoð</ets>; akin to OS. <ets>juguð</ets>, D. <ets>jeugd</ets>, OHG. <ets>jugund</ets>, G. <ets>jugend</ets>, Goth. <ets>junda</ets>. <ets>√281</ets>.  See <er>Young</er>
+      </ety>
+      <sn no="1">
+         <def>The quality or state of being young; youthfulness; juvenility.</def>
+         <q au="Milton.">In my flower of<ex>youth</ex>.</q>
+         <q source="1913 Webster" au="Milton.">Such as in his face<ex>Youth</ex> smiled celestial.</q>
+      </sn>
+      <sn no="2">
+         <def>The part of life that succeeds to childhood; the period of existence preceding maturity or age; the whole early part of life, from childhood, or, sometimes, from infancy, to manhood.</def>
+         <q source="1913 Webster" au="Shak.">He wondered that your lordship
+Would suffer him to spend his <ex>youth</ex> at home.</q>
+         <q source="1913 Webster" au="Rambler.">Those who pass their <ex>youth</ex> in vice are justly condemned to spend their age in folly.</q>
+      </sn>
+      <sn no="3">
+         <def>A young person; especially, a young man.</def>
+         <q source="1913 Webster" au="Dryden.">Seven <ex>youths</ex> from Athens yearly sent.</q>
+      </sn>
+      <sn no="4">
+         <def>Young persons, collectively.</def>
+         <q source="1913 Webster" au="B. Jonson.">It is fit to read the best authors to <ex>youth</ex> first.</q>
+      </sn>
+   </entry>
+   <entry key="Youthful">
+      <hw source="1913 Webster">Youth"ful</hw>
+      <usage>
+         <er>Youthful</er>
+         <er>Puerile</er>
+         <er>Juvenile</er>. <ex>Puerile</ex> is always used in a bad sense, or at least in the sense of what is suitable to a boy only; <as>as, <ex>puerile</ex> objections, <ex>puerile</ex> amusements, etc</as>. <ex>Juvenile</ex> is sometimes taken in a bad sense, as when speaking of youth in contrast with manhood; <as>as, <ex>juvenile</ex> tricks; a <ex>juvenile</ex> performance</as>. <ex>Youthful</ex> is commonly employed in a good sense; <as>as, <ex>youthful</ex> aspirations</as>; or at least by way of extenuating; <as>as, <ex>youthful</ex> indiscretions</as>. “Some men, imagining themselves possessed with a divine fury, often fall into toys and trifles, which are only <ex>puerilities</ex>.” <au>Dryden.</au> “Raw, <ex>juvenile</ex> writers imagine that, by pouring forth figures often, they render their compositions warm and animated.”</usage>
+      <wordforms source="1913 Webster">
+         <wf>Youth"ful*ly</wf>
+         <pos>adv.</pos>
+         <wf>Youth"ful*ness</wf>
+         <pos>n.</pos>
+      </wordforms>
+      <wordforms>
+         <wf>Youth"ful*ly</wf>
+         <pos>adv.</pos>
+         <wf>Youth"ful*ness</wf>
+         <pos>n.</pos>
+      </wordforms>
+      <pos>a.</pos>
+      <sn no="1">
+         <def>Not yet mature or aged; young.</def>
+         <q>Two<ex>youthful</ex>knights.</q>
+         <au>Dryden.</au>
+         <def>Also used figuratively.</def>
+         <q au="Shak.">The<ex>youthful</ex>season of the year.</q>
+      </sn>
+      <sn no="2">
+         <def>Of or pertaining to the early part of life; suitable to early life; <as>as, <ex>youthful</ex> days; <ex>youthful</ex> sports.</as>
+         </def>
+         <q>Warm,<ex>youthful</ex>blood.</q>
+         <au>Shak.</au>
+         <q au="Milton.">
+            <ex>Youthful</ex>thoughts.</q>
+      </sn>
+      <sn no="3">
+         <def>Fresh; vigorous, as in youth.</def>
+         <q source="1913 Webster" au="Bentley.">After millions of millions of ages . . . still <ex>youthful</ex> and flourishing.</q>
+         <syn source="1913 Webster">Puerile; juvenile.</syn>
+      </sn>
+   </entry>
+   <entry key="Youthhood">
+      <hw source="1913 Webster">Youth"hood</hw>
+      <pos>n.</pos>
+      <ety>AS. <ets>geoguðhād</ets>.  See <er>Youth</er>, and <er>-hood</er>
+      </ety>
+      <def au="Cheyne.">The quality or state of being a youth; the period of youth.</def>
+   </entry>
+   <entry key="Youthly">
+      <hw source="1913 Webster">Youth"ly</hw>
+      <pos>a.</pos>
+      <ety>AS. <ets>geoguðlic</ets>
+      </ety>
+      <def>Young; youthful.</def>
+      <mark>Obs</mark>
+      <q au="Spenser.">All my<ex>youthly</ex>days.</q>
+   </entry>
+   <entry key="Youthsome">
+      <hw source="1913 Webster">Youth"some</hw>
+      <pos>a.</pos>
+      <def>Youthful.</def>
+      <mark au="Pepys.">Obs</mark>
+   </entry>
+   <entry key="Youthy">
+      <hw source="1913 Webster">Youth"y</hw>
+      <pos>a.</pos>
+      <def>Young.</def>
+      <mark au="Spectator.">Obs</mark>
+   </entry>
+   <entry key="Youze">
+      <hw source="1913 Webster">Youze</hw>
+      <pos>n.</pos>
+      <ety>From a native East Indian name</ety>
+      <fld>Zoöl</fld>
+      <def>The cheetah.</def>
+   </entry>
+   <entry key="Yow">
+      <hw source="1913 Webster">Yow</hw>
+      <pos>pron.</pos>
+      <def>You.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Yowe">
+      <hw source="1913 Webster">Yowe</hw>
+      <pos>n.</pos>
+      <ety>See <er>Ewe</er>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>A ewe.</def>
+      <mark au="G. Eliot.">Prov. Eng. &amp; Scot</mark>
+   </entry>
+   <entry key="Yowl">
+      <hw source="1913 Webster">Yowl</hw>
+      <pos>v. i.</pos>
+      <ety>See <er>Yawl</er>
+         <pos>v. i.</pos>
+      </ety>
+      <def>To utter a loud, long, and mournful cry, as a dog; to howl; to yell.</def>
+   </entry>
+   <entry key="Yowl">
+      <hw source="1913 Webster">Yowl</hw>
+      <pos>n.</pos>
+      <def>A loud, protracted, and mournful cry, as that of a dog; a howl.</def>
+   </entry>
+   <entry key="Yowley">
+      <hw source="1913 Webster">Yow"ley</hw>
+      <pos>n.</pos>
+      <ety>Cf. <er>Yellow</er>
+      </ety>
+      <fld>Zoöl</fld>
+      <def>The European yellow-hammer.</def>
+      <mark>Prov. Eng</mark>
+   </entry>
+   <entry key="Yox">
+      <hw source="1913 Webster">Yox</hw>
+      <pos>v. i.</pos>
+      <def>See <er>Yex</er>.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Ypight">
+      <hw source="1913 Webster">Y*pight"</hw>
+      <mark>obs.</mark>
+      <pos>p. p.</pos> of <er>Pitch</er>. <def>See <er>Pight</er>.</def>
+   </entry>
+   <entry key="Ypocras">
+      <hw source="1913 Webster">Yp"o*cras</hw>
+      <pos>n.</pos>
+      <def>Hippocras.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Ypres lace">
+      <hw source="1913 Webster">Y"pres lace`</hw>. <def>Fine bobbin lace made at <ex>Ypres</ex> in Belgium, usually exactly like Valenciennes lace.</def>
+   </entry>
+   <entry key="Ypsiliform">
+      <hw source="1913 Webster">Yp*sil"i*form</hw>
+      <pos>a.</pos>
+      <ety>Gr. � � the name of the letter � + <ets>-form</ets>
+      </ety>
+      <fld>Biol</fld>
+      <def>Resembling the � in appearance; -- said of the germinal spot in the ripe egg at one of the stages of fecundation.</def>
+   </entry>
+   <entry key="Ypsiloid">
+      <hw source="1913 Webster">Yp"si*loid</hw>
+      <pos>a.</pos>
+      <fld>Anat</fld>
+      <def>In the form of the letter <er>Y</er>; <er>Y-</er>shaped.</def>
+   </entry>
+   <entry key="Yraft">
+      <hw source="1913 Webster">Y*raft"</hw>
+      <mark>obs.</mark>
+      <pos>p. p.</pos> of <er>Reave</er>. <def au="Chaucer.">Bereft.</def>
+   </entry>
+   <entry key="Yren">
+      <hw source="1913 Webster">Yr"en</hw>
+      <pos>n.</pos>
+      <def>Iron.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Yronne">
+      <hw source="1913 Webster">Y*ron"ne</hw>
+      <mark>obs.</mark>
+      <pos>p. p.</pos> of <er>Run</er>. <def au="Chaucer.">Run.</def>
+   </entry>
+   <entry key="Ysame">
+      <hw source="1913 Webster">Y*same"</hw>
+      <pos>adv.</pos>
+      <ety>See <er>Same</er>
+      </ety>
+      <def>Together.</def>
+      <mark>Obs</mark>
+      <q au="Spenser.">And in a bag all sorts of seeds<ex>ysame</ex>.</q>
+   </entry>
+   <entry key="Yt">
+      <mhw source="1913 Webster">
+         <hw>Y<supr>t</supr>
+         </hw>
+         <hw>Yt</hw>
+         <pr>�ăt</pr>
+      </mhw>
+      <def>an old method of printing <ex>that</ex>AS. <ex>þæt</ex>
+         <ex>ðæt</ex>) the “y” taking the place of the old letter “thorn” (þ).  Cf. <er>Ye</er>, the.</def>
+   </entry>
+   <entry key="Ythrowe">
+      <hw source="1913 Webster">Y*throwe"</hw>
+      <mark>obs.</mark>
+      <def au="Chaucer.">
+         <pos>p. p.</pos> of Throw.</def>
+   </entry>
+   <entry key="Ytterbic">
+      <hw source="1913 Webster">Yt*ter"bic</hw>
+      <pos>a.</pos>
+      <fld>Chem</fld>
+      <def>Pertaining to, or derived from, ytterbium; containing ytterbium.</def>
+   </entry>
+   <entry key="Ytterbium">
+<!-- purified before 1960 -->
+<hw source="1913 Webster">Yt*ter"bi*um</hw>
+      <note>☞ Ytterbium is associated with other rare elements, and probably has not been prepared in a pure state.</note>
+      <pos>n.</pos>
+      <ety>NL., fr. <ets>Ytterby</ets>, in Sweden.  See <er>Erbium</er>
+      </ety>
+      <fld>Chem</fld>
+      <def>A rare element of the boron group, sometimes associated with yttrium or other related elements, as in euxenite and gadolinite. Symbol Yb; provisional atomic weight 173.2.  Cf. <er>Yttrium</er>.</def>
+      <!-- purified before 1960 -->
+</entry>
+   <entry key="Yttria">
+      <hw source="1913 Webster">Yt"tri*a</hw>
+      <pos>n.</pos>
+      <ety>NL.  See <er>Yttrium</er>
+      </ety>
+      <fld>Chem</fld>
+      <def>The oxide, <chform>Y2O3</chform>, or earth, of yttrium.</def>
+   </entry>
+   <entry key="Yttric">
+      <hw source="1913 Webster">Yt"tric</hw>
+      <pos>a.</pos>
+      <fld>Chem</fld>
+      <def>Pertaining to, derived from, or containing, yttrium.</def>
+   </entry>
+   <entry key="Yttriferous">
+      <hw source="1913 Webster">Yt*trif"er*ous</hw>
+      <pos>a.</pos>
+      <def>Bearing or containing yttrium or the allied elements; <as>as, gadolinite is one of the <ex>yttriferous</ex> minerals</as>.</def>
+   </entry>
+   <entry key="Yttrious">
+      <hw source="1913 Webster">Yt"tri*ous</hw>
+      <pos>a.</pos>
+      <fld>Chem</fld>
+      <def>Same as <er>Yttric</er>.</def>
+   </entry>
+   <entry key="Yttrium">
+<!-- yttrium has been isolated as a pure element. -->
+<hw source="1913 Webster; +PJC">Yt"tri*um</hw>
+      <note>☞ Associated with yttrium are certain rare elements, as erbium, ytterbium, samarium, etc., which are separated in a pure state with great difficulty. They are studied by means of their spark or phosphorescent spectra. Yttrium is now regarded as probably not a simple element, but as a mixture of several substances.</note>
+      <pos>n.</pos>
+      <ety>NL., from <ets>Ytter</ets>by, in Sweden.  See <er>Erbium</er>
+      </ety>
+      <fld>Chem</fld>
+      <def>A rare metallic element of the boron-aluminium group, found in gadolinite and other rare minerals, and extracted as a dark gray powder.  Symbol Y.  Atomic number 39.  Atomic weight, 88.9.</def>
+      <altsp>
+         <asp>ittrium</asp>
+      </altsp>
+      <!-- yttrium has been isolated as a pure element. -->
+</entry>
+   <entry key="Yttro-cerite">
+      <hw source="1913 Webster">Yt`tro-ce"rite</hw>
+      <pos>n.</pos>
+      <fld>Min</fld>
+      <def>A mineral of a violet-blue color, inclining to gray and white. It is a hydrous fluoride of cerium, yttrium, and calcium.</def>
+   </entry>
+   <entry key="Yttro-columbite">
+      <mhw source="1913 Webster">
+         <hw>Yt`tro-co*lum"bite</hw>
+         <hw>Yt`tro-tan"ta*lite</hw>,</mhw>
+      <pos>n.</pos>
+      <fld>Min</fld>
+      <def>A tantalate of uranium, yttrium, and calcium, of a brown or black color.</def>
+   </entry>
+   <entry key="Yu">
+      <hw source="1913 Webster">‖Yu</hw>
+      <pos>n.</pos>
+      <ety>Chin</ety>
+      <fld>Min</fld>
+      <def>Jade.</def>
+   </entry>
+   <entry key="Yucca">
+      <hw source="1913 Webster">Yuc"ca</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>See <er>Flicker</er>
+         <pos>n.</pos>, 2.</def>
+   </entry>
+   <entry key="Yucca">
+      <hw source="1913 Webster">‖Yuc"ca</hw>
+      <note>☞ The species with more rigid leaves (as <spn>Yucca aloifolia</spn>
+         <spn>Yucca Treculiana</spn>, and <spn>Yucca baccata</spn>) are called <stype>Spanish bayonet</stype>, and one with softer leaves  (<spn>Yucca filamentosa</spn>) is called <stype>bear grass</stype>, and <stype>Adam's needle</stype>.</note>
+      <cs source="1913 Webster">
+         <col>Yucca moth</col>
+         <fld>Zoöl</fld>
+         <cd>a small silvery moth (<spn>Pronuba yuccasella</spn>) whose larvæ feed on plants of the genus <gen>Yucca</gen>.</cd>
+      </cs>
+      <pos>n.</pos>
+      <ety>NL., from <ets>Yuca</ets>, its name in St. Domingo</ety>
+      <fld>Bot</fld>
+      <def>A genus of American liliaceous, sometimes arborescent, plants having long, pointed, and often rigid, leaves at the top of a more or less woody stem, and bearing a large panicle of showy white blossoms.</def>
+   </entry>
+   <entry key="Yucca borer">
+      <hw source="Webster 1913 Suppl.">Yuc"ca bor`er</hw>. <def>A California boring weevil (<spn>Yuccaborus frontalis</spn>).</def>
+      <def>A large mothlike butterfly (<spn>Megathymus yuccæ</spn>) of the family <fam>Megatimidæ</fam>, whose larva bores in yucca roots.</def>
+   </entry>
+   <entry key="Yuck">
+      <hw source="1913 Webster">Yuck</hw>
+      <pos>v. i.</pos>
+      <ety>Cf. G. <ets>jucken</ets>, D. <ets>yeuken</ets>
+         <ets>joken</ets>.  See <er>Itch</er>
+      </ety>
+      <def>To itch.</def>
+      <mark au="Grose.">Prov. Eng</mark>
+   </entry>
+   <entry key="Yuck">
+      <hw source="1913 Webster">Yuck</hw>
+      <pos>v. t.</pos>
+      <def>To scratch.</def>
+      <mark au="Wright.">Prov. Eng</mark>
+   </entry>
+   <entry key="yuck">
+      <hw source="PJC">yuck</hw>
+      <pos>interj.</pos>
+      <def>an interjection expressing repugnance or distaste.</def>
+   </entry>
+   <entry key="yuck">
+      <hw source="PJC">yuck</hw>
+      <pos>n.</pos>
+      <def>a laugh; also, a joke or gag; -- usually used in the plural, <as>as, the skit got lots of <ex>yucks</ex>
+         </as>.</def>
+      <mark>slang</mark>
+      <syn> laugh; gag; joke</syn>
+   </entry>
+   <entry key="Yuckel">
+      <hw source="1913 Webster">Yuck"el</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>Same as <er>Yockel</er>.</def>
+   </entry>
+   <entry key="yuck factor">
+      <hw source="PJC">yuck factor</hw>
+      <pos>n.</pos>
+      <def>a reaction of repugnance or distaste; -- used in discussion of acceptability of proposed new foods, medicines, etc. among potential consumers or patients.</def>
+   </entry>
+   <entry key="yucky">
+      <hw source="PJC">yuck"y</hw>
+      <pos>a.</pos>
+      <def>repugnant or distasteful.</def>
+      <mark>slang</mark>
+   </entry>
+   <entry key="Yuen">
+      <hw source="1913 Webster">Yu"en</hw>
+      <pos>n.</pos>
+      <fld>Zoöl</fld>
+      <def>The crowned gibbon (<spn>Hylobates pileatus</spn>), native of Siam, Southern China, and the Island of Hainan. It is entirely arboreal in its habits, and has very long arms. the males are dark brown or blackish, with a caplike mass of long dark hair, and usually with a white band around the face. The females are yellowish white, with a dark spot on the breast and another on the crown. Called also <altname>wooyen</altname>, and <altname>wooyen ape</altname>.</def>
+   </entry>
+   <entry key="Yufts">
+      <hw source="1913 Webster">Yufts</hw>
+      <pos>n.</pos>
+      <ety>Russ. <ets>iufte</ets>
+      </ety>
+      <def>Russia leather.</def>
+   </entry>
+   <entry key="Yug">
+      <mhw source="1913 Webster">
+         <hw>Yug</hw>
+         <hw>‖Yu"ga</hw>,</mhw>
+      <pos>n.</pos>
+      <ety>Skr. <ets>yuga</ets> an age, a yoke.  See <er>Yoke</er>
+      </ety>
+      <fld>Hindoo Cosmog</fld>
+      <def>Any one of the four ages, <ex>Krita</ex>, or <ex>Satya</ex>
+         <ex>Treta</ex>
+         <ex>Dwapara</ex>, and <ex>Kali</ex>, into which the Hindoos divide the duration or existence of the world.</def>
+   </entry>
+   <entry key="Yuke">
+      <hw source="1913 Webster">Yuke</hw>
+      <pr>ūk</pr>
+      <pos>v. i. &amp; t.</pos>
+      <def>Same as <er>Yuck</er>.</def>
+      <mark>Prov. Eng</mark>
+   </entry>
+   <entry key="Yulan">
+      <hw source="1913 Webster">Yu"lan</hw>
+      <pr>ū"lăn</pr>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>A species of Magnolia (<spn>Magnolia conspicua</spn>) with large white blossoms that open before the leaves.  See the Note under <er>Magnolia</er>.</def>
+   </entry>
+   <entry key="Yule">
+      <hw source="1913 Webster">Yule</hw>
+      <cs source="1913 Webster">
+         <mcol>
+            <col>Yule block</col>or<col>Yule log</col>
+         </mcol>
+         <cd>a large log of wood formerly put on the hearth on Christmas eve, as the foundation of the fire. It was brought in with much ceremony.</cd>
+         <col>Yule clog</col>
+         <cd>the yule log.</cd>
+         <au>Halliwell. W. Irving.</au>
+      </cs>
+      <pr>ūl</pr>
+      <pos>n.</pos>
+      <ety>OE. <ets>yol</ets>
+         <ets>ȝol</ets>, AS. <ets>geól</ets>; akin to <ets>geóla</ets> December or January, Icel. <ets>jōl</ets> Yule, <ets>Ylir</ets> the name of a winter month, Sw. <ets>jul</ets> Christmas, Dan. <ets>juul</ets>, Goth. <ets>jiuleis</ets> November or December.  Cf. <er>Jolly</er>
+      </ety>
+      <def>Christmas or Christmastide; the feast of the Nativity of our Savior.</def>
+      <q source="1913 Webster" au="Drayton.">And at each pause they kiss; was never seen such rule
+In any place but here, at bonfire, or at <ex>Yule</ex>.</q>
+   </entry>
+   <entry key="Yuletide">
+      <hw source="1913 Webster">Yule"tide`</hw>
+      <pos>n.</pos>
+      <def>Christmas time; Christmastide; the season of Christmas.</def>
+   </entry>
+   <entry key="Yuman">
+      <hw source="Webster 1913 Suppl.">Yu"man</hw>
+      <pos>a.</pos>
+      <def>Designating, or pertaining to, an important linguistic stock of North American Indians of the southwestern United States and northwestern Mexico, nearly all agriculturists and adept potters and basket makers. Their usual dwelling is the brush wikiup, and in their native state they wear little clothing. The Yuma, Maricopa, Mohave, Walapi, and Yavapai are among the chief tribes, all of fine physique.</def>
+   </entry>
+   <entry key="Yumas">
+      <hw source="1913 Webster">Yu"mas</hw>
+      <note>☞ The a wider sense, the term sometimes includes the Mohaves and other allied tribes.</note>
+      <pos>n. pl.</pos>; <sing>sing. <sing>Yuma</sing>
+      </sing>. <fld>Ethnol</fld>
+      <def>A tribe of Indians native of Arizona and the adjacent parts of Mexico and California. They are agricultural, and cultivate corn, wheat, barley, melons, etc.</def>
+   </entry>
+   <entry key="yummy">
+      <hw source="PJC">yum"my</hw>
+      <pr>yŭm"m�</pr>
+      <pos>a.</pos>
+      <def>very pleasing or attractive; especially, pleasing to the taste; delicious; scrumptious.</def>
+   </entry>
+   <entry key="Yunca">
+      <hw>Yun"ca</hw>
+      <wordforms>
+         <wf>Yun"can</wf>
+         <pr>#</pr>
+         <pos>a.</pos>
+      </wordforms>
+      <pr>y�ṉ"kȧ</pr>
+      <pos>n.</pos>
+      <def>An Indian of a linguistic stock of tribes of the Peruvian coast who had a developed agricultural civilization at the advent of the Spaniards, before which they had been conquered by the Incas. They constructed irrigation canals which are still in use, adorned their buildings with bas-reliefs and frescoes, and were skilled goldsmiths and silversmiths.</def>
+   </entry>
+   <entry key="Yunx">
+      <hw source="1913 Webster">‖Yunx</hw>
+      <pr>yŭṉks</pr>
+      <pos>n.</pos>
+      <ety>NL., fr. Gr. <grk>'i`ygx</grk> the wryneck</ety>
+      <fld>Zoöl</fld>
+      <def>A genus of birds comprising the wrynecks.</def>
+   </entry>
+   <entry key="Yupon">
+      <hw source="1913 Webster">Yu"pon</hw>
+      <pos>n.</pos>
+      <fld>Bot</fld>
+      <def>Same as <er>Yaupon</er>.</def>
+   </entry>
+   <entry key="yuppie">
+      <mhw source="PJC">
+         <hw>yup"pie</hw>
+         <hw>yup"py</hw>
+      </mhw>
+      <pr>yŭp"p�</pr>
+      <pos>n.</pos>
+      <ety>
+         <ets>y</ets>oung <ets>u</ets>rban <ets>p</ets>rofessional + <ets>-ie</ets>
+      </ety>
+      <def>an ambitious young adult, usually college-educated, living in or near a large city, with a professional career and an affluent lifestyle.  The "u" in the word is sometimes interpreted as meaning “upwardly mobile”.</def>
+   </entry>
+   <entry key="Yux">
+      <hw source="1913 Webster">Yux</hw>
+      <pos>n. &amp; v.</pos>
+      <def>See <er>Yex</er>
+         <pos>n.</pos>
+      </def>
+      <mark>Obs</mark>
+   </entry>
+   <entry key="Yvel">
+      <hw source="1913 Webster">Y"vel</hw>
+      <pos>a. &amp; adv.</pos>
+      <def>Evil; ill.</def>
+      <mark au="Chaucer.">Obs</mark>
+   </entry>
+   <entry key="Ywar">
+      <hw source="1913 Webster">Y*war"</hw>
+      <pos>a.</pos>
+      <ety>See <er>Aware</er>
+      </ety>
+      <def>Aware; wary.</def>
+      <mark>Obs</mark>
+      <q au="Piers Plowman.">Be<ex>ywar</ex>, and his way shun.</q>
+   </entry>
+   <entry key="Ywis">
+      <hw source="1913 Webster">Y*wis"</hw>
+      <note>☞ The common form <ex>iwis</ex> was often written with the prefix apart from the rest of the word and capitalized, as, <ex>I wis</ex>
+         <ex>I wisse</ex>, etc. The prefix was mistaken for the pronoun, <ex>I</ex> and <ex>wis</ex>
+         <ex>wisse</ex>, for a form of the verb <ex>wit</ex> to know.  See <er>Wis</er>, and cf. <er>Wit</er>, to know.</note>
+      <pos>adv.</pos>
+      <ety>OE. <ets>ywis</ets>
+         <ets>iwis</ets>, AS. <ets>gewis</ets> certain; akin to D. <ets>gewis</ets>, G. <ets>gewiss</ets>, and E. <ets>wit</ets> to know.  See <er>Wit</er> to know, and <er>Y-</er>
+      </ety>
+      <def>Certainly; most likely; truly; probably.</def>
+      <mark>Obs. or Archaic</mark>
+      <q source="1913 Webster" au="Chaucer.">“<ex>Ywis</ex>,” quod he, “it is full dear, I say.”</q>
+      <q source="1913 Webster" au="Ascham.">She answered me, “<ex>I-wisse</ex>, all their sport in the park is but a shadow to that pleasure that I find in Plato.”</q>
+      <q source="1913 Webster" au="Spenser.">A right good knight, and true of word <ex>ywis</ex>.</q>
+      <q source="1913 Webster" au="Longfellow.">Our ship, <ex>I wis</ex>,
+Shall be of another form than this.</q>
+   </entry>
+</entries>
