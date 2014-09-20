@@ -11,7 +11,7 @@ cd dictionary
 ruby parse.rb
 ```
 
-Will generate a JSON file for each GCIDE XML file. The format is a JSON object with each key being a unique word and the value being an object containing the definitions (array of objects - definition, part of speech, field, and sequence).
+Will generate a JSON file for each GCIDE XML file. The format is a JSON object with each key being a unique word and the value being an object containing the definitions (array of objects - definition, part of speech, field, and sequence). The JSON files total (excluding anything marked as Obs. - Obsolete) will contain 99030 unique words and 159595 definitions.
 
 ## Resources
 
