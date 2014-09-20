@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mini_portile (0.6.0)
+    minitest (5.4.1)
+    nokogiri (1.6.3.1)
+      mini_portile (= 0.6.0)
+    shoulda-context (1.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest
+  nokogiri
+  shoulda-context
