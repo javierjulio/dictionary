@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="gcide.rnc" type="compact"?>
+<entries letter="K">
+   <entry key="Kiss">
+      <hw source="1913 Webster">Kiss</hw>
+      <pr>kĭs</pr>
+      <pos>v. t.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Kissed</conjf>
+         <pr>kĭst</pr>;<pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Kissing</conjf>
+      </vmorph>
+      <ety>OE. <ets>kissen</ets>
+         <ets>cussen</ets>, AS. <ets>cyssan</ets>, fr. <ets>coss</ets> a kiss; of uncertain origin; akin to D. <ets>kus</ets>, G. <ets>kuss</ets>, Icel. <ets>koss</ets>
+      </ety>
+      <sn no="1">
+         <def>To salute with the lips, as a mark of affection, reverence, submission, forgiveness, etc.</def>
+         <q source="1913 Webster" au="Shak.">He . . . <ex>kissed</ex> her lips with such a clamorous smack,
+That at the parting all the church echoed.</q>
+      </sn>
+      <sn no="2">
+         <def>To touch gently, as if fondly or caressingly.</def>
+         <q source="1913 Webster" au="Shak.">When the sweet wind did gently <ex>kiss</ex> the trees.</q>
+      </sn>
+   </entry>
+   <entry key="Kiss">
+      <hw source="1913 Webster">Kiss</hw>
+      <cs source="1913 Webster">
+         <col>Kissing comfit</col>
+         <cd>a perfumed sugarplum to sweeten the breath.</cd>
+         <mark>Obs or Prov. End</mark>
+         <au>Shak.</au>
+      </cs>
+      <pos>v. i.</pos>
+      <sn no="1">
+         <def>To make or give salutation with the lips in token of love, respect, etc.; <as>as, <ex>kiss</ex> and make friends</as>.</def>
+      </sn>
+      <sn no="2">
+         <def>To meet; to come in contact; to touch fondly.</def>
+         <q source="1913 Webster" au="Shak.">Like fire and powder,
+Which as they <ex>kiss</ex> consume.</q>
+         <q source="1913 Webster" au="Tennyson.">Rose, rose and clematis,
+Trail and twine and clasp and <ex>kiss</ex>.</q>
+      </sn>
+   </entry>
+   <entry key="Kiss">
+      <hw source="1913 Webster">Kiss</hw>
+      <pos>n.</pos>
+      <ety>OE. <ets>kiss</ets>, derived under the influence of the verb from the older form <ets>coss</ets>, AS. <ets>coss</ets>. See <er>Kiss</er>
+         <pos>v.</pos>
+      </ety>
+      <sn no="1">
+         <def>A salutation with the lips, as a token of affection, respect, etc.; <as>as, a parting <ex>kiss</ex>; a <ex>kiss</ex> of reconciliation.</as>
+         </def>
+         <q source="1913 Webster" au="Dryden.">Last with a <ex>kiss</ex>, she took a long farewell.</q>
+         <q source="1913 Webster" au="Tennyson.">Dear as remembered <ex>kisses</ex> after death.</q>
+      </sn>
+      <sn no="2">
+         <def>A small piece of confectionery.</def>
+      </sn>
+   </entry>
+</entries>

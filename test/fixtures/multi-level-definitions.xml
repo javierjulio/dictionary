@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="gcide.rnc" type="compact"?>
+<entries>
+   <entry key="Hiss">
+      <hw source="1913 Webster">Hiss</hw>
+      <pr>hĭs</pr>. <pos>v. i.</pos>
+      <vmorph>
+         <pos>imp. &amp; p. p.</pos>
+         <conjf>Hissed</conjf>
+         <pr>hĭst</pr>; <pos>p. pr. &amp; vb. n.</pos>
+         <conjf>Hissing</conjf>
+      </vmorph>
+      <ety>AS. <ets>hysian</ets>; prob. of imitative origin; cf. LG. <ets>hissen</ets>, OD. <ets>hisschen</ets>
+      </ety>
+      <sn no="1">
+         <def>To make with the mouth a prolonged sound like that of the letter s, by driving the breath between the tongue and the teeth; to make with the mouth a sound like that made by a goose or a snake when angered; esp., to make such a sound as an expression of hatred, passion, or disapproval.</def>
+         <q source="1913 Webster" au="Ezek. xxvii. 36.">The merchants among the people shall <ex>hiss</ex> at thee.</q>
+      </sn>
+      <sn no="2">
+         <def>To make a similar noise by any means; to pass with a sibilant sound; <as>as, the arrow <ex>hissed</ex> as it flew</as>.</def>
+         <q source="1913 Webster" au="Wordsworth.">Shod with steel,
+We <ex>hissed</ex> along the polished ice.</q>
+      </sn>
+   </entry>
+   <entry key="Hiss">
+      <hw source="1913 Webster">Hiss</hw>
+      <pos>v. t.</pos>
+      <sn no="1">
+         <def>To condemn or express contempt for by hissing.</def>
+         <q source="1913 Webster" au="Shak.">If the tag-rag people did not clap him and <ex>hiss</ex> him, according as he pleased and displeased them.</q>
+         <q source="1913 Webster" au="Shak.">Malcolm.   What is the newest grief?Ros.  That of an hour's age doth <ex>hiss</ex> the speaker.</q>
+      </sn>
+      <sn no="2">
+         <def>To utter with a hissing sound.</def>
+         <q source="1913 Webster" au="Tennyson.">The long-necked geese of the world that are ever <ex>hissing</ex> dispraise.</q>
+      </sn>
+   </entry>
+   <entry key="Hiss">
+<!-- or the high-frequency noise from an electronic audio instrument -->
+<hw source="1913 Webster">Hiss</hw>
+      <pos>n.</pos>
+      <sn no="1">
+         <def>A prolonged sound like that letter s, made by forcing out the breath between the tongue and teeth, esp. as a token of disapprobation or contempt.</def>
+         <q source="1913 Webster" au="H. Sweet. ">“<ex>Hiss</ex>” implies audible friction of breath consonants.</q>
+         <q source="1913 Webster" au="Milton.">A dismal, universal <ex>hiss</ex>, the sound
+Of public scorn.</q>
+      </sn>
+      <sn no="2">
+         <def>Any sound resembling that above described</def>; as: <sd no="a">
+            <def>The noise made by a serpent.</def>
+            <q au="Milton.">But <ex>hiss</ex> for <ex>hiss</ex> returned with forked tongue.</q>
+         </sd>
+         <sd no="b">
+            <def>The note of a goose when irritated.</def>
+         </sd>
+         <sd no="c">
+            <def>The noise made by steam escaping through a narrow orifice, or by water falling on a hot stove.</def>
+            <!-- or the high-frequency noise from an electronic audio instrument -->
+</sd>
+      </sn>
+   </entry>
+</entries>

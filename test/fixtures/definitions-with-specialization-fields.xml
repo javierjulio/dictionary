@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="gcide.rnc" type="compact"?>
+<entries letter="H">
+   <entry key="Hirundo">
+      <hw source="1913 Webster">‖Hi*run"do</hw>
+      <pos>n.</pos>
+      <ety>L., swallow</ety>
+      <fld>Zoöl</fld>
+      <def>A genus of birds including the swallows and martins.</def>
+   </entry>
+   <entry key="Hispid">
+      <hw source="1913 Webster">His"pid</hw>
+      <pos>a.</pos>
+      <ety>L. <ets>hispidus</ets>: cf. F. <ets>hispide</ets>
+      </ety>
+      <sn no="1">
+         <def>Rough with bristles or minute spines.</def>
+      </sn>
+      <sn no="2">
+         <fld>Bot. &amp; Zoöl</fld>
+         <def>Beset with stiff hairs or bristles.</def>
+      </sn>
+   </entry>
+</entries>
