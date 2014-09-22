@@ -1,0 +1,1640 @@
+{
+  "x": {
+    "original_cased_word": "X",
+    "definitions": [
+      {
+        "part_of_speech": "",
+        "field": "",
+        "definition": "X, the twenty-fourth letter of the English alphabet, has three sounds; a compound nonvocal sound (that of ks), as in wax; a compound vocal sound (that of gz), as in example; and, at the beginning of a word, a simple vocal sound (that of z), as in xanthic.  See Guide to Pronunciation, §§ 217, 270, 271.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthamide": {
+    "original_cased_word": "Xanthamide",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "An amido derivative of xanthic acid obtained as a white crystalline substance, C2H5O.CS.NH2; -- called also xanthogen amide.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthate": {
+    "original_cased_word": "Xanthate",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A salt of xanthic; a xanthogenate.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthelasma": {
+    "original_cased_word": "Xanthelasma",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Med",
+        "definition": "See Xanthoma.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthian": {
+    "original_cased_word": "Xanthian",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "",
+        "definition": "Of or pertaining to Xanthus, an ancient town on Asia Minor; -- applied especially to certain marbles found near that place, and now in the British Museum.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthic": {
+    "original_cased_word": "Xanthic",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "",
+        "definition": "Tending toward a yellow color, or to one of those colors, green being excepted, in which yellow is a constituent, as scarlet, orange, etc.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "adjective",
+        "field": "Chem",
+        "definition": "Possessing, imparting, or producing a yellow color; as, xanthic acid.",
+        "sequence": 2
+      },
+      {
+        "part_of_speech": "adjective",
+        "field": "Chem",
+        "definition": "Of or pertaining to xanthic acid, or its compounds; xanthogenic.",
+        "sequence": 3
+      },
+      {
+        "part_of_speech": "adjective",
+        "field": "Chem",
+        "definition": "Of or pertaining to xanthin.",
+        "sequence": 4
+      }
+    ]
+  },
+  "xanthide": {
+    "original_cased_word": "Xanthide",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A compound or derivative of xanthogen.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthidium": {
+    "original_cased_word": "Xanthidium",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Bot",
+        "definition": "A genus of minute unicellular algæ of the desmids. These algæ have a rounded shape and are armed with glochidiate or branched aculei. Several species occur in ditches, and others are found fossil in flint or hornstone.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthin": {
+    "original_cased_word": "Xanthin",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "same as xanthine.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A yellow insoluble coloring matter extracted from yellow flowers; specifically, the coloring matter of madder.",
+        "sequence": 2
+      }
+    ]
+  },
+  "xanthine": {
+    "original_cased_word": "Xanthine",
+    "definitions": [
+      {
+        "part_of_speech": "",
+        "field": "Physiol. Chem",
+        "definition": "A type of purine obtainable as a white microcrystalline powder, C5H4O2N4, present in muscle tissue, in the liver, spleen, pancreas, and other organs, and also in urine (in small quantities) and some urinary calculi, and in the juices of certain plants; -- so called because it leaves a yellow residue when evaporated to dryness with nitric acid. It is also present in guano.  Xanthine is closely related to uric acid.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthinine": {
+    "original_cased_word": "Xanthinine",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A complex nitrogenous substance related to urea and uric acid, produced as a white powder; -- so called because it forms yellow salts, and because its solution forms a blue fluorescence like quinine.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthium": {
+    "original_cased_word": "Xanthium",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Bot",
+        "definition": "A genus of composite plants in which the scales of the involucre are united so as to form a kind of bur; cocklebur; clotbur.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xantho-": {
+    "original_cased_word": "Xantho-",
+    "definitions": [
+      {
+        "part_of_speech": "",
+        "field": "",
+        "definition": "A combining form from Gr. xanqo`s yellow; as in xanthocobaltic salts. Used also adjectively in chemistry.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthocarpous": {
+    "original_cased_word": "Xanthocarpous",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Bot",
+        "definition": "Having yellow fruit.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthochroi": {
+    "original_cased_word": "Xanthochroi",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Ethnol",
+        "definition": "A division of the Caucasian races, comprising the lighter-colored members.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthochroic": {
+    "original_cased_word": "Xanthochroic",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Ethnol",
+        "definition": "Having a yellowish or fair complexion; of or pertaining to the Xanthochroi.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthochroid": {
+    "original_cased_word": "Xanthochroid",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Ethnol",
+        "definition": "Having a yellowish or fair complexion.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthochroism": {
+    "original_cased_word": "Xanthochroism",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "Abnormal coloration of feathers in which yellow replaces the normal color, as in certain parrots. It is commonly due to lack of the dark pigment which with yellow forms green.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthodontous": {
+    "original_cased_word": "Xanthodontous",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "",
+        "definition": "Having yellow teeth.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthogen": {
+    "original_cased_word": "Xanthogen",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "The hypothetical radical supposed to be characteristic of xanthic acid.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "Persulphocyanogen.",
+        "sequence": 2
+      }
+    ]
+  },
+  "xanthogenate": {
+    "original_cased_word": "Xanthogenate",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A salt of xanthic acid.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthogenic": {
+    "original_cased_word": "Xanthogenic",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Chem",
+        "definition": "Producing a yellow color or compound; xanthic.  See Xanthic acid, under Xanthic.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthoma": {
+    "original_cased_word": "Xanthoma",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Med",
+        "definition": "A skin disease marked by the development or irregular yellowish patches upon the skin, especially upon the eyelids; -- called also xanthelasma.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthomatous": {
+    "original_cased_word": "Xanthomatous",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Med",
+        "definition": "Of or pertaining to xanthoma.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthomelanous": {
+    "original_cased_word": "Xanthomelanous",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Ethnol",
+        "definition": "Of or pertaining to the lighter division of the Melanochroi, or those races having an olive or yellow complexion and black hair.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthophane": {
+    "original_cased_word": "Xanthophane",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Physiol",
+        "definition": "The yellow pigment present in the inner segments of the retina in animals.  See Chromophane.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthophyll": {
+    "original_cased_word": "Xanthophyll",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Bot",
+        "definition": "A yellow coloring matter found in yellow autumn leaves, and also produced artificially from chlorophyll; -- formerly called also phylloxanthin.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthopous": {
+    "original_cased_word": "Xanthopous",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Bot",
+        "definition": "Having a yellow stipe, or stem.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthoproteic": {
+    "original_cased_word": "Xanthoproteic",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Physiol. Chem",
+        "definition": "Pertaining to, or derived from, xanthoprotein; showing the characters of xanthoprotein; as, xanthoproteic acid; the xanthoproteic reaction for albumin.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthoprotein": {
+    "original_cased_word": "Xanthoprotein",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Physiol. Chem",
+        "definition": "A yellow acid substance formed by the action of hot nitric acid on albuminous or proteid matter. It is changed to a deep orange-yellow color by the addition of ammonia.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthopuccine": {
+    "original_cased_word": "Xanthopuccine",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "One of three alkaloids found in the root of the yellow puccoon (Hydrastis Canadensis). It is a yellow crystalline substance, and resembles berberine.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthorhamnin": {
+    "original_cased_word": "Xanthorhamnin",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A glucoside extracted from Persian berries as a yellow crystalline powder, used as a dyestuff.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthorhiza": {
+    "original_cased_word": "Xanthorhiza",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Bot",
+        "definition": "A genus of shrubby ranunculaceous plants of North America, including only the species Xanthorhiza apiifolia, which has roots of a deep yellow color; yellowroot. The bark is intensely bitter, and is sometimes used as a tonic.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthorhœa": {
+    "original_cased_word": "Xanthorhœa",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Bot",
+        "definition": "A genus of endogenous plants, native to Australia, having a thick, sometimes arborescent, stem, and long grasslike leaves.  See Grass tree.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthose": {
+    "original_cased_word": "Xanthose",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "An orange-yellow substance found in pigment spots of certain crabs.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthosis": {
+    "original_cased_word": "Xanthosis",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Med",
+        "definition": "The yellow discoloration often observed in cancerous tumors.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthospermous": {
+    "original_cased_word": "Xanthospermous",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Bot",
+        "definition": "Having yellow seeds.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthous": {
+    "original_cased_word": "Xanthous",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "",
+        "definition": "Yellow; specifically Ethnol, of or pertaining to those races of man which have yellowish, red, auburn, or brown hair.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthoxylene": {
+    "original_cased_word": "Xanthoxylene",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A liquid hydrocarbon of the terpene series extracted from the seeds of a Japanese prickly ash (Xanthoxylum pipertium) as an aromatic oil.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xanthoxylum": {
+    "original_cased_word": "Xanthoxylum",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Bot",
+        "definition": "A genus of prickly shrubs or small trees, the bark and rots of which are of a deep yellow color; prickly ash.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xebec": {
+    "original_cased_word": "Xebec",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Naut",
+        "definition": "A small three-masted vessel, with projecting bow stern and convex decks, used in the Mediterranean for transporting merchandise, etc. It carries large square sails, or both. Xebecs were formerly armed and used by corsairs.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xeme": {
+    "original_cased_word": "Xeme",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Zoöl",
+        "definition": "An Arctic fork-tailed gull (Xema Sabinii).",
+        "sequence": 1
+      }
+    ]
+  },
+  "xenelasia": {
+    "original_cased_word": "Xenelasia",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Gr. Antiq",
+        "definition": "A Spartan institution which prohibited strangers from residing in Sparta without permission, its object probably being to preserve the national simplicity of manners.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xenium": {
+    "original_cased_word": "Xenium",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Class. Antiq",
+        "definition": "A present given to a guest or stranger, or to a foreign ambassador.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xenodochium": {
+    "original_cased_word": "Xenodochium",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Class. Antiq",
+        "definition": "A house for the reception of strangers.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Class. Antiq",
+        "definition": "In the Middle Ages, a room in a monastery for the reception and entertainment of strangers and pilgrims, and for the relief of paupers. [Called also Xenodocheion",
+        "sequence": 2
+      }
+    ]
+  },
+  "xenodochy": {
+    "original_cased_word": "Xenodochy",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "Reception of strangers; hospitality.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xenon": {
+    "original_cased_word": "Xenon",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A very heavy, inert gaseous element of the noble gas group, occurring in the atmosphere in the proportion of one volume is about 20 millions. It was discovered by Ramsay and Travers in 1898. It can be condensed to a liquid boiling at -107° C., and to a solid which melts at -111.9° C. Symbol Xeformely also X); atomic number 54; atomic weight 131.3.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xenogamy": {
+    "original_cased_word": "Xenogamy",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Bot",
+        "definition": "Cross fertilization.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xenogenesis": {
+    "original_cased_word": "Xenogenesis",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Biol",
+        "definition": "Same as Heterogenesis.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Biol",
+        "definition": "The fancied production of an organism of one kind by an organism of another.",
+        "sequence": 2
+      }
+    ]
+  },
+  "xenogenetic": {
+    "original_cased_word": "Xenogenetic",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Biol",
+        "definition": "Of or pertaining to xenogenesis; as, the xenogenetic origin of microzymes.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xenomania": {
+    "original_cased_word": "Xenomania",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "A mania for, or an inordinate attachment to, foreign customs, institutions, manners, fashions, etc.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xenomi": {
+    "original_cased_word": "Xenomi",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Zoöl",
+        "definition": "A suborder of soft-rayed fresh-water fishes of which the blackfish of Alaska (Dallia pectoralis) is the type.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xenopterygii": {
+    "original_cased_word": "Xenopterygii",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Zoöl",
+        "definition": "A suborder of fishes including Gobiesox and allied genera. These fishes have soft-rayed fins, and a ventral sucker supported in front by the pectoral fins. They are destitute of scales.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xenotime": {
+    "original_cased_word": "Xenotime",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Min",
+        "definition": "A native phosphate of yttrium occurring in yellowish-brown tetragonal crystals.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xenurine": {
+    "original_cased_word": "Xenurine",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Zoöl",
+        "definition": "A cabassou.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xenyl": {
+    "original_cased_word": "Xenyl",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "The radical characteristic of xenylic compounds.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xenylic": {
+    "original_cased_word": "Xenylic",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Chem",
+        "definition": "Pertaining to, derived from, designating, certain amido compounds obtained by reducing certain nitro derivatives of diphenyl.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xeraphim": {
+    "original_cased_word": "Xeraphim",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "An old money of account in Bombay, equal to three fifths of a rupee.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xeres": {
+    "original_cased_word": "Xeres",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "Sherry.  See Sherry.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xerif": {
+    "original_cased_word": "Xerif",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "A shereef.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xeriff": {
+    "original_cased_word": "Xeriff",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "A gold coin formerly current in Egypt and Turkey, of the value of about  9s. 6d., or about $2.30; -- also, in Morocco, a ducat.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xeroderma": {
+    "original_cased_word": "Xeroderma",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Med",
+        "definition": "Ichthyosis.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Med",
+        "definition": "A skin disease characterized by the presence of numerous small pigmented spots resembling freckles, with which are subsequently mingled spots of atrophied skin.",
+        "sequence": 2
+      }
+    ]
+  },
+  "xeronate": {
+    "original_cased_word": "Xeronate",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A salt of xeronic acid.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xeronic": {
+    "original_cased_word": "Xeronic",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Chem",
+        "definition": "Pertaining to, or designating, an acid, C8H12O4, related to fumaric acid, and obtained from citraconic acid as an oily substance having a bittersweet taste; -- so called from its tendency to form its anhydride.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xerophagy": {
+    "original_cased_word": "Xerophagy",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "Among the primitive Christians, the living on a diet of dry food in Lent and on other fasts.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xerophilous": {
+    "original_cased_word": "Xerophilous",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Bot",
+        "definition": "Drought-loving; able withstand the absence or lack of moisture.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xerophthalmia": {
+    "original_cased_word": "Xerophthalmia",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Med",
+        "definition": "An abnormal dryness of the eyeball produced usually by long-continued inflammation and subsequent atrophy of the conjunctiva.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xerophthalmy": {
+    "original_cased_word": "Xerophthalmy",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Med",
+        "definition": "Xerophthalmia.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xiphias": {
+    "original_cased_word": "Xiphias",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Zoöl",
+        "definition": "A genus of fishes comprising the common swordfish.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Anat",
+        "definition": "The constellation Dorado.",
+        "sequence": 2
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Anat",
+        "definition": "A comet shaped like a sword",
+        "sequence": 3
+      }
+    ]
+  },
+  "xiphidium": {
+    "original_cased_word": "Xiphidium",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Bot",
+        "definition": "A genus of plants of the order Hæmodraceæ, having two-ranked, sword-shaped leaves.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xiphioid": {
+    "original_cased_word": "Xiphioid",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Zoöl",
+        "definition": "Of, pertaining to, or resembling, a cetacean of the genus Xiphius or family Xiphiidæ.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xiphiplastron": {
+    "original_cased_word": "Xiphiplastron",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Anat",
+        "definition": "The posterior, or fourth, lateral plate in the plastron of turtles; -- called also xiphisternum.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xiphisternum": {
+    "original_cased_word": "Xiphisternum",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Anat",
+        "definition": "The posterior segment, or extremity, of the sternum; -- sometimes called metasternum\n         ensiform cartilage\n         ensiform process, or xiphoid process.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Anat",
+        "definition": "The xiphiplastron.",
+        "sequence": 2
+      }
+    ]
+  },
+  "xiphius": {
+    "original_cased_word": "Xiphius",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Zoöl",
+        "definition": "A genus of cetaceans having a long, pointed, bony beak, usually two tusklike teeth in the lower jaw, but no teeth in the upper jaw.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xiphodon": {
+    "original_cased_word": "Xiphodon",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Paleon",
+        "definition": "An extinct genus of artiodactylous mammals found in the European Tertiary formations. It had slender legs, didactylous feet, and small canine teeth.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xiphoid": {
+    "original_cased_word": "Xiphoid",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Anat",
+        "definition": "Like a sword; ensiform.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "adjective",
+        "field": "Anat",
+        "definition": "Of or pertaining to the xiphoid process; xiphoidian.",
+        "sequence": 2
+      }
+    ]
+  },
+  "xiphoidian": {
+    "original_cased_word": "Xiphoidian",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Anat",
+        "definition": "Xiphoid.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xiphophyllous": {
+    "original_cased_word": "Xiphophyllous",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Bot",
+        "definition": "Having sword-shaped leaves.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xiphosura": {
+    "original_cased_word": "Xiphosura",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "See Xiphura.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xiphura": {
+    "original_cased_word": "Xiphura",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Zoöl",
+        "definition": "Same as Limuloidea. Called also Xiphosura.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xp": {
+    "original_cased_word": "XP",
+    "definitions": [
+      {
+        "part_of_speech": "",
+        "field": "",
+        "definition": "The first two letters of the Greek word XRISTOS, Christ; -- an abbreviation used with the letters separate or, oftener, in a monogram, often inclosed in a circle, as a symbol or emblem of Christ. It use as an emblem was introduced by Constantine the Great, whence it is known as the Constantinian symbol, or monogram. See Labarum.",
+        "sequence": 1
+      }
+    ]
+  },
+  "x-rated": {
+    "original_cased_word": "x-rated",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "",
+        "definition": "having a rating of X; not suitable for children; broadly, obscene or sexually explicit.",
+        "sequence": 1
+      }
+    ]
+  },
+  "x ray": {
+    "original_cased_word": "X ray",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Physics",
+        "definition": "originally, any of the rays produced when cathode rays strike upon surface of a solid (as a copper target or the wall of the vacuum tube); now defined as electromagnetic radiation with a wavelength of 0.1 to 10 nanometers. X-rays are noted for their penetration of many opaque substances, as wood and flesh, their action on photographic plates, and their fluorescent effects. They were called X rays by their discoverer, W. K. Röntgen, but were also referred to for some time as Roentgen rays. The term X-ray has become the most common designation.  They also ionize gases, but cannot be reflected, or polarized, or deflected by a magnetic field.  They are used in examining objects opaque to visible light, as for imaging bones or other structures inside the human body, and for detecting flaws in metal objects, such as in welds.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "verb",
+        "field": "",
+        "definition": "to examine by means of X-rays; to irradiate with X-rays.",
+        "sequence": 1
+      }
+    ]
+  },
+  "x-ray astronomy": {
+    "original_cased_word": "X-ray astronomy",
+    "definitions": [
+      {
+        "part_of_speech": "",
+        "field": "",
+        "definition": "the branch of astronomy dealing with the study of astronomical objects which emit X-rays, and the methods used to detect such objects.",
+        "sequence": 1
+      }
+    ]
+  },
+  "x-ray tube": {
+    "original_cased_word": "X-ray tube",
+    "definitions": [
+      {
+        "part_of_speech": "",
+        "field": "Physics",
+        "definition": "A vacuum tube suitable for producing Röntgen rays.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylamide": {
+    "original_cased_word": "Xylamide",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "An acid amide derivative of xylic acid, obtained as a white crystalline substance.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylan": {
+    "original_cased_word": "Xylan",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A gummy substance of the pentosan class, present in woody tissue, and yielding xylose on hydrolysis; wood gum.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylanthrax": {
+    "original_cased_word": "Xylanthrax",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "Wood coal, or charcoal; -- so called in distinction from mineral coal.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylate": {
+    "original_cased_word": "Xylate",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A salt of xylic acid.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylem": {
+    "original_cased_word": "Xylem",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Bot",
+        "definition": "That portion of a fibrovascular bundle which has developed, or will develop, into wood cells; -- distinguished from phloëm.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylene": {
+    "original_cased_word": "Xylene",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "Any of a group of three metameric hydrocarbons of the aromatic series, found in coal and wood tar, and so named because found in crude wood spirit. They are colorless, oily, inflammable liquids, C6H4.(CH3)2, being dimethyl benzenes, and are called respectively orthoxylene\n         metaxylene, and paraxylene. Called also xylol.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylenol": {
+    "original_cased_word": "Xylenol",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "Any one of six metameric phenol derivatives of xylene, obtained as crystalline substances, CH3)2.C6H3.OH.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xyletic": {
+    "original_cased_word": "Xyletic",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Chem",
+        "definition": "Pertaining to, or designating, a complex acid related to mesitylenic acid, obtained as a white crystalline substance by the action of sodium and carbon dioxide on crude xylenol.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylic": {
+    "original_cased_word": "Xylic",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Chem",
+        "definition": "Pertaining to, derived from, or related to, xylene; specifically, designating any one of several metameric acids produced by the partial oxidation of mesitylene and pseudo-cumene.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylidic": {
+    "original_cased_word": "Xylidic",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Chem",
+        "definition": "Pertaining to, or designating, either one of two distinct acids which are derived from xylic acid and related compounds, and are metameric with uvitic acid.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylidine": {
+    "original_cased_word": "Xylidine",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "Any one of six metameric hydrocarbons, CH3)2.C6H3.NH2, resembling aniline, and related to xylene. They are liquids, or easily fusible crystalline substances, of which three are derived from metaxylene, two from orthoxylene, and one from paraxylene. They are called the amido xylenes.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylindein": {
+    "original_cased_word": "Xylindein",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A green or blue pigment produced by Peziza in certain kinds of decayed wood, as the beech, oak, birch, etc., and extracted as an amorphous powder resembling indigo.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylite": {
+    "original_cased_word": "Xylite",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A liquid hydrocarbon found in crude wood spirits.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylitone": {
+    "original_cased_word": "Xylitone",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A yellow oil having a geraniumlike odor, produced as a side product in making phorone; -- called also xylite oil.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylo-": {
+    "original_cased_word": "Xylo-",
+    "definitions": [
+      {
+        "part_of_speech": "",
+        "field": "",
+        "definition": "A combining form from Gr. xy`lon wood; as in xylogen, xylograph.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylobalsamum": {
+    "original_cased_word": "Xylobalsamum",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Med",
+        "definition": "The dried twigs of a Syrian tree (Balsamodendron Gileadense).",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylocarpous": {
+    "original_cased_word": "Xylocarpous",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Bot",
+        "definition": "Bearing fruit which becomes hard or woody.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylocopa": {
+    "original_cased_word": "Xylocopa",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Zoöl",
+        "definition": "A genus of hymenopterous insects including the carpenter.  See Carpenter bee, under Carpenter.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylogen": {
+    "original_cased_word": "Xylogen",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Bot",
+        "definition": "Nascent wood; wood cells in a forming state.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Bot",
+        "definition": "Lignin.",
+        "sequence": 2
+      }
+    ]
+  },
+  "xylograph": {
+    "original_cased_word": "Xylograph",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "An engraving on wood, or the impression from such an engraving; a print by xylography.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylographer": {
+    "original_cased_word": "Xylographer",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "One who practices xylography.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylographic": {
+    "original_cased_word": "Xylographic",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "",
+        "definition": "Of or pertaining to xylography, or wood engraving.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylography": {
+    "original_cased_word": "Xylography",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "The art of engraving on wood.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "The art of making prints from the natural grain of wood.",
+        "sequence": 2
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "A method pf printing in colors upon wood for purposes of house decoration.",
+        "sequence": 3
+      }
+    ]
+  },
+  "xyloid": {
+    "original_cased_word": "Xyloid",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "",
+        "definition": "Resembling wood; having the nature of wood.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xyloidin": {
+    "original_cased_word": "Xyloidin",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A substance resembling pyroxylin, obtained by the action of nitric acid on starch; -- called also nitramidin.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylol": {
+    "original_cased_word": "Xylol",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "Same as Xylene.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylology": {
+    "original_cased_word": "Xylology",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "The branch of dendrology treating of the gross and minute structure of wood.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylonite": {
+    "original_cased_word": "Xylonite",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "See Zylonite.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylophaga": {
+    "original_cased_word": "Xylophaga",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Zoöl",
+        "definition": "A genus of marine bivalves which bore holes in wood. They are allied to Pholas.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylophagan": {
+    "original_cased_word": "Xylophagan",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Zoöl",
+        "definition": "One of a tribe of beetles whose larvæ bore or live in wood.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Zoöl",
+        "definition": "Any species of Xylophaga.",
+        "sequence": 2
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Zoöl",
+        "definition": "Any one of the Xylophagides.",
+        "sequence": 3
+      }
+    ]
+  },
+  "xylophagides": {
+    "original_cased_word": "Xylophagides",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Zoöl",
+        "definition": "A tribe or family of dipterous flies whose larvæ live in decayed wood. Some of the tropical species are very large.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylophagous": {
+    "original_cased_word": "Xylophagous",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Zoöl",
+        "definition": "Eating, boring in, or destroying, wood; -- said especially of certain insect larvæ, crustaceans, and mollusks.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "adjective",
+        "field": "Zoöl",
+        "definition": "Of or pertaining to the genus Xylophaga.",
+        "sequence": 2
+      }
+    ]
+  },
+  "xylophilan": {
+    "original_cased_word": "Xylophilan",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Zoöl",
+        "definition": "One of a tribe of beetles (Xylophili) whose larvæ live on decayed wood.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylophilous": {
+    "original_cased_word": "Xylophilous",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Zoöl",
+        "definition": "Of or pertaining to the xylophilans.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylophone": {
+    "original_cased_word": "Xylophone",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Mus",
+        "definition": "An instrument common among the Russians, Poles, and Tartars, consisting of a series of strips of wood or glass graduated in length to the musical scale, resting on belts of straw, and struck with two small hammers. Called in Germany strohfiedel, or straw fiddle.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "An instrument to determine the vibrative properties of different kinds of wood.",
+        "sequence": 2
+      }
+    ]
+  },
+  "xyloplastic": {
+    "original_cased_word": "Xyloplastic",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Technol",
+        "definition": "Formed of wood pulp by molds; relating to casts made of wood pulp in molds.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylopyrography": {
+    "original_cased_word": "Xylopyrography",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "The art or practice of burning pictures on wood with a hot iron; -- called also poker painting.  See Poker picture, under Poker.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xyloquinone": {
+    "original_cased_word": "Xyloquinone",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "Any one of a group of quinone compounds obtained respectively by the oxidation of certain xylidine compounds. In general they are yellow crystalline substances.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylorcin": {
+    "original_cased_word": "Xylorcin",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A derivative of xylene obtained as a white crystalline substance which on exposure in the air becomes red; -- called also betaorcin.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylose": {
+    "original_cased_word": "Xylose",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "An unfermentable sugar of the pentose class, C5H10O5, formed by the hydrolysis of xylan; wood sugar.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylostein": {
+    "original_cased_word": "Xylostein",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "A glucoside found in the poisonous berries of a species of honeysuckle (Lonicera xylosteum), and extracted as a bitter, white, crystalline substance.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylotile": {
+    "original_cased_word": "Xylotile",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "Same as Parkesine.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylotomist": {
+    "original_cased_word": "Xylotomist",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "One versed or engaged in xylotomy.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylotomous": {
+    "original_cased_word": "Xylotomous",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Zoöl",
+        "definition": "Capable of boring or cutting wood; -- said of many insects.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylotomy": {
+    "original_cased_word": "Xylotomy",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "Art of preparing sections (transverse, tangential, or radial) of wood, esp. by means of a microtome, for microscopic examination.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylotrya": {
+    "original_cased_word": "Xylotrya",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Zoöl",
+        "definition": "A genus of marine bivalves closely allied to Teredo, and equally destructive to timber. One species (Xylotrya fimbriata) is very common on the Atlantic coast of the United States.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylyl": {
+    "original_cased_word": "Xylyl",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "Any one of three metameric radicals which are characteristic respectively of the three xylenes.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xylylene": {
+    "original_cased_word": "Xylylene",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Chem",
+        "definition": "Any one of three metameric radicals, CH2.C6H4.CH2, derived respectively from the three xylenes. Often used adjectively; as, xylylene alcohol.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xyridaceous": {
+    "original_cased_word": "Xyridaceous",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Bot",
+        "definition": "Of or pertaining to a natural order (Xyrideæ) of endogenous plants, of which Xyris is the type.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xyris": {
+    "original_cased_word": "Xyris",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Bot",
+        "definition": "A genus of endogenous herbs with grassy leaves and small yellow flowers in short, scaly-bracted spikes; yellow-eyed grass. There are about seventeen species in the Atlantic United States.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xyst": {
+    "original_cased_word": "Xyst",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Anc. Arch",
+        "definition": "A long and open portico, for athletic exercises, as wrestling, running, etc., for use in winter or in stormy weather.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xystarch": {
+    "original_cased_word": "Xystarch",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Gr. Antiq",
+        "definition": "An office� having the superintendence of the xyst.",
+        "sequence": 1
+      }
+    ]
+  },
+  "xyster": {
+    "original_cased_word": "Xyster",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Surg",
+        "definition": "An instrument for scraping bones.",
+        "sequence": 1
+      }
+    ]
+  }
+}
