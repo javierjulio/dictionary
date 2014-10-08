@@ -1,4 +1,5 @@
 require 'nokogiri'
+require 'active_support/inflector'
 
 class Parser
 
@@ -25,6 +26,10 @@ class Parser
     ''
   end
 
+  def transliterate(string)
+    ActiveSupport::Inflector.transliterate(string)
+  end
+
   def parse
     result = Hash.new { |hash, key| hash[key] = { original_cased_word: '', definitions: [] } }
     
@@ -39,7 +44,7 @@ class Parser
     return if entry.xpath('./mark[1]').text.match(/(?<=^|\s|\.)Obs$/) # Obsolete
     
     original_cased_word = entry.attr('key').strip
-    word = original_cased_word.downcase.to_sym
+    word = original_cased_word.downcase
     
     part_of_speech = entry.xpath('./pos[1]').text.strip
     field = entry.xpath('./fld[1]').text.strip
@@ -48,6 +53,7 @@ class Parser
     part_of_speech = unabbreviate_part_of_speech(part_of_speech)
     
     result[word][:original_cased_word] = original_cased_word
+    result[word][:transliterated_word] = transliterate(word)
     
     sequence = 0
     
