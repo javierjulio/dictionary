@@ -1,0 +1,140 @@
+{
+  "artifact": {
+    "original_cased_word": "Artifact",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "Archæol",
+        "definition": "A product of human workmanship; -- applied esp. to the simpler products of aboriginal art as distinguished from natural objects.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "Any product of human workmanship; -- applied both to objects made for practical purposes as well as works of art.  It is contrasted to natural object, i.e. anything produced by natural forces without the intervention of man.",
+        "sequence": 2
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Biol",
+        "definition": "A structure or appearance in protoplasm due to death, method of preparation of specimens, or the use of reagents, and not present during life.",
+        "sequence": 3
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Technology",
+        "definition": "an object, oservation, phenomenon, or result arising from hidden or unexpected causes extraneous to the subject of a study, and therefore spurious and having potential to lead one to an erroneous conclusion, or to invalidate the study.  In experimental science, artifacts may arise due to inadvertant contamination of equipment, faulty experimental design or faulty analysis, or unexpected effects of agencies not known to affect the system under study.",
+        "sequence": 4
+      }
+    ],
+    "transliterated_word": "artifact"
+  },
+  "homœomeria": {
+    "original_cased_word": "Homœomeria",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "The state or quality of being homogeneous in elements or first principles; likeness or identity of parts.",
+        "sequence": 1
+      }
+    ],
+    "transliterated_word": "homoeomeria"
+  },
+  "deduction": {
+    "original_cased_word": "Deduction",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "Act or process of deducing or inferring.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "Act of deducting or taking away; subtraction; as, the deduction of the subtrahend from the minuend.",
+        "sequence": 2
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "That which is deduced or drawn from premises by a process of reasoning; an inference; a conclusion.",
+        "sequence": 3
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "That which is or may be deducted; the part taken away; abatement; as, a deduction from the yearly rent in compensation for services; deductions from income in calculating income taxes.",
+        "sequence": 4
+      }
+    ],
+    "transliterated_word": "deduction"
+  },
+  "reduction": {
+    "original_cased_word": "Reduction",
+    "definitions": [
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "The act of reducing, or state of being reduced; conversion to a given state or condition; diminution; conquest; as, the reduction of a body to powder; the reduction of things to order; the reduction of the expenses of government; the reduction of a rebellious province.",
+        "sequence": 1
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Arith. & Alg",
+        "definition": "The act or process of reducing. See Reduce\n            v. t., 6. and To reduce an equation\n            To reduce an expression, under Reduce\n            v. t.",
+        "sequence": 2
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Astron",
+        "definition": "The correction of observations for known errors of instruments, etc.",
+        "sequence": 3
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Astron",
+        "definition": "The preparation of the facts and measurements of observations in order to deduce a general result.",
+        "sequence": 4
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "",
+        "definition": "The process of making a copy of something, as a figure, design, or draught, on a smaller scale, preserving the proper proportions.",
+        "sequence": 5
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Logic",
+        "definition": "The bringing of a syllogism in one of the so-called imperfect modes into a mode in the first figure.",
+        "sequence": 6
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Chem. & Metal",
+        "definition": "The act, process, or result of reducing{7}; as, the reduction of iron from its ores; the reduction of an aldehyde into an alcohol.",
+        "sequence": 7
+      },
+      {
+        "part_of_speech": "noun",
+        "field": "Med",
+        "definition": "The operation of restoring a dislocated or fractured part to its former place.",
+        "sequence": 8
+      }
+    ],
+    "transliterated_word": "reduction"
+  },
+  "aëneous": {
+    "original_cased_word": "Aëneous",
+    "definitions": [
+      {
+        "part_of_speech": "adjective",
+        "field": "Zoöl",
+        "definition": "Colored like bronze.",
+        "sequence": 1
+      }
+    ],
+    "transliterated_word": "aeneous"
+  }
+}
