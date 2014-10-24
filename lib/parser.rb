@@ -30,8 +30,14 @@ class Parser
     ActiveSupport::Inflector.transliterate(string)
   end
 
+  def clean_inner_whitespace(string)
+    string
+      .gsub(/\s{0,}\n{1,}\s{0,}(?![A-Za-z0-9])/, '')  # "test \n   . Test" -> "test. Test"
+      .gsub(/\s{0,}\n{1,}\s{0,}(?=[A-Za-z0-9])/, ' ') # "test \ntest" -> "test test"
+  end
+
   def parse
-    result = Hash.new { |hash, key| hash[key] = { original_cased_word: '', definitions: [] } }
+    result = Hash.new { |hash, key| hash[key] = { original_cased_word: '', transliterated_word: '', definitions: [] } }
     
     @entries.each do |entry|
       parse_entry(entry, result)
@@ -46,23 +52,21 @@ class Parser
     original_cased_word = entry.attr('key').strip
     word = original_cased_word.downcase
     
-    part_of_speech = entry.xpath('./pos[1]').text.strip
-    field = entry.xpath('./fld[1]').text.strip
-    definitions = entry.xpath('./def').map { |d| d.text.strip }.delete_if { |d| d.empty? }
-
-    part_of_speech = unabbreviate_part_of_speech(part_of_speech)
-    
     result[word][:original_cased_word] = original_cased_word
     result[word][:transliterated_word] = transliterate(word)
     
+    part_of_speech = unabbreviate_part_of_speech(entry.xpath('./pos[1]').text.strip)
+    field = clean_inner_whitespace(entry.xpath('./fld[1]').text.strip)
     sequence = 0
+    
+    definitions = entry.xpath('./def').map { |d| d.text.strip }.delete_if { |d| d.empty? }
     
     definitions.each_with_index do |definition, index|
       sequence = sequence + 1
       result[word][:definitions] << {
         part_of_speech: part_of_speech,
         field: field,
-        definition: definition,
+        definition: clean_inner_whitespace(definition),
         sequence: sequence
       }
     end
@@ -82,7 +86,7 @@ class Parser
         result[word][:definitions] << {
           part_of_speech: part_of_speech,
           field: field,
-          definition: definition,
+          definition: clean_inner_whitespace(definition),
           sequence: sequence
         }
       end

@@ -1,6 +1,7 @@
 {
   "artifact": {
     "original_cased_word": "Artifact",
+    "transliterated_word": "artifact",
     "definitions": [
       {
         "part_of_speech": "noun",
@@ -26,11 +27,11 @@
         "definition": "an object, oservation, phenomenon, or result arising from hidden or unexpected causes extraneous to the subject of a study, and therefore spurious and having potential to lead one to an erroneous conclusion, or to invalidate the study.  In experimental science, artifacts may arise due to inadvertant contamination of equipment, faulty experimental design or faulty analysis, or unexpected effects of agencies not known to affect the system under study.",
         "sequence": 4
       }
-    ],
-    "transliterated_word": "artifact"
+    ]
   },
   "homœomeria": {
     "original_cased_word": "Homœomeria",
+    "transliterated_word": "homoeomeria",
     "definitions": [
       {
         "part_of_speech": "noun",
@@ -38,11 +39,11 @@
         "definition": "The state or quality of being homogeneous in elements or first principles; likeness or identity of parts.",
         "sequence": 1
       }
-    ],
-    "transliterated_word": "homoeomeria"
+    ]
   },
   "deduction": {
     "original_cased_word": "Deduction",
+    "transliterated_word": "deduction",
     "definitions": [
       {
         "part_of_speech": "noun",
@@ -68,11 +69,11 @@
         "definition": "That which is or may be deducted; the part taken away; abatement; as, a deduction from the yearly rent in compensation for services; deductions from income in calculating income taxes.",
         "sequence": 4
       }
-    ],
-    "transliterated_word": "deduction"
+    ]
   },
   "reduction": {
     "original_cased_word": "Reduction",
+    "transliterated_word": "reduction",
     "definitions": [
       {
         "part_of_speech": "noun",
@@ -83,7 +84,7 @@
       {
         "part_of_speech": "noun",
         "field": "Arith. & Alg",
-        "definition": "The act or process of reducing. See Reduce\n            v. t., 6. and To reduce an equation\n            To reduce an expression, under Reduce\n            v. t.",
+        "definition": "The act or process of reducing. See Reduce v. t., 6. and To reduce an equation To reduce an expression, under Reduce v. t.",
         "sequence": 2
       },
       {
@@ -122,11 +123,11 @@
         "definition": "The operation of restoring a dislocated or fractured part to its former place.",
         "sequence": 8
       }
-    ],
-    "transliterated_word": "reduction"
+    ]
   },
   "aëneous": {
     "original_cased_word": "Aëneous",
+    "transliterated_word": "aeneous",
     "definitions": [
       {
         "part_of_speech": "adjective",
@@ -134,7 +135,6 @@
         "definition": "Colored like bronze.",
         "sequence": 1
       }
-    ],
-    "transliterated_word": "aeneous"
+    ]
   }
 }

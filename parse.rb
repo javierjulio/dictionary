@@ -16,6 +16,12 @@ files.each do |file|
   
 end
 
+
+result.keys.each do |word|
+  result.delete(word) if result[word][:definitions].count == 0
+end
+
+
 File.open("dictionary.json", "w") do |f|
   f.write(JSON.pretty_generate(JSON.parse(result.to_json)))
 end
