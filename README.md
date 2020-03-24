@@ -1,5 +1,7 @@
 # English Dictionary
 
+![CI Build](https://github.com/javierjulio/dictionary/workflows/CI%20Build/badge.svg)
+
 This is a minimally tested and incomplete parser of the Webster Unabriged English Dictionary from the [modified GCIDE XML](http://rali.iro.umontreal.ca/GCIDE/) that categorizes content to make it easy to find and parse. I was doing a lot of research on finding a machine readable English dictionary for a project where I didn't want to rely on a third party API (e.g. Wordnik).
 
 ## Generate Simple JSON
