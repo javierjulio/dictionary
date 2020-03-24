@@ -38,7 +38,7 @@ class Parser
 
   def parse
     result = Hash.new { |hash, key| hash[key] = { original_cased_word: '', transliterated_word: '', definitions: [] } }
-    
+
     @entries.each do |entry|
       parse_entry(entry, result)
     end
@@ -48,19 +48,19 @@ class Parser
 
   def parse_entry(entry, result)
     return if entry.xpath('./mark[1]').text.match(/(?<=^|\s|\.)Obs$/) # Obsolete
-    
+
     original_cased_word = entry.attr('key').strip
     word = original_cased_word.downcase
-    
+
     result[word][:original_cased_word] = original_cased_word
     result[word][:transliterated_word] = transliterate(word)
-    
+
     part_of_speech = unabbreviate_part_of_speech(entry.xpath('./pos[1]').text.strip)
     field = clean_inner_whitespace(entry.xpath('./fld[1]').text.strip)
     sequence = 0
-    
+
     definitions = entry.xpath('./def').map { |d| d.text.strip }.delete_if { |d| d.empty? }
-    
+
     definitions.each_with_index do |definition, index|
       sequence = sequence + 1
       result[word][:definitions] << {
@@ -72,17 +72,17 @@ class Parser
     end
 
     definition_groups = entry.xpath('./sn')
-    
+
     definition_groups.each do |definition_group|
-      
+
       next if definition_group.xpath('./mark[1]').text.match(/(?<=^|\s|\.)Obs$/) # Obsolete
-      
+
       field = definition_group.xpath('./fld[1]').text.strip
       all_sub_definitions = definition_group.xpath('.//def').map { |d| d.text.strip }.delete_if { |d| d.empty? }
-      
+
       all_sub_definitions.each do |definition|
         sequence = sequence + 1
-        
+
         result[word][:definitions] << {
           part_of_speech: part_of_speech,
           field: field,
