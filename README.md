@@ -1,17 +1,16 @@
 # English Dictionary
 
-A tested and functional parser of the Webster Unabriged English Dictionary from the [modified GCIDE XML](http://rali.iro.umontreal.ca/GCIDE/) that does the best job of categorizing content to make it easy to find and parse. I did a lot of research on finding a machine readable English dictionary for a word app project I'm working on where we'd like to own the content rather than rely on a third party API (e.g. Wordnik). Plenty of content and resources available which I've listed below.
+This is a minimally tested and incomplete parser of the Webster Unabriged English Dictionary from the [modified GCIDE XML](http://rali.iro.umontreal.ca/GCIDE/) that categorizes content to make it easy to find and parse. I was doing a lot of research on finding a machine readable English dictionary for a project where I didn't want to rely on a third party API (e.g. Wordnik).
 
 ## Generate Simple JSON
 
-From the project directory run the following command:
+From the project directory, run the following:
 
-```bash
-cd dictionary
+```sh
 ruby parse.rb
 ```
 
-Will generate a JSON file for each GCIDE XML file. The format is a JSON object with each key being a unique word and the value being an object containing the definitions (array of objects - definition, part of speech, field, and sequence). The JSON files total (excluding anything marked as Obs. - Obsolete) will contain 99030 unique words and 159595 definitions.
+This will generate a JSON file for each GCIDE XML file. Each object key is a unique word and the value being an object containing the definitions (array of objects - definition, part of speech, field, and sequence). The files (excluding obsolete content) will contain ~99k unique words and ~160k definitions.
 
 ## Resources
 
@@ -29,7 +28,7 @@ After reviewing all resources went first with parsing this GCIDE XML. The next b
 
 ### Webster's Unabridged Dictionary (1913 - public domain)
 
-* http://www.mso.anu.edu.au/~ralph/OPTED/index.html 
+* http://www.mso.anu.edu.au/~ralph/OPTED/index.html
 * https://github.com/janosgyerik/dictgen (Plain Text parser)
 * http://en.wiktionary.org/wiki/Wiktionary:Abbreviations_in_Webster
 
