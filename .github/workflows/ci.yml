@@ -1,0 +1,41 @@
+name: CI Build
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        ruby: [ '2.5', '2.6', '2.7' ]
+    name: Ruby ${{ matrix.ruby }}
+    steps:
+    - uses: actions/checkout@v2
+
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: ${{ matrix.ruby }}
+
+    - uses: actions/cache@v1
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+
+    - name: Install rubygems
+      run: |
+        gem update --system --no-document
+
+    - name: Install bundler
+      run: |
+        gem install bundler --no-document
+
+    - name: Install dependencies
+      run: |
+        bundle config path vendor/bundle
+        bundle install --jobs 4 --retry 3
+
+    - name: Run Tests
+      run: |
+        bundle exec rake
