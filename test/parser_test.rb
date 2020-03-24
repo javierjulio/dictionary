@@ -1,37 +1,39 @@
 require 'test_helper'
 
 # template
-# 
+#
 # { word: , part_of_speech: , field: , definition: , sequence:  },
 
 class ParserTest < Minitest::Test
 
   should 'parse single definition' do
-    parser = Parser.new(load_fixture('single-definition.xml'))
-    
+    result = Parser.new(load_fixture('single-definition.xml')).parse
+
     expected = {
-      indiscreet: {
+      'indiscreet' => {
         original_cased_word: 'Indiscreet',
+        transliterated_word: 'indiscreet',
         definitions: [
           {
-            part_of_speech: 'adjective', 
-            field: '', 
-            definition: 'Not discreet; wanting in discretion.', 
+            part_of_speech: 'adjective',
+            field: '',
+            definition: 'Not discreet; wanting in discretion.',
             sequence: 1
           }
         ]
       }
     }
 
-    assert_equal parser.parse, expected
+    assert_equal expected, result
   end
 
   should 'parse multiple same word entries' do
-    parser = Parser.new(load_fixture('multiple-same-word-entries.xml'))
+    result = Parser.new(load_fixture('multiple-same-word-entries.xml')).parse
 
     expected = {
-      kiss: {
+      'kiss' => {
         original_cased_word: 'Kiss',
+        transliterated_word: 'kiss',
         definitions: [
           { part_of_speech: 'verb', field: '', definition: 'To salute with the lips, as a mark of affection, reverence, submission, forgiveness, etc.', sequence: 1 },
           { part_of_speech: 'verb', field: '', definition: 'To touch gently, as if fondly or caressingly.', sequence: 2 },
@@ -43,31 +45,33 @@ class ParserTest < Minitest::Test
       }
     }
 
-    assert_equal parser.parse, expected
+    assert_equal expected, result
   end
 
   should 'parse multiple definitions at entry root' do
-    parser = Parser.new(load_fixture('multiple-entry-root-definitions.xml'))
-    
+    result = Parser.new(load_fixture('multiple-entry-root-definitions.xml')).parse
+
     expected = {
-      dactyliography: {
+      'dactyliography' => {
         original_cased_word: 'Dactyliography',
+        transliterated_word: 'dactyliography',
         definitions: [
           { part_of_speech: 'noun', field: 'Fine Arts', definition: 'The art of writing or engraving upon gems.', sequence: 1 },
-          { part_of_speech: 'noun', field: 'Fine Arts', definition: 'In general, the literature or history of the art.', sequence: 2 }, 
+          { part_of_speech: 'noun', field: 'Fine Arts', definition: 'In general, the literature or history of the art.', sequence: 2 },
         ]
       }
     }
-    
-    assert_equal parser.parse, expected
+
+    assert_equal expected, result
   end
 
   should 'parse definitions at different levels' do
-    parser = Parser.new(load_fixture('multi-level-definitions.xml'))
+    result = Parser.new(load_fixture('multi-level-definitions.xml')).parse
 
     expected = {
-      hiss: {
+      'hiss' => {
         original_cased_word: 'Hiss',
+        transliterated_word: 'hiss',
         definitions: [
           { part_of_speech: 'verb', field: '', definition: 'To make with the mouth a prolonged sound like that of the letter s, by driving the breath between the tongue and the teeth; to make with the mouth a sound like that made by a goose or a snake when angered; esp., to make such a sound as an expression of hatred, passion, or disapproval.', sequence: 1 },
           { part_of_speech: 'verb', field: '', definition: 'To make a similar noise by any means; to pass with a sibilant sound; as, the arrow hissed as it flew.', sequence: 2 },
@@ -81,30 +85,32 @@ class ParserTest < Minitest::Test
         ]
       }
     }
-    
-    assert_equal parser.parse, expected
+
+    assert_equal expected, result
   end
 
   should 'include specialization fields' do
-    parser = Parser.new(load_fixture('definitions-with-specialization-fields.xml'))
+    result = Parser.new(load_fixture('definitions-with-specialization-fields.xml')).parse
 
     expected = {
-      hirundo: {
+      'hirundo' => {
         original_cased_word: 'Hirundo',
+        transliterated_word: 'hirundo',
         definitions: [
           { part_of_speech: 'noun', field: 'Zoöl', definition: 'A genus of birds including the swallows and martins.', sequence: 1 }
         ]
       },
-      hispid: {
+      'hispid' => {
         original_cased_word: 'Hispid',
+        transliterated_word: 'hispid',
         definitions: [
           { part_of_speech: 'adjective', field: '', definition: 'Rough with bristles or minute spines.', sequence: 1 },
           { part_of_speech: 'adjective', field: 'Bot. & Zoöl', definition: 'Beset with stiff hairs or bristles.', sequence: 2 }
         ]
       }
     }
-    
-    assert_equal parser.parse, expected
+
+    assert_equal expected, result
   end
 
 end
