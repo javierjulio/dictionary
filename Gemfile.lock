@@ -23,7 +23,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     rake (13.0.1)
     ruby-progressbar (1.10.1)
-    shoulda-context (1.2.2)
+    shoulda-context (2.0.0)
     thread_safe (0.3.6)
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
