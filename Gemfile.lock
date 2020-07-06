@@ -19,7 +19,7 @@ GEM
       builder
       minitest (>= 5.0)
       ruby-progressbar
-    nokogiri (1.10.9)
+    nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     rake (13.0.1)
     ruby-progressbar (1.10.1)
