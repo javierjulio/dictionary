@@ -24,7 +24,7 @@ GEM
     rake (13.0.1)
     ruby-progressbar (1.10.1)
     shoulda-context (2.0.0)
-    tzinfo (2.0.3)
+    tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
     zeitwerk (2.4.2)
 
