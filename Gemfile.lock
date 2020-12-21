@@ -21,7 +21,7 @@ GEM
       ruby-progressbar
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
-    rake (13.0.1)
+    rake (13.0.3)
     ruby-progressbar (1.10.1)
     shoulda-context (2.0.0)
     tzinfo (2.0.4)
