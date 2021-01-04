@@ -12,15 +12,17 @@ GEM
     concurrent-ruby (1.1.7)
     i18n (1.8.5)
       concurrent-ruby (~> 1.0)
-    mini_portile2 (2.4.0)
+    mini_portile2 (2.5.0)
     minitest (5.14.2)
     minitest-reporters (1.4.2)
       ansi
       builder
       minitest (>= 5.0)
       ruby-progressbar
-    nokogiri (1.10.10)
-      mini_portile2 (~> 2.4.0)
+    nokogiri (1.11.0)
+      mini_portile2 (~> 2.5.0)
+      racc (~> 1.4)
+    racc (1.5.2)
     rake (13.0.3)
     ruby-progressbar (1.11.0)
     shoulda-context (2.0.0)
