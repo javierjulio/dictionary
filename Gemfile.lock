@@ -13,7 +13,7 @@ GEM
     i18n (1.8.7)
       concurrent-ruby (~> 1.0)
     mini_portile2 (2.5.0)
-    minitest (5.14.2)
+    minitest (5.14.3)
     minitest-reporters (1.4.2)
       ansi
       builder
