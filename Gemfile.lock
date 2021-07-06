@@ -23,7 +23,7 @@ GEM
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     racc (1.5.2)
-    rake (13.0.3)
+    rake (13.0.4)
     ruby-progressbar (1.11.0)
     shoulda-context (2.0.0)
     tzinfo (2.0.4)
