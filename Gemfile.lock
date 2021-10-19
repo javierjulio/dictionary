@@ -22,7 +22,7 @@ GEM
     nokogiri (1.12.5)
       mini_portile2 (~> 2.6.1)
       racc (~> 1.4)
-    racc (1.5.2)
+    racc (1.6.0)
     rake (13.0.6)
     ruby-progressbar (1.11.0)
     shoulda-context (2.0.0)
