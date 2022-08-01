@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (7.0.3)
+    activesupport (7.0.3.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
@@ -9,7 +9,7 @@ GEM
     ansi (1.5.0)
     builder (3.2.4)
     concurrent-ruby (1.1.10)
-    i18n (1.10.0)
+    i18n (1.12.0)
       concurrent-ruby (~> 1.0)
     mini_portile2 (2.8.0)
     minitest (5.16.1)
@@ -25,7 +25,7 @@ GEM
     rake (13.0.6)
     ruby-progressbar (1.11.0)
     shoulda-context (2.0.0)
-    tzinfo (2.0.4)
+    tzinfo (2.0.5)
       concurrent-ruby (~> 1.0)
 
 PLATFORMS
