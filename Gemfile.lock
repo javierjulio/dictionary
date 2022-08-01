@@ -25,7 +25,7 @@ GEM
     rake (13.0.6)
     ruby-progressbar (1.11.0)
     shoulda-context (2.0.0)
-    tzinfo (2.0.4)
+    tzinfo (2.0.5)
       concurrent-ruby (~> 1.0)
 
 PLATFORMS
