@@ -18,10 +18,10 @@ GEM
       builder
       minitest (>= 5.0)
       ruby-progressbar
-    nokogiri (1.13.9)
+    nokogiri (1.13.10)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
-    racc (1.6.0)
+    racc (1.6.1)
     rake (13.0.6)
     ruby-progressbar (1.11.0)
     shoulda-context (2.0.0)
