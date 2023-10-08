@@ -1,14 +1,24 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (7.0.7.2)
+    activesupport (7.1.0)
+      base64
+      bigdecimal
       concurrent-ruby (~> 1.0, >= 1.0.2)
+      connection_pool (>= 2.2.5)
+      drb
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
+      mutex_m
       tzinfo (~> 2.0)
     ansi (1.5.0)
+    base64 (0.1.1)
+    bigdecimal (3.1.4)
     builder (3.2.4)
     concurrent-ruby (1.2.2)
+    connection_pool (2.4.1)
+    drb (2.1.1)
+      ruby2_keywords
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     mini_portile2 (2.8.4)
@@ -18,12 +28,14 @@ GEM
       builder
       minitest (>= 5.0)
       ruby-progressbar
+    mutex_m (0.1.2)
     nokogiri (1.15.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     racc (1.7.1)
     rake (13.0.6)
     ruby-progressbar (1.13.0)
+    ruby2_keywords (0.0.5)
     shoulda-context (2.0.0)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
