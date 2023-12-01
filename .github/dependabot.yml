@@ -1,12 +1,15 @@
 version: 2
 updates:
-- package-ecosystem: bundler
-  directory: "/"
-  schedule:
-    interval: monthly
-    time: "12:00"
-    timezone: America/New_York
-  open-pull-requests-limit: 99
-  allow:
-  - dependency-type: direct
-  - dependency-type: indirect
+  - package-ecosystem: bundler
+    directory: "/"
+    schedule:
+      interval: monthly
+      time: "12:00"
+      timezone: America/New_York
+    allow:
+      - dependency-type: direct
+      - dependency-type: indirect
+    groups:
+      ruby-bundler:
+        patterns:
+          - "*"
