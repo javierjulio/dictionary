@@ -32,7 +32,7 @@ GEM
     nokogiri (1.15.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
-    racc (1.7.2)
+    racc (1.7.3)
     rake (13.1.0)
     ruby-progressbar (1.13.0)
     ruby2_keywords (0.0.5)
