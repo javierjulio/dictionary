@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (7.1.1)
+    activesupport (7.1.2)
       base64
       bigdecimal
       concurrent-ruby (~> 1.0, >= 1.0.2)
@@ -12,12 +12,12 @@ GEM
       mutex_m
       tzinfo (~> 2.0)
     ansi (1.5.0)
-    base64 (0.1.1)
+    base64 (0.2.0)
     bigdecimal (3.1.4)
     builder (3.2.4)
     concurrent-ruby (1.2.2)
     connection_pool (2.4.1)
-    drb (2.1.1)
+    drb (2.2.0)
       ruby2_keywords
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
@@ -28,7 +28,7 @@ GEM
       builder
       minitest (>= 5.0)
       ruby-progressbar
-    mutex_m (0.1.2)
+    mutex_m (0.2.0)
     nokogiri (1.15.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
