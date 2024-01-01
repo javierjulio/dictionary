@@ -13,7 +13,7 @@ GEM
       tzinfo (~> 2.0)
     ansi (1.5.0)
     base64 (0.2.0)
-    bigdecimal (3.1.4)
+    bigdecimal (3.1.5)
     builder (3.2.4)
     concurrent-ruby (1.2.2)
     connection_pool (2.4.1)
@@ -29,7 +29,7 @@ GEM
       minitest (>= 5.0)
       ruby-progressbar
     mutex_m (0.2.0)
-    nokogiri (1.15.5)
+    nokogiri (1.16.0)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     racc (1.7.3)
