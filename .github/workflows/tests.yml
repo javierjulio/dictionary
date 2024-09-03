@@ -5,21 +5,19 @@ on:
     branches:
       - master
   pull_request:
-    branches:
-      - master
+
+env:
+  RUBY_VERSION: ${{ vars.RUBY_VERSION || '3.3' }}
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        ruby: [ '3.0', '3.1', '3.2' ]
-    name: Ruby ${{ matrix.ruby }}
+    name: Ruby ${{ env.RUBY_VERSION }}
     steps:
       - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: ${{ matrix.ruby }}
+          ruby-version: ${{ env.RUBY_VERSION }}
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
       - name: Run Tests
         run: bundle exec rake
