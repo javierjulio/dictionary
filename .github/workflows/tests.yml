@@ -12,7 +12,7 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Ruby ${{ env.RUBY_VERSION }}
+    name: Run tests
     steps:
       - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
