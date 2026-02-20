@@ -23,7 +23,7 @@ GEM
     drb (2.2.3)
     i18n (1.14.8)
       concurrent-ruby (~> 1.0)
-    json (2.18.0)
+    json (2.18.1)
     logger (1.7.0)
     mini_portile2 (2.8.9)
     minitest (6.0.1)
@@ -33,7 +33,7 @@ GEM
       builder
       minitest (>= 5.0)
       ruby-progressbar
-    nokogiri (1.19.0)
+    nokogiri (1.19.1)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     prism (1.9.0)
@@ -58,4 +58,4 @@ DEPENDENCIES
   shoulda-context
 
 BUNDLED WITH
-   2.3.8
+  4.0.4
