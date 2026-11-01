@@ -23,7 +23,7 @@ GEM
     drb (2.2.3)
     i18n (1.15.2)
       concurrent-ruby (~> 1.0)
-    json (3.0.2)
+    json (3.1.0)
     logger (1.7.0)
     mini_portile2 (2.8.9)
     minitest (6.0.6)
@@ -45,7 +45,7 @@ GEM
     shoulda-context (2.0.0)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
-    uri (1.1.1)
+    uri (1.1.2)
 
 PLATFORMS
   ruby
